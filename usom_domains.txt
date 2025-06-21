@@ -162018,6 +162018,7 @@ garantibbva-kredi-firsati.duckdns.org
 garantibbva-kredi-firsatlari.duckdns.org
 garantibbva-kredi-karti-aidat-iade.mooo.com
 garantibbva-kredi-online.cloud
+garantibbva-kredi-online.duckdns.org
 garantibbva-kredi.cloud
 garantibbva-kredibasvuru.cloud
 garantibbva-kredifirsatlari.com
@@ -182985,6 +182986,7 @@ haziranakseninyaninda.vercel.app
 haziranaktuel.biz.tr
 haziranaktuel.com.tr
 haziranaktuel.net.tr
+haziranaktuel.org.tr
 haziranaozelcepte.com.tr
 haziranaozelfirsatlar.com.tr
 haziranaozelkampanya.com
@@ -293466,6 +293468,7 @@ pttavm.urunler-satis.com
 pttavm.urunler-vitrin.com
 pttavm.urunlerle-tr.com
 pttavm.urunsatislari.com
+pttavm.uygunfirsat.com.tr
 pttavm.web-trilan.com
 pttavm.xyz
 pttavm2022x.com
