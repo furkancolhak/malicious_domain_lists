@@ -8682,6 +8682,7 @@
 185.195.236.165
 185.195.236.230
 185.196.10.116
+185.196.10.19
 185.196.11.153
 185.196.11.177
 185.196.8.176
@@ -8738,6 +8739,7 @@
 185.207.205.129
 185.207.205.39
 185.207.206.247
+185.208.156.157
 185.208.156.162
 185.208.158.202
 185.208.158.206
@@ -27485,6 +27487,7 @@
 80.255.3.86
 80.28.152.156
 80.6.192.58
+80.64.16.87
 80.64.30.237
 80.64.80.169
 80.66.196.199
@@ -57512,6 +57515,7 @@ artikdaha-fazladan-goruntulenenlere-dahasini-bulamadilar.top
 artikdahaguclu-966f1f1c1a95.herokuapp.com
 artikdahaguclu.web.app
 artikdahaguclu2-5ce975feed2f.herokuapp.com
+artikdahagucluyuz.xyz
 artikdurdeyinsiddete.com
 artikhazirsin.remingtonturkiye.com
 artikhazirsin.remingtonturkiye.com/erkek/wp-admin/sconnection.php
@@ -162476,6 +162480,7 @@ garantibonus.yenikayitbasvuru2024.com
 garantibonus.yenikayitbasvurular2024tc.com
 garantibonus1.125532415324324.com
 garantibonus1.357844667879666.com
+garantibonus2.basvuruadreshaziran2025.com
 garantibonus2025.mayisbasvuruadres.com
 garantibonus2025.trmayisbasvuruadresi.com
 garantibonus20251.trmayisbasvuruadresi.com
@@ -192574,6 +192579,7 @@ hizlivergiodehemen.com
 hizlivergiodeme.ml
 hizlivergiodeme.net
 hizlivergioduyom.ml
+hizliversiparislerinde.cloud
 hizlivetukenmedenalmalisiniz.online
 hizlivetukenmedenalmalisiniz.xyz
 hizliveyuklemeler.sg-host.com
@@ -338491,6 +338497,7 @@ t-u-r-k-i-y-e-aidatgov.org
 t-u-r-k-i-y-e-gov-t-r.com
 t-u-r-k-i-y-egov-tr.com
 t-uv-kr-t.net
+t-vgncislemgirisleri.online
 t-vtu-rk.net
 t-x-ra.net
 t-years.com
@@ -360400,6 +360407,7 @@ ugopmh.com
 ugoqwiix.ddns.net
 ugotrat.hopto.org
 ugqeiw.com
+ugrasdurrrslk.xyz
 ugraslar.name.tr
 ugrassdurrrchppburda.blogspot.com
 ugrasssdurrslkk.blogspot.com
