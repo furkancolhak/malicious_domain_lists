@@ -350040,6 +350040,7 @@ tr-pttes.top
 tr-pttgov.cc
 tr-pttgov.icu
 tr-pttgov.one
+tr-pttgov.shop
 tr-pttgov.top
 tr-pttgovpost.top
 tr-pttgovtr.top
