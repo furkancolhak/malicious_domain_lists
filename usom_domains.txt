@@ -295749,6 +295749,7 @@ ptttechnologie.blog
 ptttecoplogies.top
 ptttemmuzfirsatkapindaa.online
 ptttemmuzfirsatkapinday.online
+ptttgov.help
 ptttgov.ink
 ptttgov.sbs
 ptttgov.top
@@ -333436,6 +333437,7 @@ stanleygunleri.name.tr
 stanleykampanyam.store
 stanleymarket.biz.tr
 stanleymarket.info.tr
+stanleymarket.net.tr
 stanleysoktafirsat.net.tr
 stanleysubatozeltkelfiskatlfa101.com
 stanleysuperindirimgelidi666brd.com
