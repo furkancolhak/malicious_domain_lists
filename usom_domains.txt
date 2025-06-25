@@ -2582,6 +2582,9 @@
 103.115.242.16
 103.116.167.18
 103.116.178.85
+103.117.100.117
+103.117.100.77
+103.117.100.79
 103.117.161.51
 103.119.117.42
 103.119.30.104
@@ -2631,11 +2634,14 @@
 103.130.212.158
 103.130.212.99
 103.131.189.143
+103.131.189.2
+103.131.189.36
 103.131.216.17
 103.131.57.59
 103.133.106.100
 103.133.11.10
 103.133.214.169
+103.135.248.52
 103.136.40.142
 103.136.40.237
 103.136.40.243
@@ -4195,6 +4201,7 @@
 119.29.219.211
 119.29.235.38
 119.3.22.174
+119.31.186.253
 119.36.193.210
 119.81.173.130
 119.81.178.105
@@ -5332,9 +5339,13 @@
 141.105.71.17
 141.138.169.205
 141.138.169.237
+141.164.44.183
 141.164.45.124
+141.164.50.206
+141.164.51.99
 141.164.52.243
 141.164.60.25
+141.164.63.253
 141.193.213.10
 141.193.213.11
 141.255.145.151
@@ -6549,14 +6560,19 @@
 158.220.80.157
 158.220.80.167
 158.247.199.37
+158.247.201.36
+158.247.208.113
 158.247.208.230
 158.247.211.51
+158.247.216.244
 158.247.217.90
 158.247.221.101
 158.247.222.165
 158.247.222.6
 158.247.224.100
 158.247.232.56
+158.247.244.8
+158.247.250.190
 158.247.253.155
 158.255.2.244
 158.255.2.245
@@ -8116,6 +8132,7 @@
 180.151.16.132
 180.178.32.214
 180.210.220.139
+180.210.220.148
 180.211.162.238
 180.214.236.98
 180.232.162.18
@@ -24147,6 +24164,7 @@
 64.111.36.52
 64.13.225.150
 64.176.213.101
+64.176.228.227
 64.176.229.97
 64.176.4.234
 64.176.5.228
@@ -35359,6 +35377,7 @@ abeycarvancuniscenes.site
 abg.mk
 abg6unef10kn36qlkbk0qtc.ddns.net
 abghaynoz12.ddns.net
+abgzg.xyz
 abh.zapto.org
 abhap.org
 abhazya.xyz
@@ -40929,6 +40948,7 @@ adsaldsajdj15asd.net
 adsanse.sa.com
 adsasdasdasdasdadsbbbiiimmmmccceelll4444.org
 adsaws.ddns.net
+adsay.xyz
 adsbazar.net//db_template.php
 adsblockforyoutube.site
 adsbook.co.za/a/db-config-ini.php
@@ -53446,6 +53466,7 @@ anlik-yukleme-sistemi.online
 anlikakbasvurusorgulamaekran.com
 anlikarackiralama.com
 anlikbasvuru.xyz
+anlikbasvurusistemi12.duckdns.org
 anlikbufrstlardanfaydalanirsin.shop
 anlikderscalisma.com
 anlikfaizsizkredi.com
@@ -53855,6 +53876,7 @@ antur-tatil.com
 antvedekanak.club
 antvirus8385.ddns.net
 antvo.com
+antvu.xyz
 antwerpiastamps.be
 antwerpvillas.com
 antynano.ddns.net
@@ -59374,6 +59396,7 @@ atro.pazarmrktxcm76.com
 atrocagnve.duckdns.org
 atrociousblunt.top
 atrocitypeople.top
+atrojr.xyz
 atroomicaluncedented.top
 atrrkdm.online
 atrrmrrcmabz.net
@@ -65421,6 +65444,7 @@ basliyorfirsatlarimsimdi.chickenkiller.com
 basm1.ddns.net
 basm14.ddns.net
 basmaneyarden.online
+basmsz.xyz
 basnacelor.top
 basndam.app
 basobo.com
@@ -66068,6 +66092,7 @@ basvurmnr.com.tr
 basvurmnr.cyou
 basvurmnr.xyz
 basvurmns.com.tr
+basvurmns.cyou
 basvurmns.xyz
 basvurmobildenhediyeparibucom-tr.tk
 basvurmrkz.com.tr
@@ -67821,6 +67846,7 @@ battlegroundkr.duckdns.org
 battleiste.click
 battlesavio.ddns.net
 battoc.online
+battrf.xyz
 battterybrake.com
 batuenonline.xyz
 batuffflex.com
@@ -71385,6 +71411,7 @@ beyqpfllbp.duckdns.org
 beyramflrsatslarhemen.com
 beysel.com
 beysola.duckdns.org
+beyxm.xyz
 beyzbolturk.com/wp-admin/includes/connection.php
 bez-trafick-zy.net
 bez791jz.duckdns.org
@@ -91940,6 +91967,7 @@ busymarket.click
 busyreign.cn
 buszyndlfi.duckdns.org
 butacm.go.ro
+butaqud.xyz
 butardeang.leneterade.ru
 butce-dostu-teknoloji-burada-seninle.top
 butce-komisyon.net
@@ -95022,6 +95050,7 @@ captjhaverifauth.duckdns.org
 captonmerger.top
 captureintegral.top
 capturelateral.top
+capxw.xyz
 capyvyhuhiva.com
 caq.xv8ta.com
 caqaudfkebxshq.com
@@ -95130,6 +95159,7 @@ carefoursanavantaj.com
 carefoursda-guzellklerr.com
 carefoursdaa-bunlarvarr.com
 carefrdn-geldklrnz.com
+carefrsndn-glirsmdi.shop
 carefuldemographic.top
 carefuorrsa.com
 carefursadanszlere.com
@@ -101781,6 +101811,7 @@ cleverwedge.cn
 clfejanpry.duckdns.org
 clfrm7.duckdns.org
 clgfvxkirc.duckdns.org
+clgsh.xyz
 clhdl.duckdns.org
 clhfeqamax.gpublicida.ru
 cliamsresistant.top
@@ -103131,6 +103162,7 @@ coiundbasextion.webflow.io
 coivalop.xyz
 coivmfutrbgrmj.net
 coj8k2er.duckdns.org
+cojcx.xyz
 cojdzupjia.duckdns.org
 cojnssbank.com
 cojofi.com
@@ -104951,6 +104983,7 @@ continuousfling.top
 continuouslasdw.work
 continuouslimp.top
 contmporyproper.top
+contnm.xyz
 contnygift22-11.duckdns.org
 contoda.duckdns.org
 contorig2.com
@@ -107247,6 +107280,7 @@ crownchakraaffirmations.com
 crowneed.com
 crowngarage.top
 crowngentile.com
+crowngm.xyz
 crownmentr.top
 crownnegligible.top
 crownredundancy.top
@@ -118763,6 +118797,7 @@ detrimentshatter.top
 detrimentskull.top
 detroithizmetleri.icu
 detroitservis.icu
+detru.xyz
 detrukipolore.us
 detse.net
 detuned.ddns.net
@@ -120247,6 +120282,7 @@ didierdrogba.sbs
 didigdkastr.com
 didigvevnmvw.xyz
 didislem.22web.org
+didli.xyz
 didnhelittrat.com
 didnjusarmuch.com
 didnsofwakin.com
@@ -133940,6 +133976,7 @@ ebo7dnhoakju.zapto.org
 eboahmad.zapto.org
 eboee.my-style.in
 ebogkuxr.com
+eboknt.xyz
 ebolight.com
 ebonusflash-garanti.com
 ebook.port25.biz
@@ -140343,6 +140380,7 @@ eleconuch.click
 electingmgir.pw
 election3252.xyz
 electioncompress.top
+electis.xyz
 electivegalaxy.top
 electivtertary.top
 electoraltestimony.top
@@ -151286,6 +151324,7 @@ fantasyreassure.top
 fantodelt.sbs
 fantomtyler.zapto.org
 fantop.hopto.org
+fantpx.xyz
 fanumtax123.ddns.net
 fap2babes.com
 fapet.ipb.ac.id
@@ -152724,6 +152763,7 @@ ferver8.com
 ferwqmle.duckdns.org
 feryonetsesdomez.net
 feryvge.ddns.net
+ferzja.xyz
 fesa1o1.com
 fesad.duckdns.org
 fesanka.net
@@ -165295,6 +165335,7 @@ gectibahargulo.shop
 gectigin-yollar-cicek-acti.com
 gecyjechwq.info
 gecyniylotovsss.xyz
+geczs.xyz
 ged-paraguvendesahibnden.com
 gedid65877-40373.portmap.host
 gedikegitimvakfi.org
@@ -165976,6 +166017,7 @@ genetikhastalik.com
 genfmfsestfsjstres.com
 genhgsm.com
 genhgsz.com
+genhqq.xyz
 genimmob.online
 geninstr.army-govbd.info
 genis23bonus.b-cdn.net
@@ -167643,6 +167685,7 @@ gidelimburalardaaaaan.cyou
 gidelimdoslar.net
 gidelimelelegaaaraaanttiyee.net
 gidelimmidenizesimdi.com
+gidengelenfirsat.xyz
 gideonitesprojects.com//db-config-ini.php
 gideonitesprojects.com//db_template.php
 gideonitesprojects.com/db-config-ini.php
@@ -169210,6 +169253,7 @@ gizliprofile.com
 gizliyollar.pro
 gizmizbizcizgizghel.net
 gizpvovur.top
+gizqt.xyz
 gizzlls3dl.com
 gj1hqyxo5.duckdns.org
 gj2ug1.duckdns.org
@@ -173357,6 +173401,7 @@ gumblar.cn
 gumburgumbur3d.xyz
 gumerik.org
 gumi-cryptos.loan
+gumkq.xyz
 gummicube.top
 gummicube.xyz
 gummicubevip.com
@@ -206857,6 +206902,7 @@ insupposity.info
 insurance354756.xyz
 insurancecompanies-guide.site
 insurancepending.top
+insye.xyz
 int-acikdenizv2denizbankgirisi.com
 int-basvurumeiadeal.com
 int-basvvuruiadem.com
@@ -209705,6 +209751,7 @@ is-kurpersonelalimi.com
 is-kurpersonelalimlari.com
 is-maximum.com
 is-maximumozel.com
+is-mi-secure.vercel.app
 is-mobilkampanyalari.com
 is-mobilsube-cekiliskatilim.com
 is-mobilsubegirisim-kampanya.com
@@ -211241,6 +211288,7 @@ iskiresmi.net
 iskmablerstet.net
 iskmifaturam.net
 iskolaygirisservisi.com
+iskredibasvurularim.vercel.app
 iskredifirsatimizla.duckdns.org
 iskredimbasvurum.duckdns.org
 iskrtdldr.net
@@ -237862,6 +237910,7 @@ lifttheweight.top
 lifurbbzvk.duckdns.org
 lifuzhao.xyz
 lifxvv.top
+lifyg.xyz
 lifyithol.top
 ligadoautismo.ddns.net
 ligaspace.ru
@@ -245613,6 +245662,7 @@ marno.zapto.org
 marokinoement.zapto.org
 maronler.com
 maroplo.com
+maroui.xyz
 marperplexity.top
 marpttket.xyz
 marquery.top
@@ -249329,6 +249379,7 @@ mfka.pw
 mfkse.com
 mfljptq.duckdns.org
 mflogistics-my.com
+mflqsm.xyz
 mflweevqqb.duckdns.org
 mflwkubxi.com
 mfnabutig.com
@@ -260016,6 +260067,7 @@ nafizeevdepaketleme.ml
 nafktzyj.com
 nafnaklerqeawas.net
 nafselaerasa.net
+nafuq.xyz
 naga0.ddns.net
 nagahox.com
 nagamy123.ddns.net
@@ -261556,6 +261608,7 @@ nepetrolfuture.live
 nephewrefuge.top
 nephewvent.top
 nephgo.duckdns.org
+nepjz.xyz
 neple-authna.duckdns.org
 nepochtec.shop
 neporfbjlgru.xyz
@@ -264921,6 +264974,7 @@ northpoleroute.com
 northside.hopto.org
 northsidegrowco.com
 northtracing.net
+northumbra.com
 northweary.top
 northwestantagonistically.top
 northwesternamend.top
@@ -275440,6 +275494,7 @@ opavfk.com
 opbimcell.com
 opbiouybrrojkok.su
 opblhdjsovpcwdgja.com
+opcez.xyz
 opcobw.top
 opdbjtag.com
 opdulvlvjq.duckdns.org
@@ -288015,6 +288070,7 @@ pltrojan.duckdns.org
 pluck.moisture.tk
 pluckcertain.top
 pluckturtle.top
+pluepf.xyz
 plug.msplugin.icu/microsoftsecurityscan/docsdoc
 plugdosdnskkk.ddns.net
 plugforgo.sg-host.com
@@ -292259,6 +292315,7 @@ pryvx1.com
 pryvx2.com
 prz3b2vis.duckdns.org
 przmi8r.duckdns.org
+przqv.xyz
 przvgke.biz
 ps-sahibindenparamguvende.com
 ps-sahibindenparamguvende.xyz
@@ -293914,6 +293971,7 @@ pttavm.sonfirsati.com.tr
 pttavm.tedarigin-guvenlisi.com
 pttavm.tedarikler-guvenli.com
 pttavm.tr-ilanlarla.com
+pttavm.trilanlar.org
 pttavm.urun-ilanim.shop
 pttavm.urun-siparisim.com
 pttavm.urunguvence.com.tr
@@ -296552,6 +296610,7 @@ pyramidendeavor.top
 pyrbppdqilqlpt.net
 pyriwghegdprbuwgy.net
 pyrochecker.xyz
+pyrolqi.xyz
 pyrotby.com
 pyrxmf.top
 pysystem.com.tr
@@ -296596,6 +296655,7 @@ pz6ec1.duckdns.org
 pz7ohy.nt44n5.top
 pz9n6br.duckdns.org
 pzarkampanyalarim.net
+pzbx.xyz
 pzdyndavkawi.duckdns.org
 pzerd.in
 pzf17x9.duckdns.org
@@ -299399,6 +299459,7 @@ quadrogorrila.casa
 quadrupedant.com
 quaechuaaldinaldin.shop
 quaechuagolgelikk.shop
+quailnf.xyz
 quaint-smiling-eyeliner.glitch.me
 quakhond.top
 qualiagolf.info
@@ -303211,6 +303272,7 @@ registro.hopto.org
 registry2noname.website
 registrycougsucks.com
 regjoubertattorneys.co.za
+regkjw.xyz
 reglasti.com
 regnantcorpora.top
 regosk.com
@@ -306212,6 +306274,7 @@ roadsidefoodie.com
 roadtosultan1.org
 roadupon.top
 roadworth.click
+roaein.xyz
 roamtherandom.com
 roanconsol.top
 roar1ngduck.ddns.net
@@ -321645,6 +321708,7 @@ shezy.store
 shezyandaras.me
 shf1tg0gzsk1brd.com
 shfpgqcmcpsbu.com
+shfsz.xyz
 shgbrmtgbtdtitimj.cc
 shgeb.duckdns.org
 shgida.com/wp-includes/conf-template-databases-t.php
@@ -325323,6 +325387,7 @@ sipex2021.ddns.net
 sipidig.dev
 siplemonade2shrink.com
 sipletoc.site
+siplv.xyz
 sipqortam.xyz
 siprslkeringelditslmal234-15dimi.com
 sipyzaoo.com
@@ -345724,6 +345789,7 @@ thigging.com
 thighconverse.top
 thighcorrelate.top
 thighslot.top
+thigk.xyz
 thimarglobal.click
 thimitek.com
 thin-pricey-molecule.glitch.me
@@ -345934,6 +346000,7 @@ thumbcoalition.top
 thumbconsulate.top
 thumbdiesel.top
 thumbpersecution.top
+thumse.xyz
 thunderabsurd.top
 thunderbird.top
 thunderblrd.top
@@ -346616,6 +346683,7 @@ titanium31.hopto.org
 titanrpg.ddns.net
 titansorgu.com
 titblansuperioniank3.cenithbonfim.net
+titco.xyz
 titigigifirrenti.site
 titiopatas4599.hopto.org
 titixmrhemngle.net
@@ -351947,6 +352015,7 @@ transportmilitancy.top
 transportorganizationil.shop
 transtramersa.net
 transvil2.xyz
+transzw.xyz
 trantien2009.ddns.net
 trantienratvip.ddns.net
 tranuqlekper.bond
@@ -355634,6 +355703,7 @@ tud36f.duckdns.org
 tudavakfi.com
 tuding.xyz
 tudormgir.pw
+tuead.xyz
 tuecagabvomubi.ddns.net
 tuelcnzkp.com
 tuenbie.ddns.net
@@ -359762,6 +359832,7 @@ tylify.site
 tylron.at
 tylvhekacm.duckdns.org
 tylxup.duckdns.org
+tymvd.xyz
 tynben.xyz
 tynbmf.b-cdn.net
 tynermanuv.com
@@ -380331,6 +380402,7 @@ wrefylodafovmbktib3.ddns.net
 wrenchautobiography.top
 wrenchreconciliation.top
 wrenchsolitude.top
+wrenthu.xyz
 wrerdxdzqf.duckdns.org
 wrestledeplete.top
 wrestlingfragrance.top
