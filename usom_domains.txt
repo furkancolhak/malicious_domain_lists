@@ -18245,6 +18245,7 @@
 39.104.90.45
 39.107.61.230
 39.109.116.162
+39.109.123.199
 39.165.53.17
 39.36.25.193
 39.41.90.210
@@ -28368,6 +28369,7 @@
 8652543.cloud
 865433242311.cloud
 86586554632.shop
+865911566.duckdns.org
 865d128632d4.com
 865dqm8.duckdns.org
 865t7-mijnalerts21.duckdns.org
@@ -66141,6 +66143,7 @@ basvurmrkz.online
 basvurmrkz.xyz
 basvurmrx.com.tr
 basvurmrx.online
+basvurmsn.xyz
 basvurmte.online
 basvurmuz.site
 basvurmyk.com.tr
