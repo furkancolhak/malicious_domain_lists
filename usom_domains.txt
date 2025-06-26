@@ -4507,6 +4507,7 @@
 1234testing.ddns.net
 12351235.sa.com
 1235125125125.hopto.org
+1235151611.duckdns.org
 12351561.click
 12354551445541c4f4546545646465454564564654654654.xyz
 12354551445541c4f45465456464654654264564654654654.xyz
@@ -47830,6 +47831,7 @@ aktifivdplatformu.blogspot.com
 aktifizyenni.net
 aktifkalbizimlekal.net
 aktifkampanyalar.org
+aktifkampanyan.com
 aktifkep.net
 aktifkmta0342.shop
 aktifkredim.com
@@ -67296,6 +67298,7 @@ basvurum.garantikartfirsatlarim.com.tr
 basvurum.icu
 basvurum.link
 basvurum.online
+basvurum.sbs
 basvurum.store
 basvurum.tk
 basvurum.xyz
@@ -155781,6 +155784,7 @@ firsatlar101online.com
 firsatlar2019da.tk
 firsatlar2022.net
 firsatlara-basvur.online
+firsatlara.duckdns.org
 firsatlaradahilolunhemen.xyz
 firsatlaragel.com
 firsatlarageldiginin.xyz
@@ -222284,6 +222288,7 @@ kalanfirsatavantajlarikacirma.com
 kalankampanyalar.online
 kalanlar-sevinir-buradan-mutlu-gidin.com
 kalanlar.win
+kalanlardertli.xyz
 kalanlari-biraz-bilenler-tasir-sende-gorursun.com
 kalashahkala.com
 kalatastasreskestes.digital
@@ -230817,6 +230822,7 @@ kmkzxx0a.duckdns.org
 kmlahdzc.net
 kmlbilgisisweb.sbs
 kmleo1948.shop
+kmlerexoda.duckdns.org
 kmlerkolyca.tki-kplrnzda.click
 kmlernzburda.t0ki-hemenbrda.com
 kmlkocileodxmezxleri.net
@@ -277105,6 +277111,7 @@ otobusbilt.xyz
 otobusibbyukle.net
 otobusyukleme.net
 otobuzdolabi.cfd
+otobuzdolabi.cyou
 otobuzdolabihizmetlerin.xyz
 otobuzdolabisepetteinidirimss.xyz
 otocaravisi.shop
@@ -340656,6 +340663,7 @@ tastmob.yachts
 taststasdaadss.com
 tastybuzz.net
 tastyreassure.top
+tasurabekas.xyz
 tat3.online
 tata1234.hopto.org
 tatacom.duckdns.org
