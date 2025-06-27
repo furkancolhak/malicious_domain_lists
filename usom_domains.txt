@@ -47517,6 +47517,7 @@ aksystem-envr-login.cfd
 aksystem-envr-login1.cfd
 aksystem-envr-login2.cfd
 akt-ifglrlsyonlendirme.apps.dj
+akt-smdi.shop
 akt-ue-l-uru-nle-r.com
 akt-zmn-gldi.shop
 akt.101-mayisoglens.net
@@ -182109,6 +182110,7 @@ harikaguveniliralisverismukemmel.com.tr
 harikaguveniliralisverismukemmel.online
 harikaguveniliralisverismukemmel.xyz
 harikahafta.shop
+harikahaziranindirimi.com.tr
 harikahaziranindirimi.online
 harikahaziranindirimi.xyz
 harikahediyeler.tk
@@ -315464,6 +315466,7 @@ sbanqu.ddns.net
 sbapgqpetwuvebten.me
 sbasvururglobalfak.com
 sbavaca-aldin-aldin.icu
+sbavaca-aldin-aldin.sbs
 sbb.xstarx-drmlerxx-fxrxsxt.online
 sbbeytyfg.vercel.app
 sbbxflugbd.duckdns.org
