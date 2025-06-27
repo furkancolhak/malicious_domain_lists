@@ -5160,6 +5160,7 @@
 139.224.168.24
 139.224.20.173
 139.224.219.119
+139.28.36.230
 139.28.37.63
 139.5.177.10
 139.5.177.19
@@ -48905,6 +48906,7 @@ alankarkontrolgir.app
 alankontroldijital.app
 alanlar.name.tr
 alanlaridoldur.net
+alanlarmutlu.com.tr
 alanlranindilsmlr.xyz
 alanmarketonl.com
 alanrori.com//db_template.php
@@ -175218,6 +175220,7 @@ guvenli-odeme.online
 guvenli-odeme.org
 guvenli-odeme.sa.com
 guvenli-odeme.shop
+guvenli-odeme2.site
 guvenli-odemeget.com
 guvenli-odemehizmetleri.com
 guvenli-odemeler.com
@@ -258736,6 +258739,7 @@ mv2iar.duckdns.org
 mv2ts2c.duckdns.org
 mv35tmoa0.duckdns.org
 mv4j1vv1.ru
+mv4lh.bsfff.es
 mv4xxna.duckdns.org
 mv9yd7.duckdns.org
 mvakifbank.co.vu
@@ -372868,6 +372872,7 @@ vohdsniuz.com
 vohekvfwyb.duckdns.org
 vohudiu.com
 vohvohh.com
+voice-e091b.firebaseapp.com
 voice88.zapto.org
 voicemesage-secure.ddns.net
 voicesaddle.top
