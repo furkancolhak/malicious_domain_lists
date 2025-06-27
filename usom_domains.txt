@@ -10168,6 +10168,7 @@
 194.11.226.46
 194.11.226.5
 194.11.226.9
+194.110.247.39
 194.110.247.46
 194.113.107.124/bins
 194.116.217.39
@@ -51223,6 +51224,7 @@ alsuwal.com
 alsverisinizindr.click
 alsverisiniziner2.click
 alsverisiniziner3.click
+alsverisiniziner4.click
 alsversmarkti.com
 alsversnadres.com
 alsversnkolayda.com
@@ -138487,6 +138489,7 @@ efsanetemuzindirimleri.online
 efsanetemuzindirimleri.xyz
 efsanevicuma.net
 efsanevifiyatburada.com.tr
+efsanevifiyatburada.net.tr
 efsanevihediyeler.com
 efsanexsezonsonu101.xyz
 efsaneyeni-yilfirsatlari.shop
@@ -174404,6 +174407,7 @@ gunlukfirsatlarsizlerlebekliyorhemenfirsatlarhizlica.com.tr
 gunlukfirsatlarsizlerlebekliyorhemenfirsatlarhizlica.online
 gunlukfirsatlarsizlerlehemensatinal.online
 gunlukfirsatlarsizlerlehemensatinal.xyz
+gunlukgunes.com.tr
 gunlukguzelkampanyalar.com.tr
 gunlukharikaalisveris.online
 gunlukharikaalisveris.xyz
@@ -298319,6 +298323,7 @@ qnbdenfirsatlareylulde.com
 qnbdeniadefirsatlariburada.com
 qnbdestek.com
 qnbdgrlendrmees.vercel.app
+qnbdpre.vercel.app
 qnbeaktarim.duckdns.org
 qnbecardfinans.com
 qnbefinangroup.com
@@ -320551,6 +320556,7 @@ servsrg01.online
 servtreceremc.duckdns.org
 servupsng923asiobng.zapto.org
 servxxx.hopto.org
+serwer2494677.home.pl
 serwhegese.net
 sery.brushupdata.com
 serye-olan-mademe.dropei.de
@@ -364190,6 +364196,7 @@ uyap-sorgu.com
 uyap-sorgula.com
 uyap-sorgula.online
 uyap-sorgunuz.org
+uyap-sorgusu.online
 uyap-sorusturma.com
 uyap-uzlas.com
 uyap-uzlasma.com
