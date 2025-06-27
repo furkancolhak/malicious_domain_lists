@@ -22371,6 +22371,7 @@
 51232443125256.com.tr
 51232443125256.xyz
 5123512412312.cloud
+5123521351235142.info
 5124123124123124.com
 5125124871284721125.com
 512512982189124121234.com
@@ -107202,6 +107203,7 @@ crfsndnalbnusnualartk.com
 crfsnzdkisongecrlilk.com
 crfsnzdngldklrsizlre.com
 crfsnzdngldklrsizlre.info
+crfsnzhzrnda.com
 crfsnznsunduguteklflr.com
 crfsnzz.com
 crfsrdnhlkageldkk.shop
@@ -211001,6 +211003,7 @@ iscep-bank-mobil-tr.com
 iscep-bankasi.com
 iscep-basvur.com
 iscep-basvuru.cf
+iscep-basvurulari-merkezi.vercel.app
 iscep-bireysel-basvuru.ml
 iscep-bireysel-cekilis.cf
 iscep-bireysel-giris.cf
@@ -213993,6 +213996,7 @@ isube-garantsubeniz.info
 isube-garantsubeniz.ru.com
 isube-garantsubeniz.sa.com
 isube-garantsubeniz.za.com
+isube-garantsubesi.za.com
 isube-giris-kuvveyt.xyz
 isube-giris-yap-e-basvuru.com
 isube-halkbank-80yil.com
@@ -339360,6 +339364,7 @@ t-u-r-k-i-y-e-gov-t-r.com
 t-u-r-k-i-y-egov-tr.com
 t-uv-kr-t.net
 t-vgencislemenugirisleri.online
+t-vgencislemlergirisim.online
 t-vgncislemgirisleri.online
 t-vtu-rk.net
 t-x-ra.net
