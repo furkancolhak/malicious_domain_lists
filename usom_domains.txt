@@ -72696,6 +72696,7 @@ bilgikap.info
 bilgikapisi.online
 bilgikapisiform.blog
 bilgikapisiform.com
+bilgikaynagi.info
 bilgikontrolsaglama.com
 bilgikontrolyeri.com
 bilgikus.info
@@ -143296,6 +143297,7 @@ enkalitelisidebendevar.com.tr
 enkalitelisidebendevar.xyz
 enkalitelisigortaci.com.tr
 enkampanya.site
+enkampanyam.site
 enkasko.homes
 enkasko.site
 enkasko.website
@@ -296182,6 +296184,7 @@ pttpt-gov.top
 pttpt.top
 pttptq.fun
 pttptt-gov.top
+pttptt.cc
 pttptt.top
 pttpttp.top
 pttpttr.top
@@ -332501,6 +332504,7 @@ sponsorlu-ekran.sa.com
 sponsorlu-giris74880021.com
 sponsorlu-giris933410.com
 sponsorlu-girisyap58123.com
+sponsorlu-gonderi-1.xyz
 sponsorlu-gonderim-1s.xyz
 sponsorlu-gonderim-3.xyz
 sponsorlu-gonderim-3s.xyz
@@ -377536,6 +377540,7 @@ webportal-tr.online
 webportal-updhgsguncelle.net
 webportalisbasvuru-prbteknoloji-com.tk
 webportalrandevu.online
+webposfinansqnbwebtr.sbs
 webposta.gq
 webpostegro.asia
 webpostegro.biz
