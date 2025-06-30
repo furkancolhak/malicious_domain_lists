@@ -3251,6 +3251,7 @@
 107.172.249.148
 107.172.25.136
 107.172.30.213
+107.172.31.5
 107.172.39.34
 107.172.41.234
 107.172.41.235/noir_x.86
@@ -13543,6 +13544,7 @@
 209-190-75-27.cf
 209-38-246-220.plesk.page
 209.105.242.112
+209.105.248.135
 209.126.106.173
 209.126.136.2
 209.126.98.206
@@ -111237,6 +111239,7 @@ dbam.zapto.org
 dbasecheck.com
 dbasechecker.com
 dbavafa-aldin-aldin.cfd
+dbavafa-aldin-aldin.cyou
 dbaxsgauuq.duckdns.org
 dbb18dec.ieybfs7j447b.org.cn
 dbbdgtblfm.duckdns.org
@@ -166541,6 +166544,7 @@ geri-aktarma-sistemi-iletisim-baskanligi.store
 geri-aktarma-sorgu.cfd
 geri-aktarmalar-ekrani.site
 geri-aktarmalar-islemler-sorgu1.icu
+geri-aktarmalar-islemler-sorgu2.icu
 geri-aktarmalar-sorgu.cyou
 geri-ehalkiadeodemeleri.com.tr
 geri-gelmez.kolay-ca-kapinda-aarass-hizzmetleri.com
@@ -166574,6 +166578,7 @@ geri-yukleme-iletisim-baskanligi.store
 geri.geri-aktarma-ekrani.online
 geri7n9.duckdns.org
 geria-aktarim-ekrani.site
+geriaaktarimekrani.cfd
 geriadenizden.com
 geriaidxtodemenial.online
 geriaktarimdestegi.site
@@ -224437,6 +224442,7 @@ kampanyxacanxrx.com
 kampanyyanokttan.com
 kampasorgula2022.com
 kampaya-online-bizde-form-online-com.ml
+kampayaarburada.com.tr
 kampayaarburada.online
 kampayaarburada.xyz
 kampayabol2kathediye.com
@@ -326770,6 +326776,7 @@ sizinicindnz.info
 sizinicinherseyimizbasvurunuz.com.tr
 sizinicinherseyimizgzll.com.tr
 sizinicinhersyybizmle.com.tr
+sizinicinhizmet.duckdns.org
 siziniciniadeislemleriguncel.net
 siziniciniadeislemleriguncel2023.net
 sizinicinkampanya.com
@@ -395061,6 +395068,7 @@ yap-bana-dans.net
 yap-kazan.online
 yap-odeme.com
 yap1kred1.net
+yap1kredi.com.tr
 yapacanizala.click
 yapacanizsisi.click
 yapackasdwe.wtf
