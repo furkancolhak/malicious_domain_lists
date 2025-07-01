@@ -11352,6 +11352,7 @@
 1darkkomet.zapto.org
 1dc0fa98.duckdns.org
 1dc638.duckdns.org
+1dcloud.live
 1dd888175154.net
 1ddtpj3.duckdns.org
 1denz.com
@@ -11372,17 +11373,27 @@
 1downloadss0ftware.xyz
 1dqotjy.cn
 1driv.org
+1drive.pub
+1drivecloud.click
+1drivecloud.live
+1drv.biz
 1drv.casa
 1drv.cyou
 1drv.email
 1drv.fileshare.direct
 1drv.icu
 1drv.live
+1drv.me
 1drv.online
 1drv.surf
+1drv365.online
 1drvmail.work
 1drvmicrosoft.com
+1drvms.space
 1dsa0kp.duckdns.org
+1dv.online
+1dv365.live
+1dvstorage.com
 1dwwpck3e.duckdns.org
 1dxd.ddns.net
 1dz40.nwah0.com
@@ -11977,6 +11988,7 @@
 1secureonline1.zapto.org
 1secureonline2022.zapto.org
 1sh4pemm.duckdns.org
+1share.limited
 1sjj3k.duckdns.org
 1sk0qd4mcta3rvxn.ddns.net
 1slemsizlerle.com
@@ -17729,6 +17741,7 @@
 36.99.136.128
 360-1305242994.cos.ap-nanjing.myqcloud.com
 360-arac-kirala.com.tr
+360-cep.com
 360-cep.com.tr
 360-cepte.com.tr
 360-fly.com.tr
@@ -17864,6 +17877,7 @@
 365arackiralama.com
 365cta-237cdvasdj-6dacdvds.cfd
 365cta-237cdvasdj-6dacdvds.icu
+365drv.live
 365ekaskosigorta.com
 365esigorta.com
 365esigortakasko.com
@@ -17877,6 +17891,7 @@
 365j4ejrq.duckdns.org
 365kampanya.com
 365kiralamaonline.com.tr
+365msdrv.live
 365off.zapto.org
 365onlinacenta.net.tr
 365online-office.com
@@ -17887,6 +17902,7 @@
 365sigortaonline.com
 365sponsorluk0000.com
 365teklifcim.xyz
+365work.chat
 36633.url.7wkw.com
 36657.xc.waizhuai.com
 36658.xc.waizhuai.com
@@ -21452,6 +21468,7 @@
 4kdownloads.com
 4khba9kf5.duckdns.org
 4kinder.22web.org
+4kisiliknurgazmasa.cfd
 4kisiliknurgazmasa.cyou
 4kisilikxxlmasaset.cfd
 4kisilikxxlmasaset.click
@@ -56894,6 +56911,7 @@ araskargocum.com
 araskargomnerdexwzs.com
 araskargomsczx.com
 araskargomtakip.net
+araskargos.com
 araskargosorgula.online
 araskargosorgulama.net
 araskargotakibim.com
@@ -81034,6 +81052,7 @@ bitmeyenalisverisfirsatlari.online
 bitmeyenalisverisfirsatlari.xyz
 bitmeyendomain.sg-host.com
 bitmeyenfirsatlar-anindakapinaglesin.shop
+bitmeyengunlerdeindirim.com.tr
 bitmeyengunlerdeindirim.online
 bitmeyengunlerdeindirim.xyz
 bitmeyenhgs.sg-host.com
@@ -96856,6 +96875,7 @@ cdncache.ml
 cdndmw.top
 cdndns.su
 cdneu.kralprogramcdn.com
+cdngateway.us
 cdnheaven.com
 cdnhookup.icu
 cdninstagram.center
@@ -102340,6 +102360,7 @@ cloud-js.cloud
 cloud-mail.ink
 cloud-meeting-online.onrender.com
 cloud-onlinesanta.zapto.org
+cloud-pdf.online
 cloud-security.ggpht.ml
 cloud-server-updater1.co.za
 cloud-server-updater10.co.za
@@ -102394,6 +102415,7 @@ cloud.trendav.co
 cloud.wmiprvse.com
 cloud.yourdocument.biz
 cloud007.ddns.net
+cloud1dv.com
 clouda.ghokswa.com
 cloudali.duckdns.org
 cloudarea-klant.ddns.net
@@ -102415,6 +102437,7 @@ clouddlogform.com
 clouddoma.hopto.org
 clouddre.ga
 cloudeadmin.com
+clouderive.com
 cloudf1are.com
 cloudfareupdate.com
 cloudfiles.club
@@ -102451,6 +102474,7 @@ clouditzone.com/revolution/assets/wp-config-ini.php
 cloudjs.live
 cloudkdzym.lat
 cloudlflares.com
+cloudly.live
 cloudmane.online
 cloudmediaportal.com
 cloudmetric-analytics.com
@@ -104424,6 +104448,7 @@ comtr-kapinda.shop
 comtr-katallogglar.net
 comtr-katalog.shop
 comtr-katalogu.com
+comtr-katilim.com
 comtr-klimanizburda.org
 comtr-odeme.info
 comtr-pay.info
@@ -109901,6 +109926,7 @@ d1nznkmobil.net
 d1oip51v.duckdns.org
 d1oqavvax2zvf2h.com
 d1r73fq7q.duckdns.org
+d1rv.social
 d1swy39l7q.top
 d1ua6y.duckdns.org
 d1vh0xkmncek4z.cloudfront.net
@@ -110925,6 +110951,7 @@ dasterton.com
 dasu9idhas.duckdns.org
 dasvwrqgcn.duckdns.org
 data-covery.com
+data-dv.live
 data-microsoft.services
 data-portal-eiadelerbasvuru.com
 data-ps.org
@@ -112350,6 +112377,7 @@ delinercesen.duckdns.org
 delinmeal.com/inventory/connection.php
 delipayz.com
 delirdim3d.xyz
+delirtatlim.xyz
 delirtendeli.host
 delirtir.space
 delirtmeyinla.com
@@ -112364,6 +112392,7 @@ delivery-test.ddns.net
 delivery-ukrinmash-service.infinityfreeapp.com
 delivery52479.xyz
 deliverybeak.top
+deliverycitylife.com
 deliverycurfew.top
 deliveryerror-2-e2pu.4everland.app
 deliveryexpressworld.xyz
@@ -123878,6 +123907,7 @@ document-share.live
 document-sharing.online
 document-view.live
 document.support-recoverycustomers.services
+documentapproved.click
 documentarydodge.top
 documentaryovert.top
 documentarypredominate.top
@@ -125564,6 +125594,7 @@ dr0pb0x.ddns.net
 dr1ft0n.club
 dr1ve.xyz
 dr30.infidelrio.online
+dr365.live
 dr44nfargu5.club
 dr5grd.duckdns.org
 dr8lps.info
@@ -125842,18 +125873,23 @@ drive-google-com.tk
 drive-phone.geo-news.tv
 drive-phone.online
 drive-share.live
+drive-share.pub
 drive.gogleshare.xyz
 drive.publicvm.com
 drive.staticcontent.kz
 drive.us-dos.securitel.com
+drivedefend.com
 drivegmail.top
 drivegoogle.org
 drivegoogle.publicvm.com
 drivegoogles.com
 drivegooglshare.xyz
 drivegooogle.publicvm.com
+drivehub.live
 drivemountain.com
 drivenpropel.top
+drivepoint.pub
+drivepublic.live
 driver-computational.at.ply.gg
 driver.ckbs.onestopfile.co.kr
 driver.myftp.org
@@ -125867,6 +125903,7 @@ driverweb.ddns.net
 driverwii.ddns.net
 drives.googldrive.xyz
 drives.googlecloud.live
+drivestorage.online
 drivestransfer.com
 drivestransfer.com/myfiles/dinner%20invitation.doc/win10/dinner%20invitation.doc
 drivethrough.top
@@ -125979,12 +126016,14 @@ drrb-222.zapto.org
 drremcoz1.ddns.net
 drsasa.hopto.org
 drsdemo1.com
+drshare.online
 drskqorhukc.org
 drsosyal.name.tr
 drspay.com
 drstalkci.com
 drststfsnvi.com
 drsw5iivd.duckdns.org
+drsync.click
 drtbimcell.com
 drtestaevaefawergdfg.com
 drtpwcydhd.duckdns.org
@@ -126854,6 +126893,7 @@ dvau33ltgive.top
 dvcd.blob.core.windows.net
 dvcfatfova.com.tr
 dvcgg.com
+dvcloud.live
 dvcncozvbu.org
 dvcportallarim.com.tr
 dvcsv23vdfshndfsa.hopto.org
@@ -153905,6 +153945,7 @@ file-access-web.com
 file-access.com
 file-attachment.com
 file-autolink-all-easy.com
+file-cloud.company
 file-connection-all-ez.com
 file-docu.duckdns.org
 file-enter-web.com
@@ -165261,6 +165302,7 @@ gdktmt.top
 gdkxoc.shoreboxregion.top
 gdkxurlw.com
 gdkymr.top
+gdl-cloud.works
 gdlvt-sdft.com
 gdlvt-vrtr.com
 gdmdmr.top
@@ -165300,6 +165342,7 @@ gdrural.com.au
 gdrv-arena.ru
 gdrvauth.cloud
 gdrvcheck.co
+gdrvdocs.online
 gdrvshare.onedrvshare.host
 gdrvshare.site
 gdrvup.xyz
@@ -189152,6 +189195,7 @@ hgsfb.com
 hgsfc.com
 hgsfdolum.com
 hgsfe.com
+hgsfgecisesborcerec.duckdns.org
 hgsfirsatlari-tr.com
 hgsfostde.xyz
 hgsfostdeex.xyz
@@ -199831,6 +199875,7 @@ iadesistemi-web.com
 iadesistemi.cfd
 iadesistemi.com
 iadesistemi.com.tr
+iadesistemi.pro
 iadesistemi.web.app
 iadesistemi2021online.com
 iadesistemiaidat5.com
@@ -239285,6 +239330,7 @@ livesoibdme.net
 livesspanel.com
 livestipulate.top
 livestockthorny.top
+livestorage.click
 livestrde28.xyz
 livestreampro.xyz
 livesupport-instagram.cf
@@ -256332,6 +256378,7 @@ ms-update-server.net
 ms-webdav-miniredir.com
 ms.hgsyuklemeyerii.net
 ms.onlineshares.cloud
+ms.share-onedr.com
 ms1.hinet.lat
 ms15clones.ddns.net
 ms21-app3-upload.com
@@ -256465,6 +256512,7 @@ msonline.live
 msorguss.web.app
 msoutllook.ddns.net
 mspaolg0.duckdns.org
+mspdf.live
 msport-arena.ru
 msqa8khxu.duckdns.org
 msqdzvpklg.duckdns.org
@@ -256534,6 +256582,7 @@ msuvaifsv.net
 msvcexeapi.ucoz.net
 msvcnet.ucoz.net
 msvenom.ddns.net
+msvhost.com
 msvvdlt-cvt.com
 mswinhostsvc.net
 mswordupdate15.com
@@ -259681,6 +259730,7 @@ mydreamfly.com
 mydrivepersonfanb.icu
 mydrivepersonpdvsa.icu
 mydriveweb.com
+mydrv1.live
 mydvimessg-1.hopto.org
 mydvr22.vercel.app
 mydvrsafe.ddns.net
@@ -260051,6 +260101,7 @@ myofficeehr.com
 myofficesharetool.hopto.org
 myoffichauveau.hopto.org
 myofibrilliance.com
+myonedrive365.live
 myonetime.com
 myonjidorvoka.ddns.net
 myonlichaver.hopto.org
@@ -261044,6 +261095,7 @@ narmpnpqnh.us
 narouto2015.zapto.org
 naroyaldiamonds.com
 narparmonastrafuyrantalklasvarnac.net
+narrapulse.com
 narratedweller.top
 narratesneak.top
 narrationamend.top
@@ -270832,6 +270884,7 @@ okjanmzsdc.click
 okjeinvdbkbfvhb.net
 okjhuyt.duckdns.org
 okjqyib.com
+okk-yapiceponay.vercel.app
 okkesjslsssjaaaj.servebeer.com
 okkifamily.com
 okkkuvveeyttttyurrkkommobiildde2023.online
@@ -271712,6 +271765,7 @@ onbinacikdenizden.com
 onbinmagazamegamarkeet.xyz
 onbinternertbosvuru.site
 onbinternertbosvuru1.xyz
+onbinternertbosvuru2.online
 onbirayinsultani20gbnetal.com
 onbirekim.com
 onbirodeme.tk
@@ -271802,6 +271856,7 @@ ondroid.site
 ondroid.store
 ondtlyuklecll.net
 onducyazilim.com.tr
+ondv.live
 one-basvuronline-diotry.online
 one-drive1.hopto.org
 one-garanti-esube.com
@@ -271829,6 +271884,7 @@ onechoice.gleeze.com
 oneclick.bio
 onecs-live.services
 onedio-news.icu
+onedr.expert
 onedrive-upload.ikpoo.cf
 onedrive.agency
 onedrive.azure-defender.cloud
@@ -271836,6 +271892,8 @@ onedrive.com.secure.login-jeteastaviation.xn--nuriacanto-poa.es
 onedrive.onedriveglobal.com
 onedriveattachment.ddns.net
 onedriveauthorized.zapto.org
+onedrivecloud.expert
+onedrivecloud.live
 onedrivecloud.store
 onedrivefiles.hopto.org
 onedriveglobal.com
@@ -271857,6 +271915,7 @@ onedrvfile.site
 onedumb.com
 oneearnovmon.com
 oneepiece.com
+onefile.social
 onefilo.com.tr
 onefilo.xyz
 oneflextiank.com
@@ -271894,6 +271953,7 @@ onelegends.com
 onelifestyle24.com
 onelineodeme.com
 onelineodeqmerlm.ml
+onelivedrv.com
 oneliveforcopser.com
 onelove03.duckdns.org
 onemanforest.com
@@ -276198,6 +276258,7 @@ opendgame.ddns.net
 opendisclosure.org.za//db-config-ini.php
 opendisclosure.org.za/db-config-ini.php
 opendisclosure.org.za/wp-config-ini.php
+opendnsapi.net
 opendnscloud.com
 opendoorcdn.com
 opendrivecouldrsafinder.com
@@ -286201,6 +286262,8 @@ pdf-cache.online
 pdf-docs.online
 pdf-filer.com
 pdf-forwarding.online
+pdf-share.pub
+pdf-storage.pub
 pdf-to-jpg.app
 pdf21.changjiangys.net
 pdf33.venagard.com
@@ -286231,6 +286294,7 @@ pdfjsdfdsf.life
 pdfmicrosoft.ddns.net
 pdfosmma.ddns.net
 pdfsecxcloudroute.com
+pdfshare.click
 pdfviewer.app
 pdgagehohfwpike.ru
 pdgdmj.top
@@ -303770,6 +303834,7 @@ reebokfm.beget.tech
 reebokturkey.com
 reebokturkey.com.tr
 reedx51mut.com
+reeflinea.com
 reeladreseteslimkirala.online
 reelarabakirala.online
 reelarabalar.online
@@ -322194,6 +322259,7 @@ shapingtomorrowsworld.org
 sharacdan.com.my
 sharamoves718.weebly.com
 shardsound.net
+share-doc.live
 share-segments.gl.at.ply.gg
 share.anobaka.info
 share.dedesignanddev.com
@@ -322245,6 +322311,7 @@ sharelarge.top
 sharemoc.space
 sharemydrives.com
 shareone.live
+sharepdf.limited
 sharepoint-microsoft.co
 sharepoint-punjab.sharepoint-e13.workers.dev
 sharepoint-web.com
@@ -329408,6 +329475,7 @@ sokmarketkapinda.com
 sokmarketkapinda.duckdns.org
 sokmarketkapinda1.duckdns.org
 sokmarketkapinda10.duckdns.org
+sokmarketkapinda11.duckdns.org
 sokmarketkapinda2.duckdns.org
 sokmarketkapinda3.duckdns.org
 sokmarketkapinda4.duckdns.org
@@ -335197,6 +335265,7 @@ stopwdxwx.click
 stopwdxwx.xyz
 storage-cloud.ddns.net
 storage-e13.sharepoint-e13.workers.dev
+storage-hub.pub
 storage.cloudcourtdoc.com
 storage.stgbssint.com
 storage6799.xyz
@@ -335207,6 +335276,7 @@ storagecollide.top
 storagecryptogate.com
 storagecryptoweb.com
 storagedatadirect.com
+storagedrive.pub
 storageguarddirect.com
 storageinfodata.com
 storageinfogate.com
@@ -338181,6 +338251,7 @@ supportbadge.com
 supportbeconline.ddns.net
 supportcare.ddns.net
 supportcaseid348.hopto.org
+supportcausems.com
 supportcenterassistanss.com
 supportcenters-bank.duckdns.org
 supportchromestore.com
@@ -344171,6 +344242,7 @@ telefon3subatalis.sbs
 telefonbildirimi.com
 telefonbimcell.com
 telefoncuhanem54.com
+telefondaindiirmligunler.com.tr
 telefondan.info
 telefonedevindirim.xyz
 telefonfatura.app
@@ -380831,6 +380903,7 @@ workshopretrieve.top
 workshoptable.top
 worksonday.cloud
 workspace-app.online
+workspace-doc.live
 workspace2021.ddns.net
 workspace22.duckdns.org
 workstation.dyndns.org
