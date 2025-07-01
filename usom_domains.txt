@@ -11350,6 +11350,7 @@
 1d7qtt.duckdns.org
 1dakikasigorta.online
 1darkkomet.zapto.org
+1day.live
 1dc0fa98.duckdns.org
 1dc638.duckdns.org
 1dcloud.live
@@ -11373,20 +11374,36 @@
 1downloadss0ftware.xyz
 1dqotjy.cn
 1driv.org
+1drive-work.online
+1drive.bio
+1drive.expert
 1drive.pub
+1drive.social
+1drive.works
 1drivecloud.click
 1drivecloud.live
+1drivems.expert
+1drivems.works
+1drv-storage.pub
+1drv-team.works
 1drv.biz
 1drv.casa
 1drv.cyou
 1drv.email
+1drv.eu.com
 1drv.fileshare.direct
 1drv.icu
 1drv.live
 1drv.me
 1drv.online
+1drv.site
 1drv.surf
+1drv.world
+1drv.zone
+1drv365.live
 1drv365.online
+1drvcloud.online
+1drvfiles.online
 1drvmail.work
 1drvmicrosoft.com
 1drvms.space
@@ -102476,6 +102493,7 @@ clouditzone.com/revolution/assets/wp-config-ini.php
 cloudjs.live
 cloudkdzym.lat
 cloudlflares.com
+cloudlive.pub
 cloudly.live
 cloudmane.online
 cloudmediaportal.com
@@ -105123,6 +105141,7 @@ consumeshaft.top
 consuminero.com.co
 consumptioncork.top
 consurrejocing.top
+consvcprivacy.com
 cont45.com
 contac-receve-app.duckdns.org
 contact-apple.com
@@ -110997,6 +111016,7 @@ datadocsview.com
 datadog-cloud.com
 datadog-graph.com
 datadropbox76566.hopto.org
+datadrv1.com
 dataencryptietechniek.duckdns.org
 datafoxz.click
 datagatellc.com
@@ -112716,6 +112736,7 @@ deneyerek-bulanda-bizlerden-songune-kalmadi.com
 deneyim-sarttir-bize-gelir-sevdikce-ellerinize.com
 deneyimle.name.tr
 deneyimlerim.online
+deneyimlikamoaynalar.xyz
 deneyimlikisiler.com
 deneyimlimerkezler.com
 deneyimlioperatorler.com
@@ -122637,6 +122658,7 @@ diskmelody.top
 diskortkizlariles.com
 diskpeople.top
 diskretainvigorousiw.shop
+diskstorage.click
 disktest.com
 dislikebluff.top
 dislikeobsessive.top
@@ -125887,8 +125909,10 @@ drivegoogle.publicvm.com
 drivegoogles.com
 drivegooglshare.xyz
 drivegooogle.publicvm.com
+drivehost.live
 drivehub.live
 drivemountain.com
+drivenc.pub
 drivenpropel.top
 drivepoint.pub
 drivepublic.live
@@ -125905,6 +125929,7 @@ driverweb.ddns.net
 driverwii.ddns.net
 drives.googldrive.xyz
 drives.googlecloud.live
+driveshare.pub
 drivestorage.online
 drivestransfer.com
 drivestransfer.com/myfiles/dinner%20invitation.doc/win10/dinner%20invitation.doc
@@ -126909,6 +126934,7 @@ dvdsesso.com
 dvej.zapto.org
 dven33dordisease.top
 dvertisingopaqu.top
+dvfilesync.pub
 dvfu40z20.duckdns.org
 dvhlpobglralgvtsndnyjkdvr.it.com
 dvieseptpc.duckdns.org
@@ -153945,6 +153971,7 @@ filbabanka.com
 filcoco.xyz
 file-access-web.com
 file-access.com
+file-acess.live
 file-attachment.com
 file-autolink-all-easy.com
 file-cloud.company
@@ -153958,6 +153985,7 @@ file-listprice.at.ply.gg
 file-send.cc
 file-send.live
 file-share-every-fun.com
+file-share.works
 file-zilla-projectt.org
 file.crosspoiimeri.com/sweed.exe
 file.crosspoiimeri.com/sweed.png
@@ -165330,6 +165358,7 @@ gdqtmg.top
 gdrarzuu.duckdns.org
 gdrindustries.com
 gdrive-files.com
+gdrive-share.online
 gdrive.onmypc.org
 gdrive.rest
 gdrivenfacilitator.top
@@ -174621,6 +174650,7 @@ gunivory.top
 gunkampanyasi.net
 gunlerden-kampanya.shop
 gunlerdenbugun-a101.cloud
+gunlerdenidnirim.online
 gunlerdenindirim.online
 gunlerdenkampanyagunu.shop
 gunlerdenpazarfrstlr.shop
@@ -176496,6 +176526,7 @@ gwkmvndxy.com
 gwkoktwwr.com
 gwlqu.duckdns.org
 gwlxpkb.com
+gworkspace.social
 gwqbwepmup.duckdns.org
 gwqum.ddns.net
 gwrntcampanyforksredi.com
@@ -182427,6 +182458,7 @@ harikamuthisfirsathemensatinal.online
 harikamuthisfirsathemensatinal.xyz
 harikamuthisfirsathemensatinalmazsansenialirim.online
 harikamuthisfirsathemensatinalmazsansenialirim.xyz
+harikaninadresiburasi.xyz
 harikaramzanfirdatlari.com.tr
 harikaramzanfirdatlari.xyz
 harikasevilenkampanyalar.com.tr
@@ -184520,6 +184552,7 @@ healthcaption.com
 healthcheckcanadzurimcdaniels.lookwhoscookingtv.com
 healthclubfun.com
 healthfulharmony.fun
+healthfy.bio
 healthherofit.com
 healthhostess.com
 healthhues.website
@@ -237036,6 +237069,7 @@ laupjhs.org
 lauqgn.com
 lauracarrillo0sosa09.duckdns.org
 lauracooper.hopto.org
+lauradream.com
 laurahanly.robhanly.com
 laurenciaethelbert.net
 laurenciamadeline.net
@@ -252079,6 +252113,7 @@ mngbelediye.com
 mngbilginburada.infinityfreeapp.com
 mngcengizhan.online
 mngchpyerakip.com
+mngersrv.com
 mngfvm5.duckdns.org
 mngilegez.net
 mngjet-bilgi-destek.com
@@ -258249,6 +258284,7 @@ muayne-randevual.com
 muayne-randevual.online
 muayne-randevusu.com
 muayne-tuvturk.net
+muayneadresi.com
 muaynearactvtruk.net
 muaynedehsizmetl.net
 muayneee.info
@@ -259437,6 +259473,7 @@ mxzrovn.com
 mxzskaaslaqwas.space
 my--sso--cdn--coinbaspro.webflow.io
 my--sso-itrustcapital--com-uth.webflow.io
+my-356drv.online
 my-acccountmail.hopto.org
 my-account-verification.tk
 my-account.appidle.eemcvx.com
@@ -259453,6 +259490,7 @@ my-braintree.com
 my-commbank.ddns.net
 my-commbanksupport.ddns.net
 my-commbannk-au.digital-online-login-opportunity.com
+my-drive365.pub
 my-dyson.com.tr
 my-fantastic-site-923bd6.webflow.io
 my-fsrkskmpfsksfkfskfsagafsasfgas.com.tr
@@ -259531,6 +259569,8 @@ my1-members1stfcu.duckdns.org
 my10bwy.com
 my190.info
 my1anzlogin304.duckdns.org
+my1drv.live
+my1drv.online
 my1empire.duckdns.org
 my1kgl6d.duckdns.org
 my1pasword.com
@@ -271859,6 +271899,7 @@ ondortodeme.tk
 ondrive.foroof.com
 ondroid.site
 ondroid.store
+ondrve.live
 ondtlyuklecll.net
 onducyazilim.com.tr
 ondv.live
@@ -271897,13 +271938,17 @@ onedrive.com.secure.login-jeteastaviation.xn--nuriacanto-poa.es
 onedrive.onedriveglobal.com
 onedriveattachment.ddns.net
 onedriveauthorized.zapto.org
+onedrivecloud.click
 onedrivecloud.expert
 onedrivecloud.live
+onedrivecloud.net
 onedrivecloud.store
 onedrivefiles.hopto.org
 onedriveglobal.com
 onedrivemessage.xyz
+onedrivems.cloud
 onedrivems.online
+onedrivems.works
 onedrivenet.xyz
 onedriveorder.ddns.net
 onedrivepack.com
@@ -271917,6 +271962,7 @@ onedrivework.zapto.org
 onedrivrshares.xyz
 onedrvdn.co
 onedrvfile.site
+onedrweb.live
 onedumb.com
 oneearnovmon.com
 oneepiece.com
@@ -272015,6 +272061,7 @@ onessearth.online
 onestigma.top
 onestorageprotectordirect.com
 onestore.name.tr
+onestorelink.live
 onesystemupdate.com
 onet-pl.online
 onetak.online
@@ -274103,6 +274150,7 @@ onlinedolap.net
 onlinedoldurhizli.ga
 onlinedoldurhizli.ml
 onlinedolumyap.xyz
+onlinedrive.click
 onlinedurumogren.net
 onlineduyurbncastr.com
 onlineduyurubncasresmi.com
@@ -275720,6 +275768,7 @@ onlinevezneler.xyz
 onlineveznelerim.xyz
 onlineveznem.com
 onlineveznem.xyz
+onlineviosalsube.com
 onlinevizehizmeti.com
 onlinevkfskykrdi.xyz
 onlinevkkatilimigirisi.com
@@ -291765,6 +291814,7 @@ prmgvnde-onlinesatis.com
 prmopromo.com
 prmosynnnbsvrrqnb.click
 prmosyonbasvrlar.click
+prmssynnkmpnyaabsvrrr.click
 prmsynbburkdgrnti.com
 prmsynbsvru.online
 prmsyngrntbrd.com.tr
@@ -322266,6 +322316,7 @@ sharacdan.com.my
 sharamoves718.weebly.com
 shardsound.net
 share-doc.live
+share-pdf.live
 share-segments.gl.at.ply.gg
 share.anobaka.info
 share.dedesignanddev.com
@@ -322298,6 +322349,7 @@ sharedfileads.ddns.net
 sharedfilesclouddrive.com
 sharedisplay.crabdance.com
 sharedocar.xyz
+sharedrive.pub
 sharedrivegght.xyz
 sharedsignaturedocs.hopto.org
 sharedsitesx.site
@@ -326498,6 +326550,7 @@ site-sok.com.tr
 site-sok.net.tr
 site-sosyal-basvuru.com
 site-sosyalbasvuru.com
+site-staff.sale
 site-yonlendirme-iade-vatandas-girisleri.xyz
 site.amdi3corex.cfd
 site.buonoads.sbs
