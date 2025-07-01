@@ -77598,6 +77598,7 @@ binance.az
 binance.betrui.site
 binance.bnncglobal.com
 binance.coinborsanizdan-hediye.com
+binance.com-promosyon.com
 binance.denizdekampanyakatilimformu.com.tr
 binance.girissistemi.net
 binance.kampanyabasvuru.com
@@ -162820,6 +162821,7 @@ garantibbva.mediacep.com
 garantibbva.mefound.com
 garantibbva.misecure.com
 garantibbva.ml
+garantibbva.mywire.org
 garantibbva.net
 garantibbva.netlify.app
 garantibbva.nilaimcinc.com
@@ -344470,6 +344472,7 @@ telefonlugunler.xyz
 telefonoppogirisilerigeldi.baby
 telefonoppogirisilerigeldi.cfd
 telefonoppogirisilerigeldi.cyou
+telefonoppogirisilerigeldi.lat
 telefonoppogirisilerigeldi.sbs
 telefonsuz-evinterneti-basvurusu.net
 telefonsuz-internet-onlinebasvuru.net
@@ -345210,6 +345213,7 @@ temmuzayiindirim.com.tr
 temmuzayiindirimfirsat.com
 temmuzayiindirimleri.com.tr
 temmuzayiindirimleri.online
+temmuzayikampanyalari.duckdns.org
 temmuzayinaozel.org
 temmuzayinaozelindirimler.com
 temmuzayininfirsatlari.com
@@ -365293,6 +365297,7 @@ uygunal.site
 uygunalburada.biz.tr
 uygunalburada.info.tr
 uygunalisveirlseadresi.com.tr
+uygunalisveirlseadresi.online
 uygunalisveirlseadresi.xyz
 uygunalisveris.online
 uygunalisverisfirsatlari.online
@@ -398401,6 +398406,7 @@ yazkampanyasi.ml
 yazkampanyasi.net
 yazkampanyasi.org.tr
 yazkampanyasicomtr.net
+yazkampanyasifirsatlari.web.tr
 yazkampanyasigarntem.com.tr
 yazkampanyasihemenbg.com
 yazkampanyasihemenbg.online
