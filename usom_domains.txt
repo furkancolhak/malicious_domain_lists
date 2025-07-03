@@ -88082,6 +88082,7 @@ borsa-taktigi.online
 borsa-yatirimi.online
 borsa.bitci.com.froggysureste.com
 borsa.bitci1.com
+borsa.sekerfinans.com
 borsa.xn--bitc-oza.com
 borsadijital-tr.com
 borsadijitaltr.com
@@ -211943,6 +211944,7 @@ isim-bu.com
 isim-cepte.com
 isimcebimdefirsat.com
 isimcepde.com
+isimcp217.duckdns.org
 isimdevegucumdeyim.online
 isimisicsisisk.com
 isimiveraracsd3.net
@@ -235187,6 +235189,7 @@ kusursuz-hizmet.net
 kusursuzalisverisadrxleri.online
 kusursuzalisvrlerburada.com.tr
 kusursuzalisvrlerburada.online
+kusursuzayakinidinrim.cyou
 kusursuzayakinidinrim.sbs
 kusursuzhafayasunuadesi.online
 kusursuzindiirmler.com.tr
@@ -258529,6 +258532,7 @@ muayne-randevual.online
 muayne-randevusu.com
 muayne-tuvturk.net
 muayneadresi.com
+muayneadresi.net
 muaynearactvtruk.net
 muaynedehsizmetl.net
 muayneee.info
@@ -363826,6 +363830,7 @@ ur5rgqwbe.duckdns.org
 urafnor.net
 ural-pelmeny.ru
 uralakads.xyz
+uralcicek.com
 uranaiataru.pw
 urancarfilo.com
 uraniumfragrance.top
@@ -375782,6 +375787,7 @@ walletgear.org
 walletgland.top
 walletliveledrr.webflow.io
 walletloginverify.duckdns.org
+walletnity.com
 walletr--trezwer.webflow.io
 walletrad.com
 wallets-storeee2.ddns.net
