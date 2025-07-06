@@ -4865,6 +4865,7 @@
 12v-24voltkampbuzdolabi.cfd
 12v-24voltkampbuzdolabi.click
 12voltbuzdolap.cfd
+12voltbuzdolap.cyou
 12voltbuzdolap.sbs
 12xx.zapto.org
 12y60ko92.duckdns.org
@@ -71934,6 +71935,7 @@ bgnlerdeszlerlefrstlr.com
 bgnlerdsbyzlerdbyk.shop
 bgnlk-br-gln.cfd
 bgnlk-brdn-gln.cfd
+bgnlr-ngb-smd.shop
 bgnolsunniver.b-cdn.net
 bgnsizlerdenglnfrstlr.online
 bgnsngnvrdkbdrdk.shop
@@ -163043,6 +163045,7 @@ garantibbva-kredi-firsati.duckdns.org
 garantibbva-kredi-firsatlar.duckdns.org
 garantibbva-kredi-firsatlari.duckdns.org
 garantibbva-kredi-karti-aidat-iade.mooo.com
+garantibbva-kredi-online-basvur.duckdns.org
 garantibbva-kredi-online.cloud
 garantibbva-kredi-online.duckdns.org
 garantibbva-kredi.cloud
@@ -186236,6 +186239,7 @@ hemen.ppt-kargo-hizlica-kapi-niz-da.com
 hemen.ptt-kapilariniza-getircek.com
 hemen.ptt-kargolarinizkapinizdaolsun.com
 hemen.rentlearac.com.tr
+hemen.sbs
 hemen.sigoortacinet.com.tr
 hemen.sigortaamnnetd.com.tr
 hemen.sigortaamnnete.com.tr
@@ -193649,6 +193653,7 @@ hizlisiparislerimde.com.tr
 hizlisiparislerin2bucuktemmuzda.cloud
 hizlisiparislerin4temmuz.cloud
 hizlisiparislerin5bucuk.cloud
+hizlisiparislerin5indebucuk.cloud
 hizlisiparisolustur.gtxpros.best
 hizlisiparisolusturmangerek.cloud
 hizlisiparisonline.com
@@ -356212,7 +356217,11 @@ trpttgovt.shop
 trpttgovtk.cc
 trpttgovtr.ink
 trpttgovtr.shop
+trpttgovtul.shop
+trpttgovtun.shop
 trpttgovtur.shop
+trpttgovtuv.shop
+trpttgovtuy.shop
 trpttgovtv.shop
 trpttgovv.cc
 trpttgovy.cc
@@ -370621,6 +370630,7 @@ vdettaykatallogirisllemenumm.com
 vdfbdfgdgs.sa.com
 vdfdllfineverly.online
 vdfe.site
+vdfmail.click
 vdfnvdfnbdnfbnd.xyz
 vdfrt.ml
 vdgjynrcw.com
@@ -408111,6 +408121,7 @@ ziraatmobil-esube.com
 ziraatmobil-kampanya.tk
 ziraatmobil-maxipuan.com
 ziraatmobil.girisekrani.sbs
+ziraatmobil.hemen.sbs
 ziraatmobil.ml
 ziraatmobil.rf.gd
 ziraatmobil.tk
