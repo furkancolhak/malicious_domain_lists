@@ -1,5 +1,5 @@
 # OpenPhish Blacklist
-# Updated: 2025-07-07T20:11:45.589930
+# Updated: 2025-07-07T20:13:23.531178
 365p05.com
 5408344aca3b1f1392ecfd3d5163ce1b5b0848cf49644c03e8ac4aeb3e.pages.dev
 635328-790121-542821-voip.pzdimou.workers.dev
