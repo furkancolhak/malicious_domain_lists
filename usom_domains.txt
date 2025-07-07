@@ -1,3 +1,5 @@
+# USOM Blacklist
+# Updated: 2025-07-07T20:13:12.900203
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -61373,6 +61375,7 @@ avkblgyolodeislmlrisa.duckdns.org
 avkdm47v7rkbyr1tive.ddns.net
 avkgecisodemeleri.xyz
 avkgmbildirisii.cfd
+avkgmgecmzcbilgisis.sbs
 avkgmhgsodemesi.sbs
 avkgmtrihlalodeme.cyou
 avkgmtrihlalodeme.icu
@@ -232479,6 +232482,7 @@ kocamanstand.store
 kocavakfi.com
 kocavmpt.com
 kocbasvuru.online
+kocbasvuru.store
 koccars.com
 kocerooo.cyou
 kocfilo.com.tr
@@ -232491,6 +232495,7 @@ kocgrouphayatvakfi.com
 kocheme.ddns.net
 kochkrrscjyt.pw
 kocholding.serveftp.com
+kocholdingbasvur.online
 kocholdingsystem.com
 kochturkiye.fun
 kochvergcilas.net
@@ -265949,6 +265954,7 @@ nnepqerhnh.us
 nnerkezbankasi.com
 nnetflix.zapto.org
 nnfdurerd.net
+nnfesdevletsktr.click
 nnffiggvmm.net
 nnfyibhftmiwgjept.org
 nngplic.ddns.net
@@ -298792,6 +298798,7 @@ qbndnangcel.vercel.app
 qbnfinansbank.com
 qbnfinansliolkazancom.vercel.app
 qbnheyecanlifinanl.vercel.app
+qbnirse.vercel.app
 qbnkazankampanyasi.vercel.app
 qbnlefinanscom.vercel.app
 qbnlilerle.vercel.app
@@ -300580,6 +300587,8 @@ qnbkampany.vercel.app
 qnbkampanya.com
 qnbkampanya.site
 qnbkampanyakararivakit.com
+qnbkampanyakatil.vercel.app
+qnbkampanyakatil2.vercel.app
 qnbkampanyalar.click
 qnbkampanyalar.vercel.app
 qnbkampanyalari.click
@@ -300977,6 +300986,7 @@ qqkmonskrfgn.com
 qqljbfswxc.duckdns.org
 qqlmynfqckbb.xyz
 qqmailappupdate.ga
+qqnbiadm.vercel.app
 qqnbikmpnys.vercel.app
 qqnbkampanya.vercel.app
 qqnbkampanyakatil.vercel.app
@@ -360503,6 +360513,7 @@ turkogrencilerbirligi.com
 turkogretim.net
 turkohsgss.com
 turkojan.ddns.net
+turkonline24.live
 turkonlinebasvuru.linkpc.net
 turkonlines.com
 turkopt.com
