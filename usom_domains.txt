@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-08T07:06:35.197677
+# Updated: 2025-07-08T08:06:10.685554
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -24930,6 +24930,7 @@
 68538758756873286.cloud
 68589128521895132.cloud
 68666685456311.cloud
+68678747474.vercel.app
 687065af81d4.com
 6872819.site
 687b318f1a4e0afc.com
@@ -34649,6 +34650,7 @@ a1o1katalog.net
 a1o1klimafirastlariii.shop
 a1o1klimakampanyalariin.online
 a1o1kmmpnya.com
+a1o1kpynlayari.blogspot.com
 a1o1le.net
 a1o1leo.net
 a1o1lerleindirmikap.shop
@@ -40147,6 +40149,7 @@ activrt.com
 activssl0001.ddns.net
 actlveaccount.hopto.org
 actlveaccountdata.hopto.org
+actorgrowz.com
 actorhashem.com
 actreadversity.top
 actrinbved9.duckdns.org
@@ -68496,6 +68499,7 @@ bayiyuklemeler.xyz
 baykafunt.store
 baykar-ad.com
 baykar-b.glitch.me
+baykar-baykoin.icu
 baykar-baykoin.world
 baykar-fashion.ru
 baykar-fly.digital
@@ -68513,6 +68517,7 @@ baykar.cloud
 baykar.glitch.me
 baykar.icu
 baykar.ltd
+baykar.run
 baykar.site
 baykar.ticktokers.com
 baykar.uno
@@ -94538,6 +94543,7 @@ cachevideo.xyz
 caciksomns.za.com
 cacon.zapto.org
 cacosda-celebi.net
+cactiq.com
 cactopelli.com
 cactuscarbon.top
 cactusentry.com
@@ -95679,6 +95685,7 @@ careglmz.2kool4u.net
 caregroup.co.za//db_template.php
 carehgsislem.com
 carehottom.site
+careix.top
 caremoney.life
 carentcar.com
 carepvtltdpk.com
@@ -100678,6 +100685,7 @@ chronovoip.com
 chroonopostfrr.click
 chroperzen.xyz
 chrriom-metamskxtinson.webflow.io
+chrsstiansen.com
 chs-glbalservin.ddns.net
 chs-vertityidentglb.ddns.net
 chs1bkfa.hopto.org
@@ -101523,6 +101531,7 @@ cinoly.b-cdn.net
 cinseltacizdendosyasorgulama.com
 cinshu.com
 cinurl.com
+cinuyi.com
 cinycekecid.eu
 ciobabaaa.net
 cioco-froll.com
@@ -103682,6 +103691,7 @@ coinhive.com
 coininitiative.shop
 coinmakopenarea.su
 coinmerkezi2.com
+coinmorphix.com
 coinmymoney.com
 coinnbaseupdatee.ddns.net
 coinnews.onmypc.org
@@ -118580,6 +118590,7 @@ desertionstoop.top
 desertislem.22web.org
 desertpharmaceutical.top
 desertplentiful.top
+desertrium.com
 deserve3.site
 deserve44.xyz
 deserveeminence.top
@@ -126437,6 +126448,7 @@ dryness78.xyz
 drypond.top
 dryscience.top
 drysetfirst.com
+drysoilia.com
 drysummon.top
 drysymphony.top
 dryukleme.22web.org
@@ -147351,6 +147363,7 @@ ethereum-wallet-servicesec.duckdns.org
 etherfii.shop
 ethernetservice.ddns.net
 ethersmine.com
+ethflarez.com
 ethgift.com
 ethgift.pro
 ethhgsm.com
@@ -147386,6 +147399,7 @@ ethnyerqhxeeeklkxow.me
 ethofficer.com
 ethprize.org
 ethpromo.news
+ethrisez.com
 ethxevent-participate.com
 ethzone.io
 etibuz.shop
@@ -149939,6 +149953,7 @@ executivestagnant.top
 exekuro.duckdns.org
 exelansolanslayer.tk
 exelelo.zapto.org
+exelzy.com
 exemplaryabsurdity.top
 exemplarypenguin.top
 exemplifiable-taps.000webhostapp.com
@@ -160627,6 +160642,7 @@ fundingcoincide.top
 fundingtentative.top
 fundingturiswo.site
 fundpath.quest
+fundproj.com
 fundraising.mystylingmylife.xyz
 fundrectification.top
 fundrkmnedvvlttbsvur.live
@@ -188195,6 +188211,7 @@ hexagon.zapto.org
 hexagonweb.ddns.net
 hexingmumen.com
 hexlevurdugol.net
+hexnox.pro
 hexnsenmehgxs.net
 hey-sen-hadi-gel-yukle-ama.blogspot.com
 heyapuy-hdewn.ddns.net
@@ -191897,6 +191914,7 @@ hijligecisuzmanlari.blogspot.com
 hijligexicuzman.net
 hijlligecixxuzmani.net
 hijotwunwq.sanghvio.ru
+hijrahflow.com
 hijrahview.com
 hijrnataj.com
 hijx.xyz
@@ -209923,6 +209941,7 @@ investprofitbprofit.info
 investpros.online
 investradius.info
 investremp.click
+investright.pro
 investrisk.shop
 investrixx.com
 investrovara.com
@@ -223318,6 +223337,7 @@ kaktuus.com
 kakunlgvn.webflow.io
 kal20gb.site
 kaladamotors.xyz
+kalahariseed.com
 kalahuno.com
 kalakala.name.tr
 kalakamckcaskdasdsad.space
@@ -230915,6 +230935,7 @@ kisalink-n7ed.com
 kisalink.cc
 kisalinkkisalinkguncelle.ml
 kisalinkkisalinkguncelle.tk
+kisalinkolustur.vercel.app
 kisalt.cc
 kisalt.cc/gcfwd
 kisalt.cc/h9uh9
@@ -239895,6 +239916,7 @@ lisansmorfi.xyz
 lisareallogin.ddns.net
 lisbek.freedynamicdns.org
 lisederslerim.com
+lisetopfeak.online
 lishetoc.shop
 lismoo.duckdns.org
 lismorecountryhouse.com
@@ -241045,6 +241067,7 @@ loggin-membershipamazon43ek6iv.duckdns.org
 loggsofice.xyz
 logicalhypocritical.top
 logicallad.top
+logicgamee.top
 logicoften.top
 logicpulse.online
 logicsfort.com/font-awesome/db-config-ini.php
@@ -251591,6 +251614,7 @@ mikrodolumlar.xyz
 mikrogolds.xyz
 mikroislemi.com
 mikrontr-melbo.hs.vc
+mikrop.cfd
 mikropart.xyz
 miktarrand.net
 mikus293.ddns.net
@@ -256382,6 +256406,7 @@ moremaid.top
 moremediation.top
 moremore.hopto.org
 morenodorf.com
+morentis.site
 morentok.top
 moreofestonia.com
 moreoffer.life
@@ -266235,6 +266260,7 @@ noluryapma33.com
 noluyoruzawk.duckdns.org
 nolylya.pics
 nomad2022.ddns.net
+nomadexis.com
 nomadgenix.com
 nomadpkg.com
 nomadpkgs.com
@@ -290840,6 +290866,7 @@ poshtahane.com
 posiknght.top
 posindonesiaots.top
 posione.com
+posiry.com
 position.crudoes.ru
 positionanalogy.top
 positioncollision.top
@@ -295540,6 +295567,7 @@ pttavm-yukleme.online
 pttavm-yuklemerix.com
 pttavm-yuklemex.com
 pttavm.alisveris-banaozel.com.tr
+pttavm.alisveris-e-ticaret.com
 pttavm.alisveris-secure-odeme.com
 pttavm.alisverisfirsati.com.tr
 pttavm.alisverishazir.com.tr
@@ -303599,6 +303627,7 @@ rawcdvbhad-agwcxdcw-awdcv.shop
 rawdagger.top
 rawfurnish.com
 rawinzinbil66.clienteascindig.world
+rawiwi.info
 rawman.ddns.net
 rawmgir.pw
 rawndewualmakbasit.online
@@ -321108,6 +321137,7 @@ sepetmagazasondakika.com
 sepetndeindirmvar.net
 sepetndeindirmvar.org
 sepetndeindirmvar.store
+sepetnurrgaz.sbs
 sepetolustur.com.tr
 sepetop.net
 sepetramazan.com
@@ -349451,6 +349481,7 @@ tmeby2.duckdns.org
 tmem.ddns.net
 tmerkezbankasi.com
 tmf322.hopto.org
+tmg1o1ndirmleri.lovestoblog.com
 tmgcn-krnde-ellrnelmde-tmmlmdm.space
 tmgja.com
 tmgsoharsss.net
@@ -360949,6 +360980,7 @@ tuvaracmuayneservisi.net
 tuvaracmuaynesistemimiz.net
 tuvaracmuaynesistemleri.com
 tuvarascmuy.it.com
+tuvayashepexida.com
 tuverandevuolustur.com
 tuviviet.info
 tuvivvv-vmobillislllemgirismenu.com
@@ -370598,6 +370630,7 @@ vaultmintz.com
 vaultnest.store
 vaultora.online
 vaultstate.com
+vaulturio.com
 vautodiscover.acikdenizyeniyilv2.ga
 vavacar.net
 vavacars-filo.com
@@ -371341,6 +371374,7 @@ verdehithoy.duckdns.org
 verdepruebauno.duckdns.org
 verdevanta.com
 verdgdjjfbadfa.net
+verdibot.com
 verdictbloc.top
 verdictmosquito.top
 verdigimiz-emekler-onca-zama-inat.com
@@ -376599,6 +376633,7 @@ walkingthedead12.xyz
 walkingthedead18.xyz
 walkingthedead19.xyz
 walkrefugee.top
+walkscope.com
 walkstroll.top
 walkzonecold.buzz
 walla-hab.ddns.net
@@ -382039,6 +382074,7 @@ woodforest-login.aenys.com
 woodforestnb.com
 woodlad.top
 woodlofty.top
+woodmate.xyz
 woodmow.top
 woodracefurniture.co.za/js/db-config-ini.php
 woodracefurniture.co.za/js/wp-config-ini.php
@@ -406912,6 +406948,7 @@ zikoer.su
 zikolo.net
 zikos19992023.ddns.net
 zikoszikos.ddns.net
+zikrloop.com
 zilan-443.zapto.org
 zilaso.xyz
 zilekezo.com
