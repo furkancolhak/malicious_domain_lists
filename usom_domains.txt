@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-08T16:06:39.641315
+# Updated: 2025-07-08T17:06:50.652742
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6422,6 +6422,7 @@
 154.49.137.16
 154.53.56.231
 154.61.75.156
+154.62.226.22
 154.7.253.113
 154.79.252.132
 154.81.156.54
@@ -7978,6 +7979,7 @@
 178.175.134.52
 178.18.242.149
 178.18.246.136
+178.18.248.36
 178.186.159.188
 178.195.162.94
 178.20.158.28
@@ -18271,6 +18273,7 @@
 38.132.101.45
 38.132.111.23
 38.132.99.167
+38.134.148.218
 38.135.104.189
 38.135.52.151
 38.14.255.23
@@ -32102,6 +32105,7 @@ a-1o1onlinefirsatlar.com
 a-1o1onllnehazlran.com
 a-1o1temmuz-firsatmarket.can.re
 a-1o1temmuzfirsat.com
+a-1oburdfrstxr1.sbs
 a-1ofo1frstlarr.sbs
 a-1oo1-kapida.net
 a-1oo1-kapida.xyz
@@ -41174,6 +41178,7 @@ ads.sa.com
 ads.store
 ads.teleryanhart.com
 ads.wcond.site
+adsaddasddasdasds.sbs
 adsadsa45.app
 adsadsadsads.duckdns.org
 adsaldsajdj15asd.net
@@ -155736,6 +155741,7 @@ firsatakayitla.com
 firsatakbnk.com
 firsatakdakmpma.xyz
 firsataksasks.com
+firsataktua1o1.net
 firsataktuel.duckdns.org
 firsataktuel.net
 firsataktuel.online
@@ -224257,6 +224263,7 @@ kampanyadasongunanindakapinda.online
 kampanyadasongunanindakapinda.xyz
 kampanyadasongunanindakapindaa.online
 kampanyadasongunanindakapindaa.xyz
+kampanyadasongunler.sbs
 kampanyadasongunurunlersepette.com.tr
 kampanyadasongunurunlersepette.online
 kampanyadasongunurunlersepette.xyz
@@ -332066,6 +332073,7 @@ soookmarketleriimtr.store
 soookmarketlerimsponsorlu.com
 soookmarketlerkapida.site
 soookta-firsttlrr.com
+soookyazindirimleri.com
 sooookmarket.com
 sooookmarket.com.tr
 soooookindirim.shop
@@ -335708,6 +335716,7 @@ stanleytekrliftemrsdbrda.com
 stanleytemrostkelisdbudsaasdaa101.com
 stanleytereklstrmosa101.store
 stanleyterkmsoteklfisburdsa101.com
+stanleytermosa101de.com
 stanleytermosburdsds.com
 stanleytermosdksds.com
 stanleytermosfrstltndk.com
@@ -346359,6 +346368,7 @@ temmuzfirsatlari.com.tr
 temmuzfirsatlari.shop
 temmuzfirsatlari101.com.tr
 temmuzfirsatlari20.online
+temmuzfirsatlaricancan.duckdns.org
 temmuzfirsatlariii.online
 temmuzfirsatlariii.xyz
 temmuzfirsatlarikacirma.com
@@ -346489,6 +346499,7 @@ temmzdaakii-kmpanyalarim.com
 temmzdacarfrrsada.com
 temmzdan-firstlarla.com
 temmzdayazcrrfrsasi.com
+temmzindrmleri.com
 temmzkliman-altstan.com
 temmzuun-firsatllarini-yaklkala.info
 temmzz-kammpanyyalarii-son-frstlari.com
