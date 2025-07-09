@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-09T06:06:36.439801
+# Updated: 2025-07-09T07:06:22.170627
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -50201,6 +50201,7 @@ alhemen.ga
 alhemen.gq
 alhemen.ml
 alhemen.tk
+alhemenbitiyor.xyz
 alhidayahfoundation.co.uk/category/db_template.php
 alhioa20w.duckdns.org
 alhitar26.ddns.net
@@ -122032,6 +122033,7 @@ dijitalislemgirisiniz-denizacik.com
 dijitalislemim.com
 dijitalislemler-denizacik.com
 dijitalislemler-ziraatbireysel.com
+dijitalislemler-ziraatislemler.com
 dijitalislemler.xyz
 dijitalislemlergiris-denizacik.com
 dijitalislemlergirisin-denizacik.com
@@ -141434,6 +141436,7 @@ elhoumaupload.com
 elhxcwf.duckdns.org
 elianamaria.zapto.org
 elianisgalidon3020.duckdns.org
+elianwebste.duckdns.org
 elias123123.ddns.net
 elicitendow.top
 elicitprosperity.top
@@ -155770,6 +155773,7 @@ firsataktua1o1.net
 firsataktuel.duckdns.org
 firsataktuel.net
 firsataktuel.online
+firsataktueli.net
 firsataktuelim-1o1.online
 firsatald-ina101.xyz
 firsatalisveirskampanyasi.com.tr
@@ -161251,6 +161255,7 @@ g0xeznmt.duckdns.org
 g0xp7j93.duckdns.org
 g0zmi3.qrowny.ru
 g101-kampanya.online
+g101.duckdns.org
 g101gunlukampanya.online
 g111233331.cloud
 g11qf44ay.duckdns.org
@@ -213271,6 +213276,7 @@ issangdhdsdgsasgdshfdas.cfd
 issangdhdsdgsasgdshfdas.cyou
 issangdhdsdgsasksafhfwquew.cfd
 issangdhdsdgsasksafhfwquew.icu
+issangdhdsdgsasksafhfwquew.sbs
 issangdhdsdlsafkgdskdfhasfeewqd.cfd
 issangdsfhqwehsdhdssaghh.icu
 issangdshdaqwfbcfshsssagh.cfd
@@ -227848,6 +227854,7 @@ katalog-indirimi.rf.gd
 katalog-temmuz-website.com
 katalog.sondonemkampanya.com
 katalogcarsamba.duckdns.org
+katalogfirsat.b-cdn.net
 katalogfirsatlari.net
 katalogindirimi.com.tr
 katalogiriislemenulerim.com
@@ -293350,6 +293357,7 @@ profitvisionary.online
 profjohnmaple.com
 profkralstrkrals.duckdns.org
 profkrasldsf.click
+profkrasterst.click
 proflardankesimkesler.com
 proflime-kim-baktikontrol-edelim.ml
 proflourish.club
@@ -330933,6 +330941,7 @@ sokucuzmarket.com
 sokucuzmarketindirim.site
 sokucuzsokkalite.online
 sokvalizfirsat.com.tr
+sokvamencm.s0k.workers.dev
 sokweb.net.tr
 sokweb.org.tr
 sokyagfrsatbslze.com
@@ -345597,6 +345606,7 @@ telefondaindirimdenvazgecme.cfd
 telefondaindirimdenvazgecme.click
 telefondaindirimdenvazgecme.icu
 telefondaindirimdenvazgecme.sbs
+telefondaindirimgunleribasladi.icu
 telefondaindirimgunleribasladi.sbs
 telefondaindirimgunu.cfd
 telefondaindirimgunu.sbs
@@ -346459,6 +346469,7 @@ temmuzgarrentakampanyalari.com.tr
 temmuzgunleriseninle.com.tr
 temmuzgunleriseninle.info.tr
 temmuzgunleriseninle.net.tr
+temmuzgunleriseninle.tv.tr
 temmuzhediyekampanyapaributeknoloji-com.tk
 temmuzhediyeleri-sorgulapaributeknoloji-com.tk
 temmuziadesonuclari.com
@@ -399760,6 +399771,7 @@ yazinbuyukfirsatlari.xyz
 yazinbuyukfirsatlarii.online
 yazindirimefsaneburada.duckdns.org
 yazindirimefsaneburda.duckdns.org
+yazindirimfirsatli.com
 yazindirimifirsatitebte.com
 yazindirimleri.com
 yazindirimleri.com.tr
