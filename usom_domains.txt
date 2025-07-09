@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-09T16:06:37.204972
+# Updated: 2025-07-09T18:06:40.301139
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1714,6 +1714,8 @@
 101-7temmuz.com
 101-7temmuzsabah.com
 101-9tem-muz.com
+101-9temmuz.com
+101-9temmuzaksam.com
 101-a-sinirlistok.com
 101-aktuel-firsat-urunlerim.top
 101-aktuel-kampanya.top
@@ -32186,6 +32188,7 @@ a-habergov.org
 a-haberlerim.online
 a-haberleriniz.com
 a-hberim-edevlet.com
+a-hemen-kapida.duckdns.org
 a-host.co.uk/slehgtexc
 a-i-daatiadem.store
 a-i101.com
@@ -68209,6 +68212,7 @@ basvurvnr.cyou
 basvurvpr.com.tr
 basvurvpr.online
 basvurvpr.xyz
+basvurvrm.cyou
 basvurvry.com.tr
 basvurvrz.com.tr
 basvurvrz.cyou
@@ -78642,6 +78646,7 @@ bioderma-yazkremi.com.tr
 bioderma-yazkremi.net.tr
 biodermaguneskremi.com.tr
 biodermayaz.com.tr
+biodermayazkremi-firsat.com.tr
 biodermayazkremi.com.tr
 biodogacevre.com/admin/css/connection.php
 biogemex.com
@@ -84414,6 +84419,7 @@ bluesky.info
 blueskys.info
 blueskysuits.com
 bluespiredice.com
+bluespron.duckdns.org
 bluestacks-install.com
 bluestarpaymentsolutions.com
 bluetek1.com
@@ -153779,6 +153785,7 @@ ffqshnfuyj.duckdns.org
 ffr0h9j.duckdns.org
 ffreyluphv.duckdns.org
 ffrs.zapto.org
+ffrsatlarkacmlz.duckdns.org
 ffslwoxr.duckdns.org
 ffsnhbwampurkyr.su
 ffsq0n.duckdns.org
@@ -153944,6 +153951,7 @@ fhjyd.icu
 fhkjdhabpef.xdk8ax.cn
 fhlhgngd.cn
 fhlpuwtwaf.duckdns.org
+fhlsgs-skdfh-gsgsd.icu
 fhlvbqehpaxrwpp.ru
 fhmax60.cn
 fhmvosyb.com
@@ -158312,6 +158320,7 @@ flrstlarkcrmamakuzere.duckdns.org
 flrstlrikmczskktrms.com
 flrstlrkacirmayi1temmuz.xyz
 flrstlrkacirmayi30hzrn.xyz
+flrstlrkacirmayi9tmmz.xyz
 flrstlrlkacirmayitemmuz.xyz
 flrstnburda.shop
 flrtsapersembedeamaolsadahem.store
@@ -178902,6 +178911,7 @@ haftaninfirsatlari-sadeceonlineozel-7.com.tr
 haftaninfirsatlari-sadeceonlineozel-8.com.tr
 haftaninfirsatlari-sadeceonlineozel-9.com.tr
 haftaninfirsatlari.com.tr
+haftaninfirsatlari.info.tr
 haftaninfirsatlari.net.tr
 haftaninfirsatlari.org.tr
 haftaninfirsatlari.shop
@@ -196356,6 +196366,7 @@ hoposor.duckdns.org
 hoppaaaaaaa.asia
 hoppadads.com
 hoppalacoppala.site
+hopphoyhsja-27dgbbyfh.store
 hopplabilde.net
 hoppmark.com
 hopppeet.com
@@ -199872,6 +199883,7 @@ iade-sorgu-vatandaslik-kapisigovtrmv101.teknolojisepeti.net
 iade-sorgu-vatandaslik-kapisigovtrmv101.tk
 iade-sorgulama2021.ml
 iade-subesi-garantibbva.com
+iade-talep-et.site
 iade-talep-merkeziniz.cloud
 iade-taleplerim.com
 iade-taleplerim.net
@@ -225441,6 +225453,7 @@ kampayaarburada.com.tr
 kampayaarburada.online
 kampayaarburada.xyz
 kampayabol2kathediye.com
+kampayadafirsatlar.pics
 kampayagunlri.store
 kampayandanklama.xyz
 kampayayakatilavantajlicik.info
@@ -273468,6 +273481,7 @@ online-alisveris-sistemi.com
 online-alisveris-tr.online
 online-alisveris-tr.sa.com
 online-alisveris-yapin.com.tr
+online-alisveris.ilspd.sa.com
 online-alisveris.ru.com
 online-alisveris.sa.com
 online-alisverisim.net
@@ -303876,6 +303890,7 @@ ravelotti.cn
 raven.cam.ac.uk.iftl.tk
 raven12.ddns.net
 ravendistributors.com
+raveno.click
 ravenquartz.online
 ravenx.com.tr
 ravenxservis.com.tr
@@ -334079,6 +334094,7 @@ spnsrajansreklamqnq.xyz
 spnsrkmp86.com
 spnsrlu-295912905902590.name.tr
 spnsrlu-959812899823499291921.name.tr
+spnsrluvkfreklami.duckdns.org
 spnstlugndr3.duckdns.org
 spo32se34007.site
 spobymbfdkdwlhg.su
@@ -335248,6 +335264,7 @@ sslffsimdibasvrr.xyz
 sslguvenliksistemleri.com
 sslguvenliksistemleri.net
 sslkeycert.com
+sslkrmsflrsnkmvzcatmarsab.com
 ssllemrnzzsrgc.xyz
 sslnossoacesso.ddns.net
 sslnovosclientes.zapto.org
@@ -345730,6 +345747,7 @@ telefondaindirimdenvazgecme.cfd
 telefondaindirimdenvazgecme.click
 telefondaindirimdenvazgecme.icu
 telefondaindirimdenvazgecme.sbs
+telefondaindirimgunleribasladi.click
 telefondaindirimgunleribasladi.icu
 telefondaindirimgunleribasladi.my
 telefondaindirimgunleribasladi.sbs
@@ -346658,9 +346676,13 @@ temmuzpandemidestek.fit
 temmuzpazarhhd.com
 temmuzpazarsdg.com
 temmuzpttonlineshop.online
+temmuzsalcarsa.xyz
+temmuzsalcarsamba.xyz
+temmuzsalcarsambaindirimfirsatlarinizlaa.duckdns.org
 temmuzsaldayiko.xyz
 temmuzsalfirsatlar.xyz
 temmuzsalfirsatyarlari.duckdns.org
+temmuzsallarlasa.xyz
 temmuzsalmeselelers.xyz
 temmuzsalmeselelersali.duckdns.org
 temmuzsalmeselenizfistan.duckdns.org
@@ -375214,6 +375236,7 @@ voltakampanyasiaktuel.shop
 voltakampnya1o1.net
 voltala1o1.net
 voltama1o1.net
+voltamaktu.net
 voltamina1o1.net
 voltamospretin.ddns.net
 voltampereactive.com
