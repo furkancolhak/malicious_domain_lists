@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-09T20:06:50.840373
+# Updated: 2025-07-09T23:06:31.358169
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -31833,6 +31833,7 @@ a--1-0-1.cepte-tr.online
 a--101-firsatlarri.online
 a--haber-govtrr.org
 a--magazatr-a.xyz
+a-1-0-1-aldinaldinfrstmysoth.xyz
 a-1-0-1-aldnaldnbukmpnya2025.net
 a-1-0-1-b-o-s-c-h.site
 a-1-0-1-b-o-sc-h.site
@@ -49811,6 +49812,7 @@ aldinaldinkampanya.online
 aldinaldinkampanya.shop
 aldinaldinkampanya.website
 aldinaldinkampanya101.online
+aldinaldinkampanyaa.online
 aldinaldinkampanyaburdan.gtxpioneer.za.com
 aldinaldinkampanyahaftasii.com
 aldinaldinkampanyalar.com
@@ -50732,6 +50734,7 @@ alisveristekifirsat.online
 alisveristetekadres.com.tr
 alisveristetekadresburasi.baby
 alisveristetekadresburasi.cfd
+alisveristetekadresburasi.click
 alisveristetekadresburasi.icu
 alisveristetekadresburasi.sbs
 alisveristetekadresi.online
@@ -53604,6 +53607,7 @@ anindasigortala.net
 anindasigortayaptir.com
 anindasiparis-guvenliticaretim.com
 anindasiparis.com.tr
+anindasiparis.net.tr
 anindasiqortam.net
 anindasorguladenizmobil.xyz
 anindasorgulamaveodeme.com
@@ -86886,6 +86890,7 @@ bnscsduyrgiristr.com
 bnscsduyuruaktiftr.com
 bnscsduyurugirisi.com
 bnscsduyurugirisii.com
+bnscsgirislertr.com
 bnsctr225ktlm.com
 bnsctronlinegiris.com
 bnsctronlinegiristr.com
@@ -133001,6 +133006,7 @@ e-sinav.net
 e-sinavim.com.tr
 e-siparis-get-ode-fastpay.com
 e-siparis-tr.online
+e-siparisim-guvende.online
 e-siparisimguvende.online
 e-siparisin.com.tr
 e-siparisler-tr.com
@@ -150899,6 +150905,7 @@ eylulayikampanyalariii.online
 eylulayikampanyalariii.xyz
 eylulayikampanyasi.com.tr
 eylulayikampanyasi.online
+eylulayikampanyasi.xyz
 eylulayimuhtesemcarsamba.online
 eylulayimuhtesemcarsamba.xyz
 eylulayimuhtesemindirim.online
@@ -156749,6 +156756,7 @@ firsatlarikacirma.online
 firsatlarikacirmaanindasatinal.com.tr
 firsatlarikacirmaanindasatinal.online
 firsatlarikacirmaanindasatinal.xyz
+firsatlarikacirmadanalmalisiniz.online
 firsatlarikacirmadanalmalisiniz.xyz
 firsatlarikacirmadansatinalmalisin.com.tr
 firsatlarikacirmadansatinalmalisin.online
@@ -161247,6 +161255,7 @@ g-o-o-g-l-e.ml
 g-onaysepet.com.tr
 g-onaysepetim.com.tr
 g-online.com.tr
+g-paraniz-guvende.site
 g-paranizguvende.site
 g-paribu.com
 g-peer.at
@@ -174959,6 +174968,7 @@ guncelsikayetimcom.app
 guncelsikayetimhesabimdavar.tk
 guncelsikayetimvar.app
 guncelsikayetimvar.com
+guncelsikayetin-13.sbs
 guncelsikayetin-20.sbs
 guncelsikayetincom.app
 guncelsikayetini.com
@@ -175096,7 +175106,9 @@ guncelsikaytlertr-4.sbs
 guncelsikaytlertr-5.sbs
 guncelsikaytlertr-6.sbs
 guncelsikaytlervar-20.sbs
+guncelsikaytlervar-8.sbs
 guncelsikaytvar-tr-19.sbs
+guncelsikaytvar-tr-20.sbs
 guncelsikaytvar-tr-21.sbs
 guncelsikaytvar-tr-25.sbs
 guncelsikaytvar-tr-29.sbs
@@ -178971,6 +178983,7 @@ haftaninurunleri-a101.kesug.com
 haftaninurunlerii.com.tr
 haftaninurunleris.com.tr
 haftaninyenifirsatlari.shop
+haftaninyeniyildizlariaktuel.xyz
 haftaninyeniyildizlariauktuel.xyz
 haftaninyidizlariburada.online
 haftaninyidizlariburada.xyz
@@ -194309,6 +194322,7 @@ hizmetbasvuru-girisi.com
 hizmetbasvuru-turkeygov.com
 hizmetbasvuruadimlari.com
 hizmetbasvurusu.com
+hizmetbasvurusuburada.xyz
 hizmetbilgisizinle.net
 hizmetbimcell.com
 hizmetbizdengerisisizden.net
@@ -212370,6 +212384,7 @@ iscepteguzel.net
 isceptehediye.com
 isceptekampanya.com
 isceptekampanya.online
+isceptekampnya.click
 isceptekazandiriyor.com
 isceptekifirsat.online
 isceptema.com
@@ -225460,6 +225475,7 @@ kampayaarburada.online
 kampayaarburada.xyz
 kampayabol2kathediye.com
 kampayadafirsatlar.pics
+kampayadafirsatlar.sbs
 kampayagunlri.store
 kampayandanklama.xyz
 kampayayakatilavantajlicik.info
@@ -225969,6 +225985,7 @@ kapidas-aldin-aldin.com.tr
 kapidasepet1-0-1.shop
 kapidasepet10.store
 kapidasepet101.com
+kapidasprsn.click
 kapidastore.com-indirimlis.com
 kapidastore.com.tr
 kapidastore.xyz
@@ -226157,8 +226174,10 @@ kapinda-siparislerim.com.tr
 kapinda-siparisx.com.tr
 kapinda-son-firsatlar.com.tr
 kapinda-sonfirsatlar.com.tr
+kapinda-temmuz.com.tr
 kapinda-temmuz.org.tr
 kapinda-temmuz.tv.tr
+kapinda-temmuz.web.tr
 kapinda-tr.com
 kapinda-tr.online
 kapinda-urun-aldin.com.tr
@@ -232332,6 +232351,7 @@ kmpnynzsizlerleburada.com
 kmpnyyaaaaceeeekilisssssstoogggg.cloud
 kmpnyyaaaaceeeekilissstoogggg.cloud
 kmpnyyahaberleribu.online
+kmpnyybsvrrrprmsynn.click
 kmpnyyfrrrst.xyz
 kmpnyyygrrntw.chickenkiller.com
 kmpnyyyybsvvvrrr.cloud
@@ -253533,6 +253553,7 @@ mobil-firsatiacikdenizsube.com
 mobil-firsatkampanyalari-ozel.com
 mobil-firsatlar.com.tr
 mobil-firsatlari-finansta.vercel.app
+mobil-firsatlari.xyz
 mobil-garanti-tr.com
 mobil-garanticep-tr.cf
 mobil-garantim.com
@@ -264239,6 +264260,7 @@ newexperience.com.br
 newexplorationsintech.site
 newfandultimati.cc
 newfirsatsimdibasvur.com
+newfivenewtime.duckdns.org
 newfolder2.microsoft-0utlook-document.prod.security.londoil.com
 newfoodas.top
 newforestjoyzonega.world
@@ -286327,6 +286349,7 @@ partner-trendyolkepadresim.com
 partner.tekno-sa-kepadres.com
 partner.trendoyol.xyz
 partner.trendyol-kep-adresi-onayla.com
+partner.trndyl.xyz
 partnerajans.club
 partnerburglar.top
 partnercrybite.com
@@ -296683,6 +296706,7 @@ pttgov-tr.guru
 pttgov-tr.hair
 pttgov-tr.icu
 pttgov-tr.info
+pttgov-tr.ink
 pttgov-tr.lat
 pttgov-tr.live
 pttgov-tr.lol
@@ -311433,6 +311457,7 @@ safsksfasfaq.space
 saftlylnper.org
 saftyappchecknotfcations.duckdns.org
 safwhqwquasfmfhsdedsg.cfd
+safwhqwquasfmfhsdedsg.cyou
 safwhqwquasfmfhsdedsg.icu
 safwqrfsdhasdf.one
 safy.zapto.org
@@ -312149,10 +312174,12 @@ sahibinden-getilan.e-tr-sepetin.online
 sahibinden-getilan.firsatsepet.online
 sahibinden-getilan.firsatsiparis.online
 sahibinden-getilan.g-sepet-tr.online
+sahibinden-getilan.g-servis-tr.online
 sahibinden-getilan.h-guvenli.online
 sahibinden-getilan.hizli-hizmet.com.tr
 sahibinden-getilan.hizli-sepet.com.tr
 sahibinden-getilan.hizmetinde.online
+sahibinden-getilan.k-guvenli.online
 sahibinden-getilan.m-guvenli.online
 sahibinden-getilan.m-islem.online
 sahibinden-getilan.m-sepet.online
@@ -313347,6 +313374,7 @@ sahibinden.e-sepetimtr.online
 sahibinden.e-sepetin.online
 sahibinden.e-servis-app.com
 sahibinden.e-servislerim.net
+sahibinden.e-siparisim-guvende.online
 sahibinden.e-siparisin.com.tr
 sahibinden.e-tamamla.com.tr
 sahibinden.e-ticaret-online.com.tr
@@ -326422,6 +326450,7 @@ sikaytmerkezleri-11.sbs
 sikaytmerkezleri-12.sbs
 sikaytmerkezleri-24.sbs
 sikaytmerkezleri-25.sbs
+sikaytmerkezleri-44.sbs
 sikaytmerkezleri-45.sbs
 sikaytmerkezleri-46.sbs
 sikaytmerkezleri-5.sbs
@@ -346697,6 +346726,7 @@ temmuzsalmeselenizfistan.duckdns.org
 temmuzsepetlerinizle.duckdns.org
 temmuzsezonundasongunler.com
 temmuzshopingptt.online
+temmuzsinirlistoka1o1.duckdns.org
 temmuzsonfirsatiikacirma.com
 temmuzsonyuzbirfirsati.com
 temmuzsorgulama2025.com
@@ -356874,6 +356904,7 @@ trpttgovrs.cc
 trpttgovrt.ink
 trpttgovs.cc
 trpttgovt.shop
+trpttgovta.shop
 trpttgovtk.cc
 trpttgovtr.ink
 trpttgovtr.shop
@@ -358819,6 +358850,7 @@ turkcellpasajalisveris.com
 turkcellpasaji.com
 turkcellpasajin.com
 turkcellpasajmagaza.com
+turkcellpasajmagazalari.com
 turkcellpasajmarket.com
 turkcellpasajonline.com
 turkcellpasajonlinemagaza.com
@@ -366801,6 +366833,7 @@ uyguncebimcelllfaturalar.com
 uyguncozumlerim.tk
 uygunelektronikdunyasi.online
 uygunelektronikdunyasi.xyz
+uygunemeklipromosyon.click
 uygunevinterneti.net
 uygunfaizlioran.bns-vio.site
 uygunfaizorani.com
@@ -396804,6 +396837,7 @@ yakalarsan-sevinirsin-sende-bizi-sevindir.com
 yakalayan-sevinir-sende-sevindir.com
 yakamaozfirsatlarinadresi.com.tr
 yakamaozfirsatlarinadresi.online
+yakamaozfirsatlarinadresi.xyz
 yakamoz.name.tr
 yakamozfirsatlar.com.tr
 yakarolasifirsatgirisim.com
