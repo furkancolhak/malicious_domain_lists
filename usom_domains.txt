@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-10T00:06:45.842580
+# Updated: 2025-07-10T04:06:16.228583
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1521,6 +1521,7 @@
 10-aasdsdsg-sddfsd-sdggsf-sddgsd.com
 10-ocak-firsat.shop
 10-ocakfirsat.shop
+10-temmuzkacmaz.com
 10-yillik-kartaidatiade-gov-tr.com
 10.bireyseldestek.xyz
 100-yilkapsaminda.net
@@ -51033,6 +51034,7 @@ allmantravel.com/thumbs/db_template.php
 allmedicalpro.com
 allmeganews.com
 allmoae.run
+allmoae.xyz
 allmoneysurvey24.top
 allmusikcollection.com
 allmusikcollection.xyz
@@ -73260,6 +73262,7 @@ bilgitrendyol.online
 bilgitti.com
 bilgivakifbank.com
 bilgivakti.shop
+bilgivan.info
 bilgivebasvurum.com
 bilgivegirispromosyon.com
 bilgiya.info
@@ -91384,6 +91387,8 @@ buhaffta-firsttlr.dev
 buhafta-indirimler.online
 buhaftaanin-urunlerii.net
 buhaftabimde.shop
+buhaftadeliindirimlervar.cfd
+buhaftadeliindirimlervar.icu
 buhaftahakkinizvar.net
 buhaftaindirim.hopto.org
 buhaftaindirimi.hopto.org
@@ -98120,6 +98125,7 @@ ceo223.ddns.net
 ceo323.ddns.net
 ceoadminoffice.com
 ceoavantaj-iscep.vercel.app
+ceonapp.shop
 ceopattymarketing.com
 ceorldess.com
 ceowacumesuh.ddns.net
@@ -98933,6 +98939,7 @@ cepteodeme.tk
 cepteonay-garantibasvurulari.vercel.app
 cepteonay-garantiiiylebasvuruonaylari.vercel.app
 cepteonay-garantiiylebasvuruonaylari.vercel.app
+cepteonay-yapiceponayaktifkatilim.vercel.app
 cepteonlinemagaza.biz.tr
 cepteonlinemagaza.com.tr
 cepteonlinemagaza.info.tr
@@ -138916,6 +138923,7 @@ effectivemediation.top
 effecto-azureedge.net
 effecttec.shop
 effectvibration.top
+effervescentapp.com
 effexormgir.pw
 efficiencysergeant.top
 efficiencyslack.top
@@ -144610,6 +144618,7 @@ ensigorta.net.tr
 ensigortam.autos
 ensigortam.cfd
 ensjbaoui.com
+ensobaber.store
 ensohub.store
 ensonduyurularim.click
 ensonhaber.club
@@ -152406,6 +152415,7 @@ fastgirishem.click
 fastgirishem.xyz
 fastgosn.ddns.net
 fasthelprak3191212.bid
+fasthubs.site
 fastidious346.xyz
 fastify.elfaker.workers.dev
 fastify.sbs
@@ -167834,6 +167844,7 @@ getcord.co.za/db_template.php
 getcord.co.za/wp-admin/db-config-ini.php
 getcoupon.xyz
 getdisclose.top
+getdunaro.site
 getegroup.com
 getepiphany.store
 getepri.com
@@ -199905,6 +199916,7 @@ iade-sorgulama2021.ml
 iade-subesi-garantibbva.com
 iade-talep-et.site
 iade-talep-merkeziniz.cloud
+iade-talep.site
 iade-taleplerim.com
 iade-taleplerim.net
 iade-temmuz.online
@@ -238501,6 +238513,7 @@ leafank.com
 leafassert.top
 leafbod.com
 leafdefense.top
+leafgore.com
 leafimperative.top
 leaflet304.casacam.net
 leafletaffirmation.top
@@ -296011,6 +296024,7 @@ pttavm.satisguvencesi.com.tr
 pttavm.satisim.info.tr
 pttavm.satisim.net.tr
 pttavm.satismerkezi.shop
+pttavm.satisnoktasi.com.tr
 pttavm.satisofisi.info.tr
 pttavm.secure.info.tr
 pttavm.seninfirsatin.com.tr
@@ -316962,6 +316976,7 @@ satislarkampanyada101.com.tr
 satismerkezi.info.tr
 satismerkezi.online
 satismerkezi.shop
+satisnoktasi.com.tr
 satisofisi-tr-ilan.com.tr
 satisofisi-tr-ilanlar.com.tr
 satisofisi-tr-ilanlarim.com.tr
@@ -321405,6 +321420,7 @@ sepetekle.xyz
 sepetekoyduklarinhemenkapida.com.tr
 sepetekoyhemenal.online
 sepeteotobuzdolabii.cfd
+sepeteotobuzdolabii.icu
 sepeteotobuzdolabii.sbs
 sepetfirsati.com.tr
 sepetfirsatlari.online
@@ -321480,6 +321496,8 @@ sepetmagazasondakika.com
 sepetndeindirmvar.net
 sepetndeindirmvar.org
 sepetndeindirmvar.store
+sepetnurrgaz.cfd
+sepetnurrgaz.my
 sepetnurrgaz.sbs
 sepetolustur.com.tr
 sepetop.net
@@ -350837,6 +350855,7 @@ topfiless.com
 topfinancedouble.com
 topforms.online
 topfu.host
+topfuture.online
 topg.sa.com
 topgames22.online
 topgameus.com
@@ -351064,6 +351083,7 @@ torment.ddns.net
 torment1628.duckdns.org
 tormenta.hopto.org
 torminator.ddns.net
+tormirrlinv.com
 tornado-ai.com
 tornadocockpit.top
 tornavidaizeltasal.xyz
@@ -354394,6 +354414,7 @@ tramxrsorgu.net
 tramxrsxrgu.pw
 tramxsrguyap.pw
 tramxxsorg.net
+tran.top
 tranadoludestek.com
 tranca-takibi.info
 trandrospy.duckdns.org
@@ -371832,6 +371853,7 @@ verdgdjjfbadfa.net
 verdibot.com
 verdictbloc.top
 verdictmosquito.top
+verdigenix.com
 verdigimiz-emekler-onca-zama-inat.com
 verdik-sizlere-tonla.net
 verdim.site
@@ -378457,6 +378479,7 @@ web2de.duckdns.org
 web3.hopto.org
 web31.ddns.net
 web3948space24ski.ddns.net
+web3delta.com
 web3protocol.online
 web3withbinance.com
 web5041.web07.bero-webspace.de
