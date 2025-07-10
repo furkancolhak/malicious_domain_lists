@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-10T05:06:21.416116
+# Updated: 2025-07-10T07:06:26.663004
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1522,6 +1522,7 @@
 10-ocak-firsat.shop
 10-ocakfirsat.shop
 10-temmuzkacmaz.com
+10-temmuzsabah.com
 10-yillik-kartaidatiade-gov-tr.com
 10.bireyseldestek.xyz
 100-yilkapsaminda.net
@@ -42324,11 +42325,13 @@ agriculture.gov.mw
 agridagi.b-cdn.net
 agripal.ae/wp/wp-includes/ixr/connection.php
 agripods.ddns.net
+agritechtix.com
 agriturismo-1001ulivo.it/yecuhtyfxw
 agriturismobellaria.net/iugiwe8
 agriweek.com
 agriwellness.world
 agrocz.com
+agrodronne.pro
 agrogen.com.tr//db_template.php
 agrogen.com.tr/db_template.php
 agrogen.com.tr/stats/db_template.php
@@ -107861,6 +107864,7 @@ criticizepreside.top
 criticschronicle.com
 critter.qrfgsd.com
 crixerticfy.hopto.org
+crixmanrte.duckdns.org
 crizmaxiumum.space
 crizzybee.ddns.net
 crjhutpupm.duckdns.org
@@ -226108,6 +226112,7 @@ kapina-gelince-mutlu-hissedersin-burada.online
 kapina-online-kampanyaurunleri.com
 kapinafirsat.com.tr
 kapinageldiflrsat.art
+kapinageldisiparisin.xyz
 kapinagelsin.org
 kapinagelsinonlineindirimler1934.com.tr
 kapinahizme-urunelerim.com
@@ -230142,6 +230147,7 @@ kgsorgula.org
 kgsptt.xyz
 kgtbastakipsizav.xyz
 kgtbd91t.duckdns.org
+kgtmhgswebavisbil.sbs
 kgtodesmesiihll.site
 kgwbgcsodmsihizlibrc.duckdns.org
 kgwebmegecotodmghg.duckdns.org
@@ -267092,6 +267098,7 @@ novemberconstrain.top
 novemberfringe.top
 novembertickle.top
 novergi.com
+novexavas.pro
 novgeo.online
 novgorod-basket.ru
 novidadeonline.website
@@ -316725,6 +316732,7 @@ sashisworld.com
 sashkandro-44352.portmap.host
 sashok.ddns.net
 sasirtan-anlamlar-kardeslik-icinde-var.com
+saskin.cfd
 saskinsanademedimmi.com
 saskinsepet.com.tr
 sasms.co
@@ -339166,6 +339174,7 @@ sunadestekhatti.net
 sunamata.cc
 sunaysigorta.com.tr
 sunaysitesyses.site
+sunbloomz.com
 sunboyz17.duckdns.org
 sunbrehden.top
 sunburngrid.com
