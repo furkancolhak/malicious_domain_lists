@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-18T10:05:49.579102
+# Updated: 2025-07-18T11:03:11.830804
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2199,6 +2199,7 @@
 101hizlimarketleri.xyz
 101hizlisepet.online
 101hizmeti-17temmuz.xyz
+101hzlalsverss.xyz
 101hzrnozll.xyz
 101ideas4lifez.website
 101incimarketlereozeld.com
@@ -5568,6 +5569,8 @@
 142565626656265668.xyz
 142565626656265760.xyz
 142565626656265762.xyz
+142565626656265764.xyz
+142565626656265766.xyz
 14256890.xyz
 14256892.xyz
 14256894.xyz
@@ -53990,6 +53993,7 @@ anlik-siparisini-ver-lndirimlerden-yararlan.com
 anlik-tl-yukle-hatta-bireysel.com
 anlik-yukleme-sistemi.online
 anlik.sbs
+anlik1o1frsattkacmazbzle.com
 anlikakbasvurusorgulamaekran.com
 anlikapida1o1.com
 anlikarackiralama.com
@@ -221590,6 +221594,7 @@ jota22.duckdns.org
 jota57.ddns.net
 jota57s.ddns.net
 jotedidhi.com
+joterskterltes.click
 jothcyrdmqcouuu.su
 jotrrx.org
 jotunheim.name
@@ -224080,6 +224085,7 @@ kaerfmi8.ddns.net
 kaerfmi9.ddns.net
 kafa.name.tr
 kafaacicialianac.online
+kafadar.cfd
 kafalar.host
 kafalarhigh.net
 kafalerkscsd.blogspot.com
@@ -335116,6 +335122,7 @@ spnpfczwso.duckdns.org
 spnrlugndrirklmlr1.xyz
 spnrlugndrirklmlr2.xyz
 spnslur-924991249.name.tr
+spnsorlu-1vakf.duckdns.org
 spnsorlu-59012-icerik.online
 spnsorlu-669129229.online
 spnsorlukampanya.com
@@ -345681,6 +345688,7 @@ teb-cep-online-bonus.cf
 teb-cep-online-tr.com
 teb-cepsube.com
 teb-cepsubem.com
+teb-cepte-girisler-promosyon.duckdns.org
 teb-cepte-promosyonlar.duckdns.org
 teb-cepte.com
 teb-com-tr.tk
