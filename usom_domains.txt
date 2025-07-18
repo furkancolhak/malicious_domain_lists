@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-18T11:05:35.996326
+# Updated: 2025-07-18T12:05:42.440485
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5571,6 +5571,7 @@
 142565626656265762.xyz
 142565626656265764.xyz
 142565626656265766.xyz
+142565626656265768.xyz
 14256890.xyz
 14256892.xyz
 14256894.xyz
@@ -50003,6 +50004,7 @@ aldinaldinstok100.com
 aldinaldintakvimi.online
 aldinaldintemmuz.biz.tr
 aldinaldintemmuz.info.tr
+aldinaldintemmuz.net.tr
 aldinaldintemmuz.space
 aldinaldintemmuz.web.tr
 aldinaldintr.icu
@@ -50564,6 +50566,7 @@ aliniz.net
 alinmasicingerekli.za.com
 alinmatkapskyh.xyz
 alinporney.xyz
+alinsd-burdsa-aldsn-adln.shop
 alionm.zapto.org
 aliopak.com.tr
 aliqwe.zapto.org
@@ -68439,6 +68442,7 @@ basvurymn.xyz
 basvurzmn.com.tr
 basvurzmn.xyz
 basvurzmr.com.tr
+basvurzmr.xyz
 basvurznr.com.tr
 basvurznr.cyou
 basvurzuz.site
@@ -78034,6 +78038,7 @@ binance-kampanya.xyz
 binance-kampanya2024.cloud
 binance-kampanyalarim.net
 binance-kampanyam.net
+binance-listigns.com
 binance-login.org
 binance-mayis-etkinlikleri.net
 binance-member.xyz
@@ -119061,6 +119066,7 @@ desertionpreceding.top
 desertionrelish.top
 desertionstoop.top
 desertislem.22web.org
+desertnetic.com
 desertpharmaceutical.top
 desertplentiful.top
 desertrium.com
@@ -124620,6 +124626,7 @@ dobra.in
 dobulunoktafirsatlari.com.tr
 dobulunoktafirsatlari.online
 dobulunoktafirsatlari.xyz
+doc-irs.us
 doc-send.com
 doc.az-link.email
 doc.internetdocss.com
@@ -127942,6 +127949,7 @@ dw5x5wxwxw.click
 dw6.uptodown.com
 dw7.uptodown.com
 dwaawdawdaw.ddns.net
+dwadawdfawf.shop
 dwajfjaiakdnsandks.com
 dwarfdubious.top
 dwarfnight.top
@@ -141910,6 +141918,7 @@ elias123123.ddns.net
 elicitendow.top
 elicitprosperity.top
 elidaclothes.shop
+elidor.cfd
 elienne.net
 elif-askim.pro
 elifayardimvakfi.org
@@ -171465,6 +171474,7 @@ glovatickets.ru
 glove352.xyz
 glovecompassion.top
 glovedisagreeable.site
+glovexa.my
 glowandchic.com
 glowavenuebeauty.com
 glowchat-33103-default-rtdb.firebaseio.com
@@ -183698,6 +183708,7 @@ harikasongunler.xyz
 harikasubatayiburada.com.tr
 harikaurunleradresleri.com.tr
 harikaurunlerimindirimlikapinahizmet.com
+harikayalardiyariidnirimleri.sbs
 harikayardim.tech
 harikayuzyilkamoanyas.online
 harird.ru.com
@@ -194554,6 +194565,7 @@ hizlisiparistr.com
 hizlisiparisver-101.online
 hizlisiparisver.click
 hizlisiparisver.com
+hizlisiparisver18temmuz.cloud
 hizlisiparisyonlendir.cloud
 hizlisiparizgelsin.xyz
 hizlisiparsver.click
@@ -233162,6 +233174,7 @@ kmsorgusu.blogspot.com
 kmsorguu-gov-tr.duckdns.org
 kmsorguyap-ptt-gov.duckdns.org
 kmsorguyapalimhemenaninda.duckdns.org
+kmsorguyaphemengovptt-trr.duckdns.org
 kmsorguyapshuzky-gov-tr.duckdns.org
 kmsorptt-3591f3201846.herokuapp.com
 kmsorugsaduas.online
@@ -240578,6 +240591,7 @@ limonira.store
 limonlog.name.tr
 limonlusoda.com
 limpiiot.top
+limpilimpieza.net
 limpopo365year.ru
 limpopopo.ga
 limtdhak.com
@@ -252351,6 +252365,7 @@ microsoftservice.dns1.us
 microsoftservice761.ddns.net
 microsoftservicev55.hopto.org
 microsoftslr.ddns.net
+microsoftsmailrmytgdnuug.iparyamp.ru
 microsoftst.ddns.net
 microsoftsystem32.ddns.net
 microsoftt-teams-download.com
@@ -309133,6 +309148,7 @@ rmzanhsgodemmeonlne.com
 rmzcd.com
 rmzdnindrmleri.click
 rmzfwjxuxb.duckdns.org
+rmzksn.com
 rmzn-h-g-s-yukler.blogspot.com
 rmzn-pakler-101.blogspot.com
 rmznaaozelhrsy.click
@@ -328610,6 +328626,7 @@ sipletoc.site
 siplv.xyz
 sipqortam.xyz
 sipraislerin15temmzuda.cloud
+sipraisleringizli18temmuz.cloud
 siprslkeringelditslmal234-15dimi.com
 sipyzaoo.com
 siqgortacimm.com.tr
@@ -348570,6 +348587,7 @@ tevfikfikretvakfi.com
 tevfikretkayit.com
 tevfikretvakfi.com
 tevjorycxvhtily.cn
+tevkfburdan.com
 tevktrksaracmjs.net
 tevktrm62s.net
 tevmuanybrcsdk.net
@@ -358054,6 +358072,7 @@ trpttgovturc.shop
 trpttgovturi.shop
 trpttgovturo.shop
 trpttgovturou.shop
+trpttgovturse.shop
 trpttgovtursi.shop
 trpttgovturv.shop
 trpttgovturva.shop
@@ -358061,6 +358080,7 @@ trpttgovturve.shop
 trpttgovturvi.shop
 trpttgovturvo.shop
 trpttgovturvs.shop
+trpttgovturz.shop
 trpttgovtut.shop
 trpttgovtuur.shop
 trpttgovtuv.shop
@@ -362398,6 +362418,7 @@ turpttgovt.shop
 turpttgovtre.shop
 turpttgovtro.shop
 turpttgovtrs.shop
+turpttgovtrv.shop
 turriculated.com
 tursab-acenta.org
 tursab-acentakontrol.com
@@ -362423,6 +362444,7 @@ tursabwebonay.org
 tursap.org
 tursap.site
 turshopnowonlineee.online
+tursiteptts.help
 tursktelekomtlyukleme.net
 tursolution.pw
 turspttagov.shop
@@ -363141,6 +363163,7 @@ twbakt.ml
 twbakt.tk
 twbntrozels.vercel.app
 twbtc.space
+twcefqctafq-dqfwxqfqv-bwvshcwga.shop
 twdestekmerkesi.com
 twdx5w5xdw.click
 twe3o0.duckdns.org
@@ -366330,6 +366353,7 @@ uresolved-recovery.hopto.org
 uretenhalkbank.com
 ureticidenhizlitikla.shop
 ureticidenkapinagelsin.shop
+ureticidentamzamani.xyz
 ureticidentermosal.xyz
 ureticidentuketiciye.xyz
 ureticisatisplatformu.xyz
@@ -369136,6 +369160,7 @@ vakfbnk.ciko-cdn.site
 vakfbnkampanya.com
 vakfbnkbireyseltr.ml
 vakfbnkbireysl.com.tr
+vakfbnkcworldea.com
 vakfbnkdjtalkredbasvr.gq
 vakfbnkhedyleryeniapigiris.cf
 vakfbnkihtiyackredibsvr.gq
