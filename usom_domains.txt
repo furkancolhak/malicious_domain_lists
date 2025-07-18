@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-18T18:06:33.839631
+# Updated: 2025-07-18T21:05:12.942954
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2752,6 +2752,7 @@
 103.192.226.46
 103.192.226.87
 103.192.80.134
+103.193.177.152
 103.195.103.54
 103.195.150.106
 103.195.236.140
@@ -5857,6 +5858,7 @@
 1453mk1.info
 1453mk2.info
 1453ydv.com
+1454545466990.xyz
 14556380.xyz
 14556388.xyz
 145746738746829537842934.online
@@ -7159,6 +7161,7 @@
 166.0.94.216
 166.205.190.23
 166.62.30.147
+166.88.61.35
 16624831-coinbase.com
 16642124-coinbase.com
 16642172-coinbase.com
@@ -7507,6 +7510,7 @@
 172.234.25.151
 172.235.166.10
 172.235.166.240
+172.237.6.207
 172.245.120.8
 172.245.123.11
 172.245.128.35
@@ -7871,6 +7875,7 @@
 176.65.134.62
 176.65.137.13
 176.65.137.188
+176.65.137.203
 176.65.137.5
 176.65.137.6
 176.65.138.3
@@ -13639,6 +13644,7 @@
 207.180.202.208
 207.180.230.218
 207.180.230.63
+207.231.109.252
 207.231.111.146
 207.244.199.46
 207.244.249.143
@@ -20039,6 +20045,7 @@
 45.140.17.23
 45.140.17.24
 45.140.17.40
+45.141.139.222
 45.141.151.103
 45.141.151.71
 45.141.157.105
@@ -21175,6 +21182,7 @@
 47.94.138.49
 47.96.15.13
 47.96.69.71
+47.97.113.36
 47.97.42.177
 47.98.248.205
 470gmail.com
@@ -27841,6 +27849,7 @@
 80.255.3.86
 80.28.152.156
 80.6.192.58
+80.64.16.241
 80.64.16.87
 80.64.30.237
 80.64.80.169
@@ -27885,8 +27894,11 @@
 80.85.152.191
 80.85.152.247
 80.85.153.49
+80.85.154.48
 80.85.155.80
 80.85.156.151
+80.85.156.234
+80.85.156.237
 80.85.157.3
 80.86.91.91
 80.87.196.41/login
@@ -28143,6 +28155,7 @@
 82.117.255.80
 82.118.16.128
 82.118.16.223
+82.118.16.72
 82.118.21.1
 82.118.21.230
 82.118.21.26
@@ -28438,6 +28451,7 @@
 84992d88.jdhuwoskz.cloud
 8499319432233.com
 849938473.com
+849984984984984984984.duckdns.org
 84b7bxlbd.duckdns.org
 84df7ridc.duckdns.org
 84do2utql.duckdns.org
@@ -30144,6 +30158,7 @@
 91.92.255.14
 91.92.255.71
 91.92.255.77
+91.92.46.60
 91.92.46.70
 91.92.66.124
 91.92.66.192
@@ -36041,6 +36056,7 @@ abud.web1337.net
 abuksubuk456.duckdns.org
 abulmoore35243.xyz
 abundanttyj.site
+aburabur193.duckdns.org
 aburadhac.zapto.org
 abuse45nb.66ghz.com
 abuse45nb.is-best.net
@@ -40854,6 +40870,7 @@ adile56tasarim.com
 adiliqbal.com.pk/wp-admin/includes/db_template.php
 adilnice.zapto.org
 adimbilaldegilaracsonses.net
+adimikalbineyaz.sbs
 adimsepetim.com
 adimvakfi.net
 adinasikayetvar.ml
@@ -50091,6 +50108,7 @@ aldinsimdionline.icu
 aldinsimdiozel.shop
 aldinsimdiwebeozel.store
 aldintemmuzdason.com.tr
+aldintemmuzdason.name.tr
 aldintemmuzdason.net.tr
 aldintemmuzdason.org.tr
 aldintemmuzdason.web.tr
@@ -50763,6 +50781,7 @@ alisverisfirsatlari.online
 alisverisgetguvende.com.tr
 alisverisgetmobil.com.tr
 alisverisgunleri.sa.com
+alisverisgunlerin.online
 alisverisgunleriniz.sa.com
 alisverisguvende.com.tr
 alisverisguvenliislem.top
@@ -62914,6 +62933,7 @@ b-magaza.tk
 b-mec-paket-ykle.blogspot.com
 b-metric.com
 b-name.website
+b-namysb.sbs
 b-nance.com
 b-nancedes-tek.net
 b-nanceiadehediyeleri.net
@@ -88890,6 +88910,7 @@ bouqueturanium.top
 bouqutaliention.top
 bouranabrothers.com//db_template.php
 bouratirouelement.zapto.org
+bourgclick.com
 bourna.xyz
 bourncap.com
 bourns.space
@@ -89651,6 +89672,7 @@ brikule.cz
 brilliance83.xyz
 brilliancesalon.top
 brillianceslack.top
+brilliant-bubblegum-137cfe.netlify.app
 brilliantbrisk.top
 brilliantglamour.top
 brillianthumane.top
@@ -103434,6 +103456,7 @@ cmandrslmre.com
 cmandrslmre2.com
 cmavrghzht.net
 cmayxkgpmh.duckdns.org
+cmb8k1nbj000008l1api07o0n.info
 cmc.connect.secure.com.vibrant-lehmann.91-194-55-31.plesk.page
 cmck4vve6e24wdktsc9n8l1izi7eb9.biz
 cmcv3kg.duckdns.org
@@ -124893,6 +124916,7 @@ dofassi.xyz
 dofepoh3.us
 dofkmdmd.net
 dofusseller.ddns.net
+dofuviiy.com
 dog-repair-shower.com
 dog-training-technique.com
 dogadakiguzelliklercanseverler.xyz
@@ -167257,6 +167281,7 @@ gelibolusubesindeler.xyz
 gelilah.com
 gelilrxa.com.tr
 gelimog.online
+gelinalinsd-burdsa-aldsn-adln.shop
 gelinberabergarantiye.online
 gelinberabergidelim.net
 gelinberenemeyer.online
@@ -177763,6 +177788,7 @@ gwbrqo.com
 gwbv-rbrh-nhg.space
 gwc2.zapto.org
 gwcbid3z.duckdns.org
+gwcegqhscgq-twfetqfwca-xwfqhvq.shop
 gwcehsgqv-ywfsgqca-xqdacqc.cfd
 gwcehsgqv-ywfsgqca-xqdacqc.sbs
 gwctest.zapto.org
@@ -183701,6 +183727,7 @@ harikaindirimliay.xyz
 harikaistanbul.com
 harikakampanyahaftasi.com.tr
 harikakampanyahaftasi.online
+harikakampanyalarburada.click
 harikakampanyalarburada.online
 harikakampanyalarburada.xyz
 harikakampanyalardasongun.com.tr
@@ -199025,6 +199052,7 @@ huzurkahvesi.org
 huzurkapilari.space
 huzurkayna.org
 huzurkoprusu.org
+huzurla-dolu-her-anin-keyfi.top
 huzurlu-bir-gune-mutluluk-geldi.top
 huzurlugunler.com
 huzurlular.online
@@ -202893,6 +202921,7 @@ idmesponsorship.duckdns.org
 idmeverification.hopto.org
 idmeverify.hopto.org
 idnirimdegnlerburda.com.tr
+idnirimlifiyatlar.sbs
 idnirisminial.shop
 idnirmisnahznesi.shop
 idnrisimliurusnleskaci.com
@@ -204657,6 +204686,7 @@ ile-guvenli-islem.com
 ile-guvenli-islemini-yap.com
 ile-guvenli-isleminiyap.com
 ile-guvenli-islemlerim.com
+ile-guvenli-kolay-forum.com
 ile-guvenli-odeme-sayfasi.com
 ile-guvenli-odeme-secure.com
 ile-guvenli-odemem.com
@@ -217396,6 +217426,8 @@ izell.org
 izeltasadresim.xyz
 izeltasaldinaldin.xyz
 izeltasalmak.xyz
+izeltasfirsat.com.tr
+izeltasfirsat.online
 izeltasfirsatlari.online
 izeltasfiyatindir.xyz
 izeltashizliguvenn.xyz
@@ -222620,6 +222652,7 @@ jw5m6qhk.duckdns.org
 jw7361yehno93yhi.com
 jw757696.ddns.net
 jw8.bm
+jw8ndw9ev.localto.net
 jw9428875.duckdns.org
 jwadeofuls.duckdns.org
 jwakah2s5ombbo7q.onion.link
@@ -238220,6 +238253,7 @@ l5izsv.duckdns.org
 l5ju7ji.duckdns.org
 l5k.xyz
 l5mpph.duckdns.org
+l5ugb6qxh.localto.net
 l5upi.kuaifubang.cn
 l5usjix.duckdns.org
 l5xezes8.duckdns.org
@@ -238787,6 +238821,7 @@ lashhamper.top
 lashrot.top
 lasihuolto.fi
 lasilin.ddns.net
+lasix20.com
 laskerbanys.kz
 lasldaslaslwkq.com
 lasloki.us
@@ -239701,6 +239736,7 @@ lencom-tickets.ru
 lenda.info
 lenda.zapto.org
 lendadohospisio.ddns.net
+lender-router-exclusively-fractio.trycloudflare.com
 lendojekam.xyz
 leneeslsp.com
 lenfante.com
@@ -252092,6 +252128,7 @@ mgybx.net
 mgyrs.online
 mh-service.ru
 mh-service.ru/jhgcd476334
+mh-sns.com
 mh.madagent.cc
 mh22w4n.duckdns.org
 mh3roylarchp.blogspot.com
@@ -256698,6 +256735,7 @@ mockradiator.top
 mockworld.top
 mocnatural.com
 mocnlzrp.com
+moctw.info
 mocwhsne.com
 mod-gov-bd.dwnlld.info
 mod-gov-bd.live-co.org
@@ -268007,6 +268045,7 @@ novusglobal.us/templates/zoner/connection.php
 novusloft.com
 now--sso-ku-kcoquiinin.webflow.io
 now-have-a-nice-day.tk
+now-refer-several-tariff.trycloudflare.com
 now-release.tk
 now-yardim-talep-olustur.com
 nowaitapk.site
@@ -288867,6 +288906,7 @@ pentester520.ddns.net
 pentesx.site
 penti1ode5al.com
 pentox.hu
+pentree.online
 penvsenna.net
 peoliongoal.live
 peolplefortalce.gq
@@ -295217,6 +295257,7 @@ proxoid.ddns.net
 proxpn.zapto.org
 proxs.duckdns.org
 proxuus.ddns.net
+proxy.objectlook.com
 proxybreve.duckdns.org
 proxycheker.pro
 proxycmd.duckdns.org
@@ -302721,6 +302762,7 @@ query.black
 query.blue
 query.community
 query.company
+query.datasophos.com
 query.jackalapp.online
 query.network
 query.twisstersystems.cloud
@@ -306131,6 +306173,8 @@ redluck0.com
 redmard.com
 redmi-indirimi.com
 redmialimfirsatlariburadahemen.click
+redmialimfirsatlariburadahemen.my
+redmialimfirsatlariburadahemen.sbs
 redmialimfirsatlariburdanyapilir.cfd
 redmialimfirsatlariburdanyapilir.my
 redmialimfirsatlariburdanyapilir.sbs
@@ -317867,6 +317911,7 @@ satinalimlaritamamlarin.cloud
 satinalimservisin.com.tr
 satinaliniz.com
 satinaliniz.com.tr
+satinall.duckdns.org
 satinalmaislemleri-sahibindenparamguvende-com.tk
 satinalparaguvende.com
 satinalparamguvende.com
@@ -322430,6 +322475,7 @@ sepet-alim-servisi.online
 sepet-alim.online
 sepet-alimin.online
 sepet-alisverisleri-ptt-siparis.online
+sepet-carrefoursa.vercel.app
 sepet-dyson.com.tr
 sepet-eklee.com
 sepet-hizmet.com.tr
@@ -331589,6 +331635,7 @@ softwarehub.co.za/layouts/db-config-ini.php
 softwareplayertop.com
 softwareservicesupport.azurewebsites.net
 softwareservicesupports.azurewebsites.net
+softwareshop.win
 softwaresoft-2013.ru
 softwaretime.top
 softwareulike.com
@@ -335246,6 +335293,7 @@ spnrlugndrirklmlr1.xyz
 spnrlugndrirklmlr2.xyz
 spnslur-924991249.name.tr
 spnsorlu-1vakf.duckdns.org
+spnsorlu-1yapl.duckdns.org
 spnsorlu-59012-icerik.online
 spnsorlu-669129229.online
 spnsorlukampanya.com
@@ -338010,6 +338058,7 @@ stormanx01.com.tr
 stormanx01.online
 stormflux.store
 stormgocolocrest.xyz
+stormi1ng.com.tr
 stormlegue.com
 stormslva.net
 stormxdt007.zapto.org
@@ -341516,6 +341565,7 @@ svdc81jz.duckdns.org
 svdgngnlerdndrlm.shop
 svdklrndbrabzvrdks.shop
 svdkmglsdslors.shop
+svdlargnlredesas.shop
 svdlrdabgnlrdsbz.shop
 svdmq.com
 svdnrnyntenler.com
@@ -343369,6 +343419,7 @@ talhapetshop.com
 taliban157.ddns.net
 taliban157.hopto.org
 talihli-qnbfinans.com
+talitevkf.com
 talk23432.xyz
 talk235.xyz
 talkahigh.xyz
@@ -363500,6 +363551,7 @@ twlrv0w.cn
 twltch.lol
 twltch.uno
 twmerkesnoktasi.net
+twmoc.info
 twnic.almostmy.com
 twnoc.ddns.net
 two-invest.info
@@ -381715,6 +381767,7 @@ weebq.synergize.co
 weebsubayrntilrmizins2.xyz
 weebsubayrntilrmizins4.xyz
 weebsubayrntilrmizins7.xyz
+weebsubayrntilrmizinsz4.xyz
 weebtapkon.online
 weed.html-5.me
 weedimprisonment.top
@@ -383455,6 +383508,7 @@ wixqudgzeo.duckdns.org
 wiyrky1l.duckdns.org
 wiz121.ddns.net
 wiz2019.ddns.net
+wizard-individual-intervals-franklin.trycloudflare.com
 wizard1312.com.tr
 wizardcheck.online
 wizardly-almeida.136-244-95-190.plesk.page
@@ -405244,6 +405298,7 @@ yogakidsuae.com/wp-includes/simplepie/xml/connection.php
 yogaoutreachproject.com
 yogapets.xyz
 yogarecap.com
+yogasitesdev.wpengine.com
 yogavefitnessileformdayim.xyz
 yogee8.duckdns.org
 yogeshmehra.org
@@ -405745,6 +405800,7 @@ yonlendirmefirsatiburdaniz.cfd
 yonlendirmefirsatiburdaniz.cyou
 yonlendirmefirsatiburdaniz.sbs
 yonlendirmefirsatiburdaniz.xyz
+yonlendirmefirsatlariredmiden.cfd
 yonlendirmefirstlariburdn.cfd
 yonlendirmefirstlariburdn.sbs
 yonlendirmefirstlariburdn.xyz
