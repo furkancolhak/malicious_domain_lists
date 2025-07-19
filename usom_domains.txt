@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-19T11:05:18.377279
+# Updated: 2025-07-19T12:05:19.680897
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -96324,6 +96324,7 @@ carrefaursa.online
 carrefaursa.site
 carrefaursa.store
 carreffoueor-sa.online
+carreffour-sa.online
 carreffoursa.online
 carreffoursa.site
 carreffoursa.space
@@ -160772,6 +160773,7 @@ frsatlardnyasindaszlerleyzz.com
 frsatlarikacirmatmmz.duckdns.org
 frsatlarikacirmayinlrmk.duckdns.org
 frsatlarikacirmaynl.duckdns.org
+frsatlarikacirmaynllnktatn.duckdns.org
 frsatlarintamzamani.net
 frsatlarkarli.duckdns.org
 frsatlarladoluyaam.site
@@ -194640,6 +194642,7 @@ hizlisigortamnet.online
 hizlisigortamyeni.com.tr
 hizlisigortanyeni.com.tr
 hizlisilemadresinizadiatburda.online
+hizlisipariler18bucukda.cloud
 hizlisipariousturunanlik.cloud
 hizlisiparis-101ozel.online
 hizlisiparis-odeme-a101.com
@@ -232521,6 +232524,7 @@ kkriedimiihttiyaaccim.link
 kkrmgebetg.duckdns.org
 kkrsmlsroyd.net
 kks80hyrpbmuz.life
+kksefesad.com
 kkshdh.duckdns.org
 kkskxwkxw.click
 kksogukcuzdan.com
@@ -328568,6 +328572,7 @@ sipambi-projects.co.za/vendor/wp-config-ini.php
 sipandscoop.com
 sipapp.lat
 siparilerindehizlisin18bucuk.cloud
+siparilerindehizlsiin18de.cloud
 siparinizolusturuldu.click
 siparinzsepetinizde.click
 siparis-0745.com
@@ -336792,6 +336797,7 @@ ssss4.ddns.net
 ssssaaaa.myftp.biz
 ssssaaaqqqqrrrrg.zapto.org
 ssssahibindenparaguvendeilan.com
+sssskltkmmfkmflrskmcztmrsss.com
 sssss4hibindenparamguvende.online
 ssssss123.xyz
 ssssssdssd.zapto.org
@@ -407097,6 +407103,7 @@ yurticikibriskargo.com
 yurticikibriskargo.org
 yurticikirikkale.top
 yurticikrgosrglm.shop
+yurticiodeme.com
 yurticisorgula.online
 yurticitakipkargo.com.tr
 yurticivakif.com
