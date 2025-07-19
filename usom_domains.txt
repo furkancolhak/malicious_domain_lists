@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-19T16:43:25.809668
+# Updated: 2025-07-19T18:05:13.405506
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1857,6 +1857,7 @@
 101-sponsor-a101.info.tr
 101-temmuz-indirimi.net
 101-temmuz17.com
+101-temmuz18.com
 101-tv-temmuzindirimlerin.vercel.app
 101-volta-com-tr.click
 101-volta-com-tr.sbs
@@ -42515,6 +42516,7 @@ agsbababsja-ansjls-assbsa.cyou
 agsbababsja-ansjls-assbsa.icu
 agsbababsja-ansjls-assbsa.sbs
 agsfgwqgfsa-hasfwqfugweg.cfd
+agsfgwqgfsa-hasfwqfugweg.cyou
 agsgshagvhshq.net
 agshcftdfygva-awugfyctdcgvbh.cfd
 agshcftdfygva-awugfyctdcgvbh.lol
@@ -68014,6 +68016,7 @@ basvurumerkezi.vercel.app
 basvurumerkezi.xyz
 basvurumerkezi2023.com
 basvurumerkezi2023.online
+basvurumerkezi808.duckdns.org
 basvurumerkezibbva.static.domains
 basvurumerkeziiadesistemi.com
 basvurumerkezim.com
@@ -68212,6 +68215,7 @@ basvuruonaydankredilerim.net
 basvuruonaydogrula.org
 basvuruonaydurum.com
 basvuruonayfastekrani.com
+basvuruonayfer.duckdns.org
 basvuruonayhizmetigr.com
 basvuruonayim.com
 basvuruonayingkredilerim.co.vu
@@ -96131,6 +96135,7 @@ cardmarket.biz
 cardslump.top
 cardspectrum.top
 cardzstorezone.com
+careefour.sa.com
 careerfinder.ro
 careerhypocritical.top
 careeronestop.site
@@ -96192,6 +96197,7 @@ carfrsnzdngldi.com
 carfrsnzdnyazngldii.com
 carfrssa.shop
 carfrstlaronline.xyz
+carfurdan-kampanya.duckdns.org
 carfursa-market.site
 carfursa-online.site
 carfursa47ndrm.com
@@ -153764,6 +153770,7 @@ fe4850237811h.net
 fe4wig.duckdns.org
 fe76f11127ae65b3157f527764e07b80.de
 fe7y8bff.duckdns.org
+feahrewses.shop
 feaqws.blogspot.com
 fearbq.top
 fearcankamnasd.duckdns.org
@@ -163953,6 +163960,7 @@ garantibbva.club
 garantibbva.co
 garantibbva.co.in
 garantibbva.dev
+garantibbva.gettrials.com
 garantibbva.github.io
 garantibbva.gleeze.com
 garantibbva.guvenlibasvuru.com.tr
@@ -168557,6 +168565,7 @@ getirotom.online
 getirotorent.info
 getirrarabakiralama.online
 getirsarackiralamas.net
+getirsenebizimkapilara.com
 getirsenehemenkatilglobalfirsatinesine.website
 getirsenehg.xyz
 getislem.22web.org
@@ -172945,6 +172954,7 @@ gothacked4063.ddns.net
 gothgsm.com
 gotmnw.top
 goto-informations-ss989.duckdns.org
+goto.proxydns.com
 gotoatksdlnasndasma.blogspot.com
 gotobharat.com
 gotogo.sg-host.com
@@ -193782,6 +193792,7 @@ hizlicafrsattanlik1o1.com
 hizlicagecerim.sg-host.com
 hizlicagelsinsize1o1.com
 hizlicagetirelimkapiya.org
+hizlicagetirelimsize.com
 hizlicagricilarkartal.duckdns.org
 hizlicahasarddurumuorren.net
 hizlicahemenhizlandi.shop
@@ -232824,6 +232835,7 @@ klmsader-balmsask-asklmsad.cyou
 klmsader-balmsask-asklmsad.icu
 klmsader-balmsask-asklmsad.sbs
 klmsorf-b0334e29039e.herokuapp.com
+klmsorguala.duckdns.org
 klmtreesrguchpp.click
 klmtresorgulama.blogspot.com
 klmtrsorgulama.blogspot.com
@@ -233958,6 +233970,7 @@ kolaysepet.click
 kolaysepetde.shop
 kolaysepetin.click
 kolaysepte.click
+kolaysiparis.click
 kolaysiparis.online
 kolaysiparis.store
 kolaysipariscebinde.shop
@@ -322610,6 +322623,7 @@ sepetinburoda.click
 sepetinddeeindirimvar.com
 sepetinde-ucuzluk-kapinda.shop
 sepetindealisvers.com
+sepetindehizli.click
 sepetindeindirim.one
 sepetindeindiriminvar.com
 sepetindekampanya.live
@@ -324435,6 +324449,7 @@ sfjbfjfskbookdgsgsrr.net
 sfjttxrqn.duckdns.org
 sfka85ks4.duckdns.org
 sfkadlfdvt-sdvt.com
+sfkalsmealfmsbb.com
 sfkjasf12525.xyz
 sfkjgh.hopto.org
 sfkk5225asafvvv.com
