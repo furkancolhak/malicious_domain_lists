@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-20T12:07:25.624235
+# Updated: 2025-07-20T14:06:02.354165
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1709,6 +1709,7 @@
 101-16mayisoglen.com
 101-16mayissabah.com
 101-17temmuz.com
+101-18temmuz.com
 101-1haziranaksam.com
 101-1haziranon.com
 101-20mayisaksam.com
@@ -36072,6 +36073,7 @@ abulmoore35243.xyz
 abundanttyj.site
 aburabur193.duckdns.org
 aburadhac.zapto.org
+aburuksaburuk333.duckdns.org
 abuse45nb.66ghz.com
 abuse45nb.is-best.net
 abusedepreciate.top
@@ -48004,6 +48006,7 @@ aktarimekrani.cfd
 aktarimeportali.duckdns.org
 aktarimhizmetlerigirispageiade.site
 aktarimiadem.serveblog.net
+aktarimiademim.duckdns.org
 aktariminionayla.duckdns.org
 aktarimlar-basladi-simdi-al.store
 aktarimlar-online-olarak-basladi.online
@@ -66873,6 +66876,7 @@ basvursende.fun
 basvursende.lotusbungalov.com
 basvursende.online
 basvursfirsati.com
+basvursmc.com.tr
 basvursmc.xyz
 basvursmd.com.tr
 basvursmn.com.tr
@@ -92368,6 +92372,7 @@ buradanguvenle.ru.com
 buradanguvenle.sa.com
 buradanhemengiriyozbea.com
 buradanhizmet.app
+buradaniadenial.duckdns.org
 buradanistanbulluolun.com
 buradankatilin.com
 buradanodemehizmetlerin.net
@@ -158778,6 +158783,7 @@ flrasatolurolmazolursadagelsen.store
 flratsbuhemenalhemen.org
 flrenlerel.b-cdn.net
 flrhadiindirgunsalimsal.store
+flrkstlarlar1948.duckdns.org
 flrs4tlarburda30maylsgel.com
 flrsasatcumartesidenhemseno.store
 flrsat-buradageldi.shop
@@ -171118,6 +171124,7 @@ gkqpieburwzk.duckdns.org
 gkrokbmrkmrxtmxrxr.space
 gks94lfw.duckdns.org
 gksiluc.com
+gkskkgahddshksdhkqwfasgsd.cyou
 gkslichizmrbf.net
 gksmedya.sorgupanel.net
 gktrgoolwdhh.net
@@ -189340,6 +189347,7 @@ hfticikcmzfirsatshopxyz.com
 hfticxdalisveris12.com
 hftn-indrim-hzmetleri-a101de.com
 hftnfrsltkmpny.sbs
+hftnfrstlrikpnda.xyz
 hftortasindrmelrbrda101.com
 hftqwedkwgnnt.sbs
 hftqwedkwgnsnt.sbs
@@ -194638,6 +194646,7 @@ hizlirndvun5-5f8728ae8641.herokuapp.com
 hizlirndvun50-a32bbc2f96f8.herokuapp.com
 hizlirndvun51-dca210ea066b.herokuapp.com
 hizlirndvuu.net
+hizlisalislemler.xyz
 hizlisanal-kapida-market-101.com
 hizlisanal-kapida-market-101.xyz
 hizlisatici.com.tr
@@ -200876,6 +200885,7 @@ iadebirimiresmigazete.pt
 iadebizdengov.com
 iadebsvurun43534.com
 iadecardfinans.com
+iadeceptee.duckdns.org
 iadeceptesimdibasvur.app
 iadeciler.com.tr
 iadeciler.net
@@ -200912,6 +200922,7 @@ iadedevlett-form.com
 iadedevvlett.com
 iadediaid.com
 iadedvlet.online
+iadeeaktarm.duckdns.org
 iadeedevlet-aidatt.com
 iadeedevletislemmerkez.com
 iadeedevletmm.com
@@ -217338,6 +217349,7 @@ iyi-hissetmek-bu-kadar-basit-oldugu-goruldu.com.tr
 iyi-hissetmek-bu-kadar-basit-olmamistir.com
 iyi-olan-isleri-guzel-severiz-yetisin.com
 iyi-olan-kisileri-guzel-severiz-surekli.com
+iyi-ve-mutlu-bir-hayat-topraginda.top
 iyiaksamlartrmsorgu.net
 iyialisverisler-d-dileriz.lol
 iyibayramlarherkese.com
@@ -267049,6 +267061,7 @@ nkvl-actu.duckdns.org
 nkwfivrurdyjbt.me
 nkwjscqpxhaqvgmdd.org
 nkxbsymqta.duckdns.org
+nkxnna-lslmsal-lmsnana.cfd
 nkxnna-lslmsal-lmsnana.cyou
 nkxtb.com
 nkyglytzeu.duckdns.org
@@ -315509,6 +315522,7 @@ sahibinden.urun-siparis.com
 sahibinden.urun-tr.com
 sahibinden.urun.online
 sahibinden.urunalintr.fun
+sahibinden.urunalisverisiniz.com
 sahibinden.urunguvenli-al.com
 sahibinden.urunguvenli-al.fun
 sahibinden.urunguvenli-alim.com
@@ -341517,6 +341531,7 @@ surroundingshavoc.top
 surtugubirakbanakasil.com
 surtuguyedimnamnam.shop
 surucuislem.app
+surucuvatandsislem.xyz
 surveillancecalcium.top
 surveillancecocktail.top
 surveillancesnail.top
@@ -348009,6 +348024,9 @@ temmuzda-vakiff-firsatlari.click
 temmuzda2siparislerin.cloud
 temmuzdaavantaj-hepyaninda-tr.xyz
 temmuzdabasliyoruz.biz.tr
+temmuzdabasliyoruz.info.tr
+temmuzdabasliyoruz.name.tr
+temmuzdabasliyoruz.org.tr
 temmuzdabasliyoruz.web.tr
 temmuzdaindirim.biz.tr
 temmuzdaindirim.com.tr
@@ -362736,6 +362754,8 @@ turpttgovtre.shop
 turpttgovtrn.shop
 turpttgovtro.shop
 turpttgovtrs.shop
+turpttgovtrsi.shop
+turpttgovtrso.shop
 turpttgovtrsr.shop
 turpttgovtrv.shop
 turpttgovtrz.shop
@@ -366892,6 +366912,7 @@ urunal.gq
 urunalim.com
 urunalisveris.com
 urunalisverisi.com
+urunalisverisiniz.com
 urunalisverislerim.com
 urunalisverisleriniz.com
 urunapp.com.tr
