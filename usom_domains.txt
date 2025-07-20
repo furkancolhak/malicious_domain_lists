@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-20T05:06:39.321904
+# Updated: 2025-07-20T06:06:22.680431
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -50062,6 +50062,7 @@ aldinaldinsonsaat.online
 aldinaldinstok100.com
 aldinaldintakvimi.online
 aldinaldintemmuz.biz.tr
+aldinaldintemmuz.com.tr
 aldinaldintemmuz.info.tr
 aldinaldintemmuz.net.tr
 aldinaldintemmuz.space
@@ -106554,6 +106555,7 @@ corneliuscassarah.net
 corner-blow-speech.com
 corneraffiliate.top
 cornercompilation.top
+cornerdel.club
 cornerstnehudle.top
 cornerstone-constructions.com
 cornerstonebotany.top
@@ -264270,6 +264272,7 @@ negrodesigns.ga
 negrr.ddns.net
 negsakf-ynvlsi.blogspot.com
 negtechnoloyg.com
+neguzelkampanyalariniz.xyz
 negzlgnlrvr.online
 nehabe.mobi
 nehelerdengekler.com
@@ -339287,6 +339290,7 @@ subem-e-cepteteb.com
 subem-garantibank.com
 subem-garantii.com
 subem-halkbank.com
+subem-internet.xyz
 subem-isbank.com
 subem-qnbfinansbank-enpara.com
 subem-qnbfinansbank.com
@@ -358290,6 +358294,7 @@ trprivates.com
 trprote.com
 trprtalgrskrmsal.com
 trps-packer.com
+trpstrwebhgsavbilgis.sbs
 trptt-gov.click
 trptt-gov.top
 trptt.top
@@ -368280,6 +368285,7 @@ uygunalisverisler.com.tr
 uygunalisverisler.online
 uygunalisverisler.xyz
 uygunalisverisleronline.xyz
+uygunalisverlerler.rest
 uygunarackirala.net
 uygunarackirama-avis.com
 uygunasendealkargonnkapiaaa.com
