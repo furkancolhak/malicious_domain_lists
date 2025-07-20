@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-20T07:07:24.482333
+# Updated: 2025-07-20T08:07:53.964350
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -48080,6 +48080,7 @@ aktiel.kampanyamxumart.com
 aktiel.persembemarket64.com
 aktielhftaninstslarixz.online
 aktier.10-temmuz.com
+aktier.101-18temmuz.com
 aktier.101-1temmuza.com
 aktier.101-1temmuzaksam.com
 aktier.101-31mayisfirsat.com
@@ -66086,6 +66087,7 @@ baskanliklar-cimtr.com
 baskanliksecimi.com
 baskarzunuz.com
 baskasiyalan.online
+baskayerbaskazaman.my
 baskentgecisyukle.sg-host.com
 baskentlira.sg-host.com
 baskenttgecisyukle.sg-host.com
@@ -155010,6 +155012,7 @@ fiirsatkrediimkani.buzz
 fiirsatlarideirlendiir.buzz
 fiirsatlarideirlendir.buzz
 fiirsatlarimizibiliyormusun.buzz
+fiirsatlarintekadresi.sbs
 fiirsatllar-sizinle-kacirmayin-aldin-aldin.com
 fiirsatnisangunleri.info.tr
 fiirsatnisangunleri.net.tr
@@ -188941,6 +188944,7 @@ herzamanseninlebirlikte.com
 herzamansize-ozzeliadeislemleri.net
 herzamansizeozeliadeeler1.net
 herzamansizlerl-kamp-teklfiler.shop
+herzamansizlerl-kamp-teklfiler.store
 herzamansizlerleyiz-biance-cekilisleri.net
 herzamanyukle.sg-host.com
 herzamn-pandemi.cf
@@ -194824,6 +194828,7 @@ hizliteslimat.online
 hizliteslimat.shop
 hizliteslimatkapinda.com.tr
 hizliteslimaturun.biz.tr
+hizliteslimaturun.com.tr
 hizliteslimaturun.info.tr
 hizlitklfalkrdi.11a564523.xyz
 hizlitlpakkettlyuklebim.com
@@ -225224,6 +225229,7 @@ kampanyacheck.com
 kampanyaci.shop
 kampanyacokozelkampanyayakatilimadresibance.site
 kampanyada.hofmannplus.com
+kampanyada.sbs
 kampanyadabuay.com.tr
 kampanyadabuay.xyz
 kampanyadakiler.xyz
@@ -321867,6 +321873,7 @@ sendebasvuruyapvekazan.com
 sendebasvurvekazan101a101.duckdns.org
 sendebayramakatilkatil.net
 sendebbvailetisim.page
+sendebirfiyatasinsoylenekadarsin.click
 sendebizekatil.net
 sendebizekatilfirsatikacirma.com
 sendebizekatilll.pw
@@ -328848,6 +328855,8 @@ siparrisgelircalissim.com
 siparsepette.org
 siparsepette.store
 siparsepette.xyz
+siparshazir.click
+siparsinburada.click
 siparsinkapida.click
 siparsinkapindaa.com
 siparsinsepete.org
