@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-21T14:06:31.642622
+# Updated: 2025-07-21T15:07:10.896398
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2748,6 +2748,7 @@
 103.179.189.198
 103.180.149.137
 103.186.117.215
+103.186.30.186
 103.186.65.80
 103.187.5.128
 103.188.82.240
@@ -14056,6 +14057,7 @@
 21-3.icu
 21-ocak-firsatlari.shop
 21-ocakfirsatlari.shop
+21-temmuz07.com
 21.252.107.198
 21.zandorfaniskalyoniskapramintarnoskarya.net
 210.1.226.51
@@ -23972,6 +23974,7 @@
 5vgmtg.duckdns.org
 5vi52lz.duckdns.org
 5voegjmw2a42cb3.duckdns.org
+5voltafirsati.cfd
 5voltafirsatti.cfd
 5voltafirsatti.sbs
 5voltakampya.cfd
@@ -24685,6 +24688,7 @@
 65191321561126516.com.tr
 6519814565198.net
 6519846598165151615615615.cloud
+652187686.cloud
 652323232.cloud
 65256.cloud
 652l.pdfremittancedocsouthfile.com
@@ -32825,6 +32829,7 @@ a101-firsat-urunler.s-get.online
 a101-firsat.b-cdn.net
 a101-firsat.com
 a101-firsat.com.tr
+a101-firsat.duckdns.org
 a101-firsat.online
 a101-firsatbugun.com
 a101-firsatceplerde.store
@@ -36209,6 +36214,7 @@ acarkurulusu.org.tr
 acarkurumlari.com.tr
 acarmenkulonline.com
 acarmenkulonline.com.tr
+acarmenkultr.com
 acarmenkulyatirim.com
 acasddcdvt-sdvt.com
 acaxyipixndrmlrxm-hdjx03mfk-94dkx4.online
@@ -40586,6 +40592,7 @@ adanabuyuksehirbelediyesi.com
 adanacanotokiralama.xyz
 adanademir.net
 adanaekimindirimleri.online
+adanagazipasaasm.com
 adanahaliyikamacalarses.site
 adanahavalomano.tk
 adanaindirimlerii.online
@@ -53726,6 +53733,7 @@ anindafirsat.xyz
 anindafirsatlar.net
 anindafirsatlarharikagunler.com.tr
 anindafirsatlarharikagunler.site
+anindafirsatlarharikagunler.xyz
 anindafirsatlarkacirilmadandegerlendir.com.tr
 anindafirsatlarkacirilmadandegerlendir.online
 anindafirsatlarkacirilmadandegerlendir.xyz
@@ -57878,6 +57886,7 @@ aribu.co.vu
 aribuyeniyilda.com
 aricente.com
 aridgena.com
+aridlytica.com
 arielzaqx.ddns.net
 arieshost.ddns.net
 ariesjagnivas.com
@@ -58254,6 +58263,7 @@ articulateoutrage.top
 articulaterot.top
 articulationde.top
 artifactstipulate.top
+artigercektr.com
 artigercekturk.com
 artihizmet.xyz
 artihizmetler.xyz
@@ -59118,6 +59128,7 @@ asicallysolidarit.top
 asidehappen-cap.com
 asidogrulamasagliksistemisitesi.cf
 asidomain.com
+asigidsksakgdfshkssakhsaf.cyou
 asigidsksakgdfshkssakhsaf.icu
 asigimsanaa.net
 asijdasldakdask.de
@@ -68730,16 +68741,21 @@ bayatyermisin.com
 baybahcem.com
 baybayamigooos.blogspot.com
 baybaybislecouse.ddns.net
+baybh.onthemtaitp.com
+baybtb.onthemtaitp.com
 bayc.astalyt.top
 baycarkiralama.com
 baycarkurumsal.com.tr
+baychort.onthemtaitp.com
 bayconstructio23.store
 bayd6498.hopto.org
 bayderkaysenonl.online
 baydi.xyz
+bayecoa.tpbktur.top
 bayecov.tpbktur.top
 bayenat.pk//db_template.php
 bayernbadabum.com
+baygt.onthemtaitp.com
 bayi-2express.xyz
 bayi-4express.xyz
 bayi-avm-hgs.tk
@@ -68917,7 +68933,10 @@ bayiyetkianas.blogspot.com
 bayiyetkianass.blogspot.com
 bayiyukl-tl.com
 bayiyuklemeler.xyz
+bayjc.onthemtaitp.com
 bayk.trand.top
+baykab.tpbktur.top
+baykaba.tpbktur.top
 baykafunt.store
 baykar-ad.com
 baykar-b.glitch.me
@@ -69022,10 +69041,14 @@ baykuus.com
 baylak.ddns.net
 baymak-yazgunleri.com.tr
 baymakk.site
+baymeso.onthemtaitp.com
 baymk.trbayks.top
+baymka.onthemtaitp.com
+baymm.onthemtaitp.com
 baymp.trbayks.top
 bayndsndr.com.tr
 baynetins.com//wp-config-ini.php
+baynk.tpbktur.top
 bayode.sg-host.com
 bayode123limited.myddns.me
 bayqor.com
@@ -69361,6 +69384,7 @@ bayrmdanssgortalannethemen.com.tr
 bayrmdasepetlrinizde.online
 bayrmddakii-firsttlrm.com
 bayrmozelsifir99erteleme.online
+bayron.onthemtaitp.com
 bayrrambittikosgelal.com
 bayrramdasansigortan.com.tr
 bayrramozelfirsat.com.tr
@@ -69369,6 +69393,8 @@ bayrxxm-ortasindaa.com
 bayseniyoniscon.site
 bayteb.com
 baytech.pk//db_template.php
+baytyu.onthemtaitp.com
+bayvip.onthemtaitp.com
 bayyramdasigortatrafik.com.tr
 bayyraminenguzelurnnleri.com
 bayyramli.com
@@ -89835,6 +89861,7 @@ brlkvakfi.com
 brlkvakfi.org
 brlnet.in
 brlr-byle-kcrm.shop
+brlr-gzl-yrlr-gl-s.shop
 brlr-gzl-yrlr-gl-snd.shop
 brlr-sn-ozl.shop
 brlr-yklyo.shop
@@ -108548,6 +108575,7 @@ crsmbprsmbpzrcmapzrtsiind1r1mzamani.com
 crt.ddns.net
 crter.totalh.net
 crtesiykle.b-cdn.net
+crtr.seoper.top
 crtruiofhjg.info
 crucialaggregate.top
 crucialanonymity.top
@@ -135602,9 +135630,11 @@ eckgsbz.com
 eckklsl.com
 ecknfl.com
 ecknow.com
+eckom.eckom.top
 eckom.top
 eckom.willhem.top
 eckom2.top
+eckon.eckom.top
 eckotrispi.xyz
 ecldxz.html-5.me
 eclhgsm.com
@@ -287811,6 +287841,7 @@ passengersoothe.top
 passerbyloot.top
 passerbymaternity.top
 passerellessecurite.ddns.net
+passger.click
 passhobby.top
 passionactual.top
 passionatelypurpose.com
@@ -289615,6 +289646,7 @@ perubahan-biaya-dan-tarif-bca.duckdns.org
 perugemstones.com
 peruriches.xyz
 pervasivetext.top
+perw.ofopewq.top
 pesalcamben2030.com
 pesana.net
 pesanna.net
@@ -296107,6 +296139,7 @@ ptt-avm.e-tr-hizlisepet.online
 ptt-avm.elektronikalim.org
 ptt-avm.elektronikalimlarin.com.tr
 ptt-avm.g-islemler.online
+ptt-avm.g-secure.online
 ptt-avm.g-sepetim.com.tr
 ptt-avm.hizli-devam.com.tr
 ptt-avm.hizli-islem.online
@@ -299161,6 +299194,7 @@ pttsgov.online
 pttsgov.pro
 pttsgov.site
 pttsgovtr.top
+pttsgovturo.shop
 pttshooponline.online
 pttshop-avm.com
 pttshop.shop
@@ -317796,6 +317830,7 @@ sandshoe.myfirewall.org
 sandshoe.zapto.org
 sandshrimp.top
 sandsngo.com
+sandsultan.com
 sandwichdowngrade.top
 sandwichinertia.top
 sandwichlounge.top
@@ -329215,6 +329250,7 @@ sisin-yeni-girisinz-hemen.blogspot.com
 sisinfo.ddns.net
 sisipiciliko.pro
 sisisarazcollection.com.ng
+sisisisidiaisidasidia.marx-thomas.com
 sisisisiisiisislililssslililssslilssl.blogspot.com
 siski2289.ddns.net
 sisleraciklanz.xyz
@@ -380308,6 +380344,7 @@ webbnglobalhediyelerkampanyasi.com
 webbnnctrgrss.xyz
 webbnsdkkrmdirmn.com
 webbs.live
+webbsbayrntilrmizin93.xyz
 webbsnfgbdktlnd.com
 webbsubayrntilrmn1.xyz
 webbsubayrntilrmn4.xyz
@@ -387805,6 +387842,7 @@ www-garantibonus-com.tk
 www-garantibonus.com
 www-garantibonuslari-com-tr.tk
 www-garanticep-com.cf
+www-garantiden-krediler-online.giize.com
 www-garantidensubatbonusu-com.ml
 www-garantidensubatbonusu-com.tk
 www-garantione.com
@@ -398737,6 +398775,7 @@ yamatobb.com
 yamd.pw
 yamenswash.com
 yamleg.fu8.com
+yamotrax.com
 yamyamrav.shop
 yan-yukleme.22web.org
 yanagi.co.kr
