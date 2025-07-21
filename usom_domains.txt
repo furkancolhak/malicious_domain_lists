@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-21T18:07:44.125633
+# Updated: 2025-07-21T19:07:45.121954
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -25428,6 +25428,8 @@
 6fe8ykq.duckdns.org
 6fgwjkah.duckdns.org
 6fi0k39b.duckdns.org
+6firsatlarvolta.lat
+6firsatlarvolta.sbs
 6fizt9qi.duckdns.org
 6fklvfeqi.duckdns.org
 6fpc99id.duckdns.org
@@ -49965,6 +49967,7 @@ aldinaldin.xyz
 aldinaldin.yilbasiozelfirsatlar.gen.tr
 aldinaldin1001.online
 aldinaldin101.com
+aldinaldin101.duckdns.org
 aldinaldin101.net
 aldinaldin101.shop
 aldinaldin101.store
@@ -81779,6 +81782,7 @@ bitmedengel101.online
 bitmedentukenmedensendeal.com.tr
 bitmedibitemezhicbirsey.cyou
 bitmek-bilmez-bir-sevda-geliyor.com
+bitmeshq.com
 bitmex-giveaway.com
 bitmex-news.online
 bitmexdrop.com
@@ -88506,6 +88510,7 @@ bonustop-price.life
 bonustower.com
 bonustransferhediyesidunyasi.online
 bonustransferidunyasibu.online
+bonustrink.digital
 bonusudenizbank.com
 bonusumbakiyem.net
 bonusumflas-garant.cfd
@@ -92673,6 +92678,7 @@ burdenthriller.top
 burdenweary.top
 burdngldisizlrecrfrsnz.com
 burdnhmnrndvunual.net
+burdsnherzm-alirsdn-kamp-cadrldar.shop
 burdurlusubeleri.com.tr
 burdurlusubeleri.online
 burdurlusubeleri.xyz
@@ -109034,6 +109040,7 @@ ctt-trackptt.com
 cttpacks.click
 cttqnbxsxt.duckdns.org
 cttse.cam
+ctuerederge.site
 ctutvvgirisislllemenuu.com
 ctuyfwdlr.duckdns.org
 ctvwcudnhwxg.duckdns.org
@@ -122766,6 +122773,7 @@ dijitalkredi-ziraat.com
 dijitalkredi-ziraatbireysel.com
 dijitalkredi-ziraatbireysel.website
 dijitalkredi-ziraatkampanya.com
+dijitalkredi-ziraatmobilweb.com
 dijitalkredi-ziraatweb.com
 dijitalkredibasvur-ziraatbireysel.com
 dijitalkredibasvuru-ziraatbireysel.com
@@ -153567,6 +153575,7 @@ fb-etkinlik-basvurutamamla.online
 fb-nameserver.com
 fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
+fb-sponsorluform.site
 fb-statics.com
 fb-statics.info
 fb-techsupport.com
@@ -157423,6 +157432,8 @@ firsatlarharikasizleribekliyorhemensatinal.com.tr
 firsatlarharikasizleribekliyorhemensatinal.online
 firsatlarharikasizleribekliyorhemensatinalmalisin.xyz
 firsatlarharikasizlerilebirlikte.com.tr
+firsatlarharikasizlerilebirlikte.cyou
+firsatlarharikasizlerilebirlikte.xyz
 firsatlarharikasizlerlebirliktegunluk.com.tr
 firsatlarharikasizlerlebirliktegunluk.online
 firsatlarharikasizlerlebirliktehemensatinalmalisin.online
@@ -175997,6 +176008,7 @@ gunceltrsikayetler-352.sbs
 gunceltrsikayetler-353.sbs
 gunceltrsikayetler-354.sbs
 gunceltrsikayetler-355.sbs
+gunceltrsikayetler-359.sbs
 gunceltrsikayetler-361.sbs
 gunceltrsikayetler-362.sbs
 gunceltrsikayetler-364.sbs
@@ -176009,6 +176021,7 @@ gunceltrsikayetler-473.sbs
 gunceltrsikayetler-5.sbs
 gunceltrsikayetler-6.sbs
 gunceltrsikayetler-8.sbs
+gunceltrsikayetler-863.sbs
 gunceltrsikaytvar-10.sbs
 gunceltrsikaytvar-11.sbs
 gunceltrsikaytvar-13.sbs
@@ -198125,6 +198138,7 @@ hs5sk2xl.duckdns.org
 hs6o394.duckdns.org
 hs76znkre.duckdns.org
 hs8068.com
+hsa-f-qw1-23-fsdfdhfewtfsadqwewq.com.tr
 hsa.govsred.buzz
 hsaathanerancdevu.net
 hsabahciyuklemernzz.com
@@ -240876,6 +240890,7 @@ liliwebgiris.postegroweb.co
 liliykleme.net
 lillethrek.biz
 lillliliiliiilliillil.com
+lillllllllllllll.duckdns.org
 lilninop.ga
 liloacldtna.ddns.net
 liloupb.zapto.org
@@ -248761,6 +248776,7 @@ marvelsmgir.pw
 marvelspear.top
 marvest.top
 marwani389.ddns.net
+marx-thomas.com
 marxket-x-haxfxta-indxirimz.xyz
 marxrwo9090.duckdns.org
 marxrwonew9090.duckdns.org
@@ -250439,6 +250455,7 @@ medevlet-aidat-iade-sorguu-sistemiiii.xyz
 medevlet-iade-aidat-sorguu-sistemiiii.xyz
 medevlet-iade-iade-sorgu-sistemii.xyz
 medevlet-iade-sisstemi.xyz
+medexplor.com
 medfastpower.weebly.com
 medfioytrkdkcodlskeej.net
 media-haber.club
@@ -262798,6 +262815,8 @@ mzkoclz.duckdns.org
 mzkrkartyklme.net
 mzlleerrkartykeklemr.net
 mzlofalolpia.com
+mzlslal-mxlsal-mxlsla.cfd
+mzlslal-mxlsal-mxlsla.sbs
 mzmzmrmlkvkvl.net
 mzmzmzmzmzzmlllkkt.net
 mzozldjgr.org
@@ -263458,6 +263477,7 @@ narewwareve.xyz
 nargilegurusu.com
 narimanchik-46952.portmap.host
 narin-inece-fadire.dnsuser.de
+narinlerticaret.com
 narinumutvkf.net
 narko-22769.portmap.host
 narkobubisikletcilerhemen.com
@@ -269400,6 +269420,7 @@ nverkaserlara.net
 nverkslasc.com
 nversakersa.net
 nversatvrndvunsen.info
+nversatvrndvunsen.xyz
 nves.net
 nvesin.com
 nvesrlrndv.blogspot.com
@@ -322934,6 +322955,7 @@ sepetinkolayda.click
 sepetler-tr.com
 sepetlerim.com.tr
 sepetlerimiz.com.tr
+sepetlerinizeaksin.xyz
 sepetligunlergeldi.com
 sepetmagazas.com
 sepetmagazasa.com
@@ -338220,6 +338242,7 @@ stnly1krc0lvhghlght1ghstng.com
 stnly1krc0lvhghlght1ghstnggroup.com
 stnlycrsmb1brdcma0s1pzrkrconline.com
 stnlyguvenliindirim.rf.gd
+stnlyilekapidasokta.duckdns.org
 stnlypple1krcphon0dmpng1cldrdk.com
 stnlyprs1brsld0s1gcrskrc.com
 stnlypzrts1prsmb0cma1pzrkrc.com
@@ -341938,6 +341961,7 @@ svcsync.com
 svcupdate.com
 svdc81jz.duckdns.org
 svdgngnlerdndrlm.shop
+svdkbzbrdyksnzslers.shop
 svdklrndbrabzvrdks.shop
 svdkmglsdslors.shop
 svdlargnlredesas.shop
@@ -351649,6 +351673,7 @@ tmmzaltayertraskolsifrdkndkz.online
 tmmzaltayrtlsfdkndkvdfz.online
 tmmzayi-aldinkmpnysinda.net
 tmmzayndaxfirsstllar.net
+tmmzdcrfslrdn.com
 tmmzflsttr111.duckdns.org
 tmmzindrimler-101.org
 tmmzkirksekzaydanert.online
@@ -360582,6 +360607,7 @@ turkcellpasajonline.com
 turkcellpasajonlinemagaza.com
 turkcellpasajsanal.com
 turkcellpasajsanalmagaza.com
+turkcellpasajsanalmagazasi.com
 turkcellpasajsite.com
 turkcellpasajtr.com
 turkcellpasajweb.com
