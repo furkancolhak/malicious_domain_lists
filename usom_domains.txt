@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-22T18:05:12.463202
+# Updated: 2025-07-22T19:05:18.213405
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -34899,6 +34899,7 @@ a1o1indirimleridysonnn.shop
 a1o1indirimliyagfirsatlari.click
 a1o1indirimonline.com
 a1o1indirimzamanii.online
+a1o1indirmlerikapinda.online
 a1o1indirmlerikapinda.space
 a1o1kacmazfirsat.nsixo.ru.com
 a1o1kampanya.net
@@ -49781,6 +49782,7 @@ aldi1nss11a101-sfirsat.xyz
 aldi1nss1a101-firsat.xyz
 aldi1sndf-irs1ata1s01.xyz
 aldi1sndf-irsata101.xyz
+aldia11.lat
 aldialdia1o1.com
 aldigittibenibendenfirsatlari.online
 aldigngldi.shop
@@ -64838,6 +64840,7 @@ bahcelerdenko.xyz
 bahceliler.name.tr
 bahcemdensofrana.pro
 bahcemingulleri.shop
+bahcesmart.pro
 bahidll.ddns.net
 bahisbest.com
 bahisdetay.net
@@ -66897,6 +66900,7 @@ basvurmrkz.com.tr
 basvurmrkz.online
 basvurmrkz.xyz
 basvurmrs.com.tr
+basvurmrs.cyou
 basvurmrs.xyz
 basvurmrx.com.tr
 basvurmrx.online
@@ -67002,6 +67006,7 @@ basvursnk.online
 basvursnm.com.tr
 basvursnm.xyz
 basvursnr.com.tr
+basvursnr.cyou
 basvursorgulafastgir.com
 basvurspn.xyz
 basvurspr.online
@@ -108858,6 +108863,7 @@ cscyzr.csb.app
 csdcsdcsdcs2.s3.eu-central-1.amazonaws.com
 csdcsdscsd.top
 csdcvewdayuzbir.hopto.org
+csdfb-svssg-hfghj-gss.icu
 csdsadvvt-svvttt.com
 csdveirfsconfrim.com
 csec-03citizenverif.hopto.org
@@ -125204,6 +125210,7 @@ dogayikoruyoruz.com
 dogayisvkru.blogspot.com
 dogayla-birlesip-sessizlige-kavus.top
 dogayla-bulusmanin-en-guzel-anlari.top
+dogayla-ic-ice-olmanin-zamani.top
 dogayla-ic-ice-sakin-bir-hayat.com
 dogayla-icice-huzurlu-yasam.com
 dogayla-rahat-ve-konforlu-yasam.com
@@ -358215,6 +358222,7 @@ trmobilxlbasvurumgov.net
 trmonlbvkye.net
 trmordvn.net
 trmprbdestektr.com
+trmpsfitleyri600tl.com
 trmpxvcxz.com
 trmr-nvcsystem.com
 trmr-srg.online
