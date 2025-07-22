@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-22T14:05:14.003773
+# Updated: 2025-07-22T15:05:13.177539
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4972,6 +4972,7 @@
 131.153.13.235
 131.153.38.11
 131.196.243.123
+131.226.2.6
 131.255.4.96
 1312314.online
 1312412431243124312124.cloud
@@ -5027,6 +5028,7 @@
 134.19.215.3
 134.19.242.25
 134.195.138.33
+134.199.202.205
 134.209.120.58/bins
 134.209.183.3
 134.209.188.116
@@ -5568,7 +5570,9 @@
 1425154255454.xyz
 1425415588560.xyz
 1425462659652960.xyz
+1425516554564480.xyz
 1425516554564482.xyz
+1425516554564488.xyz
 1425516554569880.xyz
 1425516554569882.xyz
 1425516554569884.xyz
@@ -33780,6 +33784,7 @@ a101de.sahaneindirimleriniz.xyz
 a101deals.com
 a101defirsatlarim.duckdns.org
 a101defirsatlarx.com
+a101dehizlisiparisler22.cloud
 a101dekampanyalarharcaharcabitmezhavale7indirim-2024.com
 a101deki.com
 a101deki.indirimciniz.com.tr
@@ -59508,6 +59513,7 @@ assetfuturenow.online
 assetgrowthunity.com
 assethomify.com
 assetmage.com
+assetnotessrf.com
 assetorbit.site
 assetordeal.top
 assetprosecution.top
@@ -92399,6 +92405,7 @@ burada-firsat.top
 burada-harika-teklifler-yeniden-geldi.com
 burada-her-sey-zamaninda.com
 burada-hissettirecek-gunler-geldi.com
+burada-kamp-stkeflise-aldin-aldsn.net
 burada-kampanya-cok.shop
 burada-musmutlu-bir-aile-olduk-sizlerle.com
 burada-nereden-geldiysen-orada.com
@@ -94863,6 +94870,7 @@ c2z6vc0.duckdns.org
 c2zfx9h.duckdns.org
 c31casc1.great-site.net
 c33t.zapto.org
+c34718cbb4c6.ngrok-free.app
 c3595.com
 c35e523.duckdns.org
 c36l2t8.duckdns.org
@@ -97120,6 +97128,7 @@ cbadfrempft.duckdns.org
 cbadidimoujon.duckdns.org
 cbads.is-best.net
 cbafe.cepholys.ru
+cbakk.xyz
 cbannnmzlm.duckdns.org
 cbarwtc0u6gpc6sb14stwxe.ddns.net
 cbasabaregionat.duckdns.org
@@ -99410,6 +99419,7 @@ cepteki-tebinfirsatlari.com
 ceptekiaidat.com
 ceptekimobilfirsatlarineylulayinda.click
 ceptekrc.com.tr
+ceptekrc.net.tr
 ceptekrc.org.tr
 ceptekredifinans.com
 ceptekredindeniz.online
@@ -99996,6 +100006,7 @@ cewpn32d.duckdns.org
 cexaodememtv.net
 cexderted.click
 cexnova-appstore.com
+cexpxg.xyz
 cexrjwxwcqhdsow.su
 cexsefetere.click
 ceyda.world
@@ -100232,6 +100243,7 @@ cfvm7tdt0.duckdns.org
 cfvqhswl.com
 cfvsfdfjkadkdfj.net
 cfwmpzijsy.duckdns.org
+cfx-re.org
 cfxaplkxinyaibxch.net
 cfxnj.ddns.net
 cfxsecurity.co
@@ -110975,6 +110987,7 @@ d1rv.social
 d1swy39l7q.top
 d1ua6y.duckdns.org
 d1vh0xkmncek4z.cloudfront.net
+d1vmattjoqcdm3a6td80af6zw4tb4yaw3.it.h4.vc
 d1wif0.duckdns.org
 d1wns0.duckdns.org
 d1x3x.dyndns.org
@@ -124190,6 +124203,7 @@ dkjhbqvrot.duckdns.org
 dkk475sy.duckdns.org
 dkkdjslla.info
 dkkdkdkdkdkdk.net
+dkkig.xyz
 dklak.cam
 dklconcert.com
 dklmvn.com
@@ -128616,6 +128630,7 @@ dzxvnkgfbx.duckdns.org
 dzxzhz.com
 dzya4p.duckdns.org
 dzyuqnjyur.duckdns.org
+dzyzb.xyz
 dzznjfebxw.duckdns.org
 dzzxolieby.duckdns.org
 e--aliimmnokktaasi.com
@@ -150607,6 +150622,7 @@ ewnherrvck.duckdns.org
 ewonook.at
 eworld-yapikredi.com
 ewpcbz0mq.duckdns.org
+ewqeqeqweqweqwewqe.cfx-re.org
 ewqnrwe.com
 ewqqa4.c1.biz
 ewqqmwnaea.ws
@@ -163127,6 +163143,7 @@ garanti-bbva-girisiadetrweb.com
 garanti-bbva-kampanya.line.pm
 garanti-bbva-kasim.com
 garanti-bbva-kasim.net
+garanti-bbva-mobil.duckdns.org
 garanti-bbva-mobil.life
 garanti-bbva-mobilbasvuruformu.com
 garanti-bbva-online.com
@@ -171883,6 +171900,7 @@ glxgxlglenlwup.net
 glxgxlglenlykr.net
 glxgxlglenlyrk.net
 glxkomaj.com
+gly-gly-hvli-gl.shop
 glyenikampanyalari.net
 glylb1.gdjbfg.ru
 glymnnaanb.duckdns.org
@@ -183936,6 +183954,7 @@ harikafirsatlarsonaeriyor.xyz
 harikafirsatlarsongun.com.tr
 harikafirsatlarsongun.online
 harikafirsatlarsongun.xyz
+harikafirsatlaryakindakapinda.duckdns.org
 harikafirsatlaryeniyilaozelsizleribekliyor.com.tr
 harikafirsatlaryeniyilaozelsizleribekliyor.online
 harikafirsatlaryeniyilaozelsizleribekliyor.xyz
@@ -194953,6 +194972,7 @@ hizlisiparisalhizli2temmuz.cloud
 hizlisiparisilerinden21temmuz.cloud
 hizlisiparisimvar.com
 hizlisiparisle2rindebasvuru.cloud
+hizlisiparisleinden20bucuk.cloud
 hizlisiparisler.link
 hizlisiparisler1001.online
 hizlisiparislerimde.com.tr
@@ -242226,6 +242246,7 @@ lnmnlsnaklnsdlnas.com
 lnnstagrammmmmmnm.ml
 lnntjxfqxh.net
 lno7mib.duckdns.org
+lnofi.xyz
 lnovchalk.info
 lnoy.site
 lnppc.com
@@ -242523,6 +242544,7 @@ lodgeburke.com
 lodgemalice.top
 lodgingdepict.top
 lodgingeligibility.top
+lodib.xyz
 loe32dc.duckdns.org
 loenaaslsasa.com
 loerteademmexwga.xyz
@@ -251828,6 +251850,7 @@ meta-appeal-dashboard-15689172.web.app
 meta-appeal-dashboard-5206-648.web.app
 meta-appeal-request-1322951185.web.app
 meta-appeal-review175980171.firebaseapp.com
+meta-browser.cfd
 meta-business-appeal22.web.app
 meta-business-appeal35.web.app
 meta-business-appeal46.web.app
@@ -263962,6 +263985,7 @@ nbbolsm-tur.fyi
 nbbvasdsadfsda.net
 nbbxw.click
 nbci-randsborts.blogspot.com
+nbcsfar.xyz
 nbcvsnbsamsdbnfsad.net
 nbcvsnqwemsdbnfsad.net
 nbdsubeacikdenizv2denizbank.co.vu
@@ -276609,6 +276633,7 @@ onlinedashboard.hopto.org
 onlinedataccessabnb.zapto.org
 onlineddenizbasvurum.online
 onlinedealsx.cfd
+onlinedenal.xyz
 onlinedenizbasvuralarimportalin.xyz
 onlinedenizbireysel.xyz
 onlinedenizbireyselim.xyz
@@ -291169,6 +291194,7 @@ planular1.xyz
 planulate.com
 planultra.com.tr
 planwell.duckdns.org
+plapwf.top
 plaquist-simulator.com
 plarandiz.gruposenhordobonfim.org
 plart2z.incenu.com
@@ -297186,6 +297212,7 @@ pttalisveris.firsat-odeme.com
 pttalisveris.firsat-onayli-ilanlar.com
 pttalisveris.ilan-odemem.com
 pttalisveris.ilanda-satis.com.tr
+pttalisveris.ilanguvende.com
 pttalisveris.ilanim-alisveris.com.tr
 pttalisveris.ile-guvenli-odemem.com
 pttalisveris.ile-onayli-ilan.com
@@ -298429,6 +298456,7 @@ pttgovor.top
 pttgovorgalisveris.online
 pttgovotr.ink
 pttgovp.top
+pttgovpay.shop
 pttgovpost.top
 pttgovpostaly.icu
 pttgovpostatt.shop
@@ -299114,6 +299142,7 @@ pttmarketsatisavm.com
 pttmatik.com
 pttmatikline.com
 pttmatiksanal.com
+pttmavm.com
 pttmba.store
 pttmgov.cfd
 pttmgov.ink
@@ -306138,6 +306167,7 @@ reciteirrespective.top
 recitepeddle.top
 recive-exodus.net
 recive-metamask.net
+reckdp.pics
 reckless255.xyz
 recklessgreed.top
 recklessintuition.top
@@ -311393,6 +311423,7 @@ rywespgrmlxpqoa.ru
 rywrmpmq.duckdns.org
 rywwbsxgsp.duckdns.org
 ryx9qh0vc.duckdns.org
+ryxpq.xyz
 ryxxbrytoiiy.org
 ryy8zc.dotxui.com
 ryydkfwgjq.duckdns.org
@@ -336530,6 +336561,7 @@ sqdlz05pp.duckdns.org
 sqer.szmr.org
 sqgmey.com
 sqgndqkjvcleak.com
+sqgzl.xyz
 sqgzvyc.com
 sqhdcywtrg.duckdns.org
 sqherpsrra.biz
@@ -338362,6 +338394,7 @@ stntvps.duckdns.org
 stnylrkrtemosktelifbsurda101.com
 sto.continetalmanged.com
 sto.genomdevelsites.org
+stoa1o1.sbs
 stock.adobe-service.net
 stockainet.site
 stockcolor.top
@@ -342260,6 +342293,7 @@ swellcompress.top
 swellilliterate.top
 swelp.ddns.net
 swelterings.info
+swenku.xyz
 swenzy.quapin.online
 swenzy.webdili.online
 swenzy.xyz
@@ -344395,6 +344429,7 @@ tariqalr.zapto.org
 tarizoriosteirt.webflow.io
 tarjetaciudadanafuengirola.com
 tarlabasi3d.xyz
+tarladantencerene.xyz
 tarlshgs.com
 tarlshgs.nichesite.org
 tarmbayilers.net
@@ -358961,6 +358996,7 @@ trsubesizonlinevakifmobilsubegiris.tk
 trsuccess.online
 trsuccess.xyz
 trsurec-cimergovtr.com
+trsuv.xyz
 trsyolcu.blogspot.com
 trsystemguardsned.com
 trsytemverycuolds.com
@@ -367017,6 +367053,7 @@ uraniumthorn.top
 uranuschecker.live
 uranustechsolution.com
 uranusyerinde.net
+urarfx.xyz
 uras.talk4fun.net
 urateudi.hopto.org
 uravase.net
@@ -402228,6 +402265,7 @@ ycrazyhacking.duckdns.org
 ycskosrvse.duckdns.org
 yctrafiksiqortam.com.tr
 yctrafiksiqortam.xyz
+ycvduc.xyz
 ycvldrt-vvft.com
 ycvwgt.com
 ycwahhxmnhfmvgk.su
