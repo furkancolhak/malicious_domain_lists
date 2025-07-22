@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-22T16:05:12.402409
+# Updated: 2025-07-22T17:05:13.015649
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5572,6 +5572,7 @@
 1425462659652960.xyz
 1425516554564480.xyz
 1425516554564482.xyz
+1425516554564486.xyz
 1425516554564488.xyz
 1425516554569880.xyz
 1425516554569882.xyz
@@ -23093,6 +23094,7 @@
 5462367865.cloud
 54635624245.cloud
 5463g554g3545g.blogspot.com
+546465465464654654654.duckdns.org
 546473452573453.com
 546481681818684864684.blogspot.com
 54653453541f534f5134f.blogspot.com
@@ -50002,6 +50004,7 @@ aldinaldin101.store
 aldinaldin101bayramlari.vercel.app
 aldinaldin101com.online
 aldinaldin101firsatlari.com.tr
+aldinaldin101firsatlari.duckdns.org
 aldinaldin101firsatlari.online
 aldinaldin101firsatlari.xyz
 aldinaldin101kamapnya.online
@@ -71519,6 +71522,7 @@ benimplanim.online
 benimprofilim.com
 benimprofillimekimbakti.net
 benimsayfam-ozel-katil-aende.ml
+benimsayfamgirisbasvur.xyz
 benimsepetim.xyz
 benimsitem.xyz
 benimsubem.com
@@ -88299,6 +88303,7 @@ bonusbolca.b-cdn.net
 bonuscard-denizbank.tk
 bonuscard-hediyepuan.space
 bonuscarki.online
+bonuscebinde.digital
 bonuscekilisim.app
 bonuscepbasvuru.com
 bonuscepbireysel.com
@@ -157753,6 +157758,7 @@ firsatlarsizinle.com
 firsatlarsizinleguzel.com.tr
 firsatlarsizinlesimdi.com
 firsatlarsizledegerleniyorbldnz.com
+firsatlarsizleribekliyorkacirmadanal.duckdns.org
 firsatlarsizlerlealisveristesongun.com.tr
 firsatlarsizlerlealisveristesongun.online
 firsatlarsizlerlealisveristesongun.xyz
@@ -194964,6 +194970,7 @@ hizlisiparis.online
 hizlisiparis101.online
 hizlisiparis18subat.cloud
 hizlisiparis18subatstudio.cloud
+hizlisiparis20bucuktemmuz.cloud
 hizlisiparis22bucuk.cloud
 hizlisiparis22haziran.cloud
 hizlisiparis22hazirandam.cloud
@@ -252145,6 +252152,7 @@ metativeobscu.top
 metatransfer.online
 metaturkeydestek.com
 metatute.top
+metaurl-browser.cfd
 metaverification.ddns.net
 metaverifiedbadgeform.ml
 metaverse-centrum.hopto.org
@@ -348582,6 +348590,7 @@ temmuzunfirsatlarla.duckdns.org
 temmuzunkampanyasi.biz.tr
 temmuzunkampanyasi.info.tr
 temmuzunkampanyasi.name.tr
+temmuzunkampanyasi.org.tr
 temmuzunkampanyasi.web.tr
 temmuzunn-serinlettenfirsati.com
 temmuzunn-serinlettenfirsatii.com
@@ -367110,6 +367119,7 @@ ureticidenhizlitikla.shop
 ureticidenkapinagelsin.shop
 ureticidenmutfaginiza.xyz
 ureticidensepetlerinize.xyz
+ureticidentabagina.xyz
 ureticidentamzamani.xyz
 ureticidentermosal.xyz
 ureticidentuketiciye.xyz
