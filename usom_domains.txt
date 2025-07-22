@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-22T11:05:12.863011
+# Updated: 2025-07-22T12:05:12.063422
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -29031,6 +29031,7 @@
 888741205.duckdns.org
 888758.com
 8888-57525-96854-25485-253614.com.tr
+8888-57525-96854-25485-253614.cyou
 8888-57525-96854-25485-253614.xyz
 88880010010100001.cloud
 88880010010100002.cloud
@@ -44515,6 +44516,7 @@ aidatiadesi.cfd
 aidatiadesi.com
 aidatiadesi.com.tr
 aidatiadesi.de
+aidatiadesi.duckdns.org
 aidatiadesi.net
 aidatiadesi.online
 aidatiadesi.xyz
@@ -68592,6 +68594,7 @@ basvurvks.xyz
 basvurvkstm.com.tr
 basvurvkstm.online
 basvurvms.com.tr
+basvurvms.cyou
 basvurvms.xyz
 basvurvnm.com.tr
 basvurvnm.xyz
@@ -101482,6 +101485,7 @@ cicekdunyasi.me
 cicekdunyasi.online
 cicekdunyasi.site
 cicekdunyasi.store
+cicekdunyasi.work
 cicekdunyasi.xyz
 cicekdunyasinda.online
 cicekdunyasinda.xyz
@@ -106692,6 +106696,7 @@ corludiyetyemekleri.com//db_template.php
 corludiyetyemekleri.com/ckeditor/adapters/db_template.php
 corludiyetyemekleri.com/db_template.php
 corlusahibinden.net
+cornchfmgz.com
 corndoor.top
 cornelasticity.top
 corneliuscassarah.net
@@ -124363,6 +124368,7 @@ dmarisbayresort.com
 dmarisbayresorthotel.com
 dmarisbayresorthotels.com
 dmarisbayresortshotels.com
+dmarisresort.com
 dmart.buzz
 dmartindia.tr
 dmaz33ecrouch.top
@@ -189352,6 +189358,7 @@ hexingmumen.com
 hexlevurdugol.net
 hexnox.pro
 hexnsenmehgxs.net
+hexvana.com
 hey-sen-hadi-gel-yukle-ama.blogspot.com
 heyapuy-hdewn.ddns.net
 heyasa1o1.net
@@ -194942,6 +194949,7 @@ hizlisiparislerin2bucuktemmuzda.cloud
 hizlisiparislerin4temmuz.cloud
 hizlisiparislerin5bucuk.cloud
 hizlisiparislerin5indebucuk.cloud
+hizlisiparislerinden20bucuktemmuz.cloud
 hizlisiparislerindne21temmu.cloud
 hizlisiparislink.click
 hizlisiparisolustur.gtxpros.best
@@ -198859,6 +198867,7 @@ huda1o1.net
 hudabudasuda.site
 hudajoi.com
 hudapartisi.net
+hudaquest.com
 huddlyfy.com
 hudeto.info
 hudomci.com
@@ -205064,6 +205073,7 @@ ile-odeyin.com
 ile-odeyin.fun
 ile-onay-ilan.com
 ile-onay-ilanlarim.com
+ile-onayli-alisveris.com
 ile-onayli-ilan.com
 ile-onayli-ilanim.com
 ile-onayli-ilanlar.com
@@ -211655,6 +211665,7 @@ ipsqofeftr.duckdns.org
 ipsss.000webhostapp.com
 ipsupertec.com.br
 iptal-bilgilendirme.com
+iptalbildiri.com
 ipte.html-5.me
 iptivicini.com
 ipttgov.top
@@ -234907,6 +234918,7 @@ kpayfix.com
 kpbyhvfeq.duckdns.org
 kpdaaayni-ylbaslari.online
 kpdafrstyni-snstok.site
+kpdailestanleysende.duckdns.org
 kpdbhuk5072104.ua
 kpdbmxc5989608.ua
 kpdbvqk4613249.ua
@@ -235112,6 +235124,7 @@ kralbabastrcsa.com
 kralbenim-bilenbilir.tk
 kralbenimve2.site
 kralda-bizik-pasada.com
+kraldabenpasada.space
 kralefendi.com
 kralemlak.org
 kralhaber.club
@@ -268349,6 +268362,7 @@ novaappraisal.com
 novacheck.tech
 novadector.xyz
 novadevelop24.online
+novaedra.com
 novaera251214.ddns.net
 novafile.tk
 novagoodsplace.shop
@@ -329123,6 +329137,7 @@ siparislerin.com
 siparislerin18in.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
+siparislerinhizlanir20bucukda.cloud
 siparislerinhizlanir9da.cloud
 siparislerinhizli17de.cloud
 siparislerinhizli5bucuk.cloud
@@ -332898,6 +332913,7 @@ solvedilute.top
 solvent-arc.online
 solventrecurrence.top
 solventretrospect.top
+solverrfent.com
 solwanrozahy.com
 solyukleme.22web.org
 som2020.zapto.org
@@ -340603,6 +340619,7 @@ sufgt2.duckdns.org
 sufistream.com
 sufntbnzcb.duckdns.org
 sufort.top
+sufvibe.com
 sugano.trictalmk.com
 sugar-adbf5.appspot.com
 sugar-monster.design
@@ -367022,6 +367039,7 @@ uresolved-recovery.hopto.org
 uretenhalkbank.com
 ureticidenhizlitikla.shop
 ureticidenkapinagelsin.shop
+ureticidenmutfaginiza.xyz
 ureticidensepetlerinize.xyz
 ureticidentamzamani.xyz
 ureticidentermosal.xyz
@@ -376494,6 +376512,7 @@ vkfinansmansorgula.site
 vkfislemgiriskredisayfa.click
 vkfizamanim.xyz
 vkfizamanimsubem.xyz
+vkfjesterkes.click
 vkfkampanyagiriskredi.click
 vkfkatilim.co
 vkfkatilim.com
@@ -380049,6 +380068,7 @@ web-islem-basvuru-degerlendirme.life
 web-islem-sonucla.me
 web-islem-sonuclandirma.com
 web-islem-tamamla.com
+web-islemler-siparis-tr.online
 web-islemler-tr.online
 web-islemleredevletgovtrhizmet.tk
 web-islemlerim-global-girislerii.net
