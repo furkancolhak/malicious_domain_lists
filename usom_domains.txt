@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-22T07:07:44.588627
+# Updated: 2025-07-22T09:05:14.222260
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5206,6 +5206,7 @@
 1384098490.corolain.ru
 13842cw1cx70r1ix4rs9j7l6um.com
 139.135.57.246
+139.144.199.41
 139.144.79.152
 139.159.192.50
 139.162.116.148
@@ -5431,6 +5432,7 @@
 141.164.50.206
 141.164.51.99
 141.164.52.243
+141.164.60.10
 141.164.60.25
 141.164.63.253
 141.255.145.151
@@ -5567,6 +5569,7 @@
 1425462659652960.xyz
 1425516554569880.xyz
 1425516554569882.xyz
+1425516554569884.xyz
 1425520032.online
 1425522010030.info
 1425522010030.xyz
@@ -6191,6 +6194,7 @@
 149.3.170.93
 149.34.196.182
 149.34.200.23
+149.40.50.15
 149.50.106.25
 149.51.230.198
 149.56.106.83
@@ -6477,6 +6481,7 @@
 154.222.224.94
 154.223.135.214
 154.223.150.105
+154.223.19.106
 154.23.221.136
 154.246.32.93
 154.39.238.101
@@ -8860,6 +8865,7 @@
 185.196.9.76
 185.196.9.8
 185.196.9.89
+185.197.248.131
 185.198.56.191
 185.198.69.36
 185.20.184.138
@@ -13590,6 +13596,7 @@
 206.166.251.177
 206.166.251.196
 206.166.251.216
+206.166.251.228
 206.166.251.61
 206.166.251.99
 206.188.196.136
@@ -17447,6 +17454,7 @@
 34.105.129.68
 34.105.147.92
 34.105.212.184
+34.121.207.116
 34.122.217.243
 34.122.58.0
 34.123.106.176
@@ -17512,6 +17520,7 @@
 34.71.69.75
 34.72.131.35
 34.72.201.112
+34.72.225.196
 34.76.55.146
 34.76.6.254
 34.77.139.63
@@ -20303,6 +20312,7 @@
 45.182.189.110
 45.182.189.71
 45.186.249.3
+45.191.66.77
 45.195.148.107
 45.195.148.73
 45.199.88.86
@@ -20517,6 +20527,7 @@
 45.77.11.148
 45.77.120.140
 45.77.140.81
+45.77.155.170
 45.77.171.170
 45.77.178.169
 45.77.181.203
@@ -24507,6 +24518,7 @@
 64.176.229.97
 64.176.4.234
 64.176.5.228
+64.176.50.109
 64.176.67.117
 64.176.67.194
 64.176.69.196
@@ -29210,6 +29222,7 @@
 89.46.223.247/8usa.sh
 89.46.223.247/ab4g5
 89.46.223.70/bins
+89.46.223.88
 89.47.163.15
 89.47.166.86
 89.64.70.69
@@ -30840,6 +30853,7 @@
 95.179.134.116
 95.179.143.32
 95.179.156.97
+95.179.158.42
 95.179.168.51
 95.179.177.99
 95.179.179.183
@@ -43043,6 +43057,7 @@ ahhibjdphgyawcqaq.org
 ahhlkhaslk.jumpingcrab.com
 ahhmplfpbt.duckdns.org
 ahicexyqa.biz
+ahigspf.org
 ahihzxvsba.duckdns.org
 ahirdayanismasi.site
 ahiretteodemeler.com
@@ -121077,6 +121092,7 @@ dexcomx.zapto.org
 dexfyerd.com
 dexglcuornlolte.cn
 dexis123.fun
+dexluma.space
 dexo-1.ddns.net
 dexo-rat.ddns.net
 dexorionix.online
@@ -154230,6 +154246,7 @@ fenixtecnologia.co
 fenja.a0001.net
 fenlummirkor.com
 fenmustang.ru
+fennelface.lat
 fenniekibi.net
 fenomenbegeni.com
 fenomeno.gq
@@ -160702,6 +160719,7 @@ frenchfries8.top
 frenchislem.22web.org
 frenchkt.club
 frenchtextbooks.xyz
+frenchtrail.com
 frenddizoni.org
 frendenircanes.com
 frenktobia.com
@@ -196961,6 +196979,7 @@ homesledters.com.tr
 homeslees.com.tr
 homeslerkesrioderler.duckdns.org
 homeslerkestefelzx.com
+homeslerkesterqnbrio.duckdns.org
 homeslerkesters.com
 homeslerkesteryapiflexrio.com
 homeslers.com
@@ -222762,6 +222781,7 @@ justmoneykartalbddk68.duckdns.org
 justmoneykartalbddk700.duckdns.org
 justmoneykartalbddk701.duckdns.org
 justmoneykartalbddk705.duckdns.org
+justmoneykartalbddk706.duckdns.org
 justmoneykartalbddk72.duckdns.org
 justmoneykartalbddk73.duckdns.org
 justmoneykartalbddk74.duckdns.org
@@ -241145,6 +241165,7 @@ link-web-giris-tr.net
 link-web-iletisim.net
 link-web-iletisim.org
 link-yatirimadresi.site
+link-yonlendirme.duckdns.org
 link.dolapilesiparis.com
 link.dolaptr.com
 link.easycounter210.com
@@ -243968,6 +243989,7 @@ luleburgazyasamveteriner.com/ckeditor/db_template.php
 luleburgazyasamveteriner.com/db_template.php
 luleperepara.xyz
 lulquid.xyz
+lululemonturkiye.com.tr
 lulzpanel.ddns.net
 lulzsabu.ddns.net
 lum08u0.duckdns.org
@@ -272543,6 +272565,7 @@ odoishsaj.com
 odoncrol.com
 odoo666.ddns.net
 odorousretrospect.top
+odosadkjaskjdas.com
 odourconfederation.top
 odourparachute.top
 odourtread.top
@@ -285947,6 +285970,7 @@ paribu.cepsubelerinizden.com
 paribu.cepsubem.com.tr
 paribu.cepsubemizdeyiz.com
 paribu.cf
+paribu.cfd
 paribu.click
 paribu.club
 paribu.com.commercialspecialist.com
@@ -288515,6 +288539,7 @@ payyardim.blogspot.com
 payylisevtmolseves.duckdns.org
 payylisevtmoluts.duckdns.org
 payypallz.ddns.net
+payzel.online
 payzel.store
 payzelcheck.alwaysdata.net
 pazar-aksamfirst.com
@@ -322796,6 +322821,7 @@ sentineones.com
 sentipinfoo.hopto.org
 sentrex219.xyz
 sentry-title.com
+sentry2.lx.netease.com
 sentsigorta.site
 sentsuslae.net
 sentukanrbd.duckdns.org
@@ -330813,6 +330839,7 @@ sleepinghorsesworld.com
 sleepintimidation.top
 sleepmanxxxa.club
 sleepneuros.com
+sleepy-a101.duckdns.org
 sleepy-benz.20-121-132-39.plesk.page
 sleepy-keller.20-94-247-101.plesk.page
 sleepyanalogue.top
@@ -346864,6 +346891,7 @@ techwach.com
 techwhose.com
 techyclub.in
 techyetkilipanel.com
+techyfqfak.my
 techyinvest.com
 techzculture.com
 techziyhqt.lat
@@ -354465,6 +354493,7 @@ tr-ptt-postgov.top
 tr-ptt.top
 tr-pttavm.com
 tr-pttes.top
+tr-pttgov-tr.cc
 tr-pttgov.cc
 tr-pttgov.icu
 tr-pttgov.one
@@ -374903,6 +374932,7 @@ versa0ce.app
 versabank-transfer.com
 versacealacamabi.net
 versacetr.com
+versacezone.fun
 versagabiel.net
 versal.media/?atis=509
 versatileabnor.top
@@ -376526,6 +376556,7 @@ vkfproflarkestrs.com
 vkfrtrrrrrrrr.net
 vkfs-islem.online
 vkfsonbsvr.hopto.org
+vkfspnrlutntimli.duckdns.org
 vkfsuperfirsatkatilim.com
 vkfszbnk.tk
 vkftankazanim.net
@@ -383810,6 +383841,7 @@ winterrotation.top
 wintheprizes.net
 wintkzuwzi.duckdns.org
 wintogo.sg-host.com
+wintoro.space
 wintozz.hopto.org
 wintui.ddns.net
 wintvd-giib-gov-tr.online
@@ -399905,6 +399937,7 @@ yapikredi.cepsube.com
 yapikredi.cepsubenyukle.com
 yapikredi.cfd
 yapikredi.city
+yapikredi.click
 yapikredi.club
 yapikredi.com.de
 yapikredi.con.tc
@@ -401671,6 +401704,7 @@ yatirimonaylagirisimcilik.com
 yatirimplani.top
 yatirimpotansiyeliturkiye.site
 yatirimrehberi.org
+yatirimtavsiyesi.net
 yatirimuzmani.info
 yatirimvakifim.shop
 yatirimvizyon.space
@@ -402279,6 +402313,7 @@ yef68u.duckdns.org
 yefgfghh.ddns.net
 yefgweoiuhf.xyz
 yefseerhpi.duckdns.org
+yegamagalsklaqplqlzmnmar-k-et.duckdns.org
 yegelsdwe.wtf
 yegenimkadardaboyunuzvar.com
 yegevvakifi.org
