@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-23T08:05:13.010136
+# Updated: 2025-07-23T09:05:13.227909
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6535,6 +6535,7 @@
 15475885886.xyz
 15478856.com
 1548965550.xyz
+15498595985295808880.xyz
 154yil-ziraatbank.com
 154yildaziraat.com
 154yildirsizinle-ziraat.net
@@ -55165,6 +55166,7 @@ aportunexapp.help
 aportunexapp.trade
 aportunexapp.wiki
 apositive.be/y872ff2f
+aposom.click
 apostlejob2.duckdns.org
 apotube.com
 apoxiolazio55.space
@@ -144413,6 +144415,7 @@ engnclllmrxdsxtfrslltirnda.click
 engnclllmrxxdetfrslltirnda.click
 engnclllmrxxtfffrslltirnda.click
 engnclllmzzrxxtfrslltirnda.click
+engncllmarkttfrstlarii.sa.com
 engncllmdarkttfrstlrii.sa.com
 engncllmrx-tindmrllri.xyz
 engncllmrx-tisndmdrllri.xyz
@@ -179893,6 +179896,7 @@ haftanin-firsatlari-sahane-urunler.online
 haftanin-firsatlari-sahane-urunler.xyz
 haftanin-firsatlari.com
 haftanin-firsatlari.com.tr
+haftanin-firsatlari.net.tr
 haftanin-gunleri.com.tr
 haftanin-indirimleri-tr.online
 haftanin-indirimleri.com.tr
@@ -213294,6 +213298,7 @@ isbulevdepaketleme.gq
 isbwwqssas.sbs
 isbxnk-online.com
 isbxnkampxnyalar.org
+isbxnkcebindx.duckdns.org
 isbxnkqrsitr.xyz
 isc-basvryp.click
 isca-vasbvr.click
@@ -231331,6 +231336,7 @@ kgmivdodeme.net
 kgmkarayoluajan.com
 kgmkarayoluajans.com
 kgmkarayoluajans2023.com
+kgmkskarylborcodmslrinz.duckdns.org
 kgmlegecisins.dev
 kgmmgecisbilgi.com
 kgmmgm2.net
@@ -236672,6 +236678,7 @@ kstyyksennt.net
 ksu.com.tr/admin53x/ckfinder/core/connector/php/lang/connection.php
 ksuruszalisverisinadresi.cfd
 ksuruszalisverisinadresi.click
+ksuursuzfirsatlarinyeri.cfd
 ksuuruzrzindiirmler.cfd
 ksuuruzrzindiirmler.sbs
 ksuvsdeine.net
@@ -243889,6 +243896,7 @@ lstanbulkartyukleme.ml
 lstanbulkartyukleme.net
 lstanbulkd.blogspot.com
 lstanbullu.shop
+lstanbulluolun.click
 lstanbulodemeibb.net
 lstanbulqrt.net
 lstanbulu.net
@@ -249037,6 +249045,7 @@ marylandhomerates.com
 maryvonneethelinda.net
 maryvonneshavonne.net
 maryyjuana.com
+marzalo.store
 marzo1.duckdns.org
 marzoorganigrama20202020.duckdns.org
 marzorevenger.duckdns.org
@@ -250901,6 +250910,7 @@ medusapaketleme.com
 medusax.net
 medya-ajans.net
 medyahaberim.com
+medyahabersitesi.duckdns.org
 medyahizmeti.com
 medyaservicesystem.com
 medyaveduyuru.com
@@ -253752,6 +253762,7 @@ mipinves.site
 mipolatr.top
 miprojector.shop
 miqueias123.duckdns.org
+mir.tyg.mybluehost.me
 mir4.ddns.net
 miracbxmcllseninle.com
 miraccell1.cf
@@ -268220,6 +268231,7 @@ nopanel.shop
 nopanel.site
 nopanel.store
 nopanel.top
+nopanel.xyz
 nopdoxifmfdafssfdfzz.blogspot.com
 nopejohn.com
 nopewhatnoobs.ddns.net
@@ -299132,6 +299144,8 @@ pttigov.sbs
 pttigov.shop
 pttigov.site
 pttigovtri.top
+pttigsoiv.cfd
+pttigsoiv.top
 pttiigov.top
 pttileguvenlikargolar.com
 pttileonlinealisveris.com
@@ -299274,6 +299288,7 @@ pttlerdeodemslibb.com
 pttlerhizli-odemelervizli.com
 pttleriblibb.com
 pttlgov.ink
+pttlgov.live
 pttlgov.one
 pttlgovtr.me
 pttlgovtr.online
@@ -309581,6 +309596,7 @@ riotouscontemplation.top
 riotousretrospective.top
 riotravel.ru
 rioyapiflexx.duckdns.org
+riozonasacai.com
 rip-your.duckdns.org
 ripcdcapsym.info
 ripflattery.top
@@ -332349,6 +332365,7 @@ sogsfoold.buzz
 sogukbirlimonataverr.com
 sogukcuzdanlardomain.com
 sogukgeldikampanya.xyz
+sogukhavadasinir.xyz
 sogukjuzdanbaytarkk.com
 sogutan-mutlu-haberler.com
 sogutm568.wixsite.com
@@ -336016,6 +336033,7 @@ spnsrlu-zir34.xyz
 spnsrlu-zironline.duckdns.org
 spnsrlu3-yapionline.duckdns.org
 spnsrluvkfreklami.duckdns.org
+spnsrluzirr1online.duckdns.org
 spnstlugndr3.duckdns.org
 spo32se34007.site
 spobymbfdkdwlhg.su
@@ -353410,7 +353428,6 @@ tpao-borsa.com.tr
 tpao-petrollaz.com
 tpaoalis.com
 tpaodigital.com
-tpaogov.com
 tpaokarari.com
 tpaopartners.com
 tpaopetroll.pro
@@ -391597,6 +391614,7 @@ wwwkj.ink
 wwwkredimvakiftacom.co.vu
 wwwkuveytturk.com
 wwwl.reimglink.com
+wwwl55polisi155polis.online
 wwwladger--start-web.webflow.io
 wwwlnstagram.cf
 wwwm2bsecure.zapto.org
