@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-23T12:05:12.870959
+# Updated: 2025-07-23T13:05:12.512423
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15178,6 +15178,7 @@
 23ocaktelefon.cyou
 23spt.duckdns.org
 23subatdenizfirsatlari.online
+23temmuzgunduzundensi.cloud
 23tetojor1.zapto.org
 23tn96qdotpau.k049j.ru
 23u99j.duckdns.org
@@ -59196,6 +59197,7 @@ asicallysolidarit.top
 asidehappen-cap.com
 asidogrulamasagliksistemisitesi.cf
 asidomain.com
+asigidsksakgdfshkssakashffhdgas.cyou
 asigidsksakgdfshkssakashffhdgas.icu
 asigidsksakgdfshkssakhsaf.cyou
 asigidsksakgdfshkssakhsaf.icu
@@ -64354,6 +64356,7 @@ babalarapro.biz
 babalarburada.com.tr
 babalarburada.online
 babalarburda.xyz
+babalarburdauzasen.cfd
 babalarchivasregalnet.net
 babalarfirar.pw
 babalarguenueneozel20gbhediye.online
@@ -87022,6 +87025,7 @@ bnmxcvcllcmlg.com
 bnmyy.com
 bnmz.net
 bnn-formm-sign.com
+bnn-nbr-bn.shop
 bnn-strglblgrs.com
 bnn1l.com
 bnnabasvurlarigiristr.com
@@ -133793,6 +133797,7 @@ e-sigorta.xyz
 e-sigortamnet.com
 e-sigortamnet.net
 e-sigortannet.xyz
+e-sikayet-6.sbs
 e-sikayetimvartr.rest
 e-sikayetvatandas.rest
 e-simdibasvur.com
@@ -144775,6 +144780,7 @@ enkalitelisigortaci.com.tr
 enkampanya.site
 enkampanyam.site
 enkanpanyam.site
+enkanpanyam.store
 enkanpanyamsite.store
 enkasko.homes
 enkasko.site
@@ -177036,6 +177042,7 @@ guvenli-alisveris-tr.com
 guvenli-alisveris-yap.click
 guvenli-alisveris-yap.org
 guvenli-alisveris.click
+guvenli-alisveris.com
 guvenli-alisveris.com.tr
 guvenli-alisveris.ml
 guvenli-alisveris.online
@@ -348650,6 +348657,7 @@ temmuzfarkindainidirimin.com
 temmuzfirsatgunlerikapida.com.tr
 temmuzfirsatgunu.com
 temmuzfirsati-mobil.online
+temmuzfirsati.duckdns.org
 temmuzfirsati.online
 temmuzfirsatia101.duckdns.org
 temmuzfirsatikacirmaa.com
@@ -348790,6 +348798,7 @@ temmuzunenguzelgunleri.com
 temmuzunfirsatlari.duckdns.org
 temmuzunfirsatlarla.duckdns.org
 temmuzunkampanyasi.biz.tr
+temmuzunkampanyasi.com.tr
 temmuzunkampanyasi.info.tr
 temmuzunkampanyasi.name.tr
 temmuzunkampanyasi.net.tr
@@ -365234,6 +365243,7 @@ ucuzalbilet.com
 ucuzaldi.com
 ucuzaldik.tr.gg
 ucuzaldimaldim.shop
+ucuzalhemen.space
 ucuzalisveris.cfd
 ucuzalisveris.duckdns.org
 ucuzalisveris101.com.tr
@@ -402379,6 +402389,7 @@ yazsckalrndafrsburallmernageld.com
 yazsckalrndafrstkarayagnageld.com
 yazsenlikleritr.xyz
 yazsicaklariyapidayasanir.com
+yazsogugunukap.xyz
 yazsonkampanyalari.com
 yazsonlari.online
 yazsonu-altus.com.tr
