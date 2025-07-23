@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-22T23:05:13.118191
+# Updated: 2025-07-23T00:05:14.636659
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -50059,8 +50059,11 @@ aldinaldinfirsati.com
 aldinaldinfirsati.online
 aldinaldinfirsatikacirmasongun.online
 aldinaldinfirsatkacmaz.online
+aldinaldinfirsatlar.cfd
 aldinaldinfirsatlar.click
 aldinaldinfirsatlar.duckdns.org
+aldinaldinfirsatlar.icu
+aldinaldinfirsatlar.my
 aldinaldinfirsatlar.online
 aldinaldinfirsatlar.shop
 aldinaldinfirsatlar.xyz
@@ -50164,6 +50167,7 @@ aldinaldinturkey101.online
 aldinaldinucuza.shop
 aldinaldinucuzaturkiye.store
 aldinaldinurnleri.cfd
+aldinaldinurnleri.sbs
 aldinaldinyilbasinaozel.com.tr
 aldinaldinyilbasiozel.com.tr
 aldinaldinyuzbirkampanyalari.space
@@ -50897,6 +50901,7 @@ alisverisfirsatlari.online
 alisverisgetguvende.com.tr
 alisverisgetmobil.com.tr
 alisverisgunleri.sa.com
+alisverisgunlerin.com.tr
 alisverisgunlerin.online
 alisverisgunleriniz.sa.com
 alisverisgununusakalama.xyz
@@ -69114,6 +69119,7 @@ bayqor.com
 bayraaamdaa-firrsttlrm.com
 bayraammsonnuu.com
 bayrakligez.net
+bayraktarinvest.click
 bayraktaryatirim.co
 bayraktaryatirim.com.tr
 bayraktaryatirim.in
@@ -71065,6 +71071,7 @@ begenipaneli.net
 begenivar.com
 begeniyildizi.com
 begindecafer.world
+begindevelop.online
 beginfuturenow.online
 beginmyprogress.info
 beginnin.top
@@ -110665,6 +110672,7 @@ cybuzbcupm.duckdns.org
 cybwpz1.duckdns.org
 cycamu.com
 cycledetach.top
+cycles-rpg.com
 cycleshubbery.top
 cyclingevasion.top
 cyclingindulge.top
@@ -120344,6 +120352,7 @@ develop24pro.space
 developbizprogress.sbs
 developcommerce-modern.store
 developcommerce-online.homes
+developcompass.online
 developdisregard.top
 developeislem.22web.org
 developemancipate.top
@@ -125783,6 +125792,7 @@ doludoluindirimler.com.tr
 doludoluindirimler.online
 doludoluindirmler.cfd
 doludoluindirmler.click
+doludoluindirmler.my
 doludolusepet.com.tr
 doludolusepet.online
 doludoluye.net
@@ -153670,6 +153680,7 @@ fb-onlinecepyapi.vercel.app
 fb-sponsorluclik.site
 fb-sponsorluform.site
 fb-sponsorlureklam.site
+fb-sponsorlureklamclik.site
 fb-statics.com
 fb-statics.info
 fb-techsupport.com
@@ -157998,6 +158009,7 @@ firsatt-basvurumobildeniz.com
 firsatt-indrrimller.com
 firsatt-urunleri-katalogu.com
 firsatta-bugunekimfirsatlaribugun.tech
+firsattaa.com
 firsattabugunkampanyasibance.tech
 firsattakibi.net
 firsattan25000yararlan.xyz
@@ -167649,6 +167661,7 @@ gelirlersimdipros.duckdns.org
 gelirmisinbenimle.com.tr
 gelirmmusterisi.com
 gelirpltf.com
+gelirrehber.info
 gelirrkapisi.com
 gelirrrportfoy.com
 gelirse-buraya-bizimkiler-gelir.xyz
@@ -184080,6 +184093,7 @@ harikaistanbul.com
 harikakampanyahaftasi.com.tr
 harikakampanyahaftasi.online
 harikakampanyalarburada.click
+harikakampanyalarburada.my
 harikakampanyalarburada.online
 harikakampanyalarburada.sbs
 harikakampanyalarburada.xyz
@@ -224750,6 +224764,7 @@ kalan-sahalarda-biz-gorev-yapacagiz.com
 kalanaeyles.click
 kalancaksa.net
 kalanfirsatavantajlarikacirma.com
+kalankalana.com.tr
 kalankampanyalar.online
 kalanlar-sevinir-buradan-mutlu-gidin.com
 kalanlar.win
@@ -225915,6 +225930,7 @@ kampanyalarayaginizda.com.tr
 kampanyalarbaslasin.click
 kampanyalarbasvur-denizle.co
 kampanyalarbasvur-denizle.com
+kampanyalarbitmeyecek.cfd
 kampanyalarbitmez.shop
 kampanyalarbitmezburada.com.tr
 kampanyalarbitmezburada.xyz
@@ -271053,6 +271069,7 @@ nyfcvl.top
 nyfmbsagdy.com
 nygegeexuu.life
 nyhcl.com
+nyheder-live.com
 nyjivxwgwcypprev.com
 nyjpgvw.com
 nyjur.tk
@@ -352981,6 +352998,7 @@ torkuhashalicilar.site
 torkunikeadidasdeniz.site
 torlago.com
 torlas6w13f.site
+torlekklinl.com
 torlekktorzon.com
 torlekttraval.com
 torlummlingarf.com
@@ -364407,6 +364425,7 @@ tygxyusers.ddns.net
 tyhbhgsb.com
 tyhgdgf.com
 tyhgsyuklemenizte.net
+tyifuui.com
 tyikkkk.blogspot.com
 tyisgqrd.com
 tyixfhsfax.info
@@ -367228,6 +367247,7 @@ urkreifd.boyacentury.cn
 urks3s2hw.duckdns.org
 urkvi4ubw8w8q2iril3luhc.ddns.net
 url-adsview.cfd
+url-browser.cfd
 url-clickid.cfd
 url-explorer.cfd
 url-extension.cfd
@@ -383945,6 +383965,7 @@ winnewmobilephone.store
 winningeleven3.re
 winnlinne.com
 winnnerkeradmin.ddns.net
+winnoza.com
 winnscp.net
 winnshot.com
 winny.ddns.net
