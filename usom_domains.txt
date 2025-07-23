@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-23T13:05:12.512423
+# Updated: 2025-07-23T14:05:13.314297
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -159175,6 +159175,7 @@ flrsatlarekimlndrimleri.store
 flrsatlarhemengelsedeozelbilir.store
 flrsatlarherhadigelortakolaksenlene.store
 flrsatlarikacirmamakicin.duckdns.org
+flrsatlarindanhemendeolsaazaldimsa.shop
 flrsatlarinizgelmesedeolsaniz.xyz
 flrsatlarinizgelmeseedeolsaniz.xyz
 flrsatlarinizgelolsn.xyz
@@ -186472,6 +186473,7 @@ hedefimiz2024.dev
 hedefintek.com
 hedefkafasi.space
 hedefmenkul.net
+hedefmenkuldegerler.com
 hedefplanlamasi.online
 hedefpusulasi.online
 hedefsensintaydun007.site
@@ -188757,6 +188759,7 @@ hepsiburadaindirim.site
 hepsiburadaindirim.xyz
 hepsiburadaj.com
 hepsiburadak.com
+hepsiburadakampanya.com
 hepsiburadakasim.com
 hepsiburadakep-adresim.com
 hepsiburadakepim.net
@@ -195508,6 +195511,7 @@ hizmetfilo.xyz
 hizmetfirsati.xyz
 hizmetfull.xyz
 hizmetgeldisizlere20.com
+hizmetger.site
 hizmetgiris-turkeygov.com
 hizmetgiris-turkeygovtr.com
 hizmetgiris-turkiiyegovtr.com
@@ -248779,6 +248783,7 @@ marketthediyeceki.online
 markettlercepte.com
 markettptt-avm-hizmet-20224.online
 markettptt-avm-hizmet-2024.online
+markettrcepte.biz.tr
 markettrcepte.info.tr
 markettrendingcenter.com
 marketuygunu.com
@@ -278056,6 +278061,7 @@ onlineprbubasvurutr.com
 onlinepreneur.id
 onlineprohostz.cf
 onlineprohostz.gq
+onlinepromos.net
 onlinepromosyonbasvurusu.duckdns.org
 onlinepromosyonlarburada.xyz
 onlinepromosyonlarburda.com
@@ -294084,6 +294090,7 @@ premium162.web-hosting.com
 premium19.com
 premium66sunnglasses.site
 premiumassortment.top
+premiumcicek.net
 premiumexperiencegood.com
 premiumgrowthexperts.com
 premiumhizmetlerim.xyz
@@ -323050,6 +323057,7 @@ sensitiveendowment.top
 sensitivehumanitarian.top
 sensitivityidiotic.top
 sensiz-acilar-bittiginde-son-kez.com
+sensiz-olmaz-hicbir-sey.shop
 sensizbayramindamk.net
 sensizgeceler.net
 sensizgecelerhecelerenv.net
@@ -332685,6 +332693,7 @@ sokinidirimlerr.online
 sokinidirimlerr.xyz
 sokisamn.net
 sokislemnfs.com
+sokkadlem.kralbayrak66.workers.dev
 sokkampanya.com.tr
 sokkampanya.online
 sokkampanyaceptefirsatlar.com
@@ -367588,6 +367597,7 @@ urunhizmetkalitenoktasi.com
 urunhizmetlerina.com
 urunhizmetlerservisin.com
 urunhizmetnoktasi.com
+urunid-69129.it.com
 urunilan.com.tr
 urunindirimisikacirms.shop
 urunisleminiz.com
