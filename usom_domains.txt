@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-24T16:05:14.811410
+# Updated: 2025-07-24T17:05:12.352497
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3276,6 +3276,7 @@
 107.161.50.26
 107.170.198.33
 107.170.215.53
+107.170.35.225
 107.172.0.161
 107.172.13.149
 107.172.165.149
@@ -5657,6 +5658,7 @@
 144.126.131.80
 144.126.158.57
 144.139.247.220
+144.172.103.42
 144.172.108.37
 144.172.112.84
 144.172.122.30
@@ -20442,6 +20444,7 @@
 45.61.130.0
 45.61.130.11
 45.61.131.218
+45.61.134.36
 45.61.136.127
 45.61.136.130
 45.61.136.133
@@ -31315,6 +31318,7 @@
 98765423456.cloud
 987654321147225.com
 987749792.dfgqdsd.ru
+9878789789775555.duckdns.org
 98789798.com
 987965553265562ss.cloud
 98798446546465464654654654dd.online
@@ -58866,6 +58870,7 @@ asdfgqgw213gasg.com
 asdfgsddhdx.click
 asdfgtyhtrxproperties.ml
 asdfgwtygwew.click
+asdfiasdifasifaidfaf.cfd
 asdfjad.net
 asdfjkhashj12312ko.com
 asdfkasdhjasd.net
@@ -94448,6 +94453,7 @@ bxnsna-aldin-aldin-online.cfd
 bxnsna-aldin-aldin-online.cyou
 bxnsna-aldin-aldin-online.icu
 bxnsna-aldin-aldin-online.sbs
+bxnwlrbnmx-bzqrvwy-hxtlp-ndok.click
 bxocupki.com
 bxofgnm.com
 bxofsrtwgp.duckdns.org
@@ -94818,6 +94824,7 @@ bzvcryroco.duckdns.org
 bzvmtarh.com
 bzvnmsjngb.ml
 bzvpjilx.com
+bzvrdkbrdangldkszs.shop
 bzvrdksznrsnzbrdolr.shop
 bzvrgcyvsq.duckdns.org
 bzvtareh.com
@@ -125427,6 +125434,7 @@ dogrudanindirimliurun.shop
 dogrudanmutfaginizda.xyz
 dogrudanodeme.sg-host.com
 dogrudantuketicixyz.xyz
+dogrudanureticiden.xyz
 dogrudanyuklegec.sg-host.com
 dogruden.xyz
 dogrugelecek.com
@@ -133604,6 +133612,7 @@ e-para-ekira-gov-tr.tk
 e-para-eservis-gov-tr.online
 e-para-puan.com
 e-parabank.com
+e-param-guvende.online
 e-paramguvemde.com
 e-paramguvende-sahibinden.com
 e-paramguvende.co
@@ -144789,6 +144798,7 @@ eniyindrmbuaykibayrmxindrm.ru.com
 eniyindrmbuaykibayrmxindrm.za.com
 eniyindrmlrmbunlrbnmbu.click
 eniyindrmlrmbunlrbnmbu.ru.com
+eniyindrmlrmbunolar.za.com
 eniyinxdmlrmrbunlarbnm.click
 eniyinxdmrlrmbuyil.click
 eniyinxdrmlbunlarkapida.click
@@ -144861,6 +144871,7 @@ enkampanyam.site
 enkanpanyam.site
 enkanpanyam.store
 enkanpanyamsite.store
+enkasan.com
 enkasko.homes
 enkasko.site
 enkasko.website
@@ -164402,6 +164413,7 @@ garantibbva.intban.online
 garantibbva.internet-subesi.com.tr
 garantibbva.investment-rb.com
 garantibbva.kredi-islemlerim.com.tr
+garantibbva.kredibasvurun.cyou
 garantibbva.kredimbasvurdum.sbs
 garantibbva.kredin-cebinde.com.tr
 garantibbva.loseyourip.com
@@ -228650,6 +228662,7 @@ kart12sec.gq
 kart38dolumlari.net
 kart38yuklemeservisi.net
 kartaaidatiadesi.wixsite.com
+kartabtn.vercel.app
 kartacnictvi.cz
 kartacnictvi.cz/wp-content/plugins/ckeditor-for-wordpress/ckeditor/plugins/image/upload.php
 kartaiadehizmetleri.com
@@ -228788,6 +228801,8 @@ kartborcsorgula.org
 kartborcsorgulamasi.com
 kartborcuodeme.com
 kartborcusorgulamaservisi.com
+kartbten.vercel.app
+kartbtn.vercel.app
 kartdestek.xyz
 kartdevlet.com
 kartdevlet.org
@@ -235953,6 +235968,7 @@ kredibasvurum.com.tr
 kredibasvurum.epizy.com
 kredibasvurum.fun
 kredibasvurumdeniz.tk
+kredibasvurun.cyou
 kredibasvurunkuveytt-tr.com
 kredibasvuruonaymerkezi.live
 kredibasvuruonaymerkezi.net
@@ -388543,6 +388559,7 @@ www-garanticep-com.cf
 www-garantiden-kredi-online.ooguy.com
 www-garantiden-krediler-online.giize.com
 www-garantiden-online-kredi-basvuru.giize.com
+www-garantiden-online-krediler.ooguy.com
 www-garantidensubatbonusu-com.ml
 www-garantidensubatbonusu-com.tk
 www-garantione.com
