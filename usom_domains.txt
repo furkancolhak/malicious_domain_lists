@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-24T22:05:12.965553
+# Updated: 2025-07-24T23:05:13.037301
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -40897,6 +40897,7 @@ adexhangetomatto.xyz
 adezabes2eme.rocks
 adezabeseme.rocks
 adf2sv.duckdns.org
+adfadgadgjgagjfi.cfd
 adfajhfja.click
 adffassann.net
 adffew.top
@@ -73875,6 +73876,7 @@ bilgizade.name.tr
 bilgizem.info
 bilgmrkz.online
 bilgtr-giris-duyurevdekal.com
+bilia1o1.sbs
 bilibilibim.com
 bilibilibimcell.com
 bilibilicea2tl.com
@@ -113660,6 +113662,7 @@ delightclock.top
 delightfringe.top
 delightfulelaborately.top
 delightperplex.top
+deligibifirsatlar.cfd
 delikral.mywire.org
 delilerarsiv.sorgupanel.net
 delillerden.com
@@ -140267,6 +140270,7 @@ egi5nh.duckdns.org
 egifgrokbpotuifho.com
 egih5trv.duckdns.org
 egiiriskapisi-turkiyegovtr.com
+egildaglar.cfd
 egio.digital
 egir-teb-hediyebasvur.com
 egir-teb-hediyebasvur.online
@@ -215553,6 +215557,7 @@ istanbullularabonus.net
 istanbullularaozel.com
 istanbullumkart.net
 istanbulluolmak.net
+istanbulluoln.click
 istanbulluonlineon.com
 istanbullupazarrr.net
 istanbullyklmss.com
@@ -237607,6 +237612,7 @@ kusursualisverisburada.com.tr
 kusursualisverisburada.online
 kusursualisverisburada.xyz
 kusursuz-hizmet.net
+kusursuzalisverinyeri.my
 kusursuzalisverisadrxleri.online
 kusursuzalisveristebugun.cfd
 kusursuzalisveristebugun.my
@@ -255788,6 +255794,7 @@ mobilbasvuruceptenonlineteb.co.vu
 mobilbasvurucepteteb.com
 mobilbasvuruedvltportalgiris.ml
 mobilbasvuruesubeteb.co.vu
+mobilbasvuruformu.cfd
 mobilbasvuruformubireyselsubecilik.ml
 mobilbasvurukampanyafirsatinaozel.online
 mobilbasvurukampanyasi-online.cf
@@ -307149,6 +307156,7 @@ redmialimiburadanyapiliyorrdur.cfd
 redmialimiburadanyapiliyortik.cfd
 redmialimiburadanyapiliyortik.my
 redmialimiburadanyapiliyortik.sbs
+redmialimicinburadangiriniz.sbs
 redmialimicinburadantiklayin.cfd
 redmialimihemenal.cfd
 redmialimyerleriburadan.my
@@ -318433,6 +318441,7 @@ sanatveguncelprojelerplani.xyz
 sanatvesanatcihayatlari.xyz
 sanatvetasarimdunyasindayangelen.xyz
 sanayakisaniyap.eu
+sanayi-sorgu.org
 sanayitr.info
 sanballat.live
 sanbleutjrsd.ddns.net
@@ -323127,6 +323136,7 @@ seni-dusunen-daima-biz-sizlerin-yillardir-tam-arkanizda.com.tr
 seni-dusunen-daima-biz-sizlerin-yillardir-tam-arkanizda.xyz
 seni-mutlu-etmek-icin-buraya-kadar-geldi.com
 seni-ne-kadar-da-dsnrm-bilemezsin.com.tr
+seni-sevdigimi-bil-yeter.top
 seni-sevdigimi-bil.top
 seni-sevdim-yukle-ama-tamam.blogspot.com
 senialdigimacoksevindim.xyz
@@ -368008,6 +368018,7 @@ urunlerdeinidirmsondakika.online
 urunleresepetteindirim.online
 urunleresepetteindirim.xyz
 urunleri-yakalaal.com
+urunleri.com.tr
 urunlerialsimdi.icu
 urunlerihizlicasatinalhemen.com.tr
 urunlerihizlicasatinalhemen.online
@@ -408506,6 +408517,7 @@ yuzdelik-indrimlerim-cepgiris.net
 yuzdeyirmibeshediye.net
 yuzdeyirmibeshediye.online
 yuzdeyuzfirsatlar.online
+yuzguldurenidnirimler.cfd
 yuzir.dusertekik.com
 yuzleofelsdl.net
 yuzleri-gulduren-yenilikler-geliyor-burada.com.tr
