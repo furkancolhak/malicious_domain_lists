@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-24T17:05:12.352497
+# Updated: 2025-07-24T18:05:13.371257
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5102,6 +5102,7 @@
 135.181.8.137
 135.181.8.143
 13513513513.store
+135312524563425.cfd
 135831581358135.xyz
 135qwbc3shlkvx.com
 135w1xj.duckdns.org
@@ -9557,6 +9558,7 @@
 187.94.89.17
 187.ip-54-36-162.eu
 1870022550.dfgqdsd.ru
+1870y4rr4y3d1k757673q.xyz
 18719562-coinbase.com
 1872237405.dfgqdsd.ru
 18724512564712648724.shop
@@ -22747,6 +22749,7 @@
 516541248518-mobilss.cloud
 516549999.cloud
 51655656666.cloud
+5165651651651165.duckdns.org
 5166kaptikacti.xyz
 516843542.online
 516prorenata.com//db_template.php
@@ -59245,6 +59248,7 @@ asigidsksakgdfshkssakashffhdgas.cyou
 asigidsksakgdfshkssakashffhdgas.icu
 asigidsksakgdfshkssakhsaf.cyou
 asigidsksakgdfshkssakhsaf.icu
+asigidsksakgdfshkssakwkfqksaf.icu
 asigimsanaa.net
 asijdasldakdask.de
 asik37df.xyz
@@ -64937,6 +64941,7 @@ bahrquhzqm.duckdns.org
 bahsegell892.com
 bahsetbizeparadan.net
 bahsidisiauah.ddns.net
+bahsisaylik.com
 bahubalime.com
 baiak-mundial.ddns.net
 baiakzik-pvp24hrs.ddns.net
@@ -112198,6 +112203,7 @@ datacheck.cc
 datacikerim.duckdns.org
 datacontrol.ddns.net
 datacoveo.com
+datacrab-analytics.com
 datacraze.store
 datacryptosafe.com
 datacyncorize.com
@@ -112216,6 +112222,7 @@ datagatewayglobal.com
 datagen.shop
 datagroup.ddns.net
 datagrove.store
+datahog.su
 dataiaccount.club
 datainfosecure.com
 dataintelligenceoptimal.com
@@ -112225,6 +112232,7 @@ datalarcim.com
 datalogmekvk.duckdns.org
 datalogmekvkdirect.duckdns.org
 datalogy.sa.com
+datalytica.su
 datamarketplace.net
 datamatikpanel.org
 datanalytic.org
@@ -113195,6 +113203,7 @@ deepgraphics.co.za//db_template.php
 deepgraphics.co.za/db-config-ini.php
 deepgraphics.co.za/db_template.php
 deepgraphics.co.za/wp-config-ini.php
+deephq.store
 deepislem.22web.org
 deeplearng-deep.com
 deeplemonc.zapto.org
@@ -121859,6 +121868,7 @@ diemtichluy.net
 dienst-ing.ddns.net
 dienstportal.ddns.net
 dientap.zapto.org
+dieorsuffer.com
 dieorsurrender.com.tr
 diepost-deutschland.zapto.org
 diepost.hopto.org
@@ -122948,6 +122958,7 @@ dijitalkampanyaweb-denizacik.com
 dijitalkampanyaweb-ziraat.com
 dijitalkampanyaweb-ziraatbireysel.com
 dijitalkampnya.net
+dijitalkanal-ziraatmobilweb.com
 dijitalkar-tr.com
 dijitalkasaenvr1.cfd
 dijitalkasaenvr2.cfd
@@ -156396,6 +156407,7 @@ fire-rat.ddns.net
 fire-shares.info
 fire48fj.com
 fireagafrots12.net
+firebase.su
 firebasebox.com
 firebayukle.herokuapp.com
 firebluetrap21.com
@@ -157547,6 +157559,7 @@ firsatlarakbnktakampanyalarikacirma.cloud
 firsatlaraktuel.com
 firsatlaranindamrz.com.tr
 firsatlaranindasizlerleyakinlarda.duckdns.org
+firsatlaranindayanindasizlerle.duckdns.org
 firsatlaranlik.shop
 firsatlaranlikolaraktakipediliyor.com.tr
 firsatlaranlikolaraktakipediliyor.cyou
@@ -279037,6 +279050,7 @@ onsyndrome.top
 ontehagundor.click
 onthebeach.one
 onthedislike.one
+onthemtaitp.com
 ontimeservice.ddns.net
 ontion-protomono.nya.pub
 ontmintuejio.sytes.net
@@ -331703,6 +331717,7 @@ smartphonestipulate.top
 smartphonetribune.top
 smartplace.monster
 smartsavocats.com
+smartscreen-api.com
 smartsellers.shop
 smartslaves.hopto.org
 smartstand.org
@@ -392980,6 +392995,7 @@ xcoct.xyz
 xcod.ddns.net
 xcodclesbwdlxoa.su
 xcode001.ddns.net
+xcoiintnt.vercel.app
 xcoinbmn.vercel.app
 xcombimcvll.net
 xconnectit.com
