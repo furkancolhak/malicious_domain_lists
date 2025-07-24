@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-24T07:05:13.409982
+# Updated: 2025-07-24T08:05:13.868079
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1863,6 +1863,7 @@
 101-temmuz17.com
 101-temmuz18.com
 101-temmuz20.com
+101-temmuz23.com
 101-tv-temmuzindirimlerin.vercel.app
 101-volta-com-tr.click
 101-volta-com-tr.sbs
@@ -10995,6 +10996,7 @@
 196.218.30.83
 196.240.121.110
 196.251.113.139
+196.251.114.158
 196.251.115.187
 196.251.115.188
 196.251.116.36
@@ -95710,6 +95712,7 @@ camfrogrm.zapto.org
 camhcxsmka.duckdns.org
 camhgsm.com
 caminhada.ddns.net
+camis.cfd
 camisasel.com
 camkutezyinat.com//db_template.php
 camkutezyinat.com/db_template.php
@@ -113042,6 +113045,7 @@ declineperpetuate.top
 decode.ddns.net
 decoder.re
 decoding.at
+decomn.itcom.top
 deconfer.top
 deconmeag.duckdns.org
 decorandoimoveis.com
@@ -113545,6 +113549,7 @@ deliciousincorporate.top
 deliciousprime.cf
 deliciouswingsny.com
 delidehset.duckdns.org
+delidehsetfirsatlar.cfd
 delidelikupeli.best
 delidivane3d.xyz
 delidolu.b-cdn.net
@@ -158474,6 +158479,7 @@ fitnessflare.website
 fitnessfounder2021.com
 fitnessfreakfusion.com
 fitnessmentorpath.xyz
+fitnessplanner.top
 fitnesspoet.top
 fitnessstyle.xyz
 fitoboheimhov.ddns.net
@@ -186459,6 +186465,7 @@ heatedduplication.top
 heatedequate.top
 heatedmelody.top
 heatedrepression.top
+heathcooe.com
 heathermercerfineart.com
 heatigaristocacy.top
 heatjunction.top
@@ -193469,6 +193476,7 @@ hisaregitimvakfi.com
 hisaregitimvakfi.org
 hisaregitimvakifi.org
 hisarins.com
+hisartnetwork.top
 hisatophjrok12.top
 hisdable.hopto.org
 hisdayanismadernegi.online
@@ -195173,6 +195181,7 @@ hizlisiparislerin5indebucuk.cloud
 hizlisiparislerinden20bucuktemmuz.cloud
 hizlisiparislerinden22tem.cloud
 hizlisiparislerindne21temmu.cloud
+hizlisiparislerintemuuzdanberi22.cloud
 hizlisiparislink.click
 hizlisiparisolustur.gtxpros.best
 hizlisiparisolusturmangerek.cloud
@@ -216807,6 +216816,7 @@ itcdubai.net
 itcfit.com
 itcgr.live
 itchmvctaxgjq410en3.ddns.net
+itcom.top
 itcostsfiftydollars.tk
 itcsgw.top
 itdprcvqkd.duckdns.org
@@ -228707,6 +228717,7 @@ kartalescort.mobi
 kartalhomenesfleskpleskdsad.cloud
 kartallafirsatlarimbitmez.duckdns.org
 kartaodemeal.com
+kartary.com
 kartbakiye-yukle.tk
 kartbakiyedoldur.tk
 kartbakiyeesskart26.net
@@ -252124,6 +252135,7 @@ meta-copyrightservice.cf
 meta-destek-merkezi.tk
 meta-facebookverify.ubpages.com
 meta-fb-ads.com
+meta-fb.cfd
 meta-guests.com
 meta-help-app.duckdns.org
 meta-help-service.cf
@@ -295283,6 +295295,7 @@ programma-2023.tech
 programmemobilise.top
 programmepredator.top
 programming-persian.gl.at.ply.gg
+programminglab.xyz
 programrevolution503.weebly.com
 programs.edlester.com
 programsex6319.ddns.net
@@ -302931,6 +302944,7 @@ qnbtronlinebasvurumuz.com
 qnbtrtveaidatiadeler.ml
 qnbvercel.vercel.app
 qnbvrcel.vercel.app
+qnbvrkmpny.vercel.app
 qnbwebbasvurumuz.com
 qnbwebbasvurunuz.com
 qnbwebbasvurusuweb.com
@@ -391927,6 +391941,7 @@ wwwtebbank-com.tk
 wwwtebcep.com
 wwwtipobet5401.com
 wwwtonianatara.com
+wwwtr155polisi.online
 wwwtraidaetbasvurumartsongun.com
 wwwtrbinance.com
 wwwtrhalkbank.com
@@ -399277,6 +399292,7 @@ yakindaki-sevinc-simdi-yaninda-oldu.com
 yakindan-bakanlar-yenilikci-sekilde-devam.com
 yakindatoki.org
 yakinhukuk.com.tr
+yakinlardafirsatlarheransizlerle.cyou
 yakisikli-yonlendir.com
 yakisikliguvenlik.app
 yakka.duckdns.org
