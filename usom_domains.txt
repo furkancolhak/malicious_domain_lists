@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-24T18:05:13.371257
+# Updated: 2025-07-24T19:05:12.422386
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -26,6 +26,7 @@
 0.solucionegos.top
 0.supersekerbenk.site
 0.tcp.ap.ngrok.io
+00-1321729461.cos.ap-guangzhou.myqcloud.com
 00-hgs.glitch.me
 000-authent-777-serv-000.pages.dev
 0000.hopto.org
@@ -3070,6 +3071,7 @@
 104.233.224.231
 104.234.118.163
 104.234.147.74
+104.234.15.90
 104.234.239.26
 104.236.100.5/ide
 104.236.100.5/isube
@@ -3263,6 +3265,7 @@
 107.148.52.241
 107.148.52.242
 107.148.54.105
+107.149.253.183
 107.150.40.234
 107.150.8.170
 107.151.194.197
@@ -3514,6 +3517,7 @@
 109.192.30.125
 109.196.248.17
 109.205.183.218
+109.205.213.203
 109.205.214.35
 109.206.240.67
 109.206.241.129
@@ -4205,6 +4209,7 @@
 118.107.181.193
 118.107.219.66
 118.107.43.174
+118.107.7.166
 118.140.151.242
 118.168.201.70
 118.168.202.125
@@ -6467,6 +6472,7 @@
 154.204.27.130
 154.204.27.181
 154.204.42.103
+154.205.139.223
 154.206.236.9
 154.209.145.200
 154.211.14.66
@@ -6514,10 +6520,14 @@
 154.79.252.132
 154.81.156.54
 154.85.35.82/bins
+154.86.22.47
 154.90.47.77
 154.91.196.185
 154.91.227.32
 154.91.254.95
+154.91.64.45
+154.91.85.201
+154.91.85.204
 154.92.19.139
 1540953694.online
 154184863.istanbul
@@ -6615,6 +6625,8 @@
 156.244.19.63
 156.245.16.55
 156.251.163.120
+156.251.17.12
+156.251.17.17
 156.253.227.6
 156.253.228.55
 156.253.250.201
@@ -10085,6 +10097,7 @@
 193.124.185.117
 193.124.24.117
 193.124.24.51
+193.134.208.217
 193.135.134.124
 193.136.1.58
 193.142.146.203
@@ -10261,6 +10274,7 @@
 193.31.40.36
 193.32.161.69
 193.32.161.77
+193.32.162.10
 193.32.162.189
 193.32.162.27
 193.32.162.34
@@ -13668,6 +13682,13 @@
 206.221.182.106
 206.233.130.141
 206.237.225.90
+206.238.115.207
+206.238.179.173
+206.238.196.32
+206.238.199.22
+206.238.220.60
+206.238.221.182
+206.238.221.244
 206.238.221.60
 206.53.55.8
 206.71.148.78
@@ -18472,11 +18493,13 @@
 38.27.99.69
 38.45.200.163
 38.49.148.19
+38.54.107.103
 38.54.125.192
 38.54.33.228
 38.54.33.239
 38.54.40.156
 38.54.50.182
+38.54.50.212
 38.54.59.96
 38.54.94.13
 38.54.96.97
@@ -20301,6 +20324,7 @@
 45.154.12.151
 45.154.12.202
 45.154.12.246
+45.154.12.93
 45.154.14.235
 45.154.24.57
 45.154.98.151
@@ -21407,6 +21431,7 @@
 49.232.185.137
 49.232.93.226
 49.233.185.93
+49.235.129.40
 49.235.152.72
 49.235.49.39
 49.254.194.44
@@ -24135,6 +24160,7 @@
 5zsnm5.duckdns.org
 5zw34x333.duckdns.org
 6-1-3-2-1-2-2-1.com
+6-1321729461.cos.ap-guangzhou.myqcloud.com
 6-6-3-3-26-1-515-3.com
 6-6-3-3-26-1-515-3.pro
 6-62-516-11123.com
@@ -50241,6 +50267,7 @@ aldinfirsatlarikacirma.blogspot.com
 aldinfirsatlarionline.com
 aldinfirsatlarkampanya.online
 aldinfirsatsimdi.shop
+aldingeldin.com.tr
 aldingeldinaldin.biz.tr
 aldingeldinaldin.info.tr
 aldingeldinaldin.org.tr
@@ -51144,6 +51171,7 @@ alisveriyap-online.com.tr
 alisveriyap-online.online
 alisveriyap-online.xyz
 alisverlerislericintiklayin.cfd
+alisverlerislericintiklayin.sbs
 alisverme.buzz
 alisverme.monster
 alisverme.world
@@ -59246,6 +59274,7 @@ asidomain.com
 asigidsksakgdfshkssakashffhdgas.cfd
 asigidsksakgdfshkssakashffhdgas.cyou
 asigidsksakgdfshkssakashffhdgas.icu
+asigidsksakgdfshkssakashffhdgas.sbs
 asigidsksakgdfshkssakhsaf.cyou
 asigidsksakgdfshkssakhsaf.icu
 asigidsksakgdfshkssakwkfqksaf.icu
@@ -66998,6 +67027,7 @@ basvurmuz.site
 basvurmvn.com.tr
 basvurmvn.cyou
 basvurmvn.xyz
+basvurmxs.cyou
 basvurmyk.com.tr
 basvurmyk.xyz
 basvurmz.site
@@ -71206,6 +71236,7 @@ behsi.dyndns.dk
 behsj75.duckdns.org
 bei1ldb.duckdns.org
 beiaefihgg.duckdns.org
+beijingspring.niccenter.net
 beijingtiantianle.cn
 beijingtv.org
 beikersd.duckdns.org
@@ -108021,6 +108052,7 @@ cpxa8cst.duckdns.org
 cpxul3jh.duckdns.org
 cq09zsnp.duckdns.org
 cq1brds0dene1lgxsn.com
+cq1tw.top
 cq2088.top
 cq6bzhwav.duckdns.org
 cq8pqg.duckdns.org
@@ -153836,6 +153868,7 @@ fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
 fb-sponsorluclik.site
 fb-sponsorluform.site
+fb-sponsorlureklam.cfd
 fb-sponsorlureklam.site
 fb-sponsorlureklamclik.site
 fb-statics.com
@@ -166281,6 +166314,7 @@ garethwalker.plus.com
 garetinvest.com
 garetteaffilite.top
 garezivar.net
+garfenngarlum.com
 garfnrivskla.online
 garga.elifrxckstar.pro
 gargasgara.com
@@ -169064,6 +169098,7 @@ getlitigeservices.ddns.net
 getloops-ai-d822fc.webflow.io
 getluckyprize.com
 getmacos.org
+getmanis.store
 getmcafee.net
 getmeaninwurz.com
 getmedown.ddns.net
@@ -188067,6 +188102,7 @@ hemenfirsatlarhizlicasizleribekliyorkcirmadansatinal.online
 hemenfirsatlarhizlicsatinalmalsin.com.tr
 hemenfirsatlarhizlicsatinalmalsin.online
 hemenfirsatlarhizlicsatinalmalsin.xyz
+hemenfirsatlarikacirmadangelmelisin.duckdns.org
 hemenfirsatlarikacirmadansatinalmalisin.com.tr
 hemenfirsatlarmarketimde.com.tr
 hemenfirsatlarmarketimde.online
@@ -193137,6 +193173,7 @@ hhsnvibsvwrx.net
 hhsnvibsvwur.net
 hhsrtrmrsrgs.com
 hhsrx.net
+hhthedalailama90.niccenter.net
 hhtps.ddns.net
 hhuugeveenturre.site
 hhvkupaw.duckdns.org
@@ -222474,6 +222511,7 @@ jpnd6a.duckdns.org
 jpodl4n.kxq79.com
 jpofwh.com
 jppjdsadpsjyksy.su
+jppjp.vip
 jppost-aki.com
 jppost-ba.com
 jppost-ha.com
@@ -235256,6 +235294,7 @@ kozlikmozlik.zapto.org
 kozmetr.online
 kozmikurunsatis.com
 kozmikyolculuk.space
+kozmosewears.shop
 kozmosparfum.com
 kozoheh.com
 koztv.com
@@ -256709,6 +256748,7 @@ mobilgirisceptedeniz.co.vu
 mobilgirisdenizbank.co.vu
 mobilgirisdogecoinbasvuru-paribucom-tr.tk
 mobilgirisedevlet-tcbmedevlet.com
+mobilgirisekrani.com
 mobilgirishizmetonlinemobilgirisler.tk
 mobilgirishizmetonlinemobiltr.tk
 mobilgirisi-paributeknolojifirmasi-basvurudoge-com.tk
@@ -276606,6 +276646,7 @@ onlineaktuelmarketler.com
 onlineal-hizligec-sistem.com
 onlineal.sbs
 onlinealanhaberaidet.org
+onlinealdin.sbs
 onlinealim.com.tr
 onlinealimim.net
 onlinealimlar.net
@@ -289723,6 +289764,7 @@ penisdevelopmentcentre.co.za/db-config-ini.php
 peniskopf-41980.portmap.host
 penismanderg.ddns.net
 penjualanpommini.com
+penmuseum.niccenter.net
 pennyarchive.top
 pennylux.top
 pennystock-picks.info
@@ -330306,6 +330348,7 @@ sizee-heerzaman-hizmet-halindeyiz.com
 sizefirsatlarziraatten.cf
 sizefirsatlarziraatten.ga
 sizefirsatlarziraatten.tk
+sizegetiriyoruzhizlica.com
 sizehaber.club
 sizehaber.site
 sizehaber.xyz
@@ -337117,6 +337160,7 @@ srcgecsrc.sg-host.com
 srcn.online
 srcnproperties.site
 srdenizbank.com
+srdnbrdfasglsdns.shop
 srdurulebilirbankagaranti.com
 sre-curpmexico.com
 sreamet.xyz
@@ -345311,6 +345355,7 @@ tbcuygulamasi.com
 tbdantalya.org.tr
 tbdunysimobilgrsyaphmntbilekazn.tk
 tbefoarcv.com
+tbelement.niccenter.net
 tbexwvtsar.duckdns.org
 tbffhrpvsc.duckdns.org
 tbfsufmud.tech
@@ -350172,6 +350217,7 @@ theculture.duckdns.org
 thecy1bards0drne1lgxsn.com
 thedailybeaglenews.com
 thedailymusicshow.com/wp-admin/db-config-ini.php
+thedalailama90.niccenter.net
 thedandygator.com
 thedemoinservice.com
 thedesignertree.com
@@ -352294,6 +352340,7 @@ tmmuzlndrmlerii-kpida.com
 tmmuzlndrmlerikmpnya.com
 tmmuzsleysal.shop
 tmmuzun-son-frstlarini-kacirma-hmen-sparis-ile-kapinda.com
+tmmxzldtest.duckdns.org
 tmmy1.duckdns.org
 tmmzaltayertelesifrdksndkz.online
 tmmzaltayertraskolsifrdkndkz.online
@@ -361243,6 +361290,7 @@ turkcellpasajin.com
 turkcellpasajmagaza.com
 turkcellpasajmagazalari.com
 turkcellpasajmarket.com
+turkcellpasajmarketleri.com
 turkcellpasajonline.com
 turkcellpasajonlinemagaza.com
 turkcellpasajsanal.com
@@ -364411,6 +364459,8 @@ twbntrozels.vercel.app
 twbtc.space
 twc-texas-gov.us
 twcefqctafq-dqfwxqfqv-bwvshcwga.shop
+twcz.pro
+twczb.com
 twdestekmerkesi.com
 twdx5w5xdw.click
 twe3o0.duckdns.org
@@ -364626,7 +364676,12 @@ twltch.lol
 twltch.uno
 twmerkesnoktasi.net
 twmoc.info
+twnc.ink
 twnic.almostmy.com
+twnic.icu
+twnic.ink
+twnic.ltd
+twnic.xin
 twnoc.ddns.net
 two-invest.info
 two-ones.com
@@ -364682,14 +364737,26 @@ twqptsyngoeg.info
 twr46413d49.zapto.org
 twrkcell.com
 twrwdw.click
+twsa.top
 twsckqoiuhegsng.cn
 twsite.de
 twstalk.cf
 twstalk.ga
 twstalk.gq
+twsw.cc
+twsw.club
+twsw.info
+twsw.ink
+twsw.ltd
+twsw.pro
+twsww.vip
+twsww.xin
+twswz.top
+twswzz.xin
 twt30u6g.duckdns.org
 twtakipci.com
 twtcljkgqmuptfb.cn
+twtgtw.net
 twthilesi.site
 twtter.net
 twtwouwoturtl.cc
@@ -364711,6 +364778,8 @@ twxkarxqfdbhiwv.ru
 twxmabf.com
 twxt7709.duckdns.org
 twyfordtille.com
+twzfte-1340224852.cos.ap-guangzhou.myqcloud.com
+twzfw.vip
 twztpuxe.info
 tx-account.com
 tx-raf.net
@@ -406936,6 +407005,7 @@ yonlendiremezsinbeni.com
 yonlendirici.click
 yonlendirici.shop
 yonlendirici.site
+yonlendiriliyorsunuz.duckdns.org
 yonlendiriliyorsunuz.shop
 yonlendirilmekicintiklayin.shop
 yonlendirimveraktarimekrani.cfd
