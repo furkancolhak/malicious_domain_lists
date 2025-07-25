@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-25T16:05:14.485279
+# Updated: 2025-07-25T17:05:11.935143
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1489,6 +1489,7 @@
 1-odeme.online
 1-ortakplatform.com
 1-ortaktrf.dev
+1-sfrstlmbrdao1.sbs
 1-sorgulama-adresi.blogspot.com
 1-subat-kampanyalari.com
 1-xn-www-acikdeniz.com.tr
@@ -34628,6 +34629,7 @@ a101temmuzfirsatlariniz.com
 a101temmuzfrsatlari.online
 a101temmuzindirimleri.com
 a101temmuzkampanylari.duckdns.org
+a101temuzfirsati.duckdns.org
 a101tiklakapinda.online
 a101tmzindirmelr.com
 a101toshibasubatayndakampnyalaribaslar.vercel.app
@@ -40916,6 +40918,7 @@ adezabeseme.rocks
 adf2sv.duckdns.org
 adfadgadgjgagjfi.cfd
 adfadgiadgiadgiahia.cfd
+adfagdakgdakgdagi.cfd
 adfajhfja.click
 adffassann.net
 adffew.top
@@ -169672,6 +169675,7 @@ gglhostingn.cf
 gglifbvpyfndilic.com
 ggmailhost.com
 ggmmofx5l.duckdns.org
+ggmntgvur.com
 ggmpebkeowfobyj.cn
 ggnx1best.blogspot.com
 ggooleauth.xyz
@@ -213594,6 +213598,7 @@ isbxnkampxnyalar.org
 isbxnkcebindx.duckdns.org
 isbxnkcebinizdx.duckdns.org
 isbxnkqrsitr.xyz
+isbxnkxcebinizdx.duckdns.org
 isc-basvryp.click
 isca-vasbvr.click
 iscaleos.com
@@ -226082,6 +226087,7 @@ kampanyafirsatlaribance.tech
 kampanyafirsatlariburada.com.tr
 kampanyafirsatlaridevam-ediyor.shop
 kampanyafirsatlarikacmaz1o1.cfd
+kampanyafirsatlarikacrmlaa1o1.duckdns.org
 kampanyafirsatlarimm.shop
 kampanyafirsatlarionline.com.tr
 kampanyafirsatlarionline.online
@@ -234000,6 +234006,7 @@ kmpnyabsvronline.click
 kmpnyafrsatlarmm.com
 kmpnyafrsatlarnz.com
 kmpnyagaranti.online
+kmpnyagnlerinizx.com
 kmpnyak.ru.com
 kmpnyalarimizdevam.online
 kmpnyalarimm-bradaa-nline.com
@@ -261380,6 +261387,8 @@ muhtesemfirsatlarinadresi.xyz
 muhtesemfirsatlarsizleribekliyor.online
 muhtesemfirsatlarsizleribekliyor.xyz
 muhtesemfirst101learalikta.com
+muhtesemgubler.cfd
+muhtesemgubler.sbs
 muhtesemhafta.lol
 muhtesemhafta.my
 muhtesemhaftafirsatlari.com.tr
@@ -301249,6 +301258,7 @@ qbnfinansbank.com
 qbnfinansliolkazancom.vercel.app
 qbnheyecanlifinanl.vercel.app
 qbnidfers.vercel.app
+qbnikmpnyer.vercel.app
 qbnimkmpany.com
 qbnirse.vercel.app
 qbnkazankampanyasi.vercel.app
@@ -316895,6 +316905,7 @@ sahibindenilan.tk
 sahibindenilanimz.online
 sahibindenilanlari.com
 sahibindenilanlarim.net
+sahibindenilanonay.com
 sahibindenilanpaylas.com.tr
 sahibindenilanpaylas.online
 sahibindenilanver.xyz
@@ -408704,6 +408715,7 @@ yuzunuzu-gulduren-teklifler-surekli-burada.com
 yuzunuzu-gulduten-bu-furds.pitikarggarr.shop
 yuzyilarcaziraat.com
 yuzyildabirfirsatlar.cfd
+yuzyildabirfirsatlar.icu
 yuzyildabirfirsatlar.my
 yuzyilin-sevgisi-filizlendi-ellerimizde-hayat-buldu.com
 yuzyilinindirimlisayfasi.online
