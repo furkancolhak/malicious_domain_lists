@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-25T07:05:12.949809
+# Updated: 2025-07-25T08:05:13.064474
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -20871,6 +20871,7 @@
 451987561332sa255.site
 451sdz65vg4ds561v56sad1vsdf15sd156.site
 452222com.com
+4523121431.cloud
 4523255hemenbiryselkatil.com.tr
 45234234234.duckdns.org
 4523523523532.xyz
@@ -98328,6 +98329,7 @@ ceeptefirsaatlarsokta.com
 ceeptesookcomm.com
 cefakaronline.xyz
 cefdilso.site
+cefinectethost.click
 cefortlittmo.com
 cefsuportes.ddns.net
 cefxbk4p.duckdns.org
@@ -157900,6 +157902,7 @@ firsatlarindunyasidenizde.tk
 firsatlarinisteburadalar.xyz
 firsatlariniz.com.tr
 firsatlariniz.xyz
+firsatlariniz1o1de.com
 firsatlarinizayaginiza.xyz
 firsatlarinizdenizleguzel.xyz
 firsatlarinizfaisizbugun.online
@@ -189065,6 +189068,7 @@ hepsii-burada-20yil.com
 hepsiiburadaa.com
 hepsiiburadaa.xyz
 hepsiicerde.com
+hepsiiduradateklif.com
 hepsiindirimde.site
 hepsijets.com
 hepsikep.net
@@ -225223,6 +225227,7 @@ kalitelitek1adresima.shop
 kalitelitek1adresimc.shop
 kalitelitekhizmetadresim.tk
 kaliteliucuzurunlerim.com
+kaliteliurunlerburada.my
 kaliteliurunlesr.com
 kalitem.xyz
 kalitenin-adresi.com
@@ -227958,6 +227963,7 @@ karaca-online.info.tr
 karaca-online.net.tr
 karaca-online.org.tr
 karaca-sepete-mutlulugu-cebine-girer.com
+karaca-sultan.sbs
 karaca-sultann.club
 karaca-takimlar.free.site.pro
 karaca-yil-sonu-indirimleri.com
@@ -237623,6 +237629,7 @@ kusursualisverisburada.online
 kusursualisverisburada.xyz
 kusursuz-hizmet.net
 kusursuzalisverinyeri.cfd
+kusursuzalisverinyeri.icu
 kusursuzalisverinyeri.my
 kusursuzalisverisadrxleri.online
 kusursuzalisveristebugun.cfd
@@ -249089,6 +249096,7 @@ marksandspencervip.top
 marksrat.duckdns.org
 marksteylor.us
 markt.sadohgsz.art
+marktfrstllariylayniengncs.sa.com
 marktfrstllriylajyniengncl.sa.com
 marktfrstllriylayniengncl.xyz
 marktlerburada.com
@@ -254102,6 +254110,7 @@ mirakurumlari.org
 mirakurumu.com
 miraluras.top
 miramirsizlal2.net
+miran.cfd
 mirancry.no-ip.biz
 miranlikonfeksiyon.online
 mirasvesoybagi.pro
@@ -261931,6 +261940,7 @@ mutludestekfonu.com
 mutluedecekfiyatlar.com.tr
 mutluedecekfiyatlar.xyz
 mutluedecekindirimler.icu
+mutluedecekkampannya.my
 mutluedecekkampanya.cfd
 mutluedecekkampanyalar.click
 mutluedecekkampanyalar.lat
@@ -307175,6 +307185,7 @@ redmialimiburadanyapiliyorrdur.cfd
 redmialimiburadanyapiliyortik.cfd
 redmialimiburadanyapiliyortik.my
 redmialimiburadanyapiliyortik.sbs
+redmialimicinburadangiriniz.icu
 redmialimicinburadangiriniz.sbs
 redmialimicinburadangirisyapiniz.cfd
 redmialimicinburadantiklayin.cfd
@@ -334452,6 +334463,7 @@ sonsuzkampanyalarkasimda.online
 sonsuzkampanyalarkasimda.xyz
 sonsuzkmpnylrrrr.online
 sonsuzkmpnylrsnle.online
+sonsuzlukhavuzu.xyz
 sonsuzsevda.org
 sonsuzumitleyardim.com
 sonszluktnnfrlaynflnlar.com
@@ -349231,6 +349243,7 @@ temmzkliman-altstan.com
 temmzlagldilrsize.com
 temmzumdaflasm.com
 temmzuun-firsatllarini-yaklkala.info
+temmzxson.duckdns.org
 temmzz-kammpanyyalarii-son-frstlari.com
 temo.ddns.net
 temp-malware.website
@@ -392089,6 +392102,7 @@ wwwkredimvakiftacom.co.vu
 wwwkuveytturk.com
 wwwl.reimglink.com
 wwwl55polisi155polis.online
+wwwl55polisi155polisi.online
 wwwladger--start-web.webflow.io
 wwwlnstagram.cf
 wwwm2bsecure.zapto.org
@@ -392231,6 +392245,7 @@ wwwtebbank-com.tk
 wwwtebcep.com
 wwwtipobet5401.com
 wwwtonianatara.com
+wwwtr155polis.online
 wwwtr155polisi.online
 wwwtraidaetbasvurumartsongun.com
 wwwtrbinance.com
@@ -409371,6 +409386,7 @@ zantaclodemo.com
 zantocusus.xyz
 zantocusus99.xyz
 zantrao.pro
+zanvora.site
 zaoc6c74.duckdns.org
 zaoghyyegr.duckdns.org
 zap.hop-dot.top
