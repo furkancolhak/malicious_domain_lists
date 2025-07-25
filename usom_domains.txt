@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-25T13:05:13.529265
+# Updated: 2025-07-25T14:05:12.143433
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9623,6 +9623,7 @@
 188.127.243.148
 188.127.243.193
 188.127.254.114
+188.127.254.44
 188.130.206.168
 188.130.206.243
 188.131.233.27
@@ -40911,6 +40912,7 @@ adezabes2eme.rocks
 adezabeseme.rocks
 adf2sv.duckdns.org
 adfadgadgjgagjfi.cfd
+adfadgiadgiadgiahia.cfd
 adfajhfja.click
 adffassann.net
 adffew.top
@@ -48048,6 +48050,7 @@ aksesfirsatlari.net.tr
 aksesfirsatlari.org.tr
 aksesmuhiddin.xyz
 aksessnakikit.top
+aksfdsgkshfiafwmqfdakg.icu
 aksfinans.com
 aksfsajfl1js1.xyz
 aksfsda.click
@@ -126885,6 +126888,7 @@ doyumsuzalisverisgunleri.com.tr
 doyumsuzalisvlerslerafa.icu
 doyumsuzgunler.com.tr
 doyumsuzkampanyafirsati.cfd
+doyumsuzkampanyafirsati.icu
 doyumsuzkampanyafirsati.my
 doyumszuindirimler.xyz
 doyumuszfirsatlar.com.tr
@@ -136886,6 +136890,7 @@ edevlet-giris-portalgovtr.com
 edevlet-giris-portali.com
 edevlet-giris-sistemi.com
 edevlet-giris-webcep.app
+edevlet-giris.click
 edevlet-giris.com
 edevlet-giris.org
 edevlet-girisbbdkonlinegovtr.tk
@@ -185904,6 +185909,7 @@ hazirandaki-sokklimasi.com
 hazirandakirazhesapfirsatlari.ml
 hazirandangaranti.ml
 hazirandaonlineindirim.com
+hazirandas-kamp-tksflsb-aldna-aldin.shop
 hazirandas-kamp-tksflsb-aldna-aldin.store
 haziranday-basvru-tr.net
 haziranday-cark-basvurum.net
@@ -225403,6 +225409,7 @@ kampanaya-ayi-bitmiyor.shop
 kampanaya-gunlerimiz-bitmiyor.shop
 kampanaya-gunlerimiz-hic-bitmiyor.shop
 kampanaya-haftasi-bitmiyor.shop
+kampanayadasongunn.icu
 kampanaykardaburadabak.cfd
 kampanaykardaburadabak.icu
 kampanaylardasoncare.my
@@ -231412,6 +231419,7 @@ keyif-veren-haberler-surekli-burada.com
 keyif-veren-teklifler-surekli-burada-devam.com
 keyif-verici-teklifler-geldi-buraya-surekli.com
 keyifle-yasamaya-acilan-kapi.top
+keyifle-yasamaya-basla.top
 keyiflendiren-haberler-devamli-buraya-gelecek.com
 keyiflendiren-teklifler-surekli-gelecek-buraya.com.tr
 keyiflendiren-yenilikler-hizmetinizde-daima-yaninda.com
@@ -239035,6 +239043,7 @@ l0xyzz.duckdns.org
 l0za.su
 l10-vip.xyz
 l111l.xyz
+l155polistr155.online
 l155vcram2hl6ws0.online
 l157qp.duckdns.org
 l199c4.duckdns.org
@@ -280109,6 +280118,7 @@ orizoh88.ddns.net
 orizontalai.top
 orjfkss.pages.dev
 orjin.duckdns.org
+orjinal-giris.click
 orjinal-girissi.tk
 orjinal-kekreyemis-tozu.site
 orjinalbasarilar.com
@@ -292418,6 +292428,7 @@ pohuistnetworq.ddns.net
 poiasdmnzxcwer.com
 poiczz.hopto.org
 poidelt.sbs
+poikpanelhizmetleri.com
 poimenic.com
 poindom.top
 poinecheck.com
@@ -297825,6 +297836,7 @@ pttavm-depo-ilanlar.com
 pttavm-depo.com
 pttavm-dolumhizmeti.com
 pttavm-esepet.trapps.online
+pttavm-firsatlarburda.click
 pttavm-firsatlarburda.xyz
 pttavm-gov-tr.blogspot.com
 pttavm-h-g-s-com-tr.blogspot.com
@@ -299023,6 +299035,7 @@ pttgovorgalisveris.online
 pttgovotr.ink
 pttgovp.top
 pttgovpay.shop
+pttgovpost.icu
 pttgovpost.top
 pttgovpostaly.icu
 pttgovpostatt.shop
@@ -307236,6 +307249,10 @@ redmialimiicinburadangelin.icu
 redmialimiicinburadangelin.lat
 redmialimiicinburadangelin.pics
 redmialimiicinburadangelin.sbs
+redmialimlariuygunalisverisicintiklayin.icu
+redmialimnoktasiburasi.cfd
+redmialimnoktasiburasi.sbs
+redmialimnoktasiburasidir.cfd
 redmialimyerleriburadan.my
 redmialimyerleriburadanalin.sbs
 redmialimyerleriburadanhemen.cyou
@@ -344763,6 +344780,7 @@ tanikku.com
 tanimeazededolkedleodl123.net
 tanisalimm.site
 tanitim-gonderi-xcv34.duckdns.org
+tanitim-mobil--xc3.duckdns.org
 tanitim1o1firsatianinda.com
 tanitimgonderis51ss1.duckdns.org
 tanitimgonderisic1224.duckdns.org
@@ -348902,6 +348920,7 @@ temmensat.com
 temmmuz-firsatlariill-buradaakacirmaaa-hrmen-al.com
 temmmuzzza-girerkken.com
 temmmxz-ayii-geldi-bitmedengell.com
+temmsdlxsd.duckdns.org
 temmuuz-katalogun-firsat-com.site
 temmuz-1-0-1.com.tr
 temmuz-1-0-1.net.tr
@@ -381286,6 +381305,7 @@ webbnnctrgrss.xyz
 webbnsdkkrmdirmn.com
 webbs.live
 webbsbayrntilrmizin93.xyz
+webbsbayrntilrmizinis8.xyz
 webbsnfgbdktlnd.com
 webbsubayrntilrmn1.xyz
 webbsubayrntilrmn4.xyz
