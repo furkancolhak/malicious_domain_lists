@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-25T11:05:12.737916
+# Updated: 2025-07-25T12:05:11.980669
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2721,6 +2721,7 @@
 103.15.29.179
 103.150.40.76
 103.151.123.194
+103.151.172.92
 103.151.228.119
 103.151.238.113
 103.155.80.201
@@ -3495,6 +3496,7 @@
 108qjodb.duckdns.org
 109-123-241-42.plesk.page
 109.104.151.112
+109.105.193.76
 109.106.254.177
 109.107.170.126
 109.107.173.72
@@ -4634,6 +4636,7 @@
 124.239.243.43
 124.248.65.95
 124.33.173.242
+124.56.42.75
 124.67.89.76
 124123451256789.online
 12421551236223.online
@@ -5266,6 +5269,7 @@
 139.59.107.152
 139.59.108.30
 139.59.108.43
+139.59.11.66
 139.59.139.165
 139.59.148.106/ab4g5
 139.59.159.123
@@ -7082,6 +7086,7 @@
 162.248.101.215
 162.248.225.161
 162.248.225.55
+162.248.74.92
 162.250.126.36/zehir
 162.250.98.200
 162.251.120.102
@@ -8114,6 +8119,7 @@
 178.215.238.91
 178.216.251.232
 178.219.161.218
+178.220.112.53
 178.23.190.199
 178.23.190.206
 178.23.190.74
@@ -12486,6 +12492,7 @@
 2.42.176.91
 2.56.126.230
 2.56.164.52
+2.56.190.139
 2.56.212.61
 2.56.214.126
 2.56.214.63
@@ -28365,6 +28372,7 @@
 83.10.46.174
 83.110.157.57
 83.110.85.209
+83.136.182.237
 83.137.196.116
 83.142.230.113
 83.147.243.18
@@ -29102,6 +29110,7 @@
 888741203.duckdns.org
 888741205.duckdns.org
 888758.com
+8888-09900-786767-88520.cyou
 8888-09900-786767-88520.xyz
 8888-57525-96854-25485-253614.com.tr
 8888-57525-96854-25485-253614.cyou
@@ -81892,6 +81901,7 @@ bitemonopolize.top
 bitemores.com
 biten-sezn-mutlu-hislere-daha-yakin.com
 biten-sezona-yaklastik-son-demlerinde-yetisen-gorur.com
+bitenleringunlerison.xyz
 biter-kapilariniza-gelsin-hemen-kapilarda.com
 biter-kapilarinizza-gelsin-hemen-kapilarda.com
 biterzi.com
@@ -88698,6 +88708,7 @@ bonuspuan-tr-ramazanaozel.club
 bonuspuan-tr-ramazanaozel.site
 bonuspuan-yilbasi-ozel-kampanya-firsati.xyz
 bonuspuan-yilbasi-ozel-kampanyasi.icu
+bonuspuan.digital
 bonuspuankampanyakatil.com
 bonuspuankampanyakatilim.com
 bonuspuankampanyakatilimi.com
@@ -109459,6 +109470,7 @@ cuma-ozel.com
 cuma-ozelfirsatindirim.com
 cuma-siparisonlin.com
 cuma-sizinle.lol
+cuma-temmuzindrmi.com
 cuma-temmuzonline.cloud
 cuma101hizmeti34.com
 cuma1yukleme.22web.org
@@ -122631,6 +122643,7 @@ dijital-online.website
 dijital-paribu.cf
 dijital-paribu.ga
 dijital-passwordentrypersonal.click
+dijital-passwordentrypersonal.za.com
 dijital-sitem.online
 dijital-sube-girisiniz.xyz
 dijital-sube.dev
@@ -125433,6 +125446,7 @@ dogayikoruyoruz.com
 dogayisvkru.blogspot.com
 dogayla-birlesip-sessizlige-kavus.top
 dogayla-bulusmanin-en-guzel-anlari.top
+dogayla-ic-ice-mutluluk.top
 dogayla-ic-ice-olmanin-zamani.top
 dogayla-ic-ice-sakin-bir-hayat.com
 dogayla-icice-huzurlu-yasam.com
@@ -126868,6 +126882,7 @@ doyumsuzalisverisadrsi.xyz
 doyumsuzalisverisgunleri.com.tr
 doyumsuzalisvlerslerafa.icu
 doyumsuzgunler.com.tr
+doyumsuzkampanyafirsati.my
 doyumszuindirimler.xyz
 doyumuszfirsatlar.com.tr
 doyumuyusuyu.site
@@ -140039,6 +140054,7 @@ efsane1o1frstlarkapinda.shop
 efsane1o1kmpanyalarikapinda.shop
 efsane1o1kmpanyalaritukeniyr.shop
 efsane1o1kmpanytukenyr.shop
+efsane1o1kmpnyalarturnyr.shop
 efsaneagustosflrtstlarii.com
 efsaneagustosindrmlerii.store
 efsaneagustossflrstlri.com
@@ -168621,6 +168637,7 @@ geriyednkaktarimlarekrani.site
 geriyednkaktarmsrgu.click
 geriyednkia-de.com
 geriyednkoniineaktrm.site
+geriyednksorgu2025.my
 geriyednksorguserv2025.cfd
 geriyednktransferekrani.site
 geriyednkyonlendirmeler.my
@@ -185240,6 +185257,7 @@ hayata-keyifli-bakanlar-sizlere-yeniden.com
 hayata-korkusuzca-bakanlar-olumden-de-korkmazlar.com
 hayata-neseli-sekilde-bakanlardan-olalim.com
 hayata-neseli-sekilde-yeniden-sevinenler.com
+hayata-renk-katan-anlar.top
 hayata-sevimli-sekilde-bakanlar-yaninda.com
 hayataartivakfi.org
 hayatabaglikalinsurekli.net
@@ -203045,6 +203063,7 @@ icilecekcorba.b-cdn.net
 icimiciziyorkskrinn.online
 icimizisitacakfirsatlarimiz.cf
 icimizisitacakfirsatlarimiz.ml
+icindeki-huzuru-kesfet.top
 icinizi-isitan-guzellik-dolusu-heyecan-geldi.com
 icinizi-isitan-guzellik-kapiniza-geldi.com
 icinizi-isitan-keyifli-yenilikler-daima-sizinle.com
@@ -213553,6 +213572,7 @@ isbwwqssas.sbs
 isbxnk-online.com
 isbxnkampxnyalar.org
 isbxnkcebindx.duckdns.org
+isbxnkcebinizdx.duckdns.org
 isbxnkqrsitr.xyz
 isc-basvryp.click
 isca-vasbvr.click
@@ -224980,6 +225000,8 @@ kafanizdan-gecen-muhtesem-seyler-burada.com
 kafasiatargrkniyapar.com
 kafayiyeusutcarpitbip.com
 kafayiyicemcokazkaldi.net
+kafayormayanalisveris.cfd
+kafayormayanalisveris.icu
 kafebar.net
 kafegua.com
 kafejer121.com
@@ -225230,6 +225252,7 @@ kalitelitek1adresima.shop
 kalitelitek1adresimc.shop
 kalitelitekhizmetadresim.tk
 kaliteliucuzurunlerim.com
+kaliteliurunlerburada.icu
 kaliteliurunlerburada.my
 kaliteliurunlesr.com
 kalitem.xyz
@@ -225341,6 +225364,7 @@ kamix.hu
 kammerportalde.duckdns.org
 kamnomleosley.tk
 kamnpanya-19mayis.dnsuser.de
+kamoanayardasongun.my
 kamoanya-onlayn-hizmet-950tl.ml
 kamoanyalifirsarlar.com.tr
 kamoanyalifirsarlar.online
@@ -227970,6 +227994,7 @@ karaca-sepete-mutlulugu-cebine-girer.com
 karaca-sultan.sbs
 karaca-sultann.club
 karaca-takimlar.free.site.pro
+karaca-takimlar.sbs
 karaca-yil-sonu-indirimleri.com
 karaca-yil-sonu-indirimleri.online
 karaca.live
@@ -247700,6 +247725,7 @@ maliyeburonuz.com
 maliyecarkifelek.com
 maliyeceza.com
 maliyeceza.net
+maliyecezakamu.org
 maliyecezalari.com
 maliyecezan.com
 maliyecezaniz.com
@@ -261944,6 +261970,7 @@ mutludestekfonu.com
 mutluedecekfiyatlar.com.tr
 mutluedecekfiyatlar.xyz
 mutluedecekindirimler.icu
+mutluedecekkampannya.icu
 mutluedecekkampannya.my
 mutluedecekkampanya.cfd
 mutluedecekkampanyalar.click
@@ -276598,6 +276625,7 @@ online90yillmobilislemkampanyallllari.com
 online90yillmobilisllllemkampanyallllari.com
 onlinea.101frsatlararwq.click
 onlinea101-s-atinal.com.tr
+onlinea101.click
 onlinea101.com
 onlinea101firsatlaricom.live
 onlinea101iletisim.com.tr
@@ -307194,13 +307222,19 @@ redmialimicinburadangiriniz.sbs
 redmialimicinburadangirisyapiniz.cfd
 redmialimicinburadantiklayin.cfd
 redmialimihemenal.cfd
+redmialimiicinburadangelin.baby
+redmialimiicinburadangelin.cfd
 redmialimiicinburadangelin.icu
+redmialimiicinburadangelin.lat
+redmialimiicinburadangelin.pics
 redmialimiicinburadangelin.sbs
 redmialimyerleriburadan.my
 redmialimyerleriburadanalin.sbs
 redmialimyerleriburadanhemen.cyou
 redmialimyerleriburadanhemen.icu
 redmialimyerleriburadanhemenyeri.cfd
+redmialisverisicinburadantikla.cfd
+redmialisverisicinburadantikla.sbs
 redmideindirimdesongun.cfd
 redmideindirimdesongun.icu
 redmideindirimdesongun.my
@@ -358691,6 +358725,7 @@ trkyekatilimbasvurkwyttrk.net
 trkyekatilimbasvurziraat.net
 trkyekatilimlarinizabasvurziraat.net
 trkyhaberlerimiz.com.tr
+trl55polisi155.online
 trlb2c.duckdns.org
 trlbiance.com
 trlbinanance.com
@@ -406683,6 +406718,7 @@ yok1qr78h.duckdns.org
 yokarac.net
 yokartikdiyeceksiniz.com
 yokbkstava.net
+yokederim.cfd
 yokediceiolbaba.xyz
 yokelemezdemeres.net
 yokhdawtie.duckdns.org
@@ -412644,6 +412680,7 @@ zooroo.zapto.org
 zoothomesacher.life
 zoozcenv.com
 zop2nn2dn.duckdns.org
+zoparsakcoul.xyz
 zoplm.com
 zopzupzip.net
 zopzw.ddns.net
