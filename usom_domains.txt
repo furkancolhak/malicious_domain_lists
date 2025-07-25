@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-25T17:05:11.935143
+# Updated: 2025-07-25T18:05:14.849783
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1721,6 +1721,7 @@
 101-22mayisoglen.com
 101-23mayisfirsatlar.com
 101-23temmuz.com
+101-23temmuz1.com
 101-25mayisaksam.com
 101-31mayisaksam.com
 101-31mayisfirsat.com
@@ -67893,6 +67894,7 @@ basvurugiris.tk
 basvurugirisacikdenizv2denizbank.co.vu
 basvurugirisbnctr.com
 basvurugirisduyurutr.com
+basvurugirisekrani.cfd
 basvurugirishizmeti.net
 basvurugirisi-basvur.com
 basvurugirisi-turkiyegovtr.com
@@ -157661,6 +157663,7 @@ firsatlara.duckdns.org
 firsatlaradahilolunhemen.xyz
 firsatlaragel.com
 firsatlarageldiginin.xyz
+firsatlaragelgel.click
 firsatlarak.duckdns.org
 firsatlarakayit.com
 firsatlarakbankta.ga
@@ -189171,6 +189174,7 @@ heqj00.i6v8f.ru
 her-aileye-yardim.tk
 her-aninizda-sizinleyiz.click
 her-buldugunda-buzaman-gibi-olmaz-gel.com
+her-egd-fwqe-2112-arsf-dhts-afs.com.tr
 her-eve-sos-yal-destek-com.com
 her-sey-burada.com
 her-seyin-en-guzeli-burda-var.com
@@ -225115,6 +225119,7 @@ kakarotomx.dnsfor.me
 kakashiw.com
 kakashiw.net
 kakasza.tk
+kakdada.sa.com
 kakdeladaragoya.live
 kakekelapeq.xyz
 kakeronon.com
@@ -225425,6 +225430,7 @@ kampanaya-gunlerimiz-bitmiyor.shop
 kampanaya-gunlerimiz-hic-bitmiyor.shop
 kampanaya-haftasi-bitmiyor.shop
 kampanayadasongunn.icu
+kampanayalardasonsaatler.my
 kampanaykardaburadabak.cfd
 kampanaykardaburadabak.icu
 kampanaylardasoncare.my
@@ -258719,6 +258725,7 @@ mosuveeiff.wiki
 mosuviiiihhgfdssi.wiki
 mosuviiiihhgssfdssi.wiki
 mot7nzz.duckdns.org
+motarinecekturdaha.my
 motaro.ddns.net
 motelatrocious.top
 motelaugment.top
@@ -304126,6 +304133,7 @@ qwedsadf.ddns.net
 qweerreww.duckdns.org
 qweesvqlcz.duckdns.org
 qwefqwfgqef.com
+qweiqwirqiadsifdif.cfd
 qwemaskdgjasfgs.buzz
 qwemqnwebqw.net
 qwemvjp.com
@@ -307272,6 +307280,8 @@ redmialimiicinburadangelin.icu
 redmialimiicinburadangelin.lat
 redmialimiicinburadangelin.pics
 redmialimiicinburadangelin.sbs
+redmialimlarigeldihemenal.cfd
+redmialimlarigeldihemenal.my
 redmialimlariuygunalisverisicin.cfd
 redmialimlariuygunalisverisicin.sbs
 redmialimlariuygunalisverisicintiklayin.cfd
@@ -314841,6 +314851,7 @@ sahibinden-param-gets-guvende.cf
 sahibinden-param-guvence-get.cf
 sahibinden-param-guvence-get.tk
 sahibinden-param-guvence-gets.cf
+sahibinden-param-guvende-alim-satim.com
 sahibinden-param-guvende-alisverisi-online.hizmet-s.com
 sahibinden-param-guvende-app.ml
 sahibinden-param-guvende-apple-watch-7-black-1015942047-odeme.tk
@@ -361486,6 +361497,7 @@ turkcellpasaji.com
 turkcellpasajin.com
 turkcellpasajmagaza.com
 turkcellpasajmagazalari.com
+turkcellpasajmagazasi.com
 turkcellpasajmarket.com
 turkcellpasajmarketleri.com
 turkcellpasajonline.com
@@ -399608,6 +399620,7 @@ yagarservisbab.net
 yagbayrami.online
 yagbilgilendirme.cf
 yagfirsat-sokta.org.tr
+yagfirsatlari-sxnalmxrket-migr0s.shop
 yagg.idwp.ru
 yagiyoryinekasveti.com
 yagizakbulak22.net
@@ -403805,6 +403818,7 @@ yenidenizv2kredionay.co.vu
 yenidenkampanyagunleri.shop
 yenidenonline.net
 yenidensizinleberaber.com.tr
+yenidensizlerle.com.tr
 yenidensizlerle.net.tr
 yenidensizlerle.org.tr
 yenidensizlerle.sa.com
