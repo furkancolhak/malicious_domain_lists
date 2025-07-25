@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-25T20:05:13.075736
+# Updated: 2025-07-25T21:05:13.463580
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15607,6 +15607,7 @@
 25rw2.canweal.com
 25sad1sa5dsa5da6.live
 25temmuzakfirsatlar.online
+25temmuzguzelsiparis.cloud
 25ufd0.duckdns.org
 25v5g4.duckdns.org
 25yeapp.duckdns.org
@@ -29118,6 +29119,7 @@
 888741203.duckdns.org
 888741205.duckdns.org
 888758.com
+8888-09900-786767-88520.com.tr
 8888-09900-786767-88520.cyou
 8888-09900-786767-88520.xyz
 8888-57525-96854-25485-253614.com.tr
@@ -67174,6 +67176,7 @@ basvursnm.xyz
 basvursnr.com.tr
 basvursnr.cyou
 basvursnr.xyz
+basvursnx.com.tr
 basvursnx.xyz
 basvursorgulafastgir.com
 basvurspn.xyz
@@ -158019,6 +158022,7 @@ firsatlarkapindahemengel.tech
 firsatlarkapingelsin101.com
 firsatlarkapingelsin101.com.tr
 firsatlarkapinizadayandihemenkatil.tech
+firsatlarkapinizdakacirmadansatinalmalisin.cyou
 firsatlarkapisi.site
 firsatlarkapiyageldii.com
 firsatlarkaydetin.com
@@ -158084,6 +158088,7 @@ firsatlarsizinlesimdi.com
 firsatlarsizledegerleniyorbldnz.com
 firsatlarsizleribekliyorkacirmadanal.duckdns.org
 firsatlarsizleribekliyorkacirmadansatinal.cyou
+firsatlarsizleribekliyorkacirmadansatinal.xyz
 firsatlarsizlerlealisveristesongun.com.tr
 firsatlarsizlerlealisveristesongun.online
 firsatlarsizlerlealisveristesongun.xyz
@@ -171379,6 +171384,7 @@ girisyap953829023.com
 girisyapabilirsiniz.xyz
 girisyaparsankazanirsin.com
 girisyapbasvur.com
+girisyapbasvurkayitekle.online
 girisyapbasvurukontrol.online
 girisyapbasvuruyuonayla.online
 girisyapbnnrctr.online
@@ -195405,6 +195411,7 @@ hizlisiparislerindne21temmu.cloud
 hizlisiparislerintemuuzdanberi22.cloud
 hizlisiparislink.click
 hizlisiparisolustur.gtxpros.best
+hizlisiparisolustur25temmuz.cloud
 hizlisiparisolusturmangerek.cloud
 hizlisiparisonline.com
 hizlisiparissolusttur.cloud
@@ -225440,6 +225447,7 @@ kampanaya-gunlerimiz-hic-bitmiyor.shop
 kampanaya-haftasi-bitmiyor.shop
 kampanayadasongunn.icu
 kampanayalardasonsaatler.cfd
+kampanayalardasonsaatler.icu
 kampanayalardasonsaatler.my
 kampanaykardaburadabak.cfd
 kampanaykardaburadabak.icu
@@ -261491,6 +261499,7 @@ mukemmelbmwcekilisi.com
 mukemmelfirsatlaraldinaldin.club
 mukemmelfirsatlaraldinaldin.net
 mukemmelfirsatlaraldinaldin.xyz
+mukemmelfirsatlardabugun.sbs
 mukemmelfirsatlardasonsaatler.online
 mukemmelfirsatlardasonsaatler.xyz
 mukemmelfirsatlariburada.com.tr
@@ -295277,6 +295286,7 @@ prod.wrdup.net
 prod.zoofv.com
 prod0s.zapto.org
 prodam4652.ddns.net
+prodano.store
 prodeal-traders.site
 prodeal.top
 prodefendme.com
@@ -307294,6 +307304,7 @@ redmialimiicinburadangelin.lat
 redmialimiicinburadangelin.pics
 redmialimiicinburadangelin.sbs
 redmialimlarigeldihemenal.cfd
+redmialimlarigeldihemenal.icu
 redmialimlarigeldihemenal.lat
 redmialimlarigeldihemenal.my
 redmialimlariuygunalisverisicin.cfd
@@ -309322,6 +309333,7 @@ retrievesecular.top
 retrievestatute.top
 retrievevest.top
 retrocheck.store
+retropedal.pro
 retrosome.shop
 retrospecticus.mattfogg.com
 retrospectivecongregate.top
@@ -336956,6 +336968,7 @@ sponsorlureklama1011.nicepage.io
 sponsorlureklamlar.fun
 sponsorlureklamlar.online
 sponsorlureklamxc-3.xyz
+sponsorlurkmlarinizbrda.com
 sponsorlurunlerindin.shop
 sponsorlusipars.click
 sponsorlusu.com
@@ -353857,6 +353870,7 @@ touuurkkkiye.online
 touvrlane.bet
 touxzw.ir
 tovar-es.ddns.net
+tovario.store
 tovddph6z.duckdns.org
 tovegans.com
 tovima.live
@@ -370795,6 +370809,7 @@ vakfikbank.duckdns.org
 vakfilaronlinenet.com
 vakfilegrssksyapkazan.online
 vakfinikatilim.com
+vakfisponsr.duckdns.org
 vakfivskafssakf.com
 vakfkampanyaci.tk
 vakfkampanyalar.bio
