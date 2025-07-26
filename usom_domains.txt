@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-26T19:05:16.354356
+# Updated: 2025-07-26T20:05:13.206340
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1723,6 +1723,7 @@
 101-23temmuz.com
 101-23temmuz1.com
 101-25mayisaksam.com
+101-26temmuzcadir.com
 101-31mayisaksam.com
 101-31mayisfirsat.com
 101-3haziranaksam.com
@@ -59333,6 +59334,7 @@ asigidsksakgdfshkssakashffhdgas.cfd
 asigidsksakgdfshkssakashffhdgas.cyou
 asigidsksakgdfshkssakashffhdgas.icu
 asigidsksakgdfshkssakashffhdgas.sbs
+asigidsksakgdfshkssakaswfqm.cyou
 asigidsksakgdfshkssakhsaf.cyou
 asigidsksakgdfshkssakhsaf.icu
 asigidsksakgdfshkssakwkfqksaf.cfd
@@ -127648,6 +127650,7 @@ dsasennnolinkd.hopto.org
 dsasfsafasfsafsa.com
 dsauv7wme.duckdns.org
 dsawdqsda.click
+dsawdqsda.sa.com
 dsaweqedwsqa.blogspot.com
 dsaxaz.nichesite.org
 dsazss.html-5.me
@@ -154328,6 +154331,7 @@ fdzzms.top
 fe-denizdekumbizdeo-kd.top
 fe-greg-regr-erg.shop
 fe-iadenisorgulama.com
+fe-sdg-t11-ewqd-3t-2-we-rwf-dd-fsaafs.net.tr
 fe0nwkt.duckdns.org
 fe12rsdfa34fs.top
 fe23rsdf34t.top
@@ -174731,6 +174735,7 @@ grfrm1z45a.link
 grfxcyofzgi.ru
 grg8tol4.duckdns.org
 grgngnrisponsorlurklamtwit.com
+grgnnbvsvur.com
 grgntibasvurulardangelenleronayi.duckdns.org
 grgtibilgiguncellesendehamsna.duckdns.org
 grgtihmansaisisvzdlkjishmanas.duckdns.org
@@ -370922,6 +370927,7 @@ vakfikatilim.xyz
 vakfikbank.duckdns.org
 vakfilaronlinenet.com
 vakfilegrssksyapkazan.online
+vakfilosp.duckdns.org
 vakfinikatilim.com
 vakfisponsr.duckdns.org
 vakfivskafssakf.com
