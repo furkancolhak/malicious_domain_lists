@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-26T14:05:13.541985
+# Updated: 2025-07-26T15:05:13.150465
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5613,6 +5613,7 @@
 14256396.xyz
 14256398.xyz
 1425651665885699921.xyz
+1425651665885699922.xyz
 142565626656265660.xyz
 142565626656265664.xyz
 142565626656265666.xyz
@@ -31184,6 +31185,7 @@
 97546465554.cloud
 976.hopto.org
 976dnud.anningbe.ru
+9778646546516165.duckdns.org
 977p5l.cn
 978-1-21-154-1.com
 978141832.goloser.ru
@@ -50307,6 +50309,7 @@ aldinfirsatlarikacirma.blogspot.com
 aldinfirsatlarionline.com
 aldinfirsatlarkampanya.online
 aldinfirsatsimdi.shop
+aldingeldin.biz.tr
 aldingeldin.com.tr
 aldingeldinaldin.biz.tr
 aldingeldinaldin.info.tr
@@ -65212,6 +65215,7 @@ bakiyenkadarkazan.online
 bakiyenkadarkazanin.online
 bakiyeodemesi.ml
 bakiyeonay.net
+bakiyepttcel.com
 bakiyerun.com
 bakiyeservisi.net
 bakiyesistemim.xyz
@@ -88607,6 +88611,7 @@ bonusgrtn.com
 bonushavale.com
 bonushediyefirsati.link
 bonushediyenehemenbasvur.com
+bonushemen.digital
 bonushepyanimda.ml
 bonushepyaninda.cf
 bonushepyaninda.ga
@@ -91773,6 +91778,7 @@ bufferbud.top
 bufferdetention.top
 buffet1235.xyz
 buffetfactory.oicp.io
+bufirsat1o1deaslakacmaz.com
 bufirsataldina101comtr.site
 bufirsataldinaldinda-101comtr.online
 bufirsatbasvurhemenkatil.tech
@@ -125437,6 +125443,7 @@ dogadanderman.com/hemphpmail/db_template.php
 dogadogallikvedogalurunler.xyz
 dogal-hisler-her-daim-sonsuz-yasanmali.com
 dogal-hisler-heyecan-ile-yasamali.com
+dogal-kacamak-firsatlari.top
 dogal.ga
 dogalasmdanalamaasdan.blogspot.com
 dogalcayim.win
@@ -126051,6 +126058,7 @@ doludoluindirimler.online
 doludoluindirmler.cfd
 doludoluindirmler.click
 doludoluindirmler.my
+doludolukampanyalar.club
 doludolusepet.com.tr
 doludolusepet.online
 doludoluye.net
@@ -184242,6 +184250,7 @@ harcasandabitmiyor-hemenharcakargobedava.com
 harcasindikampanya.com
 harcaxharcaxibtmexx.online
 harcaxharcaxibtmexx.xyz
+harcayaharcayabitmeyenindirimler.my
 harcayarakbitmezz-kargobedava.online
 harccxxharcxxbittmmez.com
 harci.online
@@ -203952,6 +203961,7 @@ ifindmy-icloud.com
 ifindmydevice.com
 ifindmyicloud.com
 ifirsatvolta1o1.cfd
+ifirsatvolta1o1.sbs
 ifiupp.duckdns.org
 ifjh5asi25f.com
 ifjqzzu.cn
@@ -226105,6 +226115,7 @@ kampanyadunyasinahosgeldiniz.site
 kampanyadurumusorgula-paribucom.tk
 kampanyaduyurusu.com
 kampanyaekimozel-kampanyabugun.tech
+kampanyaeklentibasvurusugirisi.online
 kampanyaetkinlestir.com
 kampanyaetkinlik-bn.net
 kampanyaetkinlik-ramazan.net
@@ -231765,6 +231776,7 @@ kgmsizlersizolmazasd.net
 kgmskohgskarayolbrcodsmleri.duckdns.org
 kgmsorgu.xyz
 kgmsorgullarcx.net
+kgmsswbkadrgcshgsbrc.duckdns.org
 kgmswebgcshsgoss.duckdns.org
 kgmswebgcsodemees.com
 kgmtr.org
@@ -239763,6 +239775,7 @@ las.sa.com
 lascolinasresortdalas.com
 lasdamas.com
 lasdaslafagaafifi.com
+lasdla-afbask-asfaka.cfd
 lasdladasoqoqq.com
 lasenta.net
 laserepic.top
@@ -261542,6 +261555,7 @@ mukemmelfirsatlaraldinaldin.club
 mukemmelfirsatlaraldinaldin.net
 mukemmelfirsatlaraldinaldin.xyz
 mukemmelfirsatlardabugun.cfd
+mukemmelfirsatlardabugun.icu
 mukemmelfirsatlardabugun.sbs
 mukemmelfirsatlardasonsaatler.online
 mukemmelfirsatlardasonsaatler.xyz
@@ -262165,6 +262179,7 @@ mutluolurduk.com
 mutlupatiler.xyz
 mutlusms.com.tr
 mutlusms.xyz
+mutlusonlukampanyalar.my
 mutlusonuc.com.tr
 mutlusosyalgelecek.com
 mutluumutluizler.online
@@ -307344,6 +307359,7 @@ redmialimicinburadangiriniz.icu
 redmialimicinburadangiriniz.sbs
 redmialimicinburadangirisyapiniz.cfd
 redmialimicinburadantiklayin.cfd
+redmialimicinhemengelini.icu
 redmialimihemenal.cfd
 redmialimiicinburadangelin.baby
 redmialimiicinburadangelin.cfd
@@ -307351,6 +307367,7 @@ redmialimiicinburadangelin.icu
 redmialimiicinburadangelin.lat
 redmialimiicinburadangelin.pics
 redmialimiicinburadangelin.sbs
+redmialimiicinhementikla.my
 redmialimlarigeldihemenal.cfd
 redmialimlarigeldihemenal.icu
 redmialimlarigeldihemenal.lat
@@ -313487,6 +313504,7 @@ sadeceonlineozelcom101.online
 sadeceonlineozelcom101.xyz
 sadeceonlineozelfirsat.site
 sadeceonlineozelfirsatlar.duckdns.org
+sadeceonlineozelkampanyalar.duckdns.org
 sadeceonlineozelkapinageldi.com.tr
 sadeceonlineozelsatis101.codevoyage.cfd
 sadecepera.fun
@@ -322967,6 +322985,7 @@ sende-katilmakistermsnhmnbasvur.com
 sende-katilmakistrnmsnhemenkzn.com
 sende-kazan.website
 sende-kazandin.epizy.com
+sende-ondan-eminsen-gelerek-bulursun.com
 sende-onlardan-hizli-davranirsan-iyi-bulursun.com
 sende-prb-al.ml
 sende-puttyfirsatiyakalahemen.net
@@ -408733,6 +408752,7 @@ yuzbircampany.com
 yuzbircombosch.shop
 yuzbirde-senesonu-firsatlar.shop
 yuzbirdefirsat-bitmez.shop
+yuzbirdefirsatlaringunu.my
 yuzbirdeindirim.com.tr
 yuzbirdeindirim.online
 yuzbirdenevinizee.top
