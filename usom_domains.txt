@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-26T16:05:12.122264
+# Updated: 2025-07-26T17:05:13.853414
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1867,6 +1867,7 @@
 101-temmuz18.com
 101-temmuz20.com
 101-temmuz23.com
+101-temmuz26.com
 101-tv-temmuzindirimlerin.vercel.app
 101-volta-com-tr.click
 101-volta-com-tr.sbs
@@ -41584,6 +41585,7 @@ adserver-32.zapto.org
 adserver4.com
 adservices.gr.com
 adsfiadgfiadgiadgia.cfd
+adsfkjdasmgldagfidag.cfd
 adsfoundation.com.pk/wp-admin/includes/db_template.php
 adsfxaxadfxa.workers.dev
 adsgod.app
@@ -140131,6 +140133,7 @@ efsaneeindirimleri.xyz
 efsaneenisanindirimlleri.com
 efsanefirsatindirimleri.online
 efsanefirsatlarbrda.com
+efsanefirsatlarinizizinhepsismdiburda.duckdns.org
 efsanefirsatlarsimdiayaginizageldihemenal.xyz
 efsanefirsatlarsimdibayramaozel.xyz
 efsanefrstlar1o1kapinda.shop
@@ -157771,6 +157774,9 @@ firsatlarda-buhafta.net
 firsatlardabuhaftaninyildizlari.xyz
 firsatlardanhaberdarol.online
 firsatlardanyararlan-a101.site
+firsatlardasoncare.cfd
+firsatlardasoncare.icu
+firsatlardasoncare.sbs
 firsatlardasondakikalarhizlisatinal.com.tr
 firsatlardasondakikalarhizlisatinal.online
 firsatlardasongunhizlisatinal.com.tr
@@ -185107,6 +185113,7 @@ hauntmagiste.top
 hauntmticulous.top
 haurilular.xyz
 haustierhause.de
+haustopyz.xyz
 hauuctlaqj.duckdns.org
 hauyrt883.xyz
 havaalaniarackira.co
@@ -207993,6 +208000,7 @@ indirimleriurunlerihemensepeteekle.xyz
 indirimleriyakala.com
 indirimleriyakala.org
 indirimleriyakaladin.xyz
+indirimlerkaldi.com.tr
 indirimlerkaldi.name.tr
 indirimlerkaldi.web.tr
 indirimlerkaracada.com
@@ -239782,6 +239790,7 @@ lascolinasresortdalas.com
 lasdamas.com
 lasdaslafagaafifi.com
 lasdla-afbask-asfaka.cfd
+lasdla-afbask-asfaka.cyou
 lasdladasoqoqq.com
 lasenta.net
 laserepic.top
@@ -262185,6 +262194,7 @@ mutluolurduk.com
 mutlupatiler.xyz
 mutlusms.com.tr
 mutlusms.xyz
+mutlusonlukampanyalar.cfd
 mutlusonlukampanyalar.my
 mutlusonuc.com.tr
 mutlusosyalgelecek.com
@@ -334618,6 +334628,7 @@ sonrakine-buzamani-bitirmeden-bilerek-giderse.top
 sonrakitarih.app
 sonralarina-devaminda-bukadari-bilmeden-olunamaz.top
 sonrasinada-buralarda-kalirsanizda-bulunun.top
+sonrasinda-kalana-kadarda-buralari-getirir.com
 sonrasinin-bunabenzer-degisime-yakalanir.top
 sonrentcar.com
 sonsaatfirsatlarinikacirmaurunlersepette.com.tr
@@ -352503,6 +352514,7 @@ tlyuklememerkezi.com
 tlyuklememerkezi.xyz
 tlyuklememerkezim.gq
 tlyuklememerkeziniz.com
+tlyuklememerkeziptthizmetleri.com
 tlyuklemen.com
 tlyuklemeni.biz
 tlyuklemeni.com
