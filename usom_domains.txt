@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-26T15:05:13.150465
+# Updated: 2025-07-26T16:05:12.122264
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -57639,6 +57639,7 @@ araskargomsczx.com
 araskargomtakip.net
 araskargos.com
 araskargosorgula.online
+araskargosorgula.space
 araskargosorgulama.net
 araskargotakibim.com
 araskargotakibin.com
@@ -96749,6 +96750,7 @@ carrefaursa.site
 carrefaursa.store
 carreffoueor-sa.online
 carreffour-sa.online
+carreffoursa.com
 carreffoursa.online
 carreffoursa.site
 carreffoursa.space
@@ -184250,6 +184252,8 @@ harcasandabitmiyor-hemenharcakargobedava.com
 harcasindikampanya.com
 harcaxharcaxibtmexx.online
 harcaxharcaxibtmexx.xyz
+harcayaharcayabitmeyenindirimler.cfd
+harcayaharcayabitmeyenindirimler.icu
 harcayaharcayabitmeyenindirimler.my
 harcayarakbitmezz-kargobedava.online
 harccxxharcxxbittmmez.com
@@ -203961,6 +203965,7 @@ ifindmy-icloud.com
 ifindmydevice.com
 ifindmyicloud.com
 ifirsatvolta1o1.cfd
+ifirsatvolta1o1.lat
 ifirsatvolta1o1.sbs
 ifiupp.duckdns.org
 ifjh5asi25f.com
@@ -227946,6 +227951,7 @@ kapiniza.com.tr
 kapinizageldi.com
 kapinizagelsina1o1firsatlari.online
 kapinizahizlicagliyornsnzs.com
+kapinizakadargeliyoruzbaksn.com
 kapinizakdrgeldi1o1.com
 kapinizda-101.com
 kapinizda-firsat-urun.com.tr
@@ -403794,6 +403800,7 @@ yenibasvrular.net
 yenibasvur-girisgeriodemefazi.xyz
 yenibasvurfirsati.com
 yenibasvurn.com
+yenibasvuru.shop
 yenibasvuruacikdenizv2denizbank.co.vu
 yenibasvurudonemleri.com
 yenibasvurudonemleri1.com
