@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-27T16:05:11.840719
+# Updated: 2025-07-27T17:05:14.560361
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1725,6 +1725,7 @@
 101-25mayisaksam.com
 101-26temmuzcadir.com
 101-26temmuzgece.com
+101-27temmuzfirsat.com
 101-31mayisaksam.com
 101-31mayisfirsat.com
 101-3haziranaksam.com
@@ -2037,6 +2038,8 @@
 101aldinaldin.net
 101aldinaldinsongungroup.com
 101aldinzincirleri.shop
+101alimlariburadan.my
+101alimlariburadan.sbs
 101alisveris.com
 101alisverisfirsatlari.com
 101aonlinegiris.app
@@ -2264,6 +2267,7 @@
 101kampanyaaldinaldin.net
 101kampanyafirsatlari.xyz
 101kampanyafirsatlariniz.cfd
+101kampanyafirsatlariniz.icu
 101kampanyafirsatlariniz.my
 101kampanyafirsatlariniz.sbs
 101kampanyagiris.online
@@ -20902,6 +20906,7 @@
 451sdz65vg4ds561v56sad1vsdf15sd156.site
 452222com.com
 4523121431.cloud
+452315232.cloud
 4523255hemenbiryselkatil.com.tr
 45234234234.duckdns.org
 4523523523532.xyz
@@ -59360,6 +59365,7 @@ asigidsksakgdfshkssakhsaf.icu
 asigidsksakgdfshkssakwkfqksaf.cfd
 asigidsksakgdfshkssakwkfqksaf.cyou
 asigidsksakgdfshkssakwkfqksaf.icu
+asigidsksakgdfshksssafkkgshfdgs.cyou
 asigimsanaa.net
 asijdasldakdask.de
 asik37df.xyz
@@ -144700,6 +144706,7 @@ engnclllmraaxxtfrslltirnda.click
 engnclllmrxdsxtfrslltirnda.click
 engnclllmrxxdetfrslltirnda.click
 engnclllmrxxtfffrslltirnda.click
+engnclllmrxxtfrslltirnda.sa.com
 engnclllmzzrxxtfrslltirnda.click
 engncllmarkttfrstlarii.sa.com
 engncllmdarkttfrstlrii.sa.com
@@ -218179,6 +218186,7 @@ iyi-ellerini-bizlerde-cok-sevdik-siz-bizleri-seveceksiniz-diye.com
 iyi-hissetmek-bizce-kadar-basit-olmali.com
 iyi-hissetmek-bu-kadar-basit-oldugu-goruldu.com.tr
 iyi-hissetmek-bu-kadar-basit-olmamistir.com
+iyi-hissetmenin-tam-zamani.top
 iyi-olan-isleri-guzel-severiz-yetisin.com
 iyi-olan-kisileri-guzel-severiz-surekli.com
 iyi-ve-mutlu-bir-hayat-topraginda.top
@@ -225482,6 +225490,7 @@ kalsfkasfl.com
 kalsinlarsdsa.space
 kalskaldfk.com
 kalskdasdaldadma.blogspot.com
+kaltieliidnirimlerdesongun.sbs
 kaltm.2kool4u.net
 kaluga.xyz
 kaluranilnemikmuker.xyz
@@ -250074,6 +250083,7 @@ mavikampanyalarsizerle.shop
 mavikent.site
 mavikocdernegi.com
 mavikod.org
+mavikutudroplari.xyz
 mavilekazanmasansi.com
 mavilesssyaaas.tk
 mavimall.top
@@ -254531,6 +254541,7 @@ mitas.melikrfb.site
 mitas.space
 mitas.tech
 mitegen.com
+mitermosa1o1.cfd
 mitermosa1o1.lat
 mitform.online
 mithatmehmet.ml
@@ -277228,6 +277239,7 @@ onlinebddksorgulama.com
 onlinebelediyevergi.net
 onlinebens.net
 onlinebenty.vercel.app
+onlinebfnty.vercel.app
 onlinebigiler.sg-host.com
 onlinebilet.online
 onlinebilgi-mobilgiris-portal.tk
@@ -289496,6 +289508,7 @@ pazarmarketim39.com
 pazarmerkezi.shop
 pazarmrkt66.com
 pazarmrkt874.com
+pazarmrkt932.com
 pazarmrktxcm76.com
 pazaroglensnm.com
 pazaroma.shop
@@ -300052,6 +300065,7 @@ pttpat.fun
 pttpazaryeri.com
 pttpbt.fun
 pttpgovtr.xyz
+pttpicl.icu
 pttpkarrgo.net
 pttpkm.top
 pttpl.xyz
@@ -323114,6 +323128,7 @@ sende-faydalan.aras-hizmettlerinde-kolayca-kapinda.com
 sende-hemenkaznbasvurkmpyanyasi.com
 sende-henen-faydalan.kapilarda-ptt-kargohizmetleri-kapinizda.shop
 sende-hmnkazanmakistermsnkmpanyasi.com
+sende-iyiki-bundan-derecesine-alin.cfd
 sende-kampanya-bizde-var-basvur-com.tk
 sende-katil-suprizhediyeler.line.pm
 sende-katilarak-biraz-fazla-iyi-yapmis-oldun.com
