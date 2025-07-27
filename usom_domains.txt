@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-27T14:05:16.142796
+# Updated: 2025-07-27T15:05:13.818926
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2263,6 +2263,7 @@
 101kampanya.online
 101kampanyaaldinaldin.net
 101kampanyafirsatlari.xyz
+101kampanyafirsatlariniz.my
 101kampanyagiris.online
 101kampanyahaberleregel.app
 101kampanyahaberleregelsadeceonline.app
@@ -90417,6 +90418,7 @@ bru-no-hurangxa-400tl-tr.com
 bru23senlesdil.digital
 bru23xlivehays.site
 bru4242.ddns.net
+bruadas-kamptekfl-ladn-aldn.com
 bruceelliottfashions.com
 brucegarrod.com
 bruclee.top
@@ -96363,6 +96365,7 @@ capacitycrow.top
 capacityradiation.top
 capapau.com
 caparticulier.ddns.net
+capcthabotdiscord.sbs
 capcut-editor-video.com
 capcut-freedownload.com
 capcutdownload.com
@@ -157425,6 +157428,7 @@ firsatinkapinda.co
 firsatinkaylt.com
 firsatinkayltn.com
 firsatinklima1o1.cfd
+firsatinklima1o1.lat
 firsatinlabugunhersey.xyz
 firsatinmatkapevleri.shop
 firsatinsimdi-burayageldi.shop
@@ -184257,6 +184261,7 @@ harcaharcabitmezhaftalar.sbs
 harcaharcabitmezkampanya.cfd
 harcaharcabitmezler.cfd
 harcaharcabitmezler.sbs
+harcaharcabitmezmiyoksa.cfd
 harcaharcabitmezonline.online
 harcaharcabitmezonlineapp.com
 harcaharcabitmezs101c0mtr.online
@@ -184538,6 +184543,8 @@ harikakampanyalardasongunler.xyz
 harikakampanyalarguveniliralisveris.com.tr
 harikakampanyalarguveniliralisveris.online
 harikakampanyalarhaftasi.club
+harikakampanyalarhaftasi.pics
+harikakampanyalarhaftasi.sbs
 harikakampanyalarinadresi.com.tr
 harikakampanyalarinadresi.online
 harikakampanyalarinadresi.xyz
@@ -214625,6 +214632,7 @@ islemler.name.tr
 islemler.store
 islemler.xyz
 islemler1.b-cdn.net
+islemler1o1de.com
 islemler1o1iniz.com
 islemler727buradagitmez.blogspot.com
 islemleracikdenizv2denizbank.co.vu
@@ -261961,6 +261969,8 @@ muslumgn334.com
 muslyovsiiuebxi.ru
 musmutlu-bir-zamanlar-var-sizle.top
 musmutlukampanyalarbruada.click
+musmutlukampanyalarbruada.icu
+musmutlukampanyalarbruada.sbs
 musmutluyarinlar.com
 musndphlika.net
 musnlcywxt.duckdns.org
@@ -383773,6 +383783,7 @@ wepgirisim-turkiyyegovtr.net
 wephone.top
 weporsche.com
 weqrmearma.in
+weqsdwqesdclick.art
 weqwe-weqeq-ewq.space
 wer-d.info
 werasmiro.top
