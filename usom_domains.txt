@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-27T12:05:12.799877
+# Updated: 2025-07-27T13:05:15.164538
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7223,6 +7223,7 @@
 165.232.154.73
 165.232.167.241
 165.51.179.120
+1651561561651561.duckdns.org
 16516516522.cloud
 16523326.site
 165384.cloud
@@ -41596,6 +41597,7 @@ adsepartsdmental.work
 adserver-32.zapto.org
 adserver4.com
 adservices.gr.com
+adsfdaisgiadsgidasghi.cfd
 adsfiadgfiadgiadgia.cfd
 adsfkjdasmgldagfidag.cfd
 adsfoundation.com.pk/wp-admin/includes/db_template.php
@@ -112205,6 +112207,7 @@ darkstorm275991.ddns.net
 darktakipci.com
 darkvader.xyz
 darkvader.zapto.org
+darkvane.xyz
 darkvizion.ddns.net
 darkwebkiler.duckdns.org
 darkweed.ddns.net
@@ -142603,6 +142606,7 @@ eligiblepresumably.top
 eligibletrash.top
 eligibletropic.top
 eligibleunveil.top
+elilsujewelry.com
 elimalimmerkztr1.net
 elimdekiyuzunden.click
 eliminateelasticity.top
@@ -167738,6 +167742,7 @@ gelbenburdayimsetpet.space
 gelbendesendeberen.net
 gelberiberi.com
 gelbirdeburdanyak.com
+gelbizdeal.name.tr
 gelbizegrnt.net
 gelbizimlekatilsana.com.tr
 gelburaya.com.tr
@@ -185527,6 +185532,7 @@ hayatin-ritmini-sessizce-yasamak.com
 hayatin-sevgisiyle-sizler-zamana-buyur-gorursunuz.com
 hayatin-son-gelen-duraklari-ugra.com
 hayatin-surprizlerinden-beklentiniz.com
+hayatin-tadina-varmak-icin.top
 hayatinbaglantilarlaornenyanizi.xyz
 hayatindegeri.online
 hayatindenzdagzler.site
@@ -187504,6 +187510,7 @@ hellasjournal.company
 hellasjournal.website
 hellb0y.ddns.net
 hellblood.ddns.net
+hellbreaker.xyz
 hellenedney.com
 hellifieldvillagehall.org.uk
 hellip433.hopto.org
@@ -226486,7 +226493,9 @@ kampanyalardasongun.sbs
 kampanyalardasongunhizlial.com.tr
 kampanyalardasongunhizlial.online
 kampanyalardasongunhizlial.xyz
+kampanyalardasongunidnirimi.baby
 kampanyalardasongunidnirimi.club
+kampanyalardasongunidnirimi.sbs
 kampanyalardasongunler.cfd
 kampanyalardasongunler.click
 kampanyalardasongunler.com.tr
@@ -233682,6 +233691,7 @@ klima-siparis-olustur-101.online
 klimaaldinizz.site
 klimabuzgibiindir.xyz
 klimafirsatgeldi.com
+klimafirsatia1o1.cfd
 klimafirsatia1o1.lat
 klimafirsatia1o1.sbs
 klimafirsatiialtus.com
@@ -261944,6 +261954,7 @@ muslumbaba.site
 muslumgn334.com
 muslyovsiiuebxi.ru
 musmutlu-bir-zamanlar-var-sizle.top
+musmutlukampanyalarbruada.click
 musmutluyarinlar.com
 musndphlika.net
 musnlcywxt.duckdns.org
@@ -277190,6 +277201,7 @@ onlinebctturkgiris.com
 onlinebddksorgulama.com
 onlinebelediyevergi.net
 onlinebens.net
+onlinebenty.vercel.app
 onlinebigiler.sg-host.com
 onlinebilet.online
 onlinebilgi-mobilgiris-portal.tk
@@ -293888,6 +293900,7 @@ ppnaltddykduocrxf.org
 ppogkvmsja.xyz
 ppoorrt55522.ddns.net
 ppoortu8.beget.tech
+ppostastsa.duckdns.org
 ppowerwin.click
 ppowwerfulcourse.site
 ppp-amk-258e4ebd8370.herokuapp.com
@@ -331107,6 +331120,7 @@ sizleriagirlar.duckdns.org
 sizleribekleyenharikafirsatlar.com.tr
 sizleribekleyenharikafirsatlar.online
 sizleribekleyenharikafirsatlar.xyz
+sizlericin-herzmsn-aldns-aldn.store
 sizlericin.iademaidat.com.tr
 sizlericin.net
 sizlericinbirlikteyiz.com
@@ -351061,6 +351075,7 @@ theyevaporation.top
 theyfeat.top
 theypay.us
 theystandlivemiracle.com
+theyurticikargotakibim.com
 theyurticikargs.top
 theziraatbankonline.com
 thezone1.duckdns.org
@@ -357616,6 +357631,7 @@ trbllnance.com
 trblnance-49343249234135324.com
 trblnance.info
 trblnance.org
+trblnance.shop
 trblnance.site
 trblnance.store
 trblnance.tech
