@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-28T18:05:13.044646
+# Updated: 2025-07-28T19:05:12.033975
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -49235,6 +49235,7 @@ aktuelmvarket.biz.tr
 aktuelmvarket.com.tr
 aktuelmvarket.net.tr
 aktuelmvarket.org.tr
+aktuelndrm101.com
 aktuelnisgirsvatkn.com
 aktuelonline-a101-sepet.com
 aktuelonline101.site
@@ -87510,6 +87511,7 @@ bnnsssxss-trrr37.com
 bnnsteknolojiigiriss.net
 bnnstrbasvr.com
 bnnstrbnb.vercel.app
+bnnstrcxs.vercel.app
 bnnstrduyurugiris.com
 bnnsvsgirisleritr.com
 bnntconlinegiristr.com
@@ -125131,6 +125133,7 @@ dnzamfxcvnngdsnfvcx.click
 dnzamfxcvnngdsnfvcx.site
 dnzbank-finans-islem.bayram-ikramiyesi-kampanya-hemen-al.com
 dnzbankkredi.xyz
+dnzbankpsrosmoon.sbs
 dnzbanktandijital.cf
 dnzbasvuronayilwegov.space
 dnzbasvuru-tektiklahesabindaaaa.xyz
@@ -164904,6 +164907,7 @@ garantibbvamobil-subesikazandirir.ph
 garantibbvamobil-subesikazandirir.tk
 garantibbvamobil.com
 garantibbvamobil.life
+garantibbvamobilbasvuru.com
 garantibbvamobilbenimsubem.tk
 garantibbvamobilgiriss.com
 garantibbvamobils.com
@@ -184382,6 +184386,7 @@ harcaharcabitmezaktuel.shop
 harcaharcabitmezaldinal.xyz
 harcaharcabitmezaralikayi.shop
 harcaharcabitmezbabani.cfd
+harcaharcabitmezbabani.sbs
 harcaharcabitmezbebegim.cfd
 harcaharcabitmezbitmez.cfd
 harcaharcabitmezbitmez.sbs
@@ -184568,6 +184573,7 @@ harikadindirimkitelefonlar.online
 harikafiraszamran.online
 harikafiraszamran.xyz
 harikafirsatgunlerhemensatinalfirsatlar.xyz
+harikafirsatkampanyalarinizsimdikapinizda.com.tr
 harikafirsatkarburada.com.tr
 harikafirsatkarburada.online
 harikafirsatkarburada.xyz
@@ -278156,6 +278162,7 @@ onlineiadesistemi-tr.com
 onlineiadesorgula.sbs
 onlineiadetalebi.net
 onlineiakktulel-firsatlarii.com
+onlineihtiyackredisibasvurusu.site
 onlineiislem.com
 onlineilehizliode.com
 onlineiletisimbaskanligi.click
@@ -319027,6 +319034,7 @@ sanaozelhediyekampanyasibasvurusu.online
 sanaozelherseyhemenkatil.online
 sanaozelindirims.xyz
 sanaozelkampanya.click
+sanaozelkampanyalar.duckdns.org
 sanaozell-getsahibinden-magazamm.com
 sanaozelmigros.com
 sanaozelsayfa.site
@@ -349473,6 +349481,7 @@ temizlikcigelsin.com
 temizlikhizmetleri.net
 temizlikseren1.ga
 temmensat.com
+temmlxzdsa.duckdns.org
 temmmuz-firsatlariill-buradaakacirmaaa-hrmen-al.com
 temmmuzzza-girerkken.com
 temmmxz-ayii-geldi-bitmedengell.com
