@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-28T10:05:13.866168
+# Updated: 2025-07-28T11:06:53.681722
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5633,6 +5633,7 @@
 14256398.xyz
 1425651665885699921.xyz
 1425651665885699922.xyz
+1425651665885699924.xyz
 142565626656265660.xyz
 142565626656265664.xyz
 142565626656265666.xyz
@@ -11993,6 +11994,7 @@
 1o1bzlealdinaldin.com
 1o1bzlesepettefrsaattlar.com
 1o1comtr.online
+1o1dealdinaldinkapida.com
 1o1dengeldihesaplisi.duckdns.org
 1o1desepetteindirmfrsati.com
 1o1efsanefrstlrr.xyz
@@ -157201,6 +157203,7 @@ firsatcidenizim.com
 firsatcilar.site
 firsatcim.shop
 firsatcimagazalar.com
+firsatcimmobilimdestegim.sbs
 firsatciseni.xyz
 firsatcplatformu98547.net
 firsatcssarss.com
@@ -306848,6 +306851,7 @@ readysafe.xyz
 readysanitation.top
 readysteaurants.com
 readytowinoctobercampaigniswithyouget.cloud
+reaitek.com
 reakdce.duckdns.org
 reaktivieren-icscard.nl
 reaktivieren-icsservice.nl
@@ -313956,6 +313960,7 @@ safesharea.top
 safeshortl.ink
 safestorage.hopto.org
 safestylelinks.info
+safesurf.fastdomain-uoemathhvq.workers.dev
 safesurf.world
 safetb-amazon.jp
 safetexoma.duckdns.org
@@ -333130,6 +333135,7 @@ sofpmall68.com
 sofrani-senlendiren-formul-hemen-yaniniza-geldi.com
 sofrani-senlendiren-formul-yaniniza-geldi.com
 soft-end.com
+soft-gets.com
 soft-kind.com
 soft-make.com
 soft-out1.aqgj.cn
@@ -334889,6 +334895,7 @@ sonsaatfirsatlarinikacirmaurunlersepette.xyz
 sonsaatkampanyalarifirsatlarbitmez.online
 sonsaatkampanyalarifirsatlarbitmez.xyz
 sonsaatler-mutfakta-araclartr.net
+sonsaatlerdeindirmeyetis.sbs
 sonsaatlerinidirimde1.online
 sonsezonaralikkampanyasi.xyz
 sonsgrm.pro
@@ -334941,6 +334948,7 @@ sonsuzumitleyardim.com
 sonszluktnnfrlaynflnlar.com
 sontabloakakta.com
 sontarih9agustos.duckdns.org
+sontekflsd-sizelrcsn-biurada.store
 sontercihbasvurularin.net
 sontrendler.online
 sonu-gelmeyen-muhtesem-guzellikte-jestler.com
