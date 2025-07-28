@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-28T04:05:12.710915
+# Updated: 2025-07-28T05:05:12.821805
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1726,6 +1726,7 @@
 101-26temmuzcadir.com
 101-26temmuzgece.com
 101-27temmuzfirsat.com
+101-28temmuz.org
 101-31mayisaksam.com
 101-31mayisfirsat.com
 101-3haziranaksam.com
@@ -48178,6 +48179,7 @@ akt-smdi.shop
 akt-ue-l-uru-nle-r.com
 akt-zmn-gldi.shop
 akt.101-27temmuzaksm.com
+akt.101-28temmuz.org
 akt.101-mayisoglens.net
 akt.101buguncarsamba-kacirma.com
 akt.101mayisaksamka.com
@@ -68188,6 +68190,7 @@ basvurularbnnctr.online
 basvurularbnnsonlinetr.com
 basvurularbnntrgiris.online
 basvurularburadan.me
+basvurularburadan.sbs
 basvurularburadan.xyz
 basvurularfnansmerkezi.vercel.app
 basvurularhediyesayfasipaributeknoloji-com.tk
@@ -68877,6 +68880,7 @@ basvurzmn.com.tr
 basvurzmn.xyz
 basvurzmr.com.tr
 basvurzmr.xyz
+basvurznm.com.tr
 basvurznr.com.tr
 basvurznr.cyou
 basvurzns.cyou
@@ -112084,6 +112088,7 @@ daoudvip.ddns.net
 daowsistem.com
 daoz99w.duckdns.org
 dap--denzlm.duckdns.org
+dap--roly.duckdns.org
 dap--yplar.duckdns.org
 dap--yplassr.duckdns.org
 dap-kywebb.duckdns.org
@@ -113787,6 +113792,7 @@ delidehset.duckdns.org
 delidehsetfirsatlar.cfd
 delidelikupeli.best
 delidivane3d.xyz
+delidivanekampanyalar.sbs
 delidolu.b-cdn.net
 delight-business-online.site
 delight.mv
@@ -238763,6 +238769,7 @@ kvqfp7w5a.duckdns.org
 kvqqriwidv.duckdns.org
 kvre-exprsaway.net
 kvruid.com
+kvsmhgsavisbilgi.sbs
 kvt-alitn-2860.com
 kvt-altn-2860.com
 kvt-gold-2860.com
@@ -301561,6 +301568,7 @@ qbnidfers.vercel.app
 qbnikmpnyer.vercel.app
 qbnimkmpany.com
 qbnirse.vercel.app
+qbniumaz.vercel.app
 qbnkazankampanyasi.vercel.app
 qbnlefinanscom.vercel.app
 qbnlilerle.vercel.app
@@ -310302,6 +310310,7 @@ rikkoba1213abgeldi.site
 rikkobaabgeldi.site
 rikumoth.xyz
 rilly.snailtracebrass.com
+rilomena.online
 rilomenifis.com
 rima2.zapto.org
 rimbelzi.com
