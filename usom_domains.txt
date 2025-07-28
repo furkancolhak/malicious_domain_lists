@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-28T20:05:12.812681
+# Updated: 2025-07-28T21:05:12.753467
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1727,6 +1727,7 @@
 101-26temmuzgece.com
 101-27temmuzfirsat.com
 101-28temmuz.org
+101-28temmuzkcmz.art
 101-31mayisaksam.com
 101-31mayisfirsat.com
 101-3haziranaksam.com
@@ -41519,6 +41520,7 @@ adriaanvorster.co.za//wp-config-ini.php
 adriaanvorster.co.za/engines/db-config-ini.php
 adriaanvorster.co.za/engines/wp-config-ini.php
 adrian20031424.hopto.org
+adriandevelop.online
 adriangrand.com//db_template.php
 adriangrand.com/db_template.php
 adriangrand.com/wp-admin/db_template.php
@@ -92243,6 +92245,7 @@ buhaftabimde.shop
 buhaftadeliindirimlervar.cfd
 buhaftadeliindirimlervar.icu
 buhaftadeliindirimlervar.lat
+buhaftadeliindirimlervar.my
 buhaftadeliindirimlervar.sbs
 buhaftahakkinizvar.net
 buhaftaindirim.hopto.org
@@ -153985,6 +153988,7 @@ faturaodetmesistemi.com
 faturaonline.site
 faturaonline.xyz
 faturaonlinewebsite.com
+faturapanelimburda.duckdns.org
 faturas-portalweb.online
 faturaskim.net
 faturatahsilati.net
@@ -164909,6 +164913,7 @@ garantibbvamobil-subesikazandirir.ph
 garantibbvamobil-subesikazandirir.tk
 garantibbvamobil.com
 garantibbvamobil.life
+garantibbvamobil.net
 garantibbvamobilbasvuru.com
 garantibbvamobilbenimsubem.tk
 garantibbvamobilgiris.com
@@ -184578,6 +184583,7 @@ harikafiraszamran.online
 harikafiraszamran.xyz
 harikafirsatgunlerhemensatinalfirsatlar.xyz
 harikafirsatkampanyalarinizsimdikapinizda.com.tr
+harikafirsatkampanyalariylamutluluksizinle.com.tr
 harikafirsatkarburada.com.tr
 harikafirsatkarburada.online
 harikafirsatkarburada.xyz
@@ -184750,6 +184756,7 @@ harikalarburadaniz.net
 harikalardiyarifirsati.cfd
 harikalardiyarikampanya.xyz
 harikalardiyarikampnayasi.cfd
+harikalardiyarikampnayasi.icu
 harikalardiyarinageldin.blogspot.com
 harikamarketimm.com
 harikamayisfirsatlari.com.tr
@@ -189076,6 +189083,7 @@ hepberaberkalalimdiye20gbsuprizim.com
 hepberaberolalimdiye-20gbhediye.net
 hepberabersepetteurunleriniz.com.tr
 hepberabersepetteurunleriniz.online
+hepberabersepetteurunleriniz.xyz
 hepberabersevinelim.com
 hepberaberturkiyeyiz.com
 hepbetretgot.com
@@ -197794,6 +197802,7 @@ homestlektye.com.tr
 homestlektye.online
 homestlektyes.com.tr
 homestlektyes.xyz
+homestler.click
 homestler.com.tr
 homestlerda.com.tr
 homestlerda.xyz
@@ -208357,6 +208366,7 @@ indirimlieylulkampanyalari.xyz
 indirimlieylulkampanyalariiii.online
 indirimlieylulkampanyalariiii.xyz
 indirimlifirsatlar-temmuz.net
+indirimlifirsatlargeldihemen.icu
 indirimlifirsatlargeldihemen.my
 indirimlifirsattt.online
 indirimlifirsatyakala.com
@@ -225762,6 +225772,7 @@ kampanayalardasonsaatler.my
 kampanaykardaburadabak.cfd
 kampanaykardaburadabak.icu
 kampanaylardasoncare.my
+kampanaylarikacirma.click
 kampanaylarikacirma.icu
 kampanaylarikacirma.sbs
 kampancancumartx.com
@@ -227421,6 +227432,7 @@ kampayaarburada.com.tr
 kampayaarburada.online
 kampayaarburada.xyz
 kampayabol2kathediye.com
+kampayadafirsatlar.click
 kampayadafirsatlar.pics
 kampayadafirsatlar.sbs
 kampayagunlri.store
@@ -238064,6 +238076,7 @@ kusursuzalisverinyeri.icu
 kusursuzalisverinyeri.my
 kusursuzalisverisadrxleri.online
 kusursuzalisveristebugun.cfd
+kusursuzalisveristebugun.click
 kusursuzalisveristebugun.my
 kusursuzalisveristebugun.sbs
 kusursuzalisvrlerburada.com.tr
@@ -262489,6 +262502,9 @@ mutlumusterikampanylari.xyz
 mutlumusterilerinadresi.cfd
 mutlumusterilerinadresi.click
 mutlumusterilerinadresi.com.tr
+mutlumusterilerinadresi.icu
+mutlumusterilerinadresi.my
+mutlumusterilerinadresi.sbs
 mutlumusterilerintekadresi.com.tr
 mutlumusterilerkervani.site
 mutlumutlualisveris.online
@@ -333859,6 +333875,7 @@ sokmarketlerindirimin.online
 sokmarketlerisiparis.cfd
 sokmarketlerisiparisler.duckdns.org
 sokmarketlerisiparisler1.duckdns.org
+sokmarketlerisiparisler2.duckdns.org
 sokmarketlerkampnya.com
 sokmarketlerkapida.com
 sokmarketlerkapinda.com
@@ -348806,6 +348823,7 @@ telefondaindirimdenvazgecme.icu
 telefondaindirimdenvazgecme.sbs
 telefondaindirimgunleri.cfd
 telefondaindirimgunleri.click
+telefondaindirimgunleri.my
 telefondaindirimgunleri.sbs
 telefondaindirimgunleribasladi.click
 telefondaindirimgunleribasladi.icu
@@ -362065,6 +362083,7 @@ turkcellsanal.com
 turkcellsanalmagaza.com
 turkcellsanalmagazasi.com
 turkcellsanalmarket.com
+turkcellsanalmarketi.com
 turkcellservices.com
 turkcellservis.net
 turkcellservisler.com
