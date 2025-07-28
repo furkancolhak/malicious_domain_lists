@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-28T17:05:12.549256
+# Updated: 2025-07-28T18:05:13.044646
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2169,7 +2169,9 @@
 101firsati.online
 101firsatim.com
 101firsatkampanyalariniz.cfd
+101firsatkampanyalariniz.icu
 101firsatkampanyalariniz.my
+101firsatkampanyalariniz.sbs
 101firsatkampanyanbizde.vercel.app
 101firsatkapida.com
 101firsatkxpida.click
@@ -2275,6 +2277,7 @@
 101kampanya.online
 101kampanyaaldinaldin.net
 101kampanyafirsatlari.xyz
+101kampanyafirsatlariburasi.click
 101kampanyafirsatlariicin.cfd
 101kampanyafirsatlariicin.icu
 101kampanyafirsatlariicin.my
@@ -33049,6 +33052,7 @@ a101-harca-harcaabitmez.com
 a101-harca-harcaabitmez.xyz
 a101-harca.bu-hafta-indirim-var.com
 a101-harca.rmznrmzn.click
+a101-harcaharca-bitmez.duckdns.org
 a101-harcaharca.net
 a101-harcaharcabitmez.buzz
 a101-hazlranozel.xyz
@@ -96862,6 +96866,7 @@ carreffourso.online
 carreffourso.store
 carreffuoeor-sa.online
 carreffuoeour-sa-com.online
+carreffuorsa.com
 carreforsa.shop
 carreforsadan-gelenlr.space
 carreforsadan-gelenlr.store
@@ -121917,6 +121922,7 @@ dhxhasdhasdisadasdjswqehasd.net
 dhxim2d.cn
 dhydttredfuujjjsdddf.net
 dhyeyqxk.duckdns.org
+dhzoipc.click
 dhzrv.com
 dhztaxtolo.ddns.net
 dhzyxo.promptexpression.com
@@ -157552,6 +157558,7 @@ firsatisbmbonus.com
 firsatiseninle.com
 firsatistanbul.net
 firsatistanhaziran.xyz
+firsatitermosa1o1.cfd
 firsatitermosa1o1.sbs
 firsativoltan.net
 firsatiyakala.net
@@ -158360,6 +158367,8 @@ firsatlizamanlar.com
 firsatlkaydol.com
 firsatlkayet.com
 firsatlobh.cfd
+firsatlovolta.cfd
+firsatlovolta.sbs
 firsatlricinsongun1o1.shop
 firsatlrkaraalca.com
 firsatmagazasi12358.net
@@ -164923,6 +164932,7 @@ garantibbvas.ga
 garantibbvasakla.net
 garantibbvasanalpos.com
 garantibbvashemnbasvurgirissizinle.com
+garantibbvasponsorlu.com
 garantibbvasubem.cekilisim.4-246-164-34.plesk.page
 garantibbvat.com
 garantibbvatamzamani.tk
@@ -184404,6 +184414,7 @@ harcaharcabitmezler.sbs
 harcaharcabitmezmiyoksa.cfd
 harcaharcabitmezmiyoksa.sbs
 harcaharcabitmezmotorineceq.cfd
+harcaharcabitmezmotorineceq.sbs
 harcaharcabitmezonline.online
 harcaharcabitmezonlineapp.com
 harcaharcabitmezs101c0mtr.online
@@ -195921,6 +195932,7 @@ hizllisslemyap.app
 hizlpktyukle.net
 hizlprstarih.app
 hizlrandvvmuanl.net
+hizlsid-indrdmler-burdas-aldin-aldsn.shop
 hizlslermin.net
 hizlsmlermlerimiz.com
 hizluodemeservisi.org
@@ -228196,6 +228208,7 @@ kapiniza.com.tr
 kapinizageldi.com
 kapinizagelsina1o1firsatlari.online
 kapinizagetiriyorbakin.com
+kapinizagetirsinbizimlekolyca.com
 kapinizahizlicagliyornsnzs.com
 kapinizakadargeliyoruzbaksn.com
 kapinizakdrgeldi1o1.com
@@ -232040,6 +232053,7 @@ kgmturkeytrodemelerim.net
 kgmtwebgecisodeee.duckdns.org
 kgmurl.link
 kgmuylamal.net
+kgmwaigov.top
 kgmwbegsihlalgeciscode.duckdns.org
 kgmwbgcodlrmizz.duckdns.org
 kgmwbgcsihelallhgsbrcodee.duckdns.org
@@ -261769,6 +261783,7 @@ muhtesemhafta.lol
 muhtesemhafta.my
 muhtesemhaftafirsatlari.com.tr
 muhtesemhaftafirsatlari.online
+muhtesemhaftalardabugun.sbs
 muhtesemhgsgirisim-girisyap.tk
 muhtesemindirimligunler.com.tr
 muhtesemindirimligunler.online
@@ -290689,6 +290704,7 @@ persembefirsat52.com
 persembefirsatlardayizsongun.shop
 persembefirsatlaribitmez.com.tr
 persembefirsatlaribitmez.online
+persembefirsatlariss.net
 persembefirsatnisan.com
 persembefrager.com
 persembeindirimgunuc.com
@@ -331259,6 +331275,7 @@ sizlerden-son-dilegimiz.com
 sizlerdensendenre.sbs
 sizlerdeyararlanin.site
 sizlerdodzel-burdaks-indirmelr.shop
+sizlere-ait-olani-buraya-gorundunuz.top
 sizlere-burada-hizmet-ve-mutluluk-verecegiz.com
 sizlere-dogru-yolu-gosterip-durduk.com
 sizlere-geldi-bayrama-ozel-indirimler-burada.com
@@ -333824,6 +333841,8 @@ sokmarketlerindirime.com
 sokmarketlerindirimin.com
 sokmarketlerindirimin.online
 sokmarketlerisiparis.cfd
+sokmarketlerisiparisler.duckdns.org
+sokmarketlerisiparisler1.duckdns.org
 sokmarketlerkampnya.com
 sokmarketlerkapida.com
 sokmarketlerkapinda.com
@@ -404100,6 +404119,7 @@ yenialiasverisfirsati.com.tr
 yenialiasverisfirsati.online
 yenialiasverisfirsati.xyz
 yenialisverlerkampanyasi.cfd
+yenialisverlerkampanyasi.icu
 yenialisverlerkampanyasi.sbs
 yenialtinacikdenizbank.com
 yenialtingirisdenizbankdijital.co.vu
