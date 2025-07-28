@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-27T23:05:13.124227
+# Updated: 2025-07-28T00:05:13.861202
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -29362,6 +29362,7 @@
 89304-coinbase.com
 893164210651.xyz
 89375-coinbase.com
+8938383.vercel.app
 8938wgldi.duckdns.org
 893guncelgirisadreslerizz.blogspot.com
 8941nwvbn.duckdns.org
@@ -48176,6 +48177,7 @@ akt-ifglrlsyonlendirme.apps.dj
 akt-smdi.shop
 akt-ue-l-uru-nle-r.com
 akt-zmn-gldi.shop
+akt.101-27temmuzaksm.com
 akt.101-mayisoglens.net
 akt.101buguncarsamba-kacirma.com
 akt.101mayisaksamka.com
@@ -183895,6 +183897,7 @@ hamamamamamamma8232.com
 hamamamammamama9924.com
 hamamammamamamam172.site
 hamamammamamamam2452.com
+hamamammamamamamammmamamama9824.com
 hamammamammama9342.com
 hamane9021.hopto.org
 hamanhffsamnvcveasnmnhhmnbh451.site
@@ -233507,6 +233510,7 @@ kkhydy.cyou
 kkiadeislemleri.com
 kkiadetakip.com
 kkibilgi.com
+kkilommetreshemnpttgovavm.duckdns.org
 kkindonesia.com/public/dist/sites/v3osxbxl0_ro2xh9s4cx-5038487472490/
 kkinvests.com
 kkis-osym-g0v.tk
@@ -277968,6 +277972,7 @@ onlinehome.me
 onlinehsgbayim.online
 onlinehubtr.com
 onlinehygsgecis.xyz
+onlinehyogg.vercel.app
 onlineiade-basvurutamamla.com
 onlineiade-edevletten.com
 onlineiade-portalevdekalgovtr.com
