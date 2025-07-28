@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-28T14:05:12.107894
+# Updated: 2025-07-28T15:05:14.865350
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2273,6 +2273,7 @@
 101kampanya.online
 101kampanyaaldinaldin.net
 101kampanyafirsatlari.xyz
+101kampanyafirsatlariicin.my
 101kampanyafirsatlariniz.cfd
 101kampanyafirsatlariniz.icu
 101kampanyafirsatlariniz.my
@@ -3925,6 +3926,7 @@
 111.47.22.111
 111.67.201.159
 111.67.206.87
+111.7.106.105
 111.7.68.222
 111.7.96.162
 111.7.96.163
@@ -4539,6 +4541,8 @@
 123.10.52.202
 123.16.159.102
 123.160.223.73
+123.160.223.74
+123.160.223.75
 123.183.209.135
 123.183.209.140
 123.190.56.214
@@ -28937,6 +28941,7 @@
 87.121.45.45
 87.121.47.63
 87.121.69.25
+87.121.84.111
 87.139.163.216
 87.15.14.146
 87.223.80.45
@@ -50279,6 +50284,7 @@ aldinaldinkampanyaburdan.gtxpioneer.za.com
 aldinaldinkampanyahaftasii.com
 aldinaldinkampanyalar.com
 aldinaldinkampanyalari.cfd
+aldinaldinkampanyalari.icu
 aldinaldinkampanyasindan.com
 aldinaldinkampanyastokk100.com
 aldinaldinkampanyatr.online
@@ -54715,6 +54721,7 @@ antikor.name.tr
 antikvarium.ro
 antilaclamacisi.site
 antilag.ddns.net
+antilgurmalp.xyz
 antiliturgistzgqer.com
 antimalwarebyte.site
 antinio.mssql.somee.com
@@ -66329,6 +66336,7 @@ bashancorp.co.za//db_template.php
 bashancorp.co.za/db-config-ini.php
 bashconnectseclgin.ddns.net
 bashful56.xyz
+bashfulacid.lat
 bashirengineeringservices.com//db_template.php
 bashirihn.com
 bashizmetleri381.xyz
@@ -96642,6 +96650,7 @@ careerwitch.top
 carefaoursa.com.tr
 careffour.sa.com
 careffourr.sa.com
+carefour.jiahs.xyz
 carefourlufirlar.shop
 carefourlugunler.shop
 carefoursa-flrsat.com.tr
@@ -101837,6 +101846,7 @@ cicekdunyalari.xyz
 cicekdunyasi.cloud
 cicekdunyasi.co
 cicekdunyasi.info
+cicekdunyasi.life
 cicekdunyasi.me
 cicekdunyasi.online
 cicekdunyasi.site
@@ -104523,6 +104533,7 @@ codicil.vcdfcx.net
 codinggenius.lat
 codingoffensive.duckdns.org
 codoozmdkn.duckdns.org
+codxefusion.top
 codxgigas.ddns.net
 coe2n9.duckdns.org
 coec.club
@@ -104545,6 +104556,7 @@ cofetimefl.com
 coffee-joy-usa.com
 coffee.ddns.me
 coffeeblue.xyz
+coffeegrammf.com
 coffeeonlineshop.azurewebsites.net
 coffeeonlineshoping.azurewebsites.net
 coffeeparameter.top
@@ -104634,6 +104646,7 @@ coinalwell-being.shop
 coinalwell-being.top
 coinalwidespread.top
 coinangelinvestor.top
+coinarky.com
 coinbacker.shop
 coinband.shop
 coinband.top
@@ -151549,6 +151562,7 @@ expositioncannon.top
 exposure475354.xyz
 expoteam.net
 expotechsupport.com
+expouav.org
 expre1ss-vezne.xyz
 expres-ty-1-o-1.com
 expres123123.zapto.org
@@ -153631,6 +153645,7 @@ fastkolaypay.com
 fastmtvpayodmxh.tk
 fastnamegenerator.com
 fastnews.biz
+fastorix.com
 fastpanelbnnance.tech
 fastpay-denizbank.com
 fastpay.one
@@ -183940,6 +183955,7 @@ hamaker.net
 hamakfirsatlari.club
 hamamamamamam4352.com
 hamamamamamama2313.com
+hamamamamamamaamama9831.com
 hamamamamamamamam9834.com
 hamamamamamamamamamam2341.com
 hamamamamamamamamamama1738.com
@@ -184447,10 +184463,12 @@ hardprotech.xyz
 hardrickkonsultg.ddns.net
 hardrkingblush.top
 hardrockofficial.com
+hardrwarehaven.run
 hardshipcenter-pw889.duckdns.org
 hardshipemulate.top
 hardshiptickle.top
 hardsuperstition.top
+hardswarehub.today
 hardtony.com
 hardwarelife.top
 hardwarestunning.top
@@ -199933,6 +199951,7 @@ hurriyet.pics
 hurriyet.us
 hurriyet.wiki
 hurriyet24news.com
+hurriyetblog.top
 hurriyetcomtr.com
 hurriyetdaily.news
 hurrocel.net
@@ -210645,6 +210664,7 @@ internet-subesi.basvurun-burada-ak.com
 internet-subesi.com
 internet-subesi.com.tr
 internet-subesiak.online
+internet-subesii.com
 internet-subesiz-giris.info
 internet-subeyapikredi.com
 internet-subeyapikredi.org
@@ -237095,6 +237115,7 @@ kromozom.id
 krompres.tk
 kron1kcheckers.cf
 kronevelure.net
+kroni-lonber.duckdns.org
 kroniekronyderevniashnkie.net
 kroningcslurkin.net
 kroninvergdmrts.net
@@ -244942,6 +244963,7 @@ lungideological.top
 lungsanction.top
 lungwort51.xyz
 lunoba.click
+lunoxorn.top
 luoisviitton.news
 luonglee.zapto.org
 luoptiny-gurtion.cyou
@@ -250912,6 +250934,7 @@ mbzbhi.duckdns.org
 mbzhit679.duckdns.org
 mc-md.com
 mc-oza.zapto.org
+mc-tr.site
 mc.commonline.space
 mc.rockylinux.si
 mc.royalefree.xyz
@@ -255515,6 +255538,7 @@ mobiextend.com
 mobiextend.com/new_website/scan/yfquir5sn1saa4_cbgkyi7q-659756898154868/
 mobigifs.xyz
 mobihaber.club
+mobihatch.com
 mobihok.net
 mobiil.online
 mobiildenbasuvurr.click
@@ -288588,6 +288612,7 @@ parniz-sahbnden.com.tr
 parniz-sahbnden.xyz
 parochialness.com
 parodim-sira12.site
+parolaparatest.softrobotics.lt
 parolearrogant.top
 parolecelebrity.top
 parolespotnet.ddns.net
@@ -300586,6 +300611,7 @@ puaysdfasiduaid.duckdns.org
 pub-002a5ca3ff47478994def295a4337c47.r2.dev
 pub-0c31eba79d384e1a966a46dc30d66ca0.r2.dev
 pub-164d8d82c41c4e1b871bc21802a18154.r2.dev
+pub-2440c5ea3d904ef785a10a8728fbb7f4.r2.dev
 pub-31a116fb226d4dfaa2004eef764a6bff.r2.dev
 pub-387efa48609e4a64bfab8ba5ddf30032.r2.dev
 pub-48d70f931b7a4d90a47cbb32937dbd40.r2.dev
@@ -302729,6 +302755,7 @@ qnbfinans-katiilimcekilisbasvurusu.com
 qnbfinans-katilim.com
 qnbfinans-katilimgirisbasvuru.com
 qnbfinans-katilimgirisbasvurusu.com
+qnbfinans-kredi.giize.com
 qnbfinans-martozelcekilisi.cf
 qnbfinans-martozelcekilisi.ga
 qnbfinans-martozelcekilisi.ml
@@ -311371,6 +311398,7 @@ roselane8.xyz
 rosemax1.cfd
 rosemerge.top
 roseprivate.duckdns.org
+roseserve.org
 roseslot.top
 rosetta.cn
 rosetta.top
@@ -324138,6 +324166,7 @@ sepetinhazir.store
 sepetini-tamamla.xyz
 sepetinindirimsezonsonu.xyz
 sepetiniz-tr.online
+sepetinizdeindirimleryapiyoruz.com
 sepetinkolay.click
 sepetinkolayda.click
 sepetler-tr.com
@@ -330642,6 +330671,7 @@ sitcorporal.top
 site-1-0-1.com.tr
 site-alisveris.online
 site-dyson.com.tr
+site-evonia.life
 site-familia.net.tr
 site-familia.org.tr
 site-giris-basvuru.online
@@ -336853,6 +336883,7 @@ spinalaspiration.top
 spinalreferee.top
 spincode.top
 spindexed.site
+spinend.com
 spinepolytechnic.top
 spinff-gratis1.duckdns.org
 spinfreefire011.duckdns.org
@@ -345104,6 +345135,7 @@ talknitro.weebly.com
 talkto1.wordpress.com
 talktoulive.com
 talkvrjevn.duckdns.org
+talkynicer.lat
 tall-system-mics.net
 tallboy.zapto.org
 tallcareful.bazar
@@ -349464,6 +349496,7 @@ temmuz-mottoor-katalog.com
 temmuz-online.com.tr
 temmuz-onlinebasvuruaktifyapicep.vercel.app
 temmuz-oz-katalog.com
+temmuz-ozel-sakin-kacirma-sende-yakala.site
 temmuz-ozz-katlog.com
 temmuz-paketdestekleri.com
 temmuz-sn-katalog.com
@@ -364348,6 +364381,7 @@ turposti.top
 turpptgoves.life
 turptt.icu
 turptt.top
+turpttgotvs-184.shop
 turpttgov.top
 turpttgovet.shop
 turpttgovr.life
@@ -398542,6 +398576,7 @@ xn--yznz-gulduren-a1o1comtr-cpcbbb.store
 xn--zamangeldi-1ub.shop
 xn--zamantedbirsalkonemlidirweb-uwd73c.com
 xn--zbdenzbank-1ub.com
+xn--zciftcim-m4a.com.tr
 xn--zdsadsadasdsad-gjb.com
 xn--zedenzbank-1ub.com
 xn--zelgirispaparayeni-c3b.com
@@ -413215,6 +413250,7 @@ zoom2024.online
 zoom3raq7yxxv.click
 zoom5682.xyz
 zoombottin.com
+zoomlek.com
 zoommaster.life
 zoommify.com
 zoomms-info.com
