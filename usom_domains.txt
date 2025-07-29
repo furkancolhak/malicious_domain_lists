@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-29T19:05:13.665930
+# Updated: 2025-07-29T20:05:11.957968
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1730,6 +1730,7 @@
 101-27temmuzfirsat.com
 101-28temmuz.org
 101-28temmuzkcmz.art
+101-29temmuzcdr.art
 101-31mayisaksam.com
 101-31mayisfirsat.com
 101-3haziranaksam.com
@@ -19999,6 +20000,7 @@
 44000444004.duckdns.org
 441135.site
 441294.cloud
+4415413123.cloud
 44201596357.cloud
 442335com.com
 442337224.goloser.ru
@@ -97016,6 +97018,7 @@ carrefaursa.online
 carrefaursa.site
 carrefaursa.store
 carreffoueor-sa.online
+carreffouoursa.com
 carreffour-sa.online
 carreffoursa.com
 carreffoursa.online
@@ -165119,6 +165122,7 @@ garantibbvakonserv.com
 garantibbvakontrolbasvuru.com
 garantibbvakredi-sistemi.duckdns.org
 garantibbvakredi-sistemileri.duckdns.org
+garantibbvakredi.cfd
 garantibbvakredi.com
 garantibbvakredi.duckdns.org
 garantibbvakredi.ml
@@ -165149,6 +165153,7 @@ garantibbvamobilbasvuru.com
 garantibbvamobilbenimsubem.tk
 garantibbvamobilgiris.com
 garantibbvamobilgiriss.com
+garantibbvamobilkanal.cfd
 garantibbvamobils.com
 garantibbvamobils.maximumisceps.com
 garantibbvamobilsubesikazandirir.ph
@@ -184252,6 +184257,7 @@ hamamamamamamamamamam2341.com
 hamamamamamamamamamama1738.com
 hamamamamamamma8232.com
 hamamamammamama9924.com
+hamamamammamamama2345.com
 hamamammamamamam172.site
 hamamammamamamam2452.com
 hamamammamamamamammmamamama9824.com
@@ -190348,6 +190354,7 @@ hexingmumen.com
 hexlevurdugol.net
 hexnox.pro
 hexnsenmehgxs.net
+hexpanel.cyou
 hexvana.com
 hey-sen-hadi-gel-yukle-ama.blogspot.com
 heyapuy-hdewn.ddns.net
@@ -231416,6 +231423,7 @@ kehora.ddns.net
 kehoumpa.xyz
 kehralets.site
 kehregeueeenus.xyz
+kehribar.site
 keikochio.com
 keikomimura.com
 keint.net
@@ -232774,6 +232782,7 @@ kilometrenisorgulama.fun
 kilometreniziogrenin.web.app
 kilometrenizsmdican.web.app
 kilometreoline.web.app
+kilometresine.sa.com
 kilometresorglarmburdane.web.app
 kilometresorglmachp.web.app
 kilometresorgu.com
