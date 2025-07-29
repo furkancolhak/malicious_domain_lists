@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-29T08:05:12.860835
+# Updated: 2025-07-29T09:05:11.586726
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -33059,6 +33059,7 @@ a101-harcaharcabitmez.buzz
 a101-harcaharcabitmez1.sbs
 a101-harcaharcabitmez10.sbs
 a101-harcaharcabitmez2.sbs
+a101-harcaharcabitmez9.sbs
 a101-hazlranozel.xyz
 a101-hediyeceki-hergun-sinirsiz-60526.wvww-a101.com
 a101-hemenkampanya.com
@@ -41201,6 +41202,7 @@ adlitakip.org
 adliuzlasma.com
 adliye.icu
 adliye.online
+adliyecezasorgulama.org
 adliyekontrol.com
 adliyesorgu.org
 adliyetakip.org
@@ -73770,6 +73772,7 @@ bilgianalizmerkezi.com
 bilgibilisim.xyz
 bilgiborcodemeislemleriniz.duckdns.org
 bilgiborcodemeleriniz.duckdns.org
+bilgibot.info
 bilgiburada.blog
 bilgicagla.info
 bilgicblog.com
@@ -95632,6 +95635,7 @@ cafewithcraftbeer.ru
 cafezinn.ddns.net
 caffeeperme.com
 caffegclasiqwp.shop
+caffezy.com
 cafkasd2.net
 cagatay3162.zapto.org
 cagdasbursvakfi.com
@@ -103390,6 +103394,7 @@ clearanceextravagance.top
 clearbarometer.top
 clearences.xyz
 clearfocused.org
+clearhike.top
 clearingcomplacent.top
 clearingmobilize.top
 clearingsprawl.top
@@ -135139,6 +135144,7 @@ eadgkouytvn.xyz
 eadiati-turkiyegovtri.com
 eadikesghtalapurcareers.com
 eadjkbmh.com
+eadlicezasorgulama.org
 eadlres-turkiyegovtr.com
 eadres-barsvur-turkiyegovttr.com
 eadres-bsvr-turkiyegovtrtc.com
@@ -197649,6 +197655,7 @@ homenseflesafajzdansdds.cloud
 homensesleslcan.com
 homenseslfsksakhsds.cloud
 homensgleksadflesksad.cloud
+homensleft.click
 homenslerataksfleskasd.cloud
 homensnsfekfercino.cloud
 homenstlernakjzdna.cloud
@@ -203382,6 +203389,7 @@ icepsubesinde.ml
 icepsubesinde.tk
 icepteteb.co.vu
 icerike.com/wp-includes/parts_service/7w8ngwta8987mdap79_uvrx99c2-389346762330400/
+iceseri.lat
 icesignify.top
 icesmile.ddns.net
 icesulhur.top
@@ -283965,6 +283973,7 @@ pallingchi4.xyz
 palloaltonetworks.com
 palm38.xyz
 palmdeeshop.com
+palmedge.com
 palmfunplay.cn
 palmgo.at
 palmgorohive.myddns.me
@@ -318511,6 +318520,7 @@ sali-ramazan-ozel744.com
 sali-sabahi-ozel.com
 sali-siparismys.com
 sali-siparisonline.com
+sali-temmzyaz.net
 sali-workbh.com
 sali101.icu
 sali1stn0krapp1sgn.com
@@ -340025,6 +340035,7 @@ streamlith.site
 streamloft.site
 streammobs.com
 streamparameter.top
+streamsky.club
 streamturk.fun
 stredenpintal7.sistemapreparatorio.io
 stredential7.sistemaaproparatorio.io
@@ -341092,6 +341103,7 @@ subemziraatbank.site
 subemziraatbank.xyz
 suben-firsatlar-halk-kobi.com
 suben-halk-paraf-firsat.com
+subende.click
 subengarantiden.co.vu
 subenikatilim.ga
 subeniz-denizbank.com
@@ -364526,6 +364538,7 @@ turptt.icu
 turptt.top
 turpttgotva184.shop
 turpttgotve184.shop
+turpttgotvn184.shop
 turpttgotvs-184.shop
 turpttgov.top
 turpttgoves.shop
@@ -381280,6 +381293,7 @@ wealthconsultant.my
 wealthfinancials.online
 wealthkogd.hopto.org
 wealthleaderinc.com
+wealthmanager.my
 wealthory.bond
 wealthpath.sbs
 wealthua.com
@@ -405038,6 +405052,7 @@ yenisupercep.pro
 yenisuperceps.pro
 yenisurec-sosyalhizmet.xyz
 yenitcmmbiad-esistemi.com
+yenitekflis-buradsa-aldin-aldin.store
 yeniteslasahibiol.net
 yeniticaret.xyz
 yenitrednler.online
