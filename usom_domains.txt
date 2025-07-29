@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-29T15:05:11.898970
+# Updated: 2025-07-29T16:05:12.850884
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1514,6 +1514,7 @@
 1.252.62.131
 1.255.85.176
 1.80.218.75
+1.asvufw.workers.dev
 1.download765.online
 1.indexsinas.me
 1.lusyn.xyz
@@ -8328,6 +8329,7 @@
 17xdyc.duckdns.org
 17ymv8.duckdns.org
 18-219-65-232.plesk.page
+18-22-59.com
 18-subat-firsatlar.shop
 18-subat-firsatlari.shop
 18-subatfirsatlar.shop
@@ -27048,6 +27050,7 @@
 777662766.cloud
 777668005.dfgqdsd.ru
 77768com.com
+7777-202.com
 7777000010001.cloud
 777725333325.cloud
 77774252477.cloud
@@ -28948,6 +28951,7 @@
 87-248-157-101.plesk.page
 87-248-l57-l0l.plesk.page
 87-77777-7777.cloud
+87-899.help
 87.10.220.221
 87.104.119.154
 87.106.139.101
@@ -41750,6 +41754,7 @@ adultmovie-saku.com
 adultpcz.xyz
 adultprizes.xyz
 adulvwixq.in
+adumktsa.workers.dev
 adupree.com//db-config-ini.php
 adupree.com//db_template.php
 adupree.com/db-config-ini.php
@@ -55444,8 +55449,13 @@ app-comunitas-standars.duckdns.org
 app-confrim-check.duckdns.org
 app-confrim-page.duckdns.org
 app-cucoin.webflow.io
+app-desktop-download.com
+app-desktop.com
+app-desktops-downloads.com
+app-desktops-pc.com
 app-dimensiona.s3.sa-east-1.amazonaws.com
 app-dolap.com
+app-downloads-desktops.com
 app-downloads.org
 app-e.request.unlock-service.accounts.service-verification.site
 app-elektraweb.com
@@ -55490,6 +55500,11 @@ app-pandemic.com
 app-pandemisosyaldestek.com
 app-pandemisosyaldestek.tc
 app-parker.com
+app-pc-desktops.com
+app-pc-download.com
+app-pc-downloads.com
+app-pc-windows.com
+app-pc.com
 app-pstacnnect.online
 app-purchases.hopto.org
 app-reactivationappleid.com
@@ -55519,6 +55534,7 @@ app-updater2.app
 app-vodafonered.com
 app-w101.com.tr
 app-wallet.hopto.org
+app-windows.com
 app-yapifirsatim.click
 app-yenis.herokuapp.com
 app-yk.xyz
@@ -55976,6 +55992,15 @@ apps---itrustcapital-com-auuth.webflow.io
 apps-account-disable-locked.com
 apps-accounts.zapto.org
 apps-analyser.com
+apps-desktop-download.com
+apps-desktop-downloads.com
+apps-desktop.com
+apps-desktops-download.com
+apps-desktops-downloads.com
+apps-desktops-pc.com
+apps-download-desktops.com
+apps-downloads-desktop.com
+apps-downloads-pc.com
 apps-informations.zapto.org
 apps-io-robinhood-comauth.webflow.io
 apps-ios.net
@@ -55987,6 +56012,8 @@ apps-outlierventures.com
 apps-paribu.cf
 apps-paribu.ml
 apps-paymentstore.ddns.net
+apps-pc-download.com
+apps-pc-downloads.com
 apps-phantom--com---aauth.webflow.io
 apps-signinwebamz.zapto.org
 apps-storinvoiconfirm.duckdns.org
@@ -60038,6 +60065,7 @@ asvizerandevualcom55.cf
 asvizerandevualcom6.cf
 asvizerandevualcom9.cf
 asvsdfsdfsd.click
+asvufw.workers.dev
 asw-kontto.hopto.org
 asw.animegogofilms.info
 asw22w.is-best.net
@@ -109374,6 +109402,7 @@ csfkrafeajio.duckdns.org
 csfmbnvhdg.site
 csfwfoxoffteam.zapto.org
 csgcpsmkzh.com
+csgo-play-de.com
 csgo7777.hopto.org
 csgocheat.hopto.org
 csgofail.000webhostapp.com
@@ -119901,11 +119930,20 @@ deskoftvturk.net
 deskpaypal.com
 deskservice8.duckdns.org
 desktecmexico.com
+desktop-app-download.com
+desktop-app-pc.com
+desktop-apps.com
+desktop-downloads.com
+desktop-pc-download.com
 desktop-tradingview.net
 desktop-tradingview.org
 desktop32.zapto.org
 desktopconstrain.top
 desktophostage.top
+desktops-download-app.com
+desktops-download-pc.com
+desktops-downloads-app.com
+desktops-pc-download.com
 desmalazooor.cyou
 desmkedltd.online
 desnnprcedntd.top
@@ -125455,6 +125493,7 @@ dockclock.pro
 dockeeperweb.com
 dockerupdate.anondns.net
 dockinvert.top
+dockmilk.com
 docmtquvwfbr.info
 docnethdt.ddns.net
 docns.com
@@ -127045,14 +127084,24 @@ downgradetrickle.top
 downhaote5.91tzy.com
 downhemfoso.com
 downlaod.xiaocen.com
+download-app-pc.com
+download-apps-desktop.com
+download-apps-pc.com
+download-apps-windows.com
 download-binance.online
 download-cdn.com
 download-dep-files-pro-n128.xyz
+download-desktop.com
+download-desktops-app.com
+download-desktops-pc.com
+download-desktops.com
 download-file.duckdns.org
+download-pc-app.com
 download-plugin.co.za
 download-plugins.co.za
 download-tradingview.net
 download-tradingview.org
+download-windows-desktops.com
 download.98aicode.com
 download.asiasoftnet.com
 download.asyncfox.xyz
@@ -127097,7 +127146,16 @@ downloadnature.com
 downloadnature.space
 downloadnulled.pw
 downloadrezerves.ru
+downloads-app-pc.com
+downloads-app.com
+downloads-apps-windows.com
+downloads-apps.com
+downloads-desktop-windows.com
+downloads-desktop.com
 downloads-links.com
+downloads-pc-desktop.com
+downloads-windows-app.com
+downloads-windows-apps.com
 downloads.flashplayerup.com
 downloads.softupdate-online.top
 downloads.trendav.vip
@@ -127788,6 +127846,7 @@ dryve.ae/db-config-ini.php
 drz-3000tl-pndmidstk.ml
 drzapato.xyz
 drzfhxrh1.duckdns.org
+drzjpnod-97b.workers.dev
 ds-aksb-a.likescandy.com
 ds-tech-docs.com
 ds.vdcvn.com
@@ -151573,6 +151632,7 @@ experienceddeplore.top
 experiencepatriotic.top
 experiencevolatile.top
 experiment.pw
+experimental-tech.com
 experimentalclearing.top
 experimentalideas.today
 experimentaloffset.top
@@ -151823,6 +151883,7 @@ exteriorzoom.top
 extermas.at
 extern.espabit.com
 external-quantity.at.ply.gg
+external-sex.com
 externalaesthetic.top
 externalcapsule.top
 externalclient.ru/assets/files/loaders/skype.exe
@@ -156821,6 +156882,7 @@ firerat.ddns.net
 firestormman.ddns.net
 firetypofer3.xsl.pt
 fireup.xyz
+firewall-813.com
 firewall82.ddns.net
 firewallsupports.com
 firewitches.com
@@ -160170,6 +160232,7 @@ fontemezhaliyikamacilardeniz.site
 fontshown.com
 fonvedestekvakfi.net
 fonwa5i5.duckdns.org
+foo-foo.bar
 food-tips-blog.online
 food235.xyz
 foodandcot.com
@@ -168637,6 +168700,7 @@ genteatsss.com
 gentexman37.xyz
 gentilesis.com
 gentle-dasik-cf337a.netlify.app
+gentle-firefly-9577.asvufw.workers.dev
 gentleappendix.top
 gentlebouncer.top
 gentlecompartment.top
@@ -169996,6 +170060,7 @@ ggnx1best.blogspot.com
 ggooleauth.xyz
 ggplay2d33.ddns.net
 ggpxmvlsxpsp.me.uk
+ggr-lach.com
 ggrantibbva.com
 ggrat.ddns.net
 ggrbnsstjfasfsa.com
@@ -175445,6 +175510,7 @@ growyourwealth.cf
 groz-toolz.com
 groznog-roomner.net
 grp08gw.duckdns.org
+grpc-test.me
 grplkb.com
 grpoq.duckdns.org
 grpotrglnalinkcrmdnglngln.com
@@ -185325,10 +185391,12 @@ hastrama.com
 hastycommend.top
 hastyepoch.top
 hasucuztaksi.com
+hasv.pages.dev
 hasyhyrkd.online
 hasznositom.honlapom.com
 haszwqasykleme.net
 hat-cast.com
+hat-kett.com
 hat-tasima.com
 hataliysamara.store
 hataliysamara.tech
@@ -243048,6 +243116,7 @@ lllrbgpc.xyz
 llltttrmbllonllineisllemmenugiris.net
 lllxmrdavss.net
 lllyyy.adsoft.name
+llm-0014.com
 llmhlmdgjdq.net
 llndrm-klmmaalar.com
 llndrmdstrdeeguncel1.com
@@ -243477,6 +243546,7 @@ locaal.navybd-gov.info
 local-agreeable-parrotfish.glitch.me
 local-ak-basvuru.com
 local-invest.info
+local-mailer.com
 local-subsidy.com
 localactivate.top
 localaid.co
@@ -244435,6 +244505,7 @@ lovekxa.com
 lovelove-19.com
 lovelovelove.ddns.net
 loveloves19.com
+lovely-race.com
 lovelycredibility.top
 lovelyfabrication.top
 lovelyiuguration.top
@@ -245025,6 +245096,7 @@ luhpbinhsb.duckdns.org
 luigicafagna.it
 luindica.ga
 luio.ddns.net
+luiowitz.cfd
 luis-dubuque.in
 luisbien.club
 luisbob457.xyz
@@ -283655,6 +283727,7 @@ pahostweb.ga
 pahostweb.gq
 paiairdrop.com
 paiancil.com
+paid-rewards.lol
 paidresolutions.ddns.net
 paidresolutionss.ddns.net
 paidsolutionalerppr.ddns.net
@@ -290076,6 +290149,19 @@ pbylys-identificat.duckdns.org
 pbywtjfo.com
 pbzk81v1.duckdns.org
 pbzwsgdzcz.duckdns.org
+pc-app-desktops.com
+pc-app-download.com
+pc-app-downloads.com
+pc-app.com
+pc-apps-download.com
+pc-apps-downloads.com
+pc-desktops-apps.com
+pc-download-app.com
+pc-download-desktop.com
+pc-download-desktops.com
+pc-downloads-app.com
+pc-downloads-desktop.com
+pc-downloads.com
 pc15euj.duckdns.org
 pc34hu.duckdns.org
 pc3hxb9.duckdns.org
@@ -291252,6 +291338,7 @@ pff2.xyz
 pffd4dy.xyz
 pffdaayvkh.duckdns.org
 pffeazzzjo.duckdns.org
+pffffer.icu
 pfgcr.onestevur.ru
 pfgdbmjutr.duckdns.org
 pfgeep.ddns.net
@@ -295538,6 +295625,7 @@ printinghub.co.za/db-config-ini.php
 printlogz.com
 printnarrow.top
 printpoke.top
+printscreen.lol
 printystore.com.pe
 priorambiguity.top
 priorconduct.xyz
@@ -301962,6 +302050,7 @@ qc650i.duckdns.org
 qc804890.duckdns.org
 qc8q71t.duckdns.org
 qcamper.com
+qcaqnzvt.workers.dev
 qcbievsj.info
 qcdgwjhs.com
 qcdstipetip.site
@@ -305078,6 +305167,7 @@ r1u.us
 r1xa42lh.duckdns.org
 r1y.ddns.net
 r2.dev
+r2.ohyoulookstupid.win
 r2.panjo.club
 r2.styleapp.info
 r22hs8nk7.duckdns.org
@@ -309755,6 +309845,7 @@ resolutionerma.duckdns.org
 resolvabb.com
 resolve-address.ddns.net
 resolve-limitations.com
+resolve-ns.pages.dev
 resolve-policy.zapto.org
 resolve586.xyz
 resolveaccount.hopto.org
@@ -312424,6 +312515,7 @@ runp.duckdns.org
 runrun.ayaksrg5lira5lira.net
 runssnetworks.com
 runstatistics.net
+runt.monster
 runtime.heroisshit.com
 runtimebroker.ddns.net
 runtimegtk.duckdns.org
@@ -320484,6 +320576,7 @@ schemics.club
 scheta.site
 schetdigit.pics
 schicsima.mentrypsi.ru
+schilllr.icu
 schinkerbyw.cfd
 schjtx.com
 schlengers.com
@@ -338062,6 +338155,7 @@ squadcontemplative.top
 squadcounteract.top
 squadx.hopto.org
 squaerkip.net
+square-lake-8a43.qcaqnzvt.workers.dev
 squareauction.top
 squarebasket.top
 squaredress.top
@@ -342708,6 +342802,7 @@ supermob.network
 supermobilliscepgirisllemenu.online
 supermsdfj.duckdns.org
 supernalpig.weebly.com
+supernegro.mom
 supernet-2939.ddns.net
 supernetbasvuru.com
 supernews.instanthq.com
@@ -346187,6 +346282,7 @@ tayinelproje.com
 tayipakbilistibb.net
 taykky54.duckdns.org
 taylankayagez.net
+taylor-convert.com
 tayoto.top
 tayoverify.ddns.net
 taypaaydomv2.pro
@@ -350587,11 +350683,13 @@ tessngabberrrr.duckdns.org
 tesss346.duckdns.org
 test-1627838.shop
 test-2.zapto.org
+test-ex-1.pages.dev
 test-hacking.ddns.net
 test-hgs.org
 test-host.zapto.org
 test-scama007.ddns.net
 test.agressivex.com
+test.asvufw.workers.dev
 test.barakapress.cfd
 test.brosecure360.com
 test.doctorsordersltd.co.uk
@@ -352377,6 +352475,7 @@ timezone-update.duckdns.org
 timide.zapto.org
 timidelectoral.top
 timidinventory.top
+timing-kings.com
 timingextraction.top
 timingpredominate.top
 timkeen.ddns.net
@@ -365571,6 +365670,7 @@ twio-parl-rcmlend99112.duckdns.org
 twist246.xyz
 twist2katz.com
 twist4365.xyz
+twisted.mom
 twistedcometrat.ddns.net
 twistgrow.top
 twistlubrication.top
@@ -376719,6 +376819,7 @@ vertia-zcea001.info
 vertia-zsacea001.com
 vertia-zsacea001.giving
 vertia-zsacea001.xyz
+vertical-scaling.com
 verticalactivate.top
 verticalstatutory.top
 vertify-agency-dos.com
@@ -385366,6 +385467,7 @@ windows-app.ddns.net
 windows-com.duckdns.org
 windows-come.duckdns.org
 windows-defender-update.duckdns.org
+windows-downloads-app.com
 windows-drive20.com
 windows-gaming.ddns.net
 windows-india.in
@@ -385692,6 +385794,7 @@ wislerwr.sg-host.com
 wislerwr1.sg-host.com
 wislyytest.ddns.net
 wispields.ml
+wispy-field-a970.adumktsa.workers.dev
 wisqkncx.duckdns.org
 wissamfc.zapto.org
 wissowisso.ddns.net
@@ -385865,6 +385968,7 @@ wkby.cc
 wkcov284.duckdns.org
 wke9c2ebsdoe15.com.de
 wkeaiys.com
+wkegibkjntqejdk.workers.dev
 wkeqweasxa.click
 wkgmavbildiri.sbs
 wkgrsavbilgi.sbs
