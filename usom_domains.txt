@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-29T07:05:16.107114
+# Updated: 2025-07-29T08:05:12.860835
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -33057,6 +33057,8 @@ a101-harcaharca-bitmez.duckdns.org
 a101-harcaharca.net
 a101-harcaharcabitmez.buzz
 a101-harcaharcabitmez1.sbs
+a101-harcaharcabitmez10.sbs
+a101-harcaharcabitmez2.sbs
 a101-hazlranozel.xyz
 a101-hediyeceki-hergun-sinirsiz-60526.wvww-a101.com
 a101-hemenkampanya.com
@@ -85208,6 +85210,7 @@ bluepirenti.site
 blueprint-dsg.com
 blueprintcourtesy.top
 blueridgebedracks.com
+blueridgemfb.it.com
 blueriiver-eu.com
 blues-man.zapto.org
 bluesaccontverfly.com
@@ -112337,6 +112340,7 @@ dartcurtail.top
 dartkom22.ddns.net
 dartproximity.top
 dartspeak.xyz
+daruaji.info
 darvien99lakoustr01.duckdns.org
 darwin22.ddns.net
 darwoik.pics
@@ -232527,6 +232531,7 @@ kilometrevehasarcom.shop
 kilometrevehasarkaydi.autos
 kilometsgorulari.xyz
 kilommetreshemnnpttgovavm.duckdns.org
+kilommetreshemnnpttgovavvm.duckdns.org
 kilommetreshemnpttgovavm.duckdns.org
 kilomtrehizlisorguchp.xyz
 kilomtremonlinesorglma.web.app
@@ -251658,6 +251663,7 @@ medishelps.xyz
 medisonsteeltech.com
 medisx.com
 mediterpourgrandir.com
+mediterraneanlife.space
 meditiayakkabi.com
 meditigiyim.com
 meditivika.net
@@ -256427,6 +256433,7 @@ mobilden-basvurum.duckdns.org
 mobilden-edvlt-kartlari-iadeler.ml
 mobilden-sube.com
 mobilden.site
+mobilden2025.duckdns.org
 mobildenbasvur.com
 mobildenbasvuru.com
 mobildenbasvurudagitimhediyesi-paribu-com-tr.tk
@@ -258362,6 +258369,7 @@ mohammedxxx12345.zapto.org
 mohd1.ug
 mohd2.ug
 mohdirinho.zapto.org
+mohgenewtr.info
 mohidine788.ddns.net
 mohinix.xyz
 mohlameniysedcomres.site
@@ -282722,6 +282730,7 @@ ozelyenilikler.xyz
 ozelyildizliurunlertr.net
 ozelyildrimvkf.org
 ozelyilsonu-kampanyalari-birey-basvuru.ml
+ozenirleramacozemezler.cfd
 ozeniyorlar-ama-cozemezler.net
 ozenleyukle.sg-host.com
 ozeozel-ihtiyaclarile.net
@@ -291427,6 +291436,7 @@ photomoa.co.kr
 photonstormvrqzmk2.click
 photophobous.com
 photoserv10.info
+photosynthiq.com
 photowholesale.top
 php-soil.at.ply.gg
 php.tripadvisorsapp.com
@@ -340826,6 +340836,7 @@ subecetelemkredicepteb.co.vu
 subecikatilim.ga
 subeciniz-gov-tr.online
 subedemizde.za.com
+subedemizden.click
 subeden-basvr.click
 subeden-garantibank.com
 subeden-halkbank.com
@@ -351406,6 +351417,7 @@ thetrevexa.shop
 thetriningtan.com
 thetrixandlunashow.net
 thetry.ddns.net
+thettrex.top
 thetupaus.com
 theturkeyplatform.com
 theturkiyem.com
@@ -360923,6 +360935,7 @@ tryardimvakifhizmetleriniz.org
 tryatirimhalkbank.com
 tryatirimhalkbankk.com
 tryatirimofisi.com
+tryatra.com
 tryazhazransenlikfirsat-giris.xyz
 trybmailev.ddns.net
 trycloset.top
@@ -362781,6 +362794,7 @@ turkeyuzyilisendekatil2023.com
 turkeyuzyilisendekatmayis2023tc.com
 turkeyuzyilisendektl-2023mayistr.com
 turkeyuzyilisndekatil2023.com
+turkeyvibor.com
 turkeywealthinfo.info
 turkeyweb.ga
 turkeywebside.xyz
@@ -364510,6 +364524,8 @@ turposti.top
 turpptgoves.life
 turptt.icu
 turptt.top
+turpttgotva184.shop
+turpttgotve184.shop
 turpttgotvs-184.shop
 turpttgov.top
 turpttgoves.shop
@@ -368399,6 +368415,7 @@ uq3eej.duckdns.org
 uqamkpjgwa.duckdns.org
 uqauv.cn
 uqb4fj.duckdns.org
+uqbpjqtb.info
 uqbws.duckdns.org
 uqcciyxrfijvpqi.su
 uqd9hz.duckdns.org
@@ -368511,6 +368528,7 @@ ureticidentamzamani.xyz
 ureticidentermosal.xyz
 ureticidentuketiciye.xyz
 ureticisatisplatformu.xyz
+ureticisecalisver.xyz
 ureticisepeti.xyz
 uretimdendirekt.com
 uretimdendirekt.xyz
@@ -372884,6 +372902,7 @@ vakifkatilimumre.com.tr
 vakifkatilimumrehediye.com
 vakifkatilimumren.com
 vakifkatilmonline.com
+vakifkatlim.com
 vakifkazanc.xyz
 vakifkazandirir.byethost17.com
 vakifkazandiriyor.com
@@ -380897,6 +380916,7 @@ waveescape-head.com
 wavefinderz.com
 wavekli.xyz
 wavelifa.net
+wavelinez.com
 wavenavigation.top
 wavewatcherhealth.com
 wavkms12x.net
