@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-29T21:05:14.126552
+# Updated: 2025-07-29T22:05:12.812034
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -129888,6 +129888,7 @@ e-bimmcelll.com
 e-bimsanalmarket.com
 e-bimscell.net
 e-binance-service.net
+e-binancetr.com
 e-biode.net
 e-birey-basvuru-aidat-iade-platform-ozel.xyz
 e-birey-basvuru-aidat-iade-platformu-ozel.xyz
@@ -158167,7 +158168,9 @@ firsatlarcuzdani.online
 firsatlarczdn.com
 firsatlarda-buhafta.net
 firsatlardabuhaftaninyildizlari.xyz
+firsatlardakiindirimlerdebugunler.cfd
 firsatlardakiindirimlerdebugunler.click
+firsatlardakiindirimlerdebugunler.sbs
 firsatlardanhaberdarol.online
 firsatlardanyararlan-a101.site
 firsatlardasoncare.cfd
@@ -167215,6 +167218,7 @@ gaymaghalicilarsitesi.net
 gaymeetingsinrussia.ru
 gaymeneshaseresgomes.net
 gaynemonesdencenes.site
+gayrimenkulsertifika.com
 gayrimesrusal.online
 gayserihaseresonilaclama.net
 gaysescons.site
@@ -231956,6 +231960,7 @@ kerinpass.ddns.net
 kerisanter.biz
 kerivo.click
 keriyer.net
+kerkean.kmpnynzbrd.com
 kermane.online
 kermansarax.app
 kermo.pw
@@ -337806,6 +337811,7 @@ sponsorlubsvru.xyz
 sponsorlubsvru1.xyz
 sponsorlubsvru2.xyz
 sponsorlubsvru4.xyz
+sponsorlucliks.cfd
 sponsorluduyuruservisi.net
 sponsorlugiris-9519238123.com
 sponsorlugiris-994728532.com
@@ -353952,6 +353958,7 @@ tofiopmoubjionean.hopto.org
 toftanretrom.com
 toftsitfisu.com
 tog-onbasvuru.com
+tog2025vip.duckdns.org
 togaktog.strangled.net
 togastand.zapto.org
 togbasvuru.net
