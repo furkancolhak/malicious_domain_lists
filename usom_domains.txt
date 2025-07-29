@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-29T14:05:14.739761
+# Updated: 2025-07-29T15:05:11.898970
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2215,6 +2215,8 @@
 101haftaninyildzlaricomtr.vercel.app
 101hamaza.com
 101harcaharcabitmez2.online
+101harcaharcabitmezfirsatlariburda.cfd
+101harcaharcabitmezfirsatlariburda.click
 101harcaharcabitmezfirsatlariburda.my
 101hediyehemenalhizli.xyz
 101hemen.24subabbs.click
@@ -23518,6 +23520,7 @@
 58.64.193.166
 58.64.209.83
 581123719.site
+581518759128421421.space
 58176-coinbase.com
 581t5010mnunm07pyxc.ddns.net
 582366115.dfgqdsd.ru
@@ -29038,6 +29041,7 @@
 8775.site
 877533213123.cloud
 877878777.duckdns.org
+87855-78784-45-455-5122-221-8845.com.tr
 87855-78784-45-455-5122-221-8845.xyz
 8787.hopto.org
 8787478324324.space
@@ -41031,6 +41035,7 @@ adfte.icu
 adfwefewf.duckdns.org
 adg516adg65ad1.net
 adgbrlttsggduhnaa.org
+adgiadgiadgiadgiadgi.cfd
 adgjm110.ddns.net
 adgsq3g3gasdg.com
 adgszzvzzgzzzzzzzzzz.space
@@ -52416,7 +52421,6 @@ always-beauty.ch/db_template.php
 alwaysascendance.top
 alwaysckain.com
 alwaysconsole.top
-alwaysdata.net
 alwaysgoodidea.com
 alwaysinbusiness.xyz
 alwaysp.com
@@ -53198,6 +53202,7 @@ amtposti.top
 amtrusjanbdah.duckdns.org
 amtvhvurdumv.org
 amuhgsotoylgcststmo.duckdns.org
+amuletofstr.xyz
 amumuem.hopto.org
 amumumfdg.hopto.org
 amuseappraise.top
@@ -59455,6 +59460,7 @@ asigidsksakgdfshkssakhsaf.icu
 asigidsksakgdfshkssakwkfqksaf.cfd
 asigidsksakgdfshkssakwkfqksaf.cyou
 asigidsksakgdfshkssakwkfqksaf.icu
+asigidsksakgdfshksssafkkgkasf.sbs
 asigidsksakgdfshksssafkkgshfdgs.cyou
 asigimsanaa.net
 asiglaaklfaafadfkodsgw.icu
@@ -71667,6 +71673,7 @@ belowtireddutchcopy.com
 belpost-by.lol
 beltclog.top
 beltglacier.top
+beltofcurse.xyz
 beltturkey785.com
 beltweasel.top
 belvasports.com//db_template.php
@@ -90524,6 +90531,7 @@ brsakrtnexts.net
 brsemrglrd.net
 brsevsel-bbwaabasvru.net
 brsevsel-bbwabasvru.net
+brsfrstlrbrda.duckdns.org
 brsizm.ltd
 brslira.com
 brsqnlkzxv.duckdns.org
@@ -122970,6 +122978,7 @@ dijitalbasvurudenizbankgiris.co.vu
 dijitalbasvurugiris-denizacik.com
 dijitalbasvuruhizli-denizacik.com
 dijitalbasvurular-ziraat.com
+dijitalbasvurular-ziraatmobilweb.com
 dijitalbasvurularim.online
 dijitalbasvurularmobil-ziraat.com
 dijitalbasvurularweb-ziraat.com
@@ -145086,6 +145095,7 @@ eningeorg.ddns.net
 enionlinesistemler.com
 enis2.space
 enisemol.click
+enisiyansxallrlslxrllxlrmsrm.site
 enistenbr65.com
 enistenbr650x.com
 enisteskm67.com
@@ -146328,6 +146338,7 @@ enx-ynixxffffaixi-frstlarbrdxa.xyz
 enx-ynixxixi-frstlarbrdxa.xyz
 enx-ynizzixi-frstlarbrdxa.xyz
 enx-ynxfffigixi-frstlarbrdxa.xyz
+enxisiyndmrlsmxlrmdmfrm.click
 enxixndrmxlrxmbxunlrxmxbn.sa.com
 enxixndrmxlrxmbxunlrxmxbn.za.com
 enxiyindrmlrmbnlr.click
@@ -189988,6 +189999,7 @@ herzamansizlerl-kamp-teklfiler.shop
 herzamansizlerl-kamp-teklfiler.store
 herzamansizlerleyiz-biance-cekilisleri.net
 herzamanyukle.sg-host.com
+herzamn-dnirm-firsatlari-burdas.com
 herzamn-pandemi.cf
 herzamnaiadelericinyil2023.net
 herzamnheryrdebnlarkarsnizackar.shop
@@ -225876,6 +225888,7 @@ kampanayadasongunn.icu
 kampanayalardasonsaatler.cfd
 kampanayalardasonsaatler.icu
 kampanayalardasonsaatler.my
+kampanayalradasongunlerinyeri.icu
 kampanaykardaburadabak.cfd
 kampanaykardaburadabak.icu
 kampanaylardasoncare.my
@@ -318632,6 +318645,7 @@ salesonline2021.ru
 salespaul.hopto.org
 salesumishcn.ddns.net
 saletrendyol.com
+salfirstmzlarmiz12351.com
 salgibmtxyx.net
 salgindesteginiz.ml
 salgindestek.ml
@@ -363132,6 +363146,7 @@ turkishsikke.xyz
 turkishtekstil.com
 turkishtrustbank.com
 turkishyatirim.pro
+turkishyatirimtrade.com
 turkishyatirimtrader.com
 turkislambiv.net
 turkislamdevletleri.site
@@ -364708,6 +364723,7 @@ turpttgotvea184.shop
 turpttgotves184.shop
 turpttgotvn184.shop
 turpttgotvs-184.shop
+turpttgotvsa.shop
 turpttgotvt184.shop
 turpttgov.top
 turpttgoves.shop
@@ -386794,6 +386810,7 @@ wqrtew-bberw-rh-rb-w-wr.site
 wqrtqwtyyqqq.click
 wqrw-wrew-qwewq.space
 wqrwasfasf.click
+wqsaede3q2w1.za.com
 wqssfqqwe.sbs
 wqssmsphwh.in
 wqtbmn.com
