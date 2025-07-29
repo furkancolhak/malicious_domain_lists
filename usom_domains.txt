@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-29T16:05:12.850884
+# Updated: 2025-07-29T17:05:12.832667
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2187,6 +2187,7 @@
 101firsatlari.duckdns.org
 101firsatlari.online
 101firsatlaribugun.hopto.org
+101firsatlarigirisadresi.my
 101firsatlarim.shop
 101firsatlarkapinda.com
 101firsatlaronline.xyz
@@ -2218,7 +2219,10 @@
 101harcaharcabitmez2.online
 101harcaharcabitmezfirsatlariburda.cfd
 101harcaharcabitmezfirsatlariburda.click
+101harcaharcabitmezfirsatlariburda.icu
+101harcaharcabitmezfirsatlariburda.lat
 101harcaharcabitmezfirsatlariburda.my
+101harcaharcabitmezfirsatlariburda.sbs
 101hediyehemenalhizli.xyz
 101hemen.24subabbs.click
 101hemen.26sarantarz.click
@@ -41682,6 +41686,7 @@ adsepartsdmental.work
 adserver-32.zapto.org
 adserver4.com
 adservices.gr.com
+adsfadsfasd.duckdns.org
 adsfdaisgiadsgidasghi.cfd
 adsfiadgfiadgiadgia.cfd
 adsfkjdasmgldagfidag.cfd
@@ -43494,6 +43499,7 @@ ai-nude.pro
 ai-pttgov.top
 ai-sentence-rewriter.com
 ai-smart.website
+ai-sso.com
 ai-techno.xyz
 ai-usmcapital.click
 ai-usmcollective.click
@@ -50807,6 +50813,7 @@ alianzsigorta.net
 aliart.nl
 aliart.nl/db_template.php
 aliart.nl/wp-config-ini.php
+aliasintelligence-sso.com
 aliawais.zapto.org
 aliba-viene.shop
 alibaba-t.com
@@ -51701,6 +51708,7 @@ allyl93.xyz
 allyouforever.buzz
 allysonroche.com
 allyswap.top
+alm.gg
 alm0jfj.duckdns.org
 alma-gunu-bugun.com
 alma-gunu-bugun.shop
@@ -60021,6 +60029,7 @@ asturkmadencilik.com/inc/connection.php
 asudusupola.site
 asuhduashiduhaiusdh.ddns.net
 asuqviic.ddns.net
+asurion-sso.net
 asushost.tk
 asushotfix.com
 asusiran.com
@@ -91816,6 +91825,7 @@ budabelegedude111.xyz
 budagarnticilericin.net
 budamigoldegilki.site
 budapestjamboston.com
+budasd-kamp-teklfielr-hizli.com
 budaybu10000.com
 budcargo.net
 budcarskiralama.com
@@ -94984,6 +94994,7 @@ bysho.html-5.me
 bysoftware.services
 bytbbvahemenislem.hopto.org
 byte.inteleksys.com
+bytedance-sso.com
 byteepic.vip
 bytehub.asia
 byteplusx.digital
@@ -121571,6 +121582,8 @@ devolrdm.com
 devolta1o1.com
 devolutionrdp.com
 devonclemedverif.ddns.net
+devonindustrial-okta.com
+devonindustrial-servicedesk.com
 devonscontrol.ddns.net
 devotebuffer.top
 devoteclock.click
@@ -121780,6 +121793,8 @@ dflihdr.top
 dflihtd-giseotoyoletiket.is-best.net
 dflqaym3.duckdns.org
 dflskf34932ijds.com
+dfm-okta.com
+dfm-sso.com
 dfmc.com.cn
 dfmnkgnidkadgcd.top
 dfn3aafw.duckdns.org
@@ -123723,6 +123738,7 @@ dijorxcchk.duckdns.org
 dijtal-kampanya.net
 dijtal-kampanya.org
 dijtal-subesiz-inter.net
+dijtalbasvuru-ziraatwebmobil.com
 dijtaldenizkredionlineislem.co.vu
 dijtalislemenugirislerim.com
 dijtalislemsorgula.life
@@ -129173,6 +129189,7 @@ dzanjhcxuo.duckdns.org
 dzbbbynulh.duckdns.org
 dzbmcxzbmnk.com
 dzbxqsfxku.duckdns.org
+dzcdo3hl3vrfl.cloudfront.net
 dzeko50382.ddns.net
 dzekuutenz.duckdns.org
 dzelonline.shop
@@ -145164,6 +145181,7 @@ enisyixixndrmlrmxbuxay.xyz
 enithspark.art
 enivkfkazancligunlerdiler.net
 enixgaming.de
+enixnslrmxslrmbxnlrxms.store
 enixyiindrmxlrmxbuxay.online
 enixyindxrmlerxm.com.tr
 enixyindxrmlerxm.online
@@ -157932,6 +157950,7 @@ firsatlar-dunyasi.xyz
 firsatlar-guvenli-ode.com
 firsatlar-guvenli.com
 firsatlar-haftaninyildizlari.xyz
+firsatlar-haftasi.cfd
 firsatlar-halkbank.com
 firsatlar-harcaharcabitmez.com.tr
 firsatlar-icin-son-hafta-kacirilmicak-indirimler.com
@@ -158076,6 +158095,7 @@ firsatlarcuzdani.online
 firsatlarczdn.com
 firsatlarda-buhafta.net
 firsatlardabuhaftaninyildizlari.xyz
+firsatlardakiindirimlerdebugunler.click
 firsatlardanhaberdarol.online
 firsatlardanyararlan-a101.site
 firsatlardasoncare.cfd
@@ -168084,6 +168104,7 @@ geldikgidiyoruz2.cfd
 geldikgidiyoruz3.cfd
 geldikgidiyoruz4.cfd
 geldikgittiksimdi.com
+geldikigidiyoruz5.cfd
 geldikvegitmeyecegizdedik.com
 geldimgittim.online
 geldin-gordun-senin.com.tr
@@ -175069,6 +175090,7 @@ gribidi1.com
 gribidi2.com
 griboder.top
 gribouillefr.ddns.net
+grid-sso.com
 gridcontrolplatform.com
 gridcrowd.top
 gridoar.top
@@ -178597,6 +178619,7 @@ guzelgeleceklerimiz.org
 guzelgelecekleriniz.net
 guzelgeleceksvs.org
 guzelglckonay.net
+guzelgnlerdekllanmanzdilegiyle.shop
 guzelgunhalkparaf.cf
 guzelgunhalkparaf.ml
 guzelgunhalkparaf.tk
@@ -178814,6 +178837,7 @@ gvnxalsvrs.online
 gvnxalsvrs.xyz
 gvnxlclliiodmlrrrr.net
 gvofjlzdy.com
+gvonpttg.cfd
 gvrclboa.duckdns.org
 gvrwewbak.xyz
 gvs.com.pk/font-awesome/db-config-ini.php
@@ -190068,6 +190092,7 @@ herzamansizlerl-kamp-teklfiler.store
 herzamansizlerleyiz-biance-cekilisleri.net
 herzamanyukle.sg-host.com
 herzamn-dnirm-firsatlari-burdas.com
+herzamn-dnirm-firsatlari-burdas.store
 herzamn-pandemi.cf
 herzamnaiadelericinyil2023.net
 herzamnheryrdebnlarkarsnizackar.shop
@@ -197961,6 +197986,7 @@ homesssless.online
 homesstlerses.com
 homesstlersesass.com.tr
 homestberske.com
+homesterkes.cloud
 homesterlers.com.tr
 homesthorjax.com.tr
 homestinucelas.com
@@ -199086,6 +199112,7 @@ hrsy-xmn-nrda.duckdns.org
 hrsy-ygn-brdaaaa.duckdns.org
 hrsy-ygn-rda-gll.site
 hrtdgfbccwpk.space
+hrtests.ru
 hrtgws.top
 hrtzavbilgi.sbs
 hruner.com
@@ -210716,6 +210743,7 @@ intermot.lol
 internal-liveapps.online
 internal-login.ddns.net
 internal-server.nextera.capital
+internal-servicedesk.com
 internal.daiwa.ventures
 internal.usncet.org
 internal.videoservicesxvid.com
@@ -215378,6 +215406,7 @@ isrttyuklee.net
 iss-b2frsstr.sbs
 iss-bb3frst.sbs
 iss-bffrsttlr.sbs
+iss-servicenow.com
 iss4-bfrs7lr.xyz
 iss8-bfrssttlrr.sbs
 issa19900.ddns.net
@@ -226508,6 +226537,8 @@ kampanyada.hofmannplus.com
 kampanyada.sbs
 kampanyadabuay.com.tr
 kampanyadabuay.xyz
+kampanyadakifirsatlaringunu.cfd
+kampanyadakifirsatlaringunu.icu
 kampanyadakifirsatlaringunu.sbs
 kampanyadakiler.xyz
 kampanyadanalisveris.com
@@ -227506,6 +227537,7 @@ kampanyasonutemuz.com.tr
 kampanyasonutemuz.online
 kampanyasonutemuz.xyz
 kampanyasorgu2022.com
+kampanyasorgula.com
 kampanyasorgulama2022.com
 kampanyasorgulamaaraclaribinanceyenikampanyalar.net
 kampanyasorgulamalariekimayibasvurulari.net
@@ -253644,6 +253676,7 @@ mgauhbxrso.duckdns.org
 mgav56.xyz
 mgavbhgs.nichesite.org
 mgaxrmyttu.duckdns.org
+mgb-servicedesk.org
 mgbic9pz.duckdns.org
 mgbless.in
 mgbnicxrrn.duckdns.org
@@ -254040,6 +254073,7 @@ microsoftnet2.hopto.org
 microsoftnetwork.hopto.org
 microsofto.ddns.net
 microsofto.duckdns.org
+microsoftoffice-login.com
 microsoftoffice.systems
 microsoftoffise.ddns.net
 microsoftonilne.cloud
@@ -263527,6 +263561,7 @@ mygov-au0.ddns.net
 mygov-au365.ddns.net
 mygov-au7.ddns.net
 mygov-redirect-verification.com
+mygov-sso.com
 mygov-userverification.com
 mygov-verify.ddns.net
 mygov0.ddns.net
@@ -266967,6 +267002,7 @@ newname.hopto.org
 newnames.press
 newnano-shel.duckdns.org
 newnano03.ddns.net
+newnewhomes.click
 newnewhost.hopto.org
 newnigerianwave.ru
 newnjazules1.duckdns.org
@@ -267367,6 +267403,7 @@ nfddftgtr.net
 nfdjfkonmfwfalhbj.net
 nfdoeq.top
 nfdssrezkhpememed.net
+nfe-bucketapk.s3.ap-southeast-1.amazonaws.com
 nfectiouscora.top
 nfeeondesise.top
 nfenotas.ddns.net
@@ -274737,6 +274774,8 @@ oksitepl.site
 oksyazilim.online
 okta-onsolve.com
 okta-ziffdavis.com
+okta.kennedywilsoninc.com
+okta.microsoftoffice-login.com
 oktacheck.it.com
 oktaymhaliyikamafabrika.site
 oktayreklamajansi.net
@@ -292313,6 +292352,7 @@ pkqont.com
 pkqqsl.com
 pkrdela.com
 pks65u.duckdns.org
+pkserverkeyfisi.xyz
 pkslabc.cn
 pksthkldssds.com
 pkt-i.blogspot.com
@@ -293377,6 +293417,7 @@ polsterhnd.top
 polsudu.site
 poluninink.ru
 polusolu.site
+polvsastsa.vercel.app
 polweruik.xyz
 poly-genz.duckdns.org
 polybreadphx.com
@@ -296082,6 +296123,7 @@ professorman.top
 professorreassure.top
 profesyonelbilisim.xyz
 profesyonelpaket.tk
+profetest.ru
 profevdeisimkani.blogspot.com
 profevdeisimkani.com
 profevdeisimkanicom-t-r.blogspot.com
@@ -318849,6 +318891,7 @@ salitrafikodeme.online
 saliuygun29.com
 saliuygunn.com
 saliyagelvatan.com.tr
+salkdjal-asndlal-asklna.icu
 salkdjal-asndlal-asklna.sbs
 salkey.zapto.org
 salkfsa-wqfas-wqfffffffaxv-vxxzxzxz.space
@@ -325317,6 +325360,9 @@ servicenavyfederalcreditunion.duckdns.org
 servicenetupdate.ddns.net
 servicenidnaver.com
 servicenow-help.com
+servicenow-moveworks.com
+servicenow-paulpace.com
+servicenow-victimname.com
 serviceorangeespace.duckdns.org
 serviceorg.ddns.net
 serviceoverview-updatesupport.duckdns.org
@@ -330673,6 +330719,7 @@ siparislerin.com
 siparislerin18in.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
+siparislerinhizlandi25temmuzda.cloud
 siparislerinhizlanir20bucukda.cloud
 siparislerinhizlanir9da.cloud
 siparislerinhizli17de.cloud
@@ -332541,6 +332588,7 @@ slmelernizanndaxc.xyz
 slmlererernizsgrelss.xyz
 slmndicd.de
 slmp1vkxajc0e0g.ddns.net
+slmrktfrstmlrmiz777frstlr.com
 slmsfixhmshwers.com
 slmsfixhmshxews.com
 slmtq.com
@@ -337884,6 +337932,7 @@ sporify.ddns.net
 sporseverlericinyeniharaketlerrehberi.xyz
 sporsorads.blob.core.windows.net
 sport-picture.com
+sport-sso.com
 sport0014.xyz
 sport219.club
 sport5427.xyz
@@ -338656,12 +338705,15 @@ sso--m-coinbasepro-cdn-auth.webflow.io
 sso--secure---robinhood-com--aauth.webflow.io
 sso-a-coinbasepro--ccdn--auth.webflow.io
 sso-account.com
+sso-accountservices.com
+sso-akb.com
 sso-auth--k-raken---com-auth.webflow.io
 sso-basvuru-btcturk.com
 sso-basvurubtcturk.com
 sso-bfcturk-pro.com
 sso-bfcturk.com
 sso-bfcturk.net
+sso-binance.com
 sso-blcturk-trxbasvuru.com
 sso-blcturk.com
 sso-bltcturk.com
@@ -338718,8 +338770,10 @@ sso-cdn-z-coinbasepro-com.webflow.io
 sso-coinbase-pro-s-sso.webflow.io
 sso-coinbasepro-auth--s-cdn.webflow.io
 sso-coinbasepro-cdn--h-auth.webflow.io
+sso-dms.com
 sso-en-coinbasepro-en-auth.webflow.io
 sso-en-trustcapital--com--aau.webflow.io
+sso-gservices.com
 sso-h-coinbasepro-cdn--auth.webflow.io
 sso-hh-coinbasepro-cdn-auth.webflow.io
 sso-hub-crypto-sso-cdn.webflow.io
@@ -338732,16 +338786,23 @@ sso-itrustcapital-com--auuths.webflow.io
 sso-itrustcapitall-logi-authh.webflow.io
 sso-itrustcapitall-logi.webflow.io
 sso-k-raken-com.webflow.io
+sso-ki.com
 sso-kraken----cdn----autth.webflow.io
 sso-lbtcturk.com
 sso-log.com
 sso-login-btcturkpro.com
 sso-m-coinbasepro---cdn-m-auth.webflow.io
+sso-nutrition.com
 sso-prokraken--cdn-auth.webflow.io
+sso-relay.com
+sso-rhisac.com
+sso-roblox.com
 sso-s-coinbasepro-cdn-h-auth.webflow.io
 sso-t--kraken-autb.webflow.io
 sso-trezur-web.webflow.io
 sso-us-itrustcapital-com-auth.webflow.io
+sso-venndigital.com
+sso-victimname.com
 sso-z-coinbasepro--cdn--u--auth.webflow.io
 sso.10yilozel-btcturkkripto.com
 sso.51y5.ne-config.51y5.ne
@@ -338757,11 +338818,14 @@ sso.btcturkripto.com
 sso.btcturkripto.net
 sso.id.kent.ac.uk.iftl.tk
 sso.mbtcturk.com
+sso.mcicrosoft.com
+sso.microsoftoffice-login.com
 sso.mobile-btcturkpro.com
 sso.wallet-btcturk.com
 sso.wallet-btcturk.pro
 sso.wallet-btcturkpro.com
 sso.web-btcturkpro.com
+sso.www-mlcrosoft.com
 sso.xn--btctuk-tib.com
 sso.xn--btcurk-rkb.com
 ssobfcturk-trxbasvuru.com
@@ -338783,6 +338847,7 @@ ssofhoseuegsgrfnu.ru
 ssoklrkmfrklfskmczzrmtm.com
 sson.dnsup.net
 ssonweb.com/sis2018/conf-template-databases-t.php
+ssoo.microsoff.net
 ssoodocsplwlebnyc.net
 ssoonfiqrsttalra.xyz
 ssoookkk-firrrstlrmmm.com
@@ -350874,6 +350939,7 @@ testscamates.ddns.net
 testscamholic.hopto.org
 testspamankontol.duckdns.org
 testss-amz.duckdns.org
+testswork.ru
 testtesthost.ddns.net
 testtesttes.azurewebsites.net
 testtesttest.com
@@ -352635,6 +352701,7 @@ tireemigrate.top
 tirelesstrickle.top
 tiremireppora.site
 tireolzkq.com
+tirerackwholesale-servicedesk.com
 tiresomes.site
 tiretsiyretmnya.site
 tireyorukmerkezi.website
@@ -364827,8 +364894,10 @@ turpttgotvt184.shop
 turpttgov.top
 turpttgoves.shop
 turpttgovet.shop
+turpttgovet.site
 turpttgovr.life
 turpttgovt.shop
+turpttgovta.shop
 turpttgovtn.shop
 turpttgovtra.shop
 turpttgovtre.shop
@@ -369876,6 +369945,7 @@ utrabbifi.com
 utrkcnbo.com
 utrnigamic.duckdns.org
 utrniwsooo.duckdns.org
+uts-servicenow.com
 utscoswopijy.info
 utsfczupoh.duckdns.org
 utsnatwfqpm45tsn76w.ddns.net
@@ -390541,6 +390611,7 @@ www-merkezbankasi-kredikarti-iade-gov.tk
 www-merkezbankasi.ga
 www-merkezbankasi.tk
 www-microsoftsads.com
+www-mlcrosoft.com
 www-mngkargo-com-tr.online
 www-mobil-deniz-giris-sitesi.ddnsfree.com
 www-mobil-deniz-internet-basvuru.damat.space
@@ -399488,6 +399559,7 @@ xrpkhxc5m.duckdns.org
 xrplive.info
 xrpmposhqoa.wcnv20.cn/instagram-me
 xrpmzvsoni.duckdns.org
+xrpoyeasfa.vercel.app
 xrpparibuhediyeleribasvuru.com
 xrptoggbasvurulari.com
 xrptrbasvurular.com
