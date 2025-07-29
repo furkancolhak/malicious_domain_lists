@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-29T09:05:11.586726
+# Updated: 2025-07-29T10:05:14.098521
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -33059,6 +33059,7 @@ a101-harcaharcabitmez.buzz
 a101-harcaharcabitmez1.sbs
 a101-harcaharcabitmez10.sbs
 a101-harcaharcabitmez2.sbs
+a101-harcaharcabitmez8.sbs
 a101-harcaharcabitmez9.sbs
 a101-hazlranozel.xyz
 a101-hediyeceki-hergun-sinirsiz-60526.wvww-a101.com
@@ -43401,6 +43402,7 @@ ahsucilginkurtler.xyz
 ahtcmuv5z12w9t.com
 ahtnfrshyqttajx.cn
 ahtwindowcleaning.co.uk
+ahu-haberr.art
 ahu3rg2.duckdns.org
 ahubap.2kool4u.net
 ahukent.net
@@ -59409,6 +59411,7 @@ asicallysolidarit.top
 asidehappen-cap.com
 asidogrulamasagliksistemisitesi.cf
 asidomain.com
+asigidsksakgdfshkasfkwqmgds.cyou
 asigidsksakgdfshkasfkwqmgds.icu
 asigidsksakgdfshkssakashffhdgas.cfd
 asigidsksakgdfshkssakashffhdgas.cyou
@@ -167948,6 +167951,7 @@ geldikapinizahizlicasns.com
 geldikburadayiz.net
 geldikgerigeldik.online
 geldikgidiyoruz.fit
+geldikgidiyoruz1.cfd
 geldikgittiksimdi.com
 geldikvegitmeyecegizdedik.com
 geldimgittim.online
@@ -184830,6 +184834,7 @@ harmonyguesthouse.co.za//db_template.php
 harmonyguesthouse.co.za/wp-includes/db-config-ini.php
 harmonyhivee.com
 harmonyincorporate.top
+harmonykkdomdom.click
 harmonykkdomdom.com
 harmonykkhande.com
 harmonykkhande.space
@@ -235558,6 +235563,7 @@ kopakopaz.host
 koparas.click
 kopatych112.ddns.net
 kopekcik.art
+kopekgibizleyin.cfd
 kopekno1.xyz
 kopekuyuztedavicisi.xyz
 kopenet738.hopto.org
@@ -300179,6 +300185,7 @@ pttkayitlari.net
 pttkayitlarisorgu.com
 pttkayitsorgu.com
 pttkayitsorgusu.com
+pttkemzgov.top
 pttkgnkhktr.com
 pttki.ink
 pttkilometre.shop
@@ -318644,6 +318651,7 @@ salmon-malynda-36.tiiny.site
 salmoncompa.top
 salmoniq.com
 salmonrabbit.com
+salmrktfrstlrzm57181.com
 salnayabulka.ddns.net
 salncakbhce.click
 saloccell.net
@@ -330346,6 +330354,7 @@ siparis.temmuzcarsambaodf.com
 siparis.temmuzpazarsdg.com
 siparis.temmuzsalifhh.com
 siparis14ocakolustur.cloud
+siparis1erinizbizlerlesepette.online
 siparis360.click
 siparis360.xyz
 siparisadresim.app
