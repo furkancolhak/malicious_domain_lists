@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-30T09:05:13.740912
+# Updated: 2025-07-30T10:05:12.854496
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1650,6 +1650,7 @@
 1003400566709.cloud
 100462-facebook.com
 100510202050000.net
+1005yp.com
 1009104060axw.havxcq.ru
 1009376652.corolain.ru
 100982.site
@@ -2647,6 +2648,7 @@
 102.btmkoko.net
 102.nisandetaylari.org
 1020259980.corolain.ru
+1020mastermindhayati.com
 1021.goitstour.buzz
 10246.cloud
 102540000025476767658878900692105.duckdns.org
@@ -42709,6 +42711,7 @@ agenteddhub.ddns.net
 agenterbaik88.com/iuyknej3
 agentleadaccelerator.com
 agentsmanage.com
+agentsvision.lat
 agentvisitliarpoint.click
 agenzia-ritorno.ddns.net
 ageofwuxia.com
@@ -83054,6 +83057,7 @@ bizmlerandevuislemlerkolaycaaaa.net
 bizmmmliolc.com
 bizmodern.sbs
 bizmsicell.com
+biznesbusteg.click
 biznesplanet-bnpparlba.com
 biznesplanet-parlbabnp.com
 biznesplanet-parlbas.com
@@ -90311,6 +90315,7 @@ brightenportrait.cn
 brightensprinkle.top
 brightenwharf.top
 brightexciting.click
+brightform.cfd
 brightlatitude.top
 brightle.ddns.net
 brightlink.site
@@ -180920,6 +180925,7 @@ haftasonuindirimleri.xyz
 haftasonuindrmleri1o1.shop
 haftasonuizinlerimiz.online
 haftasonukampanyalarindebugun.cfd
+haftasonukampanyalarindebugun.icu
 haftasonukampanyalarindebugun.sbs
 haftasonukampanyanseninurunun.vercel.app
 haftasonukampanylari.online
@@ -224878,6 +224884,7 @@ kacirilmayacakkampanyalar.xyz
 kacirilmaz-firsat-senligi.shop
 kacirilmaz-firsatlar-1.cfd
 kacirilmaz-firsatlar.cfd
+kacirilmaz-kampanyalar-2.cfd
 kacirilmaz-kampanyalar.cfd
 kacirilmazcuma.theworkpc.com
 kacirilmiacaktir.click
@@ -227799,6 +227806,7 @@ kampcadir.shop
 kampcadirsi.shop
 kampcdr.shop
 kampetu.xyz
+kampexa.xyz
 kampgeldikassimdi.online
 kampgeldnsize.online
 kampgrsvkfonayli.online
@@ -232327,6 +232335,7 @@ kgm-govr.top
 kgm-govtr.bond
 kgm-govtr.cfd
 kgm-govtr.cyou
+kgm-govtr.ink
 kgm-govtr.qpon
 kgm-govtr.sbs
 kgm-govtr.top
@@ -274089,6 +274098,7 @@ odulhavuzutrkampanyasisizlerle.cloud
 odulhawuzkatilimikampanyalodulumldarkblack.net
 oduliscoomingodulunualsendestartmonthyear.net
 odulkampanyasisizlericin2024.cloud
+odulprim.com
 odulruzgaribasvuruyutamamlaisendtooofficial.net
 odulukazanmafirsatibasvurunutamamlasopleasespeakslowly.net
 odulumufibaveriyorodulualoffnightkatilim.net
@@ -369065,6 +369075,7 @@ urbanisesignify.top
 urbanizationoppression.top
 urbanizationturbulence.top
 urbank.xyz
+urbanlight.top
 urbanlytic.com
 urbanpathz.com
 urbanpeak.site
