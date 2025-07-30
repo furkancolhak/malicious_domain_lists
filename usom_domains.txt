@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-30T17:05:13.207975
+# Updated: 2025-07-30T18:05:14.242978
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -59552,6 +59552,7 @@ asidehappen-cap.com
 asidogrulamasagliksistemisitesi.cf
 asidomain.com
 asigidsksakgdfshkasfkasggas.cfd
+asigidsksakgdfshkasfkasggas.cyou
 asigidsksakgdfshkasfkwqmgds.cfd
 asigidsksakgdfshkasfkwqmgds.cyou
 asigidsksakgdfshkasfkwqmgds.icu
@@ -82798,6 +82799,9 @@ bizden-firsatdegerlendirmesiburda.com
 bizden-web-bbav.pro
 bizdenal.club
 bizdenalbonus.b-cdn.net
+bizdenalmadangitme.cfd
+bizdenalmadangitme.icu
+bizdenalmadangitme.sbs
 bizdenalver.net.tr
 bizdenalver.org.tr
 bizdenbiriolsende.net
@@ -95983,6 +95987,7 @@ cakespot.top
 caketranquility.top
 cakevent.top
 cakfpgrm.com
+cakilda-kamp-atese-dogru.top
 cakilisteyiz.gq
 cakirailesi.net
 cakirgranitinsaat.com
@@ -97142,6 +97147,7 @@ carrfoursa.shop
 carrfoursa.site
 carrfoursakampanya.site
 carrfoursakampanyalar.shop
+carrfoursakampanyalar.site
 carrfourssa.shop
 carrfousa.shop
 carrfr-sa.biz.tr
@@ -112133,6 +112139,7 @@ dalincheck.space
 dalincheckers.com
 dalinchecks.com
 dalinchecks.net
+dalindan.duckdns.org
 dalindangeldi.xyz
 dalindankapina.xyz
 dalinle.66ghz.com
@@ -143347,6 +143354,7 @@ emaliyegovtr509.com
 emaliyegovtrl92.com
 emaliyemerkezi.org
 emaliyeportal.org
+emaliyesorgulama.org
 emaliyevatandas.com
 emalk.b-cdn.net
 emalklvergl.blogspot.com
@@ -145313,6 +145321,7 @@ enixyixdmrxlrmxbuxnlar-asl2msxf.xyz
 enixyixindrmxlrmx-93djdks-io3d39d30.com.tr
 eniyi-hayata-bizler-bakariz-mutlu-oluruz.com
 eniyi-hep-teklfierl-braudsa.com
+eniyi-hep-teklfierl-braudsa.store
 eniyi-ortakbayims.blogspot.com
 eniyi-tekflsisb-bruds-aaaldn-aldin.com
 eniyi-teklfierl-braudsa.com
@@ -146118,6 +146127,7 @@ ensicakhaberler.net
 ensigorta.net.tr
 ensigortam.autos
 ensigortam.cfd
+ensiyisndxmdlrmsnbdm.website
 ensjbaoui.com
 ensobaber.store
 ensohub.store
@@ -158912,6 +158922,8 @@ firsatzamni1simdi0brda1.com
 firsatzira.com
 firsatziraattesizllerle.com
 firsausis.xyz
+firsavolta1.lat
+firsavolta1.sbs
 firsavolta1o1.net
 firscountryours.eu
 firseawatcla1.net
@@ -179028,6 +179040,7 @@ gwcegqhscgq-twfetqfwca-xwfqhvq.shop
 gwcehsgqv-ywfsgqca-xqdacqc.cfd
 gwcehsgqv-ywfsgqca-xqdacqc.sbs
 gwctest.zapto.org
+gwcwyqvscqhqccw-fwxwgqvcahqvava.sbs
 gwcynscqbwkwixp.ru
 gwdawftfhg.duckdns.org
 gwdtwbkoybb.wcnv20.cn/instagram-me
@@ -180899,6 +180912,7 @@ haftaninyildizlarigeldilux.xyz
 haftaninyildizlarigeldistok50lux.xyz
 haftaninyildizlarimega101.xyz
 haftaninyildizlarinda.cfd
+haftaninyildizlarinda.sbs
 haftaninyildizlarindabuhafta.com.tr
 haftaninyildizlarindabuhafta.online
 haftaninyildizlarindabuhafta.xyz
@@ -184719,6 +184733,7 @@ harcaharcabitmez-005.sbs
 harcaharcabitmez-006.sbs
 harcaharcabitmez-007.sbs
 harcaharcabitmez-008.sbs
+harcaharcabitmez-009.sbs
 harcaharcabitmez-101siparis.com.tr
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.live
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.xyz
@@ -186959,6 +186974,7 @@ hczhgsbildiri.sbs
 hczqmihgcr.duckdns.org
 hczvsfrpe.com
 hd-e-p-t-t.shop
+hd-ewgs-fe-hergrqwe22esdhfs-sfsa.sbs
 hd-video1.site
 hd-video4.site
 hd-video5.site
@@ -189150,6 +189166,7 @@ hemensatinalkacirmadanbufirsatlari.com.tr
 hemensatinalkacirmadanbufirsatlari.online
 hemensatinalkacirmadanbufirsatlari.xyz
 hemensatinalkacirmadansatinalmalisinhemen.xyz
+hemensatinalsizleribekleyenfirsatlarial.duckdns.org
 hemensburada.com.tr
 hemensendeal.com
 hemensendeapkndr.com
@@ -228709,6 +228726,7 @@ kapitall.space
 kapiyageldibayram1o1.com
 kapiyageliyorhizlica.com
 kapiyageliyorhizlicasize.com
+kapiyagelsinbizimle.com
 kapiyagetirelimhemensize.com
 kapiyagetirelimhizlica.com
 kapiyagetirsin1o1size.com
@@ -234636,6 +234654,7 @@ kmdetalymhemn.com
 kmdetay.web.app
 kmdetayhmnogren.com
 kmdetayim.web.app
+kmdetaylarindan.web.app
 kmdetayogren.com
 kmdfgdw34ed3.online
 kmdfggfd.shop
@@ -234900,6 +234919,7 @@ kmsoralgaka.com
 kmsorcuqq.net
 kmsordulama.shop
 kmsorggglaa.web.app
+kmsorgla.shop
 kmsorglamaaracc.sa.com
 kmsorglayn.online
 kmsorglayn.site
@@ -236245,6 +236265,7 @@ kozmetr.online
 kozmikurunsatis.com
 kozmikyolculuk.space
 kozmosewears.shop
+kozmoskamp.pro
 kozmosparfum.com
 kozoheh.com
 koztv.com
@@ -297934,6 +297955,7 @@ ptt-avm.online
 ptt-avm.p-islemler.online
 ptt-avm.shop
 ptt-avm.siparis-ver-tr.online
+ptt-avm.sn-hizmet.online
 ptt-avm.xyz
 ptt-avm1-alis-veriss-sizinle.online
 ptt-avm2-alis-veriss-sizinle.online
@@ -324405,6 +324427,7 @@ senikimleraldi.best
 senilamjdaret.dev
 senilneswe.net
 senin-buraya-kadar-gecelerini-iyi-yapanlar-bizdik.com
+senin-dunya.shop
 senin-evinde-mutlu-olacak-burada.com
 senin-icin-bir-sey-var-burada.top
 senin-icin-bunlar.com
@@ -334968,6 +334991,7 @@ son-kasim-firsatlari.gtxsolutions.sa.com
 son-katilim-2021-online-aidat-basvurusu.xyz
 son-kmannyalari-smdi-satin-al-hemengelsin.com
 son-senesonu-teksepet.shop
+son-teklfierl-braudsa.store
 son-zamanda-mutlu-hissetmek-kadar-iyisi-yok.com.tr
 son-zamanlarda-kapina-gelen-istedin-sakin-kacirma.com
 son-zamanlarda-mutlu-hissetmek-bu-kadar-kolay-olmamisti.com
@@ -348363,6 +348387,7 @@ teb-cepsubem.com
 teb-cepte-girisler-promosyon.duckdns.org
 teb-cepte-promosyonlar.duckdns.org
 teb-cepte.com
+teb-ceptepromosyonlargiris.duckdns.org
 teb-com-tr.tk
 teb-com.tk
 teb-den.com
@@ -358610,6 +358635,7 @@ trbiance-iadeleri.com
 trbiance-iadelerin.com
 trbiance-iadesi.com
 trbiance-online.com
+trbiance.online
 trbianceonline.com
 trbicense.click
 trbilgimerkez.viewdns.net
@@ -358713,6 +358739,7 @@ trbnacergirsi.com
 trbnadestek.com
 trbnan-ceteknoloji.net
 trbnancdestektr.com
+trbnance-tr.online
 trbnance.com.tr
 trbnance.net
 trbnancebasvuru.com
