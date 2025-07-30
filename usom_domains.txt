@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-30T12:05:13.920504
+# Updated: 2025-07-30T13:05:12.912028
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -97232,6 +97232,7 @@ carsmba-gunleri-ozell.xyz
 carsmbamrkt327.com
 carsmbamrkt465.com
 carsmbamrkt77.com
+carsmbamrkt983.com
 carsmbamrktt423.com
 carsond5.ddns.net
 carsond5.hopto.org
@@ -98578,6 +98579,7 @@ cebindekipara.com
 cebinden-hizlica-basvuru.com
 cebindesok.rf.gd
 cebindeteb.kisalink.cc
+cebindetrink.digital
 cebindeziraatbankasi.com
 cebineozel.online
 cebini-mutlu-eden-destekcin-hep-bizdik.com
@@ -112118,6 +112120,7 @@ dalincheck.space
 dalincheckers.com
 dalinchecks.com
 dalinchecks.net
+dalindangeldi.xyz
 dalindankapina.xyz
 dalinle.66ghz.com
 dalinn.cc
@@ -146516,6 +146519,7 @@ enx-ynixxixi-frstlarbrdxa.xyz
 enx-ynizzixi-frstlarbrdxa.xyz
 enx-ynxfffigixi-frstlarbrdxa.xyz
 enxisiyndmrlsmxlrmdmfrm.click
+enxisndlrmldmrmbnlrms.space
 enxixndrmxlrxmbxunlrxmxbn.sa.com
 enxixndrmxlrxmbxunlrxmxbn.za.com
 enxiyindrmlrmbnlr.click
@@ -148272,6 +148276,8 @@ esorguiadeleriaidat.ml
 esorgula.com
 esorgulama-kurumiadeportal.com
 esorgulama-yap.com
+esorgulamadosya.org
+esorgulamaportal.org
 esorgupandem.unaux.com
 esorgutalep.com
 esorguveodeme.com
@@ -163840,6 +163846,7 @@ garant-mobil.click
 garant-mobilsube.pro
 garant-mobilsuben.pro
 garant-ntihizmetavantajsube.net
+garant-online-sube.cfd
 garant-online-sube.ru.com
 garant-online-sube.sa.com
 garant-online-sube.za.com
@@ -180776,6 +180783,7 @@ haftaninfirsattlari.com
 haftaninfirsatucuzluklari.click
 haftaninindirimleri.cfd
 haftaninindirimleri.com.tr
+haftaninindirimleri.icu
 haftaninindirimleri.online
 haftaninindirimleri.sbs
 haftaninindirimleri.shop
@@ -227850,6 +227858,7 @@ kampnyaburdacm.com
 kampnyadevam.website
 kampnyafirstlar101lekasmda.com
 kampnyahaberleri.com
+kampnyalardakigunlerdebugunler.icu
 kampnyalardakigunlerdebugunler.sbs
 kampnyalartukenmkuzere1o1.shop
 kampnyalartukenyor1o1.shop
@@ -232427,6 +232436,7 @@ kgmkskarylborcodmslrinz.duckdns.org
 kgmlegecisins.dev
 kgmmgecisbilgi.com
 kgmmgm2.net
+kgmngov.top
 kgmo-odemesi-org.ml
 kgmodeme.com
 kgmodeme2022.blogspot.com
@@ -249013,6 +249023,7 @@ maliyeuzlasmasorgu.com
 maliyeuzlasmasorusturma.com
 maliyevatan.com
 maliyevatandas.com
+maliyevatandasportal.org
 maliyevehazinebakanligi.com
 malkafali222.com
 malkafaniskm.com
@@ -249230,6 +249241,7 @@ manecarfilo.com
 manegit.com
 maneqain.ddns.net
 manerlcosy.top
+manestrokloe.xyz
 maneuversuppress.top
 maneuvertempo.top
 manfiestandroid.com
@@ -249865,6 +249877,7 @@ marketlerzinciri.org
 marketlerzinciriburada.biz.tr
 marketlerzincirimagaza.com
 marketlerzincirimayisozel.com
+marketlerzincirindefirsatlar.sbs
 marketlink.space
 marketlynx.store
 marketmagazazinciri.com
@@ -327720,6 +327733,7 @@ showhaber.co
 showhaber.site
 showhome.hopto.org
 showlove24.duckdns.org
+showmonofa3c.duckdns.org
 shownhaber.site
 showpiecekennelmating.com
 showprice.xyz
@@ -331767,6 +331781,7 @@ sizinle-olanlar-burada-kalir-daha-kazanir.com
 sizinle-tekrar-gorunene-gideriz-birlikte.com
 sizinleberaberindirima1o1.online
 sizinlebinansgunlerindeyiz.com
+sizinlebiraileyiz.click
 sizinlebirliktehepberaber.com
 sizinlebirliktehepberaber.xyz
 sizinlebizimdemirden.com
@@ -337710,6 +337725,7 @@ sponsorlu-10.online
 sponsorlu-10.top
 sponsorlu-100.online
 sponsorlu-101.online
+sponsorlu-102.online
 sponsorlu-107.online
 sponsorlu-109.online
 sponsorlu-11.online
@@ -411500,6 +411516,7 @@ zfihdel.com
 zflcq-pttavm.is-best.net
 zfnyvebji.com
 zfoblhgpc.com
+zfosoyhgedkbvzuw.shop
 zfqghauu.info
 zfrb.info
 zfrdxjz.com
