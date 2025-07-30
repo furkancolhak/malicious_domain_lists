@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-30T02:05:13.003086
+# Updated: 2025-07-30T03:05:12.576281
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -114393,6 +114393,8 @@ deneyen-bilir-burasi-heryerden-daha-yakin.com
 deneyen-bilirki-bizler-hep-dogru-gideriz.com
 deneyerek-bulanda-bizlerden-songune-kalmadi.com
 deneyim-sarttir-bize-gelir-sevdikce-ellerinize.com
+deneyimifirsatlarintadinabkasen.cfd
+deneyimifirsatlarintadinabkasen.sbs
 deneyimle.name.tr
 deneyimlerim.online
 deneyimlikamoaynalar.online
@@ -223910,6 +223912,7 @@ justmoneykartalbddk705.duckdns.org
 justmoneykartalbddk706.duckdns.org
 justmoneykartalbddk707.duckdns.org
 justmoneykartalbddk709.duckdns.org
+justmoneykartalbddk712.duckdns.org
 justmoneykartalbddk72.duckdns.org
 justmoneykartalbddk73.duckdns.org
 justmoneykartalbddk74.duckdns.org
@@ -302177,6 +302180,7 @@ qbnheyecanlifinanl.vercel.app
 qbnidfers.vercel.app
 qbnikmpnyer.vercel.app
 qbnimkmpany.com
+qbniprmsyonlarla.vercel.app
 qbnireskkampna.vercel.app
 qbnirse.vercel.app
 qbniumaz.vercel.app
