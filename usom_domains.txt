@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-29T23:05:12.649902
+# Updated: 2025-07-30T00:05:13.755108
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1732,6 +1732,7 @@
 101-28temmuzkcmz.art
 101-29temmuzcdr.art
 101-29temmuzcrk.net
+101-29temmuzgece.com
 101-31mayisaksam.com
 101-31mayisfirsat.com
 101-3haziranaksam.com
@@ -184638,6 +184639,7 @@ harcaharcabirmezbayram.com
 harcaharcabitmeyen.xyz
 harcaharcabitmeyenkampanya.com.tr
 harcaharcabitmez-001.sbs
+harcaharcabitmez-002.sbs
 harcaharcabitmez-101siparis.com.tr
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.live
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.xyz
@@ -228550,6 +228552,7 @@ kapiniza.com.tr
 kapinizageldi.com
 kapinizagelsina1o1firsatlari.online
 kapinizagetiriyorbakin.com
+kapinizagetiriyoruzburada.com
 kapinizagetirsinbizimlekolyca.com
 kapinizahizlicagliyornsnzs.com
 kapinizakadargeliyoruzbaksn.com
@@ -351185,6 +351188,7 @@ tezcanlariletisim.gq
 tezcanlariletisim.tk
 tezenisturkey.com
 tezevtax.xyz
+tezgahkuran.xyz
 tezgahlanbu.click
 tezgel.click
 tezhelandimkro.top
