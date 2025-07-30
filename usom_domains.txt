@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-30T16:05:13.003043
+# Updated: 2025-07-30T17:05:13.207975
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15632,6 +15632,7 @@
 256444554.site
 2564656s6561adas65dasdsa332.site
 25649898763.net
+25652625652625625.duckdns.org
 2565pkav.duckdns.org
 25665.club
 25665.me
@@ -59413,6 +59414,7 @@ asfaswrsdf.online
 asfawdfsksqx.com
 asfd45.ddns.net
 asfdafsdasdfasdfasdfsadfdfas.nl
+asfdiadsifadifiafiaf.cfd
 asfdjymcsz.duckdns.org
 asfdkhjasds.net
 asfdkljfasjk215.com
@@ -97139,6 +97141,7 @@ carrfour-online-indirim.com
 carrfoursa.shop
 carrfoursa.site
 carrfoursakampanya.site
+carrfoursakampanyalar.shop
 carrfourssa.shop
 carrfousa.shop
 carrfr-sa.biz.tr
@@ -120925,6 +120928,8 @@ devasaindirimliurunlerimisadece.com
 devasaindirimliurunlerimisadeceburasi.com
 devasakampanyalar.xyz
 devasakampanyaninyeri.cfd
+devasakampanyaninyeri.icu
+devasakampanyaninyeri.sbs
 devasakmarketim.com
 devasakurunlerim.com
 devasatemmuzlndirimleri.net
@@ -142317,6 +142322,7 @@ ekmde-harkt-baslsin.com
 ekmde-ilkaklgelen.com
 ekmde-yakla-bunlari.com
 ekmedogrusfrrdksmdkzert.online
+ekmeginesahip.xyz
 ekmekarasi.duckdns.org
 ekmekcii.net
 ekmekcraft.com
@@ -184711,6 +184717,8 @@ harcaharcabitmez-002.sbs
 harcaharcabitmez-004.sbs
 harcaharcabitmez-005.sbs
 harcaharcabitmez-006.sbs
+harcaharcabitmez-007.sbs
+harcaharcabitmez-008.sbs
 harcaharcabitmez-101siparis.com.tr
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.live
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.xyz
@@ -215503,6 +215511,7 @@ isntnblkartt.com
 isntr.com
 isnvnkart.blogspot.com
 isnx38r.duckdns.org
+isnxdmrlsnmdmnrm.website
 isobemdenizinizde.com
 isobimm.net
 isocamprh.com.br
@@ -225909,6 +225918,7 @@ kalbinin-icinden-hislerini-iyisinden-yakala.com
 kalbinin-sesi-burada-duyulacak.com
 kalbinin-sesi-seni-buraya-getirdi.it.com
 kalbinin-sesi-seni-buraya-getirdi.top
+kalbinin-sesi-seni-buraya-getirir.top
 kalbinizdeki-teklifleri-dinleyin-mutluluk-asil-odur.com
 kalbinize-giden-yolu-biliriz-burada.com
 kalbinize-giden-yolun-yanindan.xyz
@@ -232934,6 +232944,7 @@ kilometresorgularimahizmtd.web.app
 kilometresorgularisburdan.web.app
 kilometresorgulayanlarchp.click
 kilometresorgulmaachp.xyz
+kilometresorguslmaz.com
 kilometresorgusu.com
 kilometresotgu.duckdns.org
 kilometresrglmayochi.web.app
@@ -250504,6 +250515,7 @@ mastralakkot.live
 mastreb-bg.site
 mastrnew.digital
 masttred.com
+masturbasyonadevam.sbs
 masudgo.shop
 masuk-grup-disini10.duckdns.org
 masum-duygulari-hisseden-bizleriz.com
@@ -280924,6 +280936,7 @@ ordanaracmsuw.xyz
 ordaneburdanehe.net
 ordangeciss.is-best.net
 ordangldkbrdayz.shop
+ordangldplasd.cfd
 ordealfrantically.top
 ordealnutrition.top
 order-9362.click
@@ -330974,6 +330987,7 @@ siparislerim.net
 siparislerimhizlim.cloud
 siparislerin.com
 siparislerin18in.cloud
+siparislerin30temmuzda.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
 siparislerinhizlandi25temmuzda.cloud
@@ -358699,6 +358713,7 @@ trbnacergirsi.com
 trbnadestek.com
 trbnan-ceteknoloji.net
 trbnancdestektr.com
+trbnance.com.tr
 trbnance.net
 trbnancebasvuru.com
 trbnancekampany.vercel.app
@@ -390208,6 +390223,7 @@ www-garantibonus-com.tk
 www-garantibonus.com
 www-garantibonuslari-com-tr.tk
 www-garanticep-com.cf
+www-garantiden-kredi-basvur.giize.com
 www-garantiden-kredi-basvuru.giize.com
 www-garantiden-kredi-online.ooguy.com
 www-garantiden-krediler-online.giize.com
@@ -398704,6 +398720,7 @@ xn--termosfrst-6ub.com
 xn--thatquality-ue3f.top
 xn--thehalkbanktr-gl6g.com
 xn--theoryemperor-gl6g.top
+xn--ticarethatas-d5b.xyz
 xn--tklamaonaybnb-39b.net
 xn--tkrt-0ra.net
 xn--tlb1mcellyuklexxbmcell-2ld.com
