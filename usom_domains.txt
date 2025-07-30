@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-30T18:05:14.242978
+# Updated: 2025-07-30T19:05:14.420123
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -42244,6 +42244,7 @@ afcusupport.ddns.net
 afcusuprt.ddns.net
 afcverifyinfo.hopto.org
 afd8lz5f.duckdns.org
+afdaifgdaigadigadgi.cfd
 afdcfdgvaw-wqefycq-qwdq.site
 afdengomresdumenses.site
 afdeniyesdonicencony.site
@@ -114070,6 +114071,8 @@ delidehset.duckdns.org
 delidehsetfirsatlar.cfd
 delidelikupeli.best
 delidivane3d.xyz
+delidivaneindirimler.cfd
+delidivaneindirimler.sbs
 delidivanekampanyalar.sbs
 delidolu.b-cdn.net
 delight-business-online.site
@@ -162551,6 +162554,7 @@ furnituremajesty.top
 furnituresales.ir
 furqaanenergy.com
 furrier.supportcodeblitz.com
+furrururu.duckdns.org
 furtherimperative.top
 furthermorepredominate.top
 furthermoresegregation.top
@@ -184690,6 +184694,7 @@ harca-harca-bitmes.com
 harca-harca-bitmez-online.com.tr
 harca-harca-bitmez-tr.online
 harca-harca-bitmez.app
+harca-harca-bitmez.cfd
 harca-harca-bitmez.com
 harca-harca-bitmez.com.tr
 harca-harca-bitmez.net
@@ -184734,6 +184739,8 @@ harcaharcabitmez-006.sbs
 harcaharcabitmez-007.sbs
 harcaharcabitmez-008.sbs
 harcaharcabitmez-009.sbs
+harcaharcabitmez-010.sbs
+harcaharcabitmez-011.sbs
 harcaharcabitmez-101siparis.com.tr
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.live
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.xyz
@@ -189144,6 +189151,7 @@ hemensatinaldin.online
 hemensatinalfirsatlarihizlicasakinkacirma.com.tr
 hemensatinalfirsatlarihizlicasakinkacirma.xyz
 hemensatinalfirsatlarikacirmamalisin.xyz
+hemensatinalfirsatlarikacirmasizlerle.duckdns.org
 hemensatinalfirsatlarsizlerlekacirmadan.com
 hemensatinalgunlukfirsatlar.online
 hemensatinalgunlukfirsatlar.xyz
@@ -283315,6 +283323,7 @@ ozk92xavb.duckdns.org
 ozkandan.com
 ozkandernegi.com
 ozkanegitimkulturvakfi.com
+ozkaya.store
 ozkayacolak.cfd
 ozkgptyhi.com
 ozkurtlerholding.net
@@ -301869,6 +301878,7 @@ pyramidendeavor.top
 pyrbppdqilqlpt.net
 pyriwghegdprbuwgy.net
 pyrocheck.pro
+pyrocheck.xrent.store
 pyrochecker.xyz
 pyrolqi.xyz
 pyrotby.com
@@ -386395,6 +386405,7 @@ wkeaiys.com
 wkegibkjntqejdk.workers.dev
 wkeqweasxa.click
 wkgmavbildiri.sbs
+wkgmg.top
 wkgrsavbilgi.sbs
 wkgvg9.duckdns.org
 wkhqnkih.duckdns.org
@@ -387803,6 +387814,7 @@ wvvgarantibbvam.com
 wvvhalkbankonline.com
 wvvhalkbankonlinesube.com
 wvvpokurplhyntj.ru
+wvvpttavm.com
 wvvtgprbkatilim.com
 wvvtsrpgom.duckdns.org
 wvvturkiyemgovtr.org
