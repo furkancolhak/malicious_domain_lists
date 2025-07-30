@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-30T08:05:14.052015
+# Updated: 2025-07-30T09:05:13.740912
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3288,6 +3288,7 @@
 1054587400000254767676588789006921010587.duckdns.org
 10546-4166185.com
 1055101435.corolain.ru
+1058533.cloud
 10587400000254767676588789006921010587.duckdns.org
 105874477.corolain.ru
 105a93ce0154.net
@@ -4509,6 +4510,7 @@
 12132105.duckdns.org
 1214313232142324.cloud
 12144444888999091.xyz
+12144444888999094.xyz
 1214888.com
 1214betturka.click
 121529371556310ar.duckdns.org
@@ -97218,7 +97220,9 @@ carsigortan.site
 carsikazan.name.tr
 carslamla.com
 carsmba-gunleri-ozell.xyz
+carsmbamrkt327.com
 carsmbamrkt77.com
+carsmbamrktt423.com
 carsond5.ddns.net
 carsond5.hopto.org
 carsrandvuma.app
@@ -145275,6 +145279,7 @@ enixyixindrmxlrmx-93djdks-io3d39d30.com.tr
 eniyi-hayata-bizler-bakariz-mutlu-oluruz.com
 eniyi-ortakbayims.blogspot.com
 eniyi-tekflsisb-bruds-aaaldn-aldin.com
+eniyi-teklfierl-braudsa.com
 eniyi.indirimimde.com
 eniyialisveris.online
 eniyialisveris.xyz
@@ -161171,6 +161176,7 @@ fractionsaddle.top
 fraer.mobi
 fragerdonem.com
 fragerkisuke.com
+fragermekan.com
 fragerxd.com
 fraggielek.biz
 fragiez.org
@@ -163178,6 +163184,7 @@ gab992p.duckdns.org
 gabana14.duckdns.org
 gabank.xyz
 gabardine.xyz
+gabarlokaltt.xyz
 gabberlnper.org
 gabcdzvo.com
 gabersesfded.site
@@ -167053,6 +167060,7 @@ gartenlofti.com
 gartibbva.com
 gartiolasifirsatgirisim.com
 garulouscuto.com
+garwebbonusklff.xyz
 garxntcampanyforr.com.tr
 garxntibaharbasvur.online
 garxntlibahar.com
@@ -227821,6 +227829,7 @@ kampnyaburdacm.com
 kampnyadevam.website
 kampnyafirstlar101lekasmda.com
 kampnyahaberleri.com
+kampnyalardakigunlerdebugunler.sbs
 kampnyalartukenmkuzere1o1.shop
 kampnyalartukenyor1o1.shop
 kampnyalihizmetservisi.com
@@ -234000,6 +234009,7 @@ kkevrenvio.space
 kkfearlesdomdom.com
 kkfearlesss.com
 kkffvdv111.cloud
+kkfhhfsafsacascasfgg.space
 kkftodesk101.top
 kkftodesk102.top
 kkftodesk104.top
@@ -234076,6 +234086,7 @@ kkolaylilklar-ptt-kaargolariniz-gelsiin.website
 kkomsoanddyabaytr.com
 kkooyyunkurbandestegi-akkbbnkk.online
 kkpp-daail-eylbasi.shop
+kkprofkk.com
 kkr65.duckdns.org
 kkraeamnytn.xyz
 kkrandum.b-cdn.net
@@ -297335,6 +297346,7 @@ prxko01c.duckdns.org
 pryht21u.duckdns.org
 prymx.dosya.space
 prymx.fun
+prymx.net
 prymx.org
 prymx.site
 prymx.store
@@ -365099,6 +365111,7 @@ turpttgovtrsr.shop
 turpttgovtrv.shop
 turpttgovtrz.shop
 turpttgovts.shop
+turpttvgot184.shop
 turriculated.com
 turrout.com
 tursab-acenta.org
@@ -370984,6 +370997,7 @@ uzaklardabiryerlerde.net
 uzaklardan-buraya-mutluluk-geldi-sizler-bunu-kacirmayin.com
 uzaklardan-hislerle-aynisina-gozletmek-gerek.com
 uzaklardanbakmaoye.club
+uzaklas.sbs
 uzaklikgecilmez.net
 uzakta-arama-hersey-burda.com
 uzakta-aramayin-yakinada-bulunarak-biliriz.com
@@ -401012,6 +401026,7 @@ yalikavaklisubesindeler.online
 yalinakses.org
 yalisveris.sbs
 yalitest3.info
+yallahkulubune.sbs
 yallahsofer.com
 yallahsofer0.net
 yallahsofer1.com
@@ -402987,6 +403002,7 @@ yapim-2025basvurularibasladiaktif.vercel.app
 yapim-cepteonaylibasvurularim.vercel.app
 yapim-duyuru-tr.com
 yapimbireyselsubem.com
+yapimdavar.duckdns.org
 yapimkredi-triade.com
 yapimkredi.com
 yapimkredi.net
