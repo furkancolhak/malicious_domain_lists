@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-30T14:05:12.404715
+# Updated: 2025-07-30T15:05:12.198715
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -12112,6 +12112,7 @@
 1o1indirimvarburada.xyz
 1o1indirimvargas.space
 1o1indmrlsc.com
+1o1indrmlernideyazkampynalari.blogspot.com
 1o1kacmazfrsathizllla.com
 1o1kapida.net
 1o1kapiyageliyo.org
@@ -12160,6 +12161,7 @@
 1o1spttefrsatonline.com
 1o1temmmzfrsatlarrkapidaa.com
 1o1temmzfrsatkacirmasende.com
+1o1yazindrmlerfrstlarbir.duckdns.org
 1o1ygnams.com
 1o1yilbasikampanyalari.com
 1o257yy.duckdns.org
@@ -60232,6 +60234,7 @@ ataglobal.com.tr/admin362ag/connection.php
 atakan.com/mjdyeuhs32
 atakantarimci.com.tr/wp-admin/connection.php
 atakaylar.com
+ataklerkester.duckdns.org
 ataklojistik.com/administrator/modules/mod_toolbar/connection.php
 ataksdasopdkopcx.net
 atalayfiliz.com
@@ -154947,6 +154950,7 @@ fehmiesenboga.tk
 fehutop1.website
 fehxldkfwpmj.xyz
 feidakuvivaw.com
+feiges.online
 feighminoritsjda.shop
 feisty787.zapto.org
 feite.cc
@@ -163851,6 +163855,7 @@ garant-ntihizmetavantajsube.net
 garant-online-sube.cfd
 garant-online-sube.ru.com
 garant-online-sube.sa.com
+garant-online-sube.sbs
 garant-online-sube.za.com
 garant-online.cfd
 garant-online.ru.com
@@ -167777,6 +167782,7 @@ gearspotlight.top
 gearstyfloweronlineconf.be
 geauihfdt.com
 geaviations.com
+geawdfasda.shop
 geazto.top
 gebbewowdses051.site
 gebmwxtpqp.duckdns.org
@@ -184689,6 +184695,7 @@ harcaharcabitmeyen.xyz
 harcaharcabitmeyenkampanya.com.tr
 harcaharcabitmez-001.sbs
 harcaharcabitmez-002.sbs
+harcaharcabitmez-004.sbs
 harcaharcabitmez-101siparis.com.tr
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.live
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.xyz
@@ -226114,6 +226121,7 @@ kamoanyaliindimler.xyz
 kamodabkomebo.zapto.org
 kamoyu.bns-vio.space
 kamp-any-alar.com
+kamp-cantani-hazirla-gel.top
 kamp-shopping.online
 kamp-subesi.sa.com
 kamp-teklifleriniz-bruada.com
@@ -231658,6 +231666,7 @@ kencebaydenizcilik.com/includes/db_template.php
 kendegenisconis.site
 kendeliy.site
 kendersgollo.hopto.org
+kendi-doganla-bas-basa-kal.top
 kendi-resim-sayfam-ozel.me
 kendicuzdanlarim.com
 kendihedef.space
@@ -234923,6 +234932,7 @@ kmsorgulatr.com
 kmsorgulayalimhemen.vercel.app
 kmsorgulmachpknt.shop
 kmsorgulmachpknt.xyz
+kmsorgulmazss.info
 kmsorgupttavmgotr.duckdns.org
 kmsorgupttavmgov-ttr.duckdns.org
 kmsorguptthemengov.duckdns.org
@@ -236076,6 +236086,8 @@ kos-aidat-iadesini-geri-veriyorlar-basvurusu.xyz
 kos-kos-aidat-iadesini-geri-veriyorlar-basvurusu.xyz
 kos4mzf.monster
 kosakosagel.net
+kosakosagelbitmesin.cfd
+kosakosagelbitmesin.icu
 kosakosagelinburaya.com.tr
 kosakosagelinburaya.xyz
 kosakosagidelimgaranti.net
@@ -236173,6 +236185,7 @@ kowersize.fun
 koxp1da-a1o1-an1ndo.net
 koyalvakfi.com
 koydumhizlicacash.blogspot.com
+koykentticaret.xyz
 koylpaocuan.net
 koymaksitenizdenhaseyeson.site
 koyokk1.ddns.net
@@ -244206,6 +244219,7 @@ loginsistem.net
 loginsoshespaceclient.duckdns.org
 loginsube-yapikredi.com
 loginsube.click
+loginsubem.click
 loginsubmit.com
 loginto.hopto.org
 logintoadress.cf
@@ -256610,6 +256624,7 @@ mobil.aantyy.com
 mobil.acikdeniz.denizbank.4-231-237-0.plesk.page
 mobil.acikdenizv2denizbank-ibasvuru.com
 mobil.denizbank-iadeformu.com
+mobil.gettrials.com
 mobil.tebligyeri.com
 mobil.uyap-gov.icu
 mobil.uyap-gov.me
@@ -301784,6 +301799,7 @@ pyowgxubiuvp.tech
 pypaallsecreintl.duckdns.org
 pypal3.hopto.org
 pypihosted.org
+pypj.org
 pypkoyzlyu.duckdns.org
 pypl3.ddns.net
 pypl4.zapto.org
@@ -348374,6 +348390,7 @@ teb-online-islem-merkezi.com
 teb-onlinecep-bireysel-tr.com
 teb-onlinesubesi-cepte-tr.com
 teb-platimum.com
+teb-promosyondanfayda.life
 teb-son-basvurutr.com
 teb-sonfirsatlar-tr.com
 teb-sonkampanya-tr.com
@@ -379987,6 +380004,7 @@ vserisi-dyson.com.tr
 vseteplo.by/puaneydg
 vseuasthfxzzqxev.xyz
 vsfdcvscvn.net
+vsfewf23a.shop
 vsfrandevucum.com
 vsh304y.duckdns.org
 vshahajkbsuq.icu
@@ -390166,6 +390184,7 @@ www-garantibonus-com.tk
 www-garantibonus.com
 www-garantibonuslari-com-tr.tk
 www-garanticep-com.cf
+www-garantiden-kredi-basvuru.giize.com
 www-garantiden-kredi-online.ooguy.com
 www-garantiden-krediler-online.giize.com
 www-garantiden-online-kredi-basvuru.giize.com
@@ -401607,6 +401626,7 @@ yapida74yil.com
 yapidabasvuru-guncelaktiftir.vercel.app
 yapidabayram.com
 yapidabayramvar.com
+yapidabugunfirsati.click
 yapidacebimbasvrularibasladi.vercel.app
 yapidadestek.com
 yapidafirsatlar.com
