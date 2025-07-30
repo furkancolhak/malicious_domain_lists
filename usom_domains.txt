@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-30T10:05:12.854496
+# Updated: 2025-07-30T11:05:31.414601
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -41523,6 +41523,7 @@ adokerobimcell.com
 adokissbimcell.com
 adokqkcduaguzmq.org
 adol2470.com
+adolenmore2.duckdns.org
 adolescencemaritime.top
 adolescentpredatory.top
 adolfomoda.online
@@ -61537,6 +61538,7 @@ avantaj-ziraatbankasi.com
 avantajbank.net
 avantajbimcellde.co
 avantajbkle.com
+avantajburada.digital
 avantajburada.xyz
 avantajcadde.com
 avantajcepsun.biz
@@ -99072,7 +99074,6 @@ cemr9t1ln.duckdns.org
 cemrekalemesazeri.site
 cemrekiratli.com
 cemrevakfi.com
-cemrevakfi.org
 cemsklaris.site
 cemsolutions.org/wp-admin/db-config-ini.php
 cemsolutions.org/wp-config-ini.php
@@ -112337,6 +112338,7 @@ daowsistem.com
 daoz99w.duckdns.org
 dap--denzlm.duckdns.org
 dap--roly.duckdns.org
+dap--rolyney.duckdns.org
 dap--yplar.duckdns.org
 dap--yplassr.duckdns.org
 dap-beraber.bounceme.net
@@ -185112,6 +185114,7 @@ harmoniouspatriotism.top
 harmonsorgu.rf.gd
 harmony.fichamboan.com
 harmonyconcession.top
+harmonyffdomdom.com
 harmonyguesthouse.co.za//db_template.php
 harmonyguesthouse.co.za/wp-includes/db-config-ini.php
 harmonyhivee.com
@@ -208713,6 +208716,7 @@ indirimlifiyat.ml
 indirimlifiyat.tk
 indirimlifiyatlardanhemenfaydalan.com
 indirimlifiyatlat.com
+indirimlifiyatlrdfaa1o1.duckdns.org
 indirimliformasatinal.xyz
 indirimligeldiklimaci.xyz
 indirimligunbasladi.com
@@ -223947,6 +223951,7 @@ justmoneykartalbddk706.duckdns.org
 justmoneykartalbddk707.duckdns.org
 justmoneykartalbddk709.duckdns.org
 justmoneykartalbddk712.duckdns.org
+justmoneykartalbddk713.duckdns.org
 justmoneykartalbddk72.duckdns.org
 justmoneykartalbddk73.duckdns.org
 justmoneykartalbddk74.duckdns.org
@@ -226986,6 +226991,7 @@ kampanyalar-basvuru-finan-com.ml
 kampanyalar-denizbank.com
 kampanyalar-finansbank.com
 kampanyalar-finanscard.com
+kampanyalar-haftasi.cfd
 kampanyalar-indirim.com
 kampanyalar-indirimler-turkcell.com
 kampanyalar-kampanyalistesi.com
@@ -230833,6 +230839,7 @@ kaykynn312.ddns.net
 kaylaaaa.ddns.net
 kaylardanyklemenktascll.net
 kayleightaylorphotography.com
+kaylemoniquet.duckdns.org
 kayliehartley144.xyz
 kaylindaire.com
 kaylt.online
@@ -244593,6 +244600,7 @@ lostbuy8.quest
 lostdark.xyz
 lostderlerryuzbir.duckdns.org
 losted.zapto.org
+lostekmneo.xyz
 losthh.ddns.net
 lostofmind.ddns.net
 lostomesmf.tech
@@ -248955,6 +248963,7 @@ maliyeportaldosya.com
 maliyeportaluyap.com
 maliyesorgu.com
 maliyesorgu.org
+maliyesorguceza.org
 maliyesorgugov.com
 maliyesorgulama.com
 maliyesorgulama.org
@@ -275715,6 +275724,7 @@ onaylisatis.com.tr
 onaylisatisi.com.tr
 onaylisatisim.com.tr
 onaylisepet.com.tr
+onaylisiparis.com.tr
 onayliurun.name.tr
 onaymerkezi-destek.ml
 onaymerkezicetelemteb.net
@@ -348630,6 +348640,7 @@ tebonlinebireyselsube.com
 tebonlinegiris.co.vu
 tebonlineislemlerim.com
 tebonlinetr.com
+tebpromosyonlar-giristeb.duckdns.org
 tebqcberrx.duckdns.org
 tebramazanlibasvurlar.net
 tebrikederimbenibuldun.site
@@ -355915,6 +355926,7 @@ tr-giris-web-pages.org
 tr-giris-yap.xyz
 tr-giris.com.tr
 tr-giris.itssv.online
+tr-girisbasvurularimyazfirsatinda.click
 tr-girisim-vakfbnk.tk
 tr-girisiniz-isler-web-covid19.com
 tr-girisler-web-online-e-basvuru-onay-sayfasi.xyz
