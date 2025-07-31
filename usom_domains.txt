@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-31T12:05:13.468996
+# Updated: 2025-07-31T13:05:11.638241
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4519,6 +4519,7 @@
 12132103.duckdns.org
 12132105.duckdns.org
 1214313232142324.cloud
+12144444888999090.xyz
 12144444888999091.xyz
 12144444888999094.xyz
 12144444888999095.xyz
@@ -5817,6 +5818,7 @@
 144.91.97.46
 144.96.103.245
 14414412332232.cloud
+1442512544112555590.xyz
 1443243243432.cloud
 1445045758.dfgqdsd.ru
 144514453563632288.cloud
@@ -12075,6 +12077,7 @@
 1o1comtr.online
 1o1de2al1odefrsatinikacirma.com
 1o1dealdinaldinkapida.com
+1o1deindrmbitmez.com
 1o1dengeldihesaplisi.duckdns.org
 1o1desepetteindirmfrsati.com
 1o1efsanefrstlrr.xyz
@@ -51256,6 +51259,7 @@ alisverisiimguvenliisatiis.com
 alisverisiimguvenliisatis.online
 alisverisilan.com.tr
 alisverisilani.com
+alisverisilanlarimiz.com
 alisverisim-ilanda.com
 alisverisim-ilanimda.com
 alisverisim-online.com
@@ -53455,6 +53459,7 @@ anadolumd-portfoy.com
 anadolumd.com
 anadolumdportfoy.com
 anadolumenkuldegerler.com
+anadolumenkuldegerler.net
 anadolumobilsube.com
 anadolumsigorta.com
 anadolumsigorta.net
@@ -69116,6 +69121,7 @@ basvurznr.cyou
 basvurzns.com.tr
 basvurzns.cyou
 basvurzns.xyz
+basvurzsm.cyou
 basvurzsm.xyz
 basvurzuz.site
 basvutrruresmibnncs.com
@@ -82911,6 +82917,7 @@ bizhgsci.is-best.net
 bizhuan.sc2yun.com
 bizi-dene-daha-cok-iyisini-gorursun.com
 bizi-kim-alabilir.com
+bizi-reklamdanindirebilecekgucyok.art
 bizibirazrahatbirak-siberbilisim.net
 bizide-gordugun-gibi-karsina-ciktik-burada.com
 bizikilerburadasizneredesiniz.online
@@ -93271,6 +93278,7 @@ burdanis.22web.org
 burdanislem.22web.org
 burdanyuklemeci.rf.gd
 burdas-almaniz-laimzsi-cadir.store
+burdas-almaniz-laimzsi-kamp.store
 burdasa-aldnsiz-aldsn-teklifelr.shop
 burdasa-aldnsiz-aldsn-teklifelr.store
 burdasepetin.com
@@ -114444,6 +114452,7 @@ denememobilbank.byethost15.com
 denemeolsun.epizy.com
 denemereyon.com
 denemesdevlet1.ga
+denemesel.duckdns.org
 denemeseshaliyikamaci.site
 denemetestislemlerimiz.shop
 denemeyanilmabenim.com
@@ -138419,6 +138428,7 @@ edevletdestek.com
 edevletdestek.fun
 edevletdestek.net
 edevletdestek.org
+edevletdestek.space
 edevletdestek.unaux.com
 edevletdestekbasvuru.org
 edevletdestekcardmerkez.com
@@ -148804,6 +148814,7 @@ esubem-teb.online
 esubem-yapikredi.com
 esubem-yapikredi.net
 esubem.com.tr
+esubem.xyz
 esubembilgilendirmesi.xyz
 esubemceptebguvenligiris.com
 esubemceptebguvenligiris.net
@@ -158475,6 +158486,7 @@ firsatlarimdaa-buhafta.com
 firsatlarimdiyarim.click
 firsatlarimdunyasi.com.tr
 firsatlarimisatinalinkacirmadan.com
+firsatlarimiz.esubem.xyz
 firsatlarimiz.kmpanyalar.xyz
 firsatlarimizbzlrleanindabsvrnz.com.tr
 firsatlarimizidegerlendirin.online
@@ -208232,6 +208244,7 @@ indirim-bindirim-tr.click
 indirim-bindirim-tr.sbs
 indirim-bizde.net
 indirim-bugune-ozel-sepette.online
+indirim-carrefoursa.vercel.app
 indirim-cepte101hizmeti.com.tr
 indirim-ciyiz.site
 indirim-dukkani.online
@@ -278303,6 +278316,7 @@ onlinedashboard.hopto.org
 onlinedataccessabnb.zapto.org
 onlineddenizbasvurum.online
 onlinedealsx.cfd
+onlinedenal.sbs
 onlinedenal.xyz
 onlinedenizbasvuralarimportalin.xyz
 onlinedenizbireysel.xyz
@@ -292861,6 +292875,7 @@ plakemanset.com
 plakesubesi.com
 plakezamani.com
 plakimdan.net
+plaksteromn.xyz
 plakyhdgs.org
 plalm4.com.tr
 plaminel516.gruposenhordobonfim.com
@@ -331138,6 +331153,7 @@ siparislerinis.com
 siparisleriniz-online-ptt-market.online
 siparisleriniz.com.tr
 siparislerinizbizim1e.online
+siparislerinizlanirda.cloud
 siparislernhizlanir23temmuz.cloud
 siparislerozela101.online
 siparislistokgunleri.xyz
@@ -382839,6 +382855,7 @@ webbnglobalhediyelerkampanyasi.com
 webbnnctrgrss.xyz
 webbnsdkkrmdirmn.com
 webbs.live
+webbsbayrntilrmizimm5.xyz
 webbsbayrntilrmizin93.xyz
 webbsbayrntilrmizinis8.xyz
 webbsbayrntilrmizis0.xyz
