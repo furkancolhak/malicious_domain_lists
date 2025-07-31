@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-31T11:05:12.952910
+# Updated: 2025-07-31T12:05:13.468996
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1742,6 +1742,7 @@
 101-31temmuzda.art
 101-31temmuzgece.art
 101-31tmmzgece.art
+101-31tmmzsabah.art
 101-3haziranaksam.com
 101-3haziranon.com
 101-6hazirangece.com
@@ -23044,6 +23045,7 @@
 523657457836.duckdns.org
 523852385235235.xyz
 5238543961305130539436425743.com
+5238543961305130539436425743.xyz
 523vgx36yvkhs.ddns.net
 5240emnjsk8.duckdns.org
 5241256432.com
@@ -40853,6 +40855,7 @@ adaletgeldi.online
 adaletnoktasi.com
 adaletsarayi.net
 adaletsarayi.xyz
+adaletsorgu.org
 adalettbakanligi.com
 adaliprefabrik.com//db_template.php
 adaliprefabrik.com/db_template.php
@@ -42962,6 +42965,7 @@ agustos-indirimler.com
 agustos-indirimlerin.com
 agustos-insta-katalog.com
 agustos-kampanya-katalog.com
+agustos-kampanyalari.click
 agustos-katalog-1a1.com
 agustos-katalog-name-tr.com
 agustos-katalog-online.com
@@ -69112,6 +69116,7 @@ basvurznr.cyou
 basvurzns.com.tr
 basvurzns.cyou
 basvurzns.xyz
+basvurzsm.xyz
 basvurzuz.site
 basvutrruresmibnncs.com
 basvvuru-ieademerkezi-edevlet.com
@@ -82932,6 +82937,7 @@ bizim-kampanyalarimiz-bu-senede-bitmeyecek.shop
 bizim-mutlulugumuz.net
 bizim-olanlar-bizi-sever.xyz
 bizim-teklfierl-braudsa.store
+bizim-teklfierl-sizlerle.store
 bizim-yenii-bjvbncnm-girshnkjs.blogspot.com
 bizim-yerimize.net
 bizim-yukselenlerimiz.com
@@ -89380,6 +89386,7 @@ borsa.sekerfinans.com
 borsa.xn--bitc-oza.com
 borsadijital-tr.com
 borsadijitaltr.com
+borsadonusum.com
 borsahediyeleriii.com
 borsahub.net
 borsaistanbul.live
@@ -92786,6 +92793,7 @@ bundan-boyle-mutluyuz.com
 bundan-sonra-sadece-burada.online
 bundan-sonra-sizi-mutlu-edecek-indirimler-burada.com
 bundan-sonra-sizin-aileden-mutlu.com
+bundan-sonra.shop
 bundan-ucuzu-yok.com
 bundanesia.com
 bundansendefaydalan.net
@@ -93262,6 +93270,7 @@ burdanhemen.shop
 burdanis.22web.org
 burdanislem.22web.org
 burdanyuklemeci.rf.gd
+burdas-almaniz-laimzsi-cadir.store
 burdasa-aldnsiz-aldsn-teklifelr.shop
 burdasa-aldnsiz-aldsn-teklifelr.store
 burdasepetin.com
@@ -120140,6 +120149,7 @@ deste-sende-kartlari-actik-hadiyin.com
 desteal.net
 destebimcellc.com
 desteek-ssyal-destek.com
+destegim.esubem.xyz
 destegim.net
 destegimcifcimden.site
 destegimdenizden.com
@@ -127112,6 +127122,7 @@ dosyas.name.tr
 dosyasorgu.com
 dosyasorgu.net
 dosyasorguekrani.online
+dosyasorgulamalari.org
 dosyasorgulat.com
 dosyasorgulatuyap.com
 dosyasorgulatuzlasmaa.com
@@ -145131,6 +145142,7 @@ engnclllmrxxdetfrslltirnda.click
 engnclllmrxxtfffrslltirnda.click
 engnclllmrxxtfrslltirnda.sa.com
 engnclllmzzrxxtfrslltirnda.click
+engncllmarkttffrstlrii.sa.com
 engncllmarkttfrstlarii.sa.com
 engncllmdarkttfrstlrii.sa.com
 engncllmrx-tindmrllri.xyz
@@ -174067,6 +174079,7 @@ gordukleriniz-fazla-kalmaz-hemen-almaya-bakim.com
 gordun-kacmasin-bence.com
 gordun-kimin-icin-oldugunu.com
 goreceli-sekilde-sevindiren-yenilikler-sizlerle.com
+gorelimseni.sbs
 goremiyomnerdesiniz.cfd
 goren-bisey-yok-der-alip-yasayip-geleceksan.com
 gorenaldi.name.tr
@@ -184510,6 +184523,7 @@ handeharmonykk.com
 handeivankar.duckdns.org
 handekkdomain.com
 handelskammerportal.duckdns.org
+handeltandel.xyz
 hander.zapto.org
 handereceldomates.tk
 handerecelliyogurt.tk
@@ -189413,6 +189427,7 @@ hemnszlerlefrsatlardnyasndaa.com
 hemnyakala.store
 hemo3.ddns.net
 hemogom.online
+hemometry.com
 hempdepebryy.space
 hemplife.ddns.net
 hempower.shop
@@ -208196,6 +208211,7 @@ indiriism-firsatllarii.com
 indiriixm-firsatllarii.com
 indirim-1-0-1.com.tr
 indirim-20gb-turkcell.com
+indirim-31temmuzx.art
 indirim-a101-firsat-kampanya-haftasi-tum-hafta-boyunca323.firsatzamaniaktuel.net
 indirim-a101-i.com
 indirim-a101.com.tr.firsatlar-on-line-firsatlar.site
@@ -215281,6 +215297,7 @@ islemler-randvu-basvuru.blogspot.com
 islemler-randvu.blogspot.com
 islemler-t-burada.com
 islemler-teb.com
+islemler-tebceptepromosyonbasvurular.duckdns.org
 islemler-tebgiriskampanya.com
 islemler-tele-yukleme.b-cdn.net
 islemler-tr.com
@@ -228002,6 +228019,7 @@ kampocadir.shop
 kampocadirke.shop
 kampocdr.shop
 kamponyabuarada42.com
+kampori.xyz
 kampppanyaliurunlerimizekimindevasa.com
 kampsizbsvrgjjsiz.space
 kampspn23.com
@@ -228207,6 +228225,7 @@ kapanya-zamani.org
 kapanya-zamanlarimiz.com
 kapanyalialisverisler.online
 kapanyalialisverisler.xyz
+kaparsakkrca.xyz
 kapata-arkeologi.kemdikbud.go.id
 kapcimerim.com
 kapda-frstyuzbirile.site
@@ -233736,6 +233755,7 @@ kisal.cc
 kisal.kisalink.cc
 kisalink-n7ed.com
 kisalink.cc
+kisalink.cfd
 kisalinkkisalinkguncelle.ml
 kisalinkkisalinkguncelle.tk
 kisalinkolustur.vercel.app
@@ -260457,6 +260477,7 @@ mserrw.top
 msexcel.hopto.org
 msf-console.com
 msf-edge.com
+msf0motkr4pceei18g4m2.online
 msf1.xyz
 msfjcm.top
 msfkvnfioa.duckdns.org
@@ -277883,6 +277904,7 @@ onlinealisveris.ru.com
 onlinealisveris101.co
 onlinealisveris101.shop
 onlinealisverisadresiniz.com.tr
+onlinealisveriscim.com.tr
 onlinealisverisdysn.online
 onlinealisveriseozel101indirimleri.com
 onlinealisverisim.com.tr
@@ -337794,6 +337816,7 @@ spnsorlu-1vakf.duckdns.org
 spnsorlu-1yapl.duckdns.org
 spnsorlu-59012-icerik.online
 spnsorlu-669129229.online
+spnsorlu-yaplonline.duckdns.org
 spnsorlukampanya.com
 spnsorlukampanyalarim.com
 spnsr-prmsylnlu.frii.site
