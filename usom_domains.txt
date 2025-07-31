@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-31T18:05:13.034822
+# Updated: 2025-07-31T19:05:15.500392
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2204,6 +2204,7 @@
 101firsatlarigirisadresi.my
 101firsatlarigirisadresi.sbs
 101firsatlarim.shop
+101firsatlarisizinle.duckdns.org
 101firsatlarkapinda.com
 101firsatlaronline.xyz
 101firsatlaronlinekampanya.online
@@ -2301,6 +2302,8 @@
 101kampanya.com.tr
 101kampanya.online
 101kampanyaaldinaldin.net
+101kampanyafirsatbulusu.cfd
+101kampanyafirsatbulusu.my
 101kampanyafirsatlari.xyz
 101kampanyafirsatlariburasi.cfd
 101kampanyafirsatlariburasi.click
@@ -15754,6 +15757,7 @@
 260356c64c0291ff08c79092f7318ae3.store
 26072675.cloud
 26072676.cloud
+2608353.cloud
 26112024181916-1628sahibinden.com
 261952.cloud
 261c612f57.hopto.org
@@ -67358,6 +67362,7 @@ basvurmobildenhediyeparibucom-tr.tk
 basvurmrkz.com.tr
 basvurmrkz.online
 basvurmrkz.xyz
+basvurmrn.cyou
 basvurmrs.com.tr
 basvurmrs.cyou
 basvurmrs.xyz
@@ -102872,6 +102877,7 @@ cinseltacizdendosyasorgulama.com
 cinshu.com
 cinurl.com
 cinuyi.com
+cinvolta1o1.sbs
 cinycekecid.eu
 ciobabaaa.net
 cioco-froll.com
@@ -109009,6 +109015,7 @@ crfrsnzdntemmzgldi.com
 crfrsnzgldisizlre.com
 crfrsnzngtrdklieri.com
 crfrsnznsizdeolnlri.com
+crfrsnztemmzsonu.shop
 crfrsocksnu.com
 crfrsssnzdntmmzbitisi.com
 crfrusa.shop
@@ -184837,7 +184844,10 @@ harcaharcabitmez-008.sbs
 harcaharcabitmez-009.sbs
 harcaharcabitmez-010.sbs
 harcaharcabitmez-011.sbs
+harcaharcabitmez-012.sbs
+harcaharcabitmez-013.sbs
 harcaharcabitmez-014.sbs
+harcaharcabitmez-016.sbs
 harcaharcabitmez-101siparis.com.tr
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.live
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.xyz
@@ -189124,6 +189134,7 @@ hemenizleme.xyz
 hemenkampanyadanfaydalan.com
 hemenkampanyaedevlet.com
 hemenkampanyalarlailgilen.com.tr
+hemenkapbaskasinabirakma.xyz
 hemenkapilaracilsin.com
 hemenkapilaracilsincom.store
 hemenkapilaracilsinn.com
@@ -189138,6 +189149,7 @@ hemenkapinagelsinsiparssler.xyz
 hemenkapindacom.com
 hemenkapindasizle.83782729262739272928274917.com
 hemenkapindsnn.click
+hemenkapinizageliyoruz.com
 hemenkapinizdaptt-kargotakipleriniz.net
 hemenkapinizdaptt-takipleriniz.com
 hemenkapinizdaptt-takipleriniz.net
@@ -190616,6 +190628,7 @@ heyj3n.is-best.net
 heyjanti.online
 heyjulialin.com
 heylars2313.site
+heylerdengldkbrda.cfd
 heylink.website
 heylinkbio.app
 heylitimysun.top
@@ -199432,6 +199445,7 @@ hrzpftzjum.duckdns.org
 hs-bc-onlinebanking-alert.com
 hs-bc-onlinebanking-secure.com
 hs-bconlinebnk.com
+hs-gqwf-dqwdsgd-hhfdr2w-qdsa-gdssfadq121211-42ads.info.tr
 hs-online-banking.com
 hs-onlinebanking-customer.com
 hs-ys-e.com
@@ -215648,6 +215662,7 @@ isntr.com
 isnvnkart.blogspot.com
 isnx38r.duckdns.org
 isnxdmrlsnmdmnrm.website
+isnxdrmlsrmbnldrm.space
 isobemdenizinizde.com
 isobimm.net
 isocamprh.com.br
@@ -225920,6 +225935,7 @@ kah2c.cloud
 kahbe.store
 kahbe.world
 kahetindyt.com
+kahin.org
 kahinabsda.linkpc.net
 kahlid000.zapto.org
 kahmir-n.com
@@ -228947,6 +228963,7 @@ karaca-market.net.tr
 karaca-market.org.tr
 karaca-mutfak.com
 karaca-mutfak.online
+karaca-mutfakt-com-tr.sbs
 karaca-online.com.tr
 karaca-online.info.tr
 karaca-online.net.tr
@@ -234638,6 +234655,7 @@ klojbs.com
 klometre3.shop
 klomtresznlebrda.click
 klood600.ddns.net
+klopastsasv.vercel.app
 kloraptvergsdlks.net
 klordiktincsglour.net
 kloredano.top
@@ -236623,6 +236641,7 @@ krakowskiklimat.lat
 kraksen23.site
 kralarestsdf.xyz
 kralbabastrcsa.com
+kralbayrak66.workers.dev
 kralbenim-bilenbilir.tk
 kralbenimve2.site
 kralda-bizik-pasada.com
@@ -266612,6 +266631,7 @@ neseliyardim.tech
 neseliyardimlasma.xyz
 nesenbenibitirebildin.cyou
 nesennor.ir
+nesetertashastasyim.cfd
 nesfilokiralama.com
 nesilden.name.tr
 nesilimzenetfd.net
@@ -277488,6 +277508,7 @@ online-sistemler-ekrani.site
 online-sites.net
 online-sok.com.tr
 online-sokmarket.net
+online-sorgu-2025.my
 online-sorgu-ekrani-burda.cyou
 online-sorgu-ekrani.cfd
 online-sorgu-ekrani.click
@@ -312958,6 +312979,7 @@ rulehurl.top
 rulemartyrdom.top
 rulepipe-breakfast.com
 rulerhumanitarian.top
+rulerpanel.xyz
 ruleslaw.org
 rulestraightforward.top
 rumahcendekiaunj.com
@@ -330891,6 +330913,7 @@ sinirlisaydaurunler.com.tr
 sinirlisaydaurunler.online
 sinirlisayidadunyaozelkamsakal.shop
 sinirlisayidaflrsat.shop
+sinirlisayidagelenler.cfd
 sinirlisayidaizeltas.xyz
 sinirlisayidakikampayaninsongunu.shop
 sinirlisayidakmpnya.xyz
@@ -331177,6 +331200,7 @@ siparislerimhizlim.cloud
 siparislerin.com
 siparislerin18in.cloud
 siparislerin30temmuzda.cloud
+siparislerindehizlan25temmuzda.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
 siparislerinhizlandi25temmuzda.cloud
@@ -334692,6 +334716,7 @@ sokmarketlerisiparis.cfd
 sokmarketlerisiparisler.duckdns.org
 sokmarketlerisiparisler1.duckdns.org
 sokmarketlerisiparisler2.duckdns.org
+sokmarketlerisiparisler3.duckdns.org
 sokmarketlerkampnya.com
 sokmarketlerkapida.com
 sokmarketlerkapinda.com
@@ -335161,6 +335186,7 @@ son-katilim-2021-online-aidat-basvurusu.xyz
 son-kmannyalari-smdi-satin-al-hemengelsin.com
 son-senesonu-teksepet.shop
 son-teklfiebr-bruad.com
+son-teklfiebr-bruad.store
 son-teklfierl-braudsa.store
 son-zamanda-mutlu-hissetmek-kadar-iyisi-yok.com.tr
 son-zamanlarda-kapina-gelen-istedin-sakin-kacirma.com
@@ -336142,6 +336168,7 @@ sorgu-iadeodemeekrani.com
 sorgu-kartaidatiadekrani.com
 sorgu-kontrol-ekrani.cyou
 sorgu-kuryenet.online
+sorgu-paneli.com
 sorgu-paneli.xyz
 sorgu-sistemi.cyou
 sorgu-sistemi.top
@@ -336164,6 +336191,7 @@ sorgu.pw
 sorgu.shop
 sorgu.site
 sorgu.space
+sorgu.us
 sorgu.world
 sorgu.xyz
 sorguadresi.site
@@ -338177,6 +338205,7 @@ sponsorlugirisyapkuvveyt.com
 sponsorlugonderi--v42.duckdns.org
 sponsorlugonderi.com
 sponsorlugonderi.hekidsbilgial.com
+sponsorlugonderipaylasim.xyz
 sponsorlugonderitr.site
 sponsorlugonderiturkiye.site
 sponsorlugonderixc75s.xyz
@@ -350552,6 +350581,7 @@ temmuzbayrami.net.tr
 temmuzbayrami.org.tr
 temmuzbayrami.web.tr
 temmuzbayramkmpanyasibsvurum.net
+temmuzbucuk30dasipairsi.cloud
 temmuzbucukdasiparislerinden.cloud
 temmuzbucuksiparislerin.cloud
 temmuzcampanyalarinizzz.duckdns.org
