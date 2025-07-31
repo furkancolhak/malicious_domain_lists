@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-31T16:05:14.158989
+# Updated: 2025-07-31T17:05:14.147476
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -67487,6 +67487,7 @@ basvursrm.com.tr
 basvursrm.cyou
 basvursrm.xyz
 basvursrs.com.tr
+basvursrs.xyz
 basvursrz.com.tr
 basvursrz.cyou
 basvursrz.xyz
@@ -79030,6 +79031,7 @@ binancegiveaway.top
 binanceglblhediyeleri.ml
 binanceglobalcekilisfirsati-com.ml
 binanceglobalonayactivsyonsorgulamaonline.run.place
+binanceglobalssgifts.com
 binanceguncelcekilis.com
 binanceguvenlidogrulama.net
 binanceguvenlik.com
@@ -93118,6 +93120,7 @@ buradaspykwtheadss.net
 buradasupurgen.xyz
 buradateklif.site
 buradateklifin.site
+buradaucuzluk.duckdns.org
 buradayimbe.net
 buradayiz-cebe-destek-sistemi.com
 buradayiz-suanda.shop
@@ -276077,6 +276080,7 @@ oncepayu.tk
 onceremcserv.duckdns.org
 oncertu.pics
 oncertu.xyz
+oncesine-ilerisini-bilmeden-aktarmayan-kazanir.cfd
 oncestory.top
 oncetrips.com
 onchain-podcast.com
@@ -280467,6 +280471,7 @@ oodybkmmdolonuek.com
 ooep.pw
 oof.pw
 oofed.ddns.net
+oofishomestler.click
 oofplmh29.ru
 oofytcx99yi.ru
 oogd0iahy.duckdns.org
