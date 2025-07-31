@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-07-31T13:05:11.638241
+# Updated: 2025-07-31T14:05:13.495068
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6686,6 +6686,7 @@
 155.94.208.137
 155156112.cloud
 15515635.site
+1556265152164541.click
 155871785214.xyz
 155905735612879370.com
 155984615.site
@@ -47962,6 +47963,7 @@ aklindadilindecebindeparibubasvuruhediye-tr.tk
 aklindakiguckapinda.com
 aklindakiparibudan.com
 aklinikullan.name.tr
+aklinizda-bulundu-hangisi-burada-olmayan.com
 aklinizda-kalacak-sekilde-yaninizda-surekli.com
 aklisel.info
 aklistore.club
@@ -69121,6 +69123,7 @@ basvurznr.cyou
 basvurzns.com.tr
 basvurzns.cyou
 basvurzns.xyz
+basvurzsm.com.tr
 basvurzsm.cyou
 basvurzsm.xyz
 basvurzuz.site
@@ -90129,6 +90132,7 @@ brdafrstllrx-slzzznnsnouynii.com.tr
 brdafrstllrx-szxnnsnouynii.com.tr
 brdaindrmlerhicbitmezharca.duckdns.org
 brdan-alirsan-rahatlik-edersin.com
+brdangeldksznrdsnzbrda.shop
 brdankacmaz.com
 brdankcmazk.com
 brdaynidosylarlabsvrunuzuyapn.site
@@ -92797,6 +92801,7 @@ bunchderail.top
 bunchlogistic.top
 bunda-kalarak-herhangi-aylara-ugramaz.cfd
 bundan-boyle-mutluyuz.com
+bundan-son.shop
 bundan-sonra-sadece-burada.online
 bundan-sonra-sizi-mutlu-edecek-indirimler-burada.com
 bundan-sonra-sizin-aileden-mutlu.com
@@ -125930,6 +125935,7 @@ dogayisvkru.blogspot.com
 dogayla-birlesip-sessizlige-kavus.top
 dogayla-birlikte-mutlulugu-yasa.top
 dogayla-bulusmanin-en-guzel-anlari.top
+dogayla-ic-ice-kacamak.top
 dogayla-ic-ice-mutluluk.top
 dogayla-ic-ice-olmanin-zamani.top
 dogayla-ic-ice-sakin-bir-hayat.com
@@ -235992,6 +235998,7 @@ kontoryuklemetr.com
 kontoryuklet.ml
 kontorzone.com
 kontoyukleme.ga
+kontravolta.cfd
 kontro-yuklebimas.net
 kontrolarac.app
 kontrolbilesenleri.com
@@ -258951,6 +258958,7 @@ mogit.duckdns.org
 mogolik.at
 mogotom2.ddns.net
 mogs20.hopto.org
+mogucogu5pres.myddns.me
 mogyang.net
 mohacool.zapto.org
 mohajer61.zapto.org
@@ -305033,6 +305041,7 @@ queenlure.top
 queenmaxima.zapto.org
 queenmoa.com
 queenshippartners.com
+queensrealtymarket.com
 queentaline.ddns.net
 queenviciity.top
 quehenbergar.com
@@ -404332,6 +404341,7 @@ yazayifirsatlari.com
 yazayifirsatlarim.com
 yazayinaozelfirsatlarim.com
 yazayinaozelkampanya.com
+yazayindaonlinebasvurum.net
 yazayininfirsatlari.com
 yazaylarihizlikampanya.com
 yazaylarinaozelfirsatlar.top
@@ -409215,6 +409225,7 @@ ypdesign.gr
 ypdttye.wegukosak1.website
 ypdzdsspi.org
 yperfakeverse.xyz
+ypflsaiasc.vercel.app
 ypgnotc.com
 ypham-japan.shop
 yphcdghkosjr.info
