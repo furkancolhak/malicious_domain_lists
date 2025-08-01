@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-01T16:05:37.156085
+# Updated: 2025-08-01T17:05:11.775880
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -112672,6 +112672,7 @@ darrylgordon473.xyz
 darsigorta.net
 darsigorta.site
 darsigortam.site
+darskadamkarta.org
 dart.ddns.net
 dart23.ddns.net
 dartalienate.top
@@ -128632,6 +128633,7 @@ dunya-hediyemobildeniz.com
 dunyaalemnizane.cyou
 dunyabirligivakfi.com.tr
 dunyabiryanasenbiryanafani.xyz
+dunyabizimgelecekbizim.com.tr
 dunyadernek.site
 dunyadevibasladi.best
 dunyadonbana.online
@@ -128644,6 +128646,7 @@ dunyalar-sizin-olsun-biz-zaten-iyiyiz.com
 dunyalari-sevdiren-seyler-bizle-hayata-doner.com
 dunyalarseninolsun.me
 dunyambasvurum.net
+dunyanayak.xyz
 dunyapaketleme.com
 dunyaptt.net
 dunyasaglik-tedbirlik-webtrgirisler.com
@@ -156194,6 +156197,7 @@ fikirlerbizim9085.com
 fikirleriniz.club
 fikirleriniz.online
 fikirvizyonhare.space
+fikla.cfd
 fikoaracsectv.net
 fikoonlinefikofiko7-24onlinebremin.com
 fikoonlinesipari22-04-gel.net
@@ -196562,6 +196566,7 @@ hizlprstarih.app
 hizlrandvvmuanl.net
 hizlsid-indrdmler-burdas-aldin-aldsn.shop
 hizlsid-indrdmler-burdas-aldin-aldsn.store
+hizlsiparis1agusotstts.cloud
 hizlslermin.net
 hizlsmlermlerimiz.com
 hizluodemeservisi.org
@@ -201658,6 +201663,7 @@ i-ffsgshdsgs.sbs
 i-finansbankborcsorgulama.com
 i-finansbankborsorgulama.com
 i-fsg343ddgewqs.sbs
+i-g-kobi.sbs
 i-germany.at.ply.gg
 i-giris.site
 i-girisi-ziraat.com
@@ -279481,6 +279487,7 @@ onlinemarketim.com.tr
 onlinemarketim.net
 onlinemarketimde.com.tr
 onlinemarketimkampoanya.com
+onlinemarketin.sbs
 onlinemarketindirim.com.tr
 onlinemarketindirimleri.com
 onlinemarketindirimlerinde.net.tr
@@ -281717,6 +281724,7 @@ osetdnnjtvwwnhu.su
 oseupdate.dns-dns.com
 osev-bagiss.blogspot.com
 osfa.al
+osferatmnskasds.sbs
 osfhbdsgs.com
 osgibys.com
 oshanantes.net
