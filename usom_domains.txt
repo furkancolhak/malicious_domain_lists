@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-01T12:05:11.892863
+# Updated: 2025-08-01T13:05:11.586709
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10472,6 +10472,7 @@
 193.63.58.83
 193.8.131.223
 193.84.71.119
+193.84.71.244
 193.93.193.74
 1930-moscow.com
 193163115624323.com
@@ -17224,6 +17225,7 @@
 31.13.195.251/echo/
 31.13.248.89
 31.130.202.170
+31.131.26.161
 31.135.199.145
 31.148.219.177
 31.148.219.63
@@ -42093,6 +42095,7 @@ aenaur.ru.com
 aenelasics.xyz
 aenv.duckdns.org
 aeofuhauge.ru
+aeoghehofu.su
 aeoghehofuuxo.su
 aeoitjulplj.com
 aeolsklavier.com
@@ -125999,6 +126002,7 @@ dogayla-ic-ice-mutluluk.top
 dogayla-ic-ice-olmanin-zamani.top
 dogayla-ic-ice-sakin-bir-hayat.com
 dogayla-icice-huzurlu-yasam.com
+dogayla-kacamak-zamani.top
 dogayla-rahat-ve-konforlu-yasam.com
 dogayla-uyumlu-yasam.top
 dogaylaisbirligiyolu.xyz
@@ -127174,6 +127178,7 @@ dosyaislemlerim.com
 dosyaislemlerimiz.com
 dosyakapisi.com
 dosyakontrolet.com
+dosyalar.org
 dosyalar.turkiyemaliye.org
 dosyalarimabak.com
 dosyalarimneler.com
@@ -170524,6 +170529,7 @@ ghoda.zapto.org
 ghofpcsss.xyz
 ghogdhljan.duckdns.org
 ghoidmimby.duckdns.org
+ghosodendilhmdi1.duckdns.org
 ghoss.freeddns.org
 ghost-2016.ddns.net
 ghost1515.ddns.net
@@ -186132,6 +186138,7 @@ hayata-renk-katan-anlar.top
 hayata-sevimli-sekilde-bakanlar-yaninda.com
 hayataartivakfi.org
 hayatabaglikalinsurekli.net
+hayatabirbak.xyz
 hayatadairsiirler.blogspot.com
 hayatadolu.org
 hayataduyarlikanseverler.xyz
@@ -206052,6 +206059,7 @@ ilan-urun-satisi.com
 ilan-urun.com
 ilan-urun.com.tr
 ilan-web-tr.com
+ilan-web.com
 ilan.com-alisveris.com.tr
 ilan.com-alisveris.net
 ilan.com.de
@@ -224713,6 +224721,7 @@ k16sadhashdahsdhashd.site
 k18investgroup.com
 k19.zapto.org
 k19ys3.duckdns.org
+k1asdhashdhasdhashdhasd.site
 k1bk3k312k21sa.xyz
 k1ck4ss.duckdns.org
 k1j1egcla.duckdns.org
@@ -229197,6 +229206,7 @@ karacatrmagaza.com.tr
 karacatrmagaza.info.tr
 karacatrmagaza.org.tr
 karacaucuzsatisadresi.com
+karacayazfirsatlari.store
 karacayazgeldi.org.tr
 karacayemekk.hazirsite.pro
 karacayeniyilindirimleri.shop
@@ -234293,6 +234303,7 @@ kkbbkksskk.com
 kkbbytar.com
 kkbcuzdanlar.space
 kkbfdanismanlik.com
+kkbloldasdsa.com
 kkboylebuyurdu.com
 kkboyleemretti.com
 kkboyleistedi.com
@@ -316946,6 +316957,7 @@ sahibinden.comtr-secure.link
 sahibinden.dealv-z.site
 sahibinden.delivero.cyou
 sahibinden.detay-ilanlar.com
+sahibinden.e-alim-servisim.sa.com
 sahibinden.e-alimim.net
 sahibinden.e-alimin.com
 sahibinden.e-alimlar-tr.online
@@ -331205,6 +331217,7 @@ siparis-onayli-115525.com
 siparis-onayli-115526.com
 siparis-onayli-115529.com
 siparis-onayli-115530.com
+siparis-onayli-115532.com
 siparis-paramguvende.com
 siparis-pttavm.com.tr
 siparis-pttavm.info.tr
@@ -338468,6 +338481,7 @@ sponsorlutanitimajansi16.duckdns.org
 sponsorlutanitimlar.com.tr
 sponsorlutanitimlar.online
 sponsorlutanitimm.site
+sponsorlutanitimmedya081.duckdns.org
 sponsorlutanitimmedya24.xyz
 sponsorlutanitimmedya28.xyz
 sponsorlutanitimmedya38.xyz
@@ -341328,6 +341342,7 @@ sub.sophosantivirus.ga
 sub.thebest1jewels.waw.pl
 sub070145.codns.com
 sub1.thaihomewell.com
+sub1.x7pl9qw3zt2my8n.lol
 sub20.ddns.net
 subaaskapiidanbak.com
 subahlaraadiiadess.online
@@ -348705,6 +348720,7 @@ teb-cepsubem.com
 teb-cepte-girisler-promosyon.duckdns.org
 teb-cepte-promosyonlar.duckdns.org
 teb-cepte.com
+teb-ceptegiris-promosyonlar.life
 teb-ceptemobil-promosyon.life
 teb-ceptepromosyonlargiris.duckdns.org
 teb-com-tr.tk
@@ -367908,6 +367924,9 @@ uhaeczmtxl.duckdns.org
 uhap.co.vu
 uhapbarogiris.co.vu
 uhaportakgiris.co.vu
+uhasporsats.vercel.app
+uhaspotrsats.vercel.app
+uhaspuorsats.vercel.app
 uhawkmyyqufa.pw
 uhazdcnpuz.duckdns.org
 uhbds.icu
