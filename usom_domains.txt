@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-01T13:05:11.586709
+# Updated: 2025-08-01T14:05:11.985865
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5686,6 +5686,7 @@
 1425111112555690090.xyz
 1425111112555690091.xyz
 1425111112555690092.xyz
+1425111112555690094.xyz
 14251425554150.xyz
 14251425554152.xyz
 1425154255454.xyz
@@ -48376,6 +48377,7 @@ akt.101persembedeaksam.com
 akt.101sizlere-ozelsabah.com
 akt.cuma-onlinefirsatz.com
 akt.mayis-firsatiaksamlar.com
+akt.rcumamrkt4383.com
 akt6nc.duckdns.org
 aktalep.site
 aktanfaizsizz.cloud
@@ -50427,6 +50429,7 @@ aldinaldinfirsatlari30mayis.com
 aldinaldinfirsatlarikacirma.icu
 aldinaldinfirsatlarikacirma.sbs
 aldinaldinfirsatlarim.shop
+aldinaldingunleri.cfd
 aldinaldingunleri.my
 aldinaldingunleri.perakendealisverisim.com
 aldinaldingunleri.sbs
@@ -129740,6 +129743,7 @@ e-aktivasyongirisi.site
 e-alim-hizmeti.com.tr
 e-alim-servisi.com
 e-alim-servisi.online
+e-alim-servisim.sa.com
 e-alim-servisin.online
 e-alim-yap.net
 e-alim.online
@@ -146513,6 +146517,7 @@ enuygunuburada101.com.tr
 enuygunuburada101.online
 enuygunuburada101.xyz
 enuygunum.net
+enuygunveguvenli.xyz
 enuygunyapikredi.com
 enuyugunyzbiraygtbuarda.xyz
 env-randev.online
@@ -156181,6 +156186,7 @@ fikoonlinefikofiko7-24onlinebremin.com
 fikoonlinesipari22-04-gel.net
 fikoonlinesipari2204gel.com
 fikriinn.com
+fikrinesahip.xyz
 fikrinolsun.name.tr
 filacolonel.site
 filacolonel.xyz
@@ -215269,6 +215275,7 @@ islembilgileriniz.com
 islembilgisube.blogspot.com.tr
 islembiriki.duckdns.org
 islemcebimde.sg-host.com
+islemcepmobilgiristeb.life
 islemcepmobillmenu.online
 islemcepte.online
 islemceptenyap.net
@@ -228861,6 +228868,7 @@ kapindaindrimlerbeklee.com
 kapindaki-harika-haberler-yeniden-geldi.com
 kapindakifirsat.online
 kapindakifirsatlarin.xyz
+kapindakimutlulukgeldi.cfd
 kapindaluxmasaset.click
 kapindamarket.site
 kapindana.com.tr
@@ -233139,6 +233147,7 @@ kilometredsvcfvcd.shop
 kilometredurum.sa.com
 kilometredurumonl.com
 kilometredurumusimdiihizli.web.app
+kilometregovsorgulama.org
 kilometregulyan.shop
 kilometrehasar.shop
 kilometrehasari.shop
@@ -330005,6 +330014,7 @@ sikayetinvar-15.sbs
 sikayetinvar-21.sbs
 sikayetinvar-23.sbs
 sikayetinvar-26.sbs
+sikayetinvar-8.sbs
 sikayetinvar.com.tr
 sikayetinvar.info
 sikayetinvar.ml
@@ -383709,6 +383719,7 @@ webhizligecisler.com
 webhizligecisode.info
 webhizligecisodeme.info
 webhizligecisodemeler.info
+webhizligecisodemesi.info
 webhizligecisonlineehode.duckdns.org
 webhizligeicslerimodemem.com
 webhizligeicslerimodemesi.com
