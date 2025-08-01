@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-01T19:05:12.946080
+# Updated: 2025-08-01T20:05:12.561887
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -73088,6 +73088,7 @@ bgsikort.com.tr
 bgsikort.xyz
 bgsoknaalf.duckdns.org
 bgtfd.top
+bgturdahy.bgturadahyipz.net
 bgu52tl4.tw
 bgunburdaguvenilironline.shop
 bguneozelfirsotlar.site
@@ -92282,6 +92283,7 @@ bufrssztlr-kcamxasynii.net.tr
 bufrstbrdackbyklr.shop
 bufrstlardanfaydalanirsin.shop
 bufrstllarkcmzxynivrsion.xyz
+bufrstllarkcmzxynkivrsion.sa.com
 buftdlgldksszlrdsyz.shop
 buftstbrdakcmzsznrd.shop
 bug.tzsafe.com
@@ -157803,6 +157805,7 @@ firsatdunyasindasin.blogspot.com
 firsatdunyasivkkatilim.com
 firsatduyurulari.com
 firsatduyurusu.online
+firsatea1.cfd
 firsatekaydolun.com
 firsatekayit.com
 firsatekayiti.com
@@ -177208,6 +177211,7 @@ gunceltrsikayetler-23.sbs
 gunceltrsikayetler-251.sbs
 gunceltrsikayetler-252.sbs
 gunceltrsikayetler-254.sbs
+gunceltrsikayetler-26.sbs
 gunceltrsikayetler-3.sbs
 gunceltrsikayetler-351.sbs
 gunceltrsikayetler-352.sbs
@@ -185069,6 +185073,7 @@ harcasindikampanya.com
 harcaxharcaxibtmexx.online
 harcaxharcaxibtmexx.xyz
 harcayaharcayabitiremeceyinfirsatlar.cfd
+harcayaharcayabitiremeceyinfirsatlar.icu
 harcayaharcayabitiremeceyinfirsatlar.sbs
 harcayaharcayabitmeyenindirimler.cfd
 harcayaharcayabitmeyenindirimler.icu
@@ -185177,6 +185182,7 @@ harikafiraszamran.online
 harikafiraszamran.xyz
 harikafirsatgunlerhemensatinalfirsatlar.xyz
 harikafirsatkampanyalarinizsimdikapinizda.com.tr
+harikafirsatkampanyalarinizsimdikapinizda.online
 harikafirsatkampanyalariylamutluluksizinle.com.tr
 harikafirsatkarburada.com.tr
 harikafirsatkarburada.online
@@ -294016,7 +294022,9 @@ politique-koaci.info
 politiques-infos.info
 polityka.link
 politzerize.com
+polkaspoashr.vercel.app
 polkez.com
+polkurtasla.vercel.app
 pollallude.top
 pollasenassee.fit
 pollbenevolence.top
@@ -312213,6 +312221,7 @@ rode.hopto.org
 rodfilokiralama.com
 rodformi.run
 rodheslesson.online
+rodney.store
 rodtimberproducts.co.za/1to
 rodujuhocafy.biz
 roe.efeoyundasal.click
@@ -325407,6 +325416,7 @@ septembertruniversalbonus6thcampaing.cloud
 septemberwholesome.top
 septembre.duckdns.org
 septenber2020.xyz
+septfrsatlarnizburda.com
 septiembre2022.duckdns.org
 septiembresesientequevienediciembre.duckdns.org
 septim-index.com.tr
@@ -379858,6 +379868,7 @@ voltakampanyasiaktuel.shop
 voltakampnya1o1.net
 voltala1o1.net
 voltalarfirsat.cfd
+voltalarkampanya.cfd
 voltalarkampanya.sbs
 voltalo.cfd
 voltama1o1.net
@@ -411265,6 +411276,7 @@ zalupa.online.swtest.ru
 zalupa1488.ddns.net
 zalzalah.zapto.org
 zamaanflrsatherkesolsadaatayim.store
+zamamns-gecti-gidsito-aldin.store
 zamamns-gecti-gidsito-aldn.store
 zamamns-gecti-herzmn-aldn.store
 zaman-a-karsi-herzaman.net
@@ -415006,6 +415018,7 @@ zrvpnl8.com
 zrvpnl9.com
 zrvuuevvxc.duckdns.org
 zrwebintsubayrntilar2.xyz
+zrwebintsubayrntilrim9.xyz
 zrwebsubayrint5.xyz
 zrwebsubayrntmi3.xyz
 zrxaaiatkxredikdstek.online
