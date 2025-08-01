@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-01T21:05:14.400634
+# Updated: 2025-08-01T22:05:12.383406
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -97188,6 +97188,7 @@ carref0ursa.net
 carrefaursa.online
 carrefaursa.site
 carrefaursa.store
+carreffaursa.com
 carreffoueor-sa.online
 carreffoueoursa.com
 carreffouoursa.com
@@ -294028,6 +294029,9 @@ polityka.link
 politzerize.com
 polkaspoashr.vercel.app
 polkastasrwp.vercel.app
+polkastroasgaq.vercel.app
+polkastrotreas.vercel.app
+polkatrastro.vercel.app
 polkez.com
 polkurtasla.vercel.app
 pollallude.top
@@ -294065,6 +294069,8 @@ polrax-mobileyukle.net
 polsadasa.site
 polsafgjaksf.vercel.app
 polsasttsa.vercel.app
+polsataposteas.vercel.app
+polsgagtasetlq.vercel.app
 polskieradio.cfd
 polsterhnd.top
 polsudu.site
