@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-01T08:05:12.476702
+# Updated: 2025-08-01T09:05:21.729879
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5675,6 +5675,8 @@
 142.93.70.37/ab4g5
 142.93.88.16
 142050892.xyz
+1421212511245221122590.xyz
+1421212511245221122591.xyz
 142127831123.com
 1422561559590.xyz
 1422561559592.xyz
@@ -6053,6 +6055,7 @@
 146.19.188.249
 146.19.191.108
 146.19.191.85
+146.19.213.18
 146.19.213.36
 146.19.24.118
 146.19.247.28
@@ -17397,6 +17400,7 @@
 31pww4vhhv.com
 31qlbild.duckdns.org
 31s84g.cn
+31temmuzsiparislerinden.cloud
 31vakti12.duckdns.org
 31vakti31.duckdns.org
 31w87jjqp.duckdns.org
@@ -29057,6 +29061,7 @@
 87.120.84.39
 87.120.88.13
 87.120.88.76
+87.120.92.24
 87.121.112.77
 87.121.221.124
 87.121.45.29
@@ -51256,6 +51261,7 @@ alisverisgunlerin.online
 alisverisgunleriniz.sa.com
 alisverisgununusakalama.xyz
 alisverisguvende.com.tr
+alisverisguvenlekazan.xyz
 alisverisguvenliislem.top
 alisverisguvenliodeme.com
 alisverishaftasi.com.tr
@@ -90718,6 +90724,7 @@ browsercheckjson.azurewebsites.net
 browserdeduce.top
 browserextensio.com
 browsermeta-fb.cfd
+browsermetaurl-fb.cfd
 browsersecurityupdates.com
 browserupdate.download
 browsr.nl
@@ -97234,6 +97241,7 @@ carrfor-sa.info.tr
 carrfour-online-indirim.com
 carrfoursa.shop
 carrfoursa.site
+carrfoursaindirim.shop
 carrfoursakampanya.site
 carrfoursakampanyalar.shop
 carrfoursakampanyalar.site
@@ -138476,6 +138484,7 @@ edevletdestek.fun
 edevletdestek.net
 edevletdestek.org
 edevletdestek.space
+edevletdestek.space.tpyatirim-form.pro
 edevletdestek.unaux.com
 edevletdestekbasvuru.org
 edevletdestekcardmerkez.com
@@ -254431,6 +254440,7 @@ microsearchstat.com
 microsecurhostx2.fagdns.com
 microsecurx3.ddns.net
 microservice.zapto.org
+microsfot.org
 microsft-update.com
 microsfting.ddns.net
 microsof-update.com
@@ -279924,6 +279934,7 @@ onlinesubemizgaranti.com
 onlinesuben-acikdeniz.com
 onlinesuben-garant.cfd
 onlinesuben-garant.click
+onlinesuben-garant.sa.com
 onlinesuben-garant.sbs
 onlinesuben-garant.site
 onlinesubeniz.sa.com
@@ -287036,6 +287047,7 @@ paran-sahibinden-e-alimlar-tr.online
 paran-sahibinden-e-alimlar-tr.site
 paran-sahibindenalisveris.com
 paran.guvende.website
+paranatakip.xyz
 paranburadaguvendeparbuailesi.com
 paranburadaguvendeparibuailesi.info
 paranburdadegerliprbhediye.ml
@@ -342038,6 +342050,7 @@ subeon1linehosting.cf
 subeonle7-com.tk
 subeonline-garant.ru.com
 subeonline-garant.sa.com
+subeonline-garant.za.com
 subeonline-kampanya.com
 subeonlineiscepgiris.co.vu
 subeonlinemobildenizgiris.co.vu
@@ -350665,6 +350678,7 @@ temmuzda-kapinda.tv.tr
 temmuzda-trying-tr.xyz
 temmuzda-vakiff-firsatlari.click
 temmuzda2siparislerin.cloud
+temmuzda31siparislerin.cloud
 temmuzdaavantaj-hepyaninda-tr.xyz
 temmuzdabasliyoruz.biz.tr
 temmuzdabasliyoruz.com.tr
@@ -354351,6 +354365,7 @@ toach.photoah.com
 toaffix.top
 toakira.pro
 toalinto.top
+toalob.click
 toanugrada2025.xyz
 toas21thorn.top
 toastcaution.top
@@ -360379,6 +360394,7 @@ trlbiance.com
 trlbinanance.com
 trlbinance.org
 trlbinansce.com
+trlblnance.com
 trlblnance.com.tr
 trlescon.com
 trlescon.top
@@ -388767,6 +388783,7 @@ wwv-ing.com
 wwv-internetsube-qnbfinansbank.tk
 wwv-isbqnk.com
 wwv-paribu.com
+wwv-pttavmsecure.com
 wwv-qnbfinansbank-anket-hediye.tk
 wwv-qnbfinansbank-anket-hediyesi.tk
 wwv-qnbfinansbank-anket.tk
@@ -407173,6 +407190,7 @@ yikamastndi.shop
 yikamazamanims.shop
 yikamsaurunleri.com
 yikilanhayallerim.xyz
+yikilmayiz.sbs
 yiknzeqzb.duckdns.org
 yil-basi-kampanyasi.shop
 yil-basi-siparislerim.xyz
