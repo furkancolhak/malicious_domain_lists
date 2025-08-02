@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-02T12:05:17.098945
+# Updated: 2025-08-02T13:05:11.750394
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1736,6 +1736,7 @@
 101-29temmuzcdr.art
 101-29temmuzcrk.net
 101-29temmuzgece.com
+101-2agustos-kacirma.art
 101-2agustosdaa.art
 101-2agustosde.com
 101-2agustosip.com
@@ -42751,6 +42752,7 @@ agcallcenter.fun
 agcaybungalov.com
 agchoice.us-hindus.com
 agcsolifia.duckdns.org
+agdaposatasfa.vercel.app
 agderzuih.com
 agdfsfgsgadafdaj324.click
 agdgadgda.net
@@ -92043,6 +92045,7 @@ buckwheatlike.com
 bucocukaslan.online
 bucowyadamop.kz
 bucuk2yukleme.22web.org
+bucukbiragustosta1.cloud
 bucukdasipairlseinrnddne30.cloud
 bucuktemmuzsiparislerinde.cloud
 bucuzdankazandiriyor.com
@@ -92886,6 +92889,7 @@ bunchlogistic.top
 bunda-kalarak-herhangi-aylara-ugramaz.cfd
 bundan-boyle-mutluyuz.com
 bundan-son.shop
+bundan-sonra-adini.shop
 bundan-sonra-sadece-burada.online
 bundan-sonra-sizi-mutlu-edecek-indirimler-burada.com
 bundan-sonra-sizin-aileden-mutlu.com
@@ -100108,6 +100112,7 @@ ceptegirisdeniz.ml
 ceptegirisinizdecebinizde.b-cdn.net
 ceptegirisonline.online
 ceptegirisonline.xyz
+ceptegiristebonline.life
 ceptehaziranozel.shop
 ceptehazirkredi.com
 ceptehediyeinternetsizinle.epizy.com
@@ -110076,6 +110081,7 @@ cumarteifirsataddresi.com.tr
 cumarteifirsataddresi.online
 cumarteifirsataddresi.xyz
 cumartes-marketgncl.com
+cumartesi-agustsindrm.net
 cumartesi-firsat-kapina-geldi.xyz
 cumartesi-firsatlari-1o1.shop
 cumartesi-indirim.com
@@ -176145,6 +176151,7 @@ gsm-hizmetleriniz.com
 gsm-paket-yukleme.fun
 gsm-paketyuklemenoktasi.cf
 gsm-paketyuklemenoktasitr.tk
+gsm-subemiz.za.com
 gsm-yukleme-hizmeti-1974.fun
 gsmbilgilendirme.online
 gsmbimcelliler.com
@@ -178747,6 +178754,7 @@ guvenlipay.tk
 guvenlipay2.tk
 guvenlipay3.tk
 guvenlipay4.tk
+guvenlipazaradresi.xyz
 guvenliplatform.online
 guvenliportal.fun
 guvenlironaldo.com
@@ -293977,6 +293985,7 @@ polarpeace.top
 polarsueillance.top
 polartalermeasd.shop
 polarverse.top
+polastpoara.vercel.app
 polasyrn.shop
 polat-geldi-reklam-basvurusu-com.ml
 polatabpolars.shop
@@ -333942,6 +333951,7 @@ sncywspljy.duckdns.org
 snczvsqodz.duckdns.org
 snd1glsn0sng1br.com
 snd616.co
+sndbnmgbiolmamlisin.cfd
 snde-basvurtakipkampanyasina.com
 snde-hemenbasvurbizekatilkmpanyasi.com
 snde-hemenbasvurkmpanyasiburada.com
@@ -335390,6 +335400,7 @@ son-dakika.online
 son-dakika.org
 son-dakika.site
 son-destekk-basvuru.com
+son-dogayla-kamp-firsatlari.top
 son-durak-duracka.com
 son-e-aidat-basvurusu-bireysel-giris-2021.xyz
 son-faz-2021-guncel-e-iade-basvurusu-guvenli.xyz
