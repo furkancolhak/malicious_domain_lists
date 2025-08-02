@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-02T20:05:15.886072
+# Updated: 2025-08-02T21:05:14.065138
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2060,7 +2060,9 @@
 101aldinaldin.net
 101aldinaldinsongungroup.com
 101aldinzincirleri.shop
+101alimfirsatkampanyalariburada.cfd
 101alimfirsatkampanyalariburada.my
+101alimfirsatkampanyalariburada.sbs
 101alimlariburadan.icu
 101alimlariburadan.my
 101alimlariburadan.sbs
@@ -31410,6 +31412,7 @@
 97930.cn
 9793827521.site
 979455198746541554.space
+97987987987879.duckdns.org
 979964987.cloud
 97be9s6.duckdns.org
 97fph43x.duckdns.org
@@ -41174,6 +41177,7 @@ adfprosumsal.gq
 adfrempft.duckdns.org
 adfs.dzkk.tsk.report
 adfs.lincoln.ac.uk.itlib.me
+adfsaffasvvasg.vercel.app
 adfsnif.no
 adfte.icu
 adfwefewf.duckdns.org
@@ -42753,6 +42757,7 @@ agarentakampanyasiyaz.com.tr
 agartiyeovh.info
 agarwalpropertyconsultants.com
 agasasdsadasn.net
+agasfagascc.vercel.app
 agasfasdafas.website
 agasgahaga.click
 agatha.is-best.net
@@ -42835,6 +42840,9 @@ agfbn62tch24242.com
 agfhdsggfshhfg.click
 agfhdsggfshhfgds.click
 agfhdsggfshhfgdsf.click
+agfsattyeadfry.vercel.app
+aggadfgbbxv.vercel.app
+aggasgpolasd.vercel.app
 aggessiveamorous.top
 aggiebabes.za.com
 aggiledpozm.shop
@@ -42852,6 +42860,7 @@ aghkaps.tk
 aghmpcyk.com
 aghnia.com/wp-admin/includes/db_template.php
 aghnje.duckdns.org
+aghopaslte.vercel.app
 aghoplastsae.vercel.app
 agico.com.pk/css/themecss/db_template.php
 agifseawi.ddns.net
@@ -42965,6 +42974,7 @@ agroupofmana.com
 agrourbis.com
 agrtdg5rgefsf.com
 agrupamentoeb23gondomar.com
+agsafgggas.vercel.app
 agsbababsja-ansjls-assbsa.cfd
 agsbababsja-ansjls-assbsa.cyou
 agsbababsja-ansjls-assbsa.icu
@@ -42978,6 +42988,7 @@ agsikortam.xyz
 agsmgikdat.duckdns.org
 agsmrotntjfva.xyz
 agsn.xyz
+agsssaggasd.vercel.app
 agstaltayertsjfasldaslkdhfnsdjfnjsd.online
 agstos-kttlgg.com
 agstos-moto-katalog.com
@@ -59959,6 +59970,7 @@ aspireunilateral.top
 asplomaslas.top
 aspnet.dyndns.info
 aspnetcompiler.tplinkdns.com
+aspofapsaggas.vercel.app
 aspoynerd.weebly.com
 asppveriffyydommsx.duckdns.org
 aspsigorta.site
@@ -233365,6 +233377,7 @@ kilometresorgulayanlarchp.click
 kilometresorgulmaachp.xyz
 kilometresorguslmaz.com
 kilometresorgusu.com
+kilometresorguyssyapgovptt.web.app
 kilometresorugustovpttav.com
 kilometresotgu.duckdns.org
 kilometresrglmayochi.web.app
@@ -235401,6 +235414,7 @@ kmsorgupttavmgov-ttr.duckdns.org
 kmsorguptthemengov.duckdns.org
 kmsorgusgovpttavm-tr.duckdns.org
 kmsorgusu.blogspot.com
+kmsorgusuyaphemengovptt.com
 kmsorguu-gov-tr.duckdns.org
 kmsorguyap-ptt-gov.duckdns.org
 kmsorguyapalimhemenaninda.duckdns.org
@@ -293965,6 +293979,7 @@ poggerslol.ddns.net
 poghinfc.com
 pohar1.com
 pohcudulca.site
+pohoposetrea.vercel.app
 pohoqq32z.duckdns.org
 pohsevokap.com
 pohuistnetworq.ddns.net
@@ -294031,6 +294046,7 @@ pokymase.xyz
 pol.motorcyclesonthehighway.com
 pola123rr.hopto.org
 polakancah4d.com
+polalfppoas.vercel.app
 polandnelly.duckdns.org
 polania.duckdns.org
 polaopisa.vercel.app
@@ -294067,6 +294083,7 @@ poleneturkiye.com
 polenkan.net
 polesn.net
 polewithcandy.com
+polgalllfas.vercel.app
 polhgss.com
 polhjrebncxds.com
 police-fbi.securityservice.review
@@ -294145,11 +294162,14 @@ polkatrastro.vercel.app
 polkez.com
 polkhasreaseer.vercel.app
 polkilpolip.vercel.app
+polkkugtsakk.vercel.app
 polkolokhkllhf.vercel.app
 polkurtasftrw.vercel.app
 polkurtasla.vercel.app
 polkutrasrop.vercel.app
+polkuukulsav.vercel.app
 polkuyartsaer.vercel.app
+polkuyumnuv.vercel.app
 polkuyuyusa.vercel.app
 pollallude.top
 pollasenassee.fit
@@ -294159,6 +294179,8 @@ pollideological.top
 polliseax.fit
 pollistre.duckdns.org
 pollofx.hopto.org
+pollopolsafg.vercel.app
+pollpollosafa.vercel.app
 pollstate.top
 pollsterconverse.top
 pollutedness.com
@@ -294195,6 +294217,7 @@ polsterhnd.top
 polsudu.site
 poluhastora.vercel.app
 poluninink.ru
+poluoyastterac.vercel.app
 polusolu.site
 poluypokuyu.vercel.app
 polvsastsa.vercel.app
@@ -338557,6 +338580,7 @@ sponsorlubsvru2.xyz
 sponsorlubsvru4.xyz
 sponsorlucliks.cfd
 sponsorluduyuruservisi.net
+sponsorluekonomi.duckdns.org
 sponsorlugiris-9519238123.com
 sponsorlugiris-994728532.com
 sponsorlugiris34320234.com
@@ -338744,6 +338768,7 @@ sponsortemmuz.com
 sponsorulkampnya.baby
 sponsorulkampnyan.baby
 sponsorulkampnyani.baby
+sponsorulu-carrefoursa.vercel.app
 sponsorumgirisyaptirdi.com
 sponsorunuzbbvanizttog.com
 sponsorverdict.top
@@ -380004,6 +380029,7 @@ volrexpath-kgmyukleme.net
 volslirsan2a.digital
 volta-motor-101ortaklik.shop
 voltaaktuelleri.com
+voltaaldinfirsat.sbs
 voltaauda.net
 voltacina1o1.net
 voltafira1o1.net
