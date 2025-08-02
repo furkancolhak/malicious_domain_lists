@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-02T14:05:17.803041
+# Updated: 2025-08-02T15:05:13.269428
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -35284,6 +35284,7 @@ a1o1onlineozelkampanyas.net
 a1o1p.patliosss.click
 a1o1pe.net
 a1o1r.com
+a1o1reklamlariharcha.ddnsfree.com
 a1o1rnvzrdnz.site
 a1o1sadeceonlinee-ozeldee.com
 a1o1sadeceonlineee.online
@@ -35300,6 +35301,7 @@ a1o1sanalmarket7.top
 a1o1sanalmarket8.top
 a1o1sanalmarket9.top
 a1o1sepet.net
+a1o1sinirlistokreklam.ddnsfree.com
 a1o1sonfirsatlarim.com
 a1o1sonkampanyalaricom.shop
 a1o1sponsorlu-g.net.tr
@@ -42757,6 +42759,7 @@ agchoice.us-hindus.com
 agcsolifia.duckdns.org
 agdamolarso.vercel.app
 agdaposatasfa.vercel.app
+agdasdhkolarp.vercel.app
 agderzuih.com
 agdfsfgsgadafdaj324.click
 agdgadgda.net
@@ -42809,6 +42812,7 @@ agesdegessites.site
 agewellvitamins.com
 agfa.zapto.org
 agfaoivtau.duckdns.org
+agfaspolastasv.vercel.app
 agfbn62tch24242.com
 agfhdsggfshhfg.click
 agfhdsggfshhfgds.click
@@ -59650,6 +59654,7 @@ asigidsksakgdfshkasfkaasfkskaf.cyou
 asigidsksakgdfshkasfkaasfkskaf.icu
 asigidsksakgdfshkasfkaasfkskaf.sbs
 asigidsksakgdfshkasfkaksafgs.cyou
+asigidsksakgdfshkasfkaksafgs.sbs
 asigidsksakgdfshkasfkasggas.cfd
 asigidsksakgdfshkasfkasggas.cyou
 asigidsksakgdfshkasfkwqmgds.cfd
@@ -170794,6 +170799,7 @@ gidisyuklewww.sg-host.com
 gidisyuklewww1.sg-host.com
 gidiyoruz-buradan-sizler-mutlu-olun.com
 gidiyoruzengeldiyebiseyyok.com
+gidiyoruzsimdigeldik.com
 gidlkst.com
 gidrevi4.org
 gidynamictiling.com.au
@@ -226489,6 +226495,7 @@ kamoanyaliindimler.xyz
 kamodabkomebo.zapto.org
 kamoyu.bns-vio.space
 kamp-any-alar.com
+kamp-cantani-hazirla-cik.top
 kamp-cantani-hazirla-gel.top
 kamp-keyfi-icin-son-firsat.top
 kamp-keyfi-simdi-basliyor.top
@@ -226643,6 +226650,7 @@ kampanya-burada-sadece-etkinlik-yagmuru.com.tr
 kampanya-burada.com
 kampanya-burda-online.org
 kampanya-carrefoursa.com
+kampanya-carrefoursa.vercel.app
 kampanya-cekilisleri.net
 kampanya-dakika-bim-cell.blogspot.com
 kampanya-deniz.byethost8.com
@@ -226692,6 +226700,7 @@ kampanya-frsatbasvur.best
 kampanya-garantibonus.com
 kampanya-giris-tr.com
 kampanya-giris.com.tr
+kampanya-girisler-pormosyonumcepte.life
 kampanya-gittigidiyor.com
 kampanya-gunleri-geri-geldi.com
 kampanya-gunleri-geri-geldi.shop
@@ -229084,6 +229093,7 @@ kapladim-guzel-gunlerimize.com
 kaplnaglenler.art
 kaplndakiflrsatlar.xyz
 kaplumbagadelenler.com
+kapmanya-promosyonkontrol.life
 kapmanyaaralik.vercel.app
 kapmanyalar-bizdeyinebitmiyor.shop
 kapmanyalarbizde-yinebitmiyor.shop
@@ -232389,6 +232399,7 @@ kep-adres-tekno-sa.com
 kep04securels45log.zapto.org
 kepadres-guncelleme-hepsi.com
 kepadres-tekno-sa.com
+kepadresaktiflestirme.net
 kepadresim-aktif.com
 kepadresim-guncel.com
 kepadresim-tekno-sa.com
@@ -236869,6 +236880,8 @@ kralisis23q.site
 kralkampanyastand.store
 kralkampanyayikama.shop
 kralkaybederse.click
+kralkaybederse2.click
+kralkaybederse3.click
 krallaar.click
 krallalargeliyor.com
 krallar.za.com
@@ -281005,6 +281018,7 @@ opizzy511.ddns.net
 opjj2y8.cn
 opkfijuifbuyynyny.com
 opkjv.com
+opkjwx.click
 opklmn.html-5.me
 oplatap.com
 oplatap.xyz
@@ -294081,11 +294095,14 @@ politiques-infos.info
 polityka.link
 politzerize.com
 polkaspoashr.vercel.app
+polkaspoflkajjjas.vercel.app
 polkastasrwp.vercel.app
+polkastorasre.vercel.app
 polkastroasgaq.vercel.app
 polkastrotreas.vercel.app
 polkatrastro.vercel.app
 polkez.com
+polkhasreaseer.vercel.app
 polkurtasla.vercel.app
 pollallude.top
 pollasenassee.fit
@@ -332670,6 +332687,7 @@ sizlerlinsectigiurunlerfirsatlarlasepette.com.tr
 sizlerlinsectigiurunlerfirsatlarlasepette.online
 sizlerlleolanfirsatlar.online
 sizlerlleolanfirsatlar.xyz
+sizlertatilde.com
 sizlervebizlericinsiparisler.com.tr
 sizlervebizlericinsiparisler.xyz
 sizlllerilee-arrtilarpraa.xyz
@@ -339319,6 +339337,7 @@ ssevvindireenmiidaha-dahhaberler-suurreekli-devamli-burrradc.xyz
 ssevvindireenmiidaha-dahhaberler-suurreekli-devamli-burrrdc.com
 ssf.zapto.org
 ssfecm.top
+ssfklrkcmkzmmtmrmskflrkmkmcmz.site
 ssgde.webflow.io
 ssguvendehizmeti.net
 ssgxvx.icu
@@ -353909,6 +353928,7 @@ tl3lqnm.xdk8ax.cn
 tlahonzabica.zendesk.com
 tlaktar.com
 tlannemya.dev
+tlastweb.duckdns.org
 tlazobuc.com
 tlbak1yeyukle.rf.gd
 tlbakiyeyukle.com
