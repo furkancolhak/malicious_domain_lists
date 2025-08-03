@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-03T18:05:14.687082
+# Updated: 2025-08-03T19:05:12.810303
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -157108,6 +157108,7 @@ finanstabasladikanpanyalar.com
 finanstahayatvar.com
 finanstanhediyeler.tk
 finanstanhediyem.com
+finanstanitimkampany-s3al.duckdns.org
 finanstilsynet-dk.org
 finansubemiz.net
 finansv4hesaplidogrulama.online
@@ -169325,6 +169326,7 @@ geranntibankasi.com
 gerantakirala.shop
 gerantebvba.com
 gerantinlsetil.ddns.net
+gerantisube.shop
 gerantoutil.ddns.net
 geraupdate.com
 gerayotokiralama.online
@@ -185534,6 +185536,8 @@ harikalar-surekli-geliyor-yeniden-burada.com.tr
 harikalar-yeniden-ayaklariniza-geldi-simdi.com
 harikalar-yeniden-geliyor-sizlere-burada.com
 harikalarburadaniz.net
+harikalardakampnayalardafirsat.cfd
+harikalardakampnayalardafirsat.sbs
 harikalardiyarifirsati.cfd
 harikalardiyarikampanya.xyz
 harikalardiyarikampnayasi.cfd
@@ -189863,6 +189867,7 @@ hep-destek-tam-dstkk.com
 hep-dstk-tam-dstek.com
 hep-online.com
 hep-si-bu-ra-da.online
+hep-sizler-icin-ktelfi-buradas.store
 hep-teklfiebr-bruad.store
 hep-ucuz-tr-com.sbs
 hep-uygun-tr-com.sbs
@@ -199731,6 +199736,7 @@ hrsp3tle.shop
 hrsy-frsllk-als-vrs-kmona.xyz
 hrsy-krbn-ozel-ndrm.duckdns.org
 hrsy-lndirim.shop
+hrsy-snle.duckdns.org
 hrsy-tam-sptgel.duckdns.org
 hrsy-tam-sptgel.site
 hrsy-xmn-nrda.duckdns.org
@@ -228998,6 +229004,7 @@ kapinafirsat.com.tr
 kapinageldiflrsat.art
 kapinageldisiparisin.xyz
 kapinagelsin.org
+kapinagelsin.xyz
 kapinagelsinonlineindirimler1934.com.tr
 kapinahizme-urunelerim.com
 kapinahizmet.com
