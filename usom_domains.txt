@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-03T14:05:14.084794
+# Updated: 2025-08-03T15:05:12.618348
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1711,6 +1711,7 @@
 101-02agustosc.art
 101-02agustoscd.art
 101-03agustosdax.art
+101-03agustosoglen.art
 101-10temmuzaksm.com
 101-10temmuzaozel.com
 101-14mayssepet.com
@@ -41331,6 +41332,7 @@ adilburs.com
 adile56tasarim.com
 adiliqbal.com.pk/wp-admin/includes/db_template.php
 adilnice.zapto.org
+adimatak.xyz
 adimbilaldegilaracsonses.net
 adimikalbineyaz.sbs
 adimsepetim.com
@@ -149528,6 +149530,7 @@ etkinyuklemebimcellx.com
 etkjetkjette.com
 etkmtv22etkincell.com
 etknhgsservisi.com
+etknlik118.com
 etknmtvmerkezniz.tk
 etknmtvtrk.tk
 etknzzb1mcllsevslerm.com
@@ -163215,6 +163218,7 @@ g-bnsdestektr.com
 g-bntdestektr.com
 g-cab.nl
 g-digitallbonusislemmenu.online
+g-digitallbonuslarmenusu.online
 g-digitallbonusmenu.online
 g-digitallbonusmenulari.online
 g-digitallinbonusmenulari.online
@@ -176381,6 +176385,7 @@ gsystemaiside.shop
 gsyzm0b7y.duckdns.org
 gszzl1l2.duckdns.org
 gt-hizmet.online
+gt-sepet.online
 gt-siparis.online
 gt.rogsob.com
 gt0nllinegirisstr.net
@@ -185113,6 +185118,7 @@ harcaharcabitmez-019.sbs
 harcaharcabitmez-021.sbs
 harcaharcabitmez-022.sbs
 harcaharcabitmez-023.sbs
+harcaharcabitmez-025.sbs
 harcaharcabitmez-101siparis.com.tr
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.live
 harcaharcabitmez-a101-kasimfisati-elektronik-urunlerde-indirim.xyz
@@ -233441,6 +233447,7 @@ kilometresorgulayanlarchp.click
 kilometresorgulmaachp.xyz
 kilometresorguslmaz.com
 kilometresorgusu.com
+kilometresorguszetveefecakir.web.app
 kilometresorguyssyapgovptt.web.app
 kilometresorugustovpttav.com
 kilometresotgu.duckdns.org
@@ -234186,6 +234193,7 @@ kisameu.ddns.net
 kisaozelfinans.com
 kisaozelindirimler.xyz
 kisaparlament.net
+kisasuredeindirima1o1.duckdns.org
 kisasurelia1o1indirmleri.duckdns.org
 kisasurelifirsatlara101.duckdns.org
 kisasurelifirsatlarda1o1.duckdns.org
@@ -235481,6 +235489,8 @@ kmsorgupttavmgov-ttr.duckdns.org
 kmsorguptthemengov.duckdns.org
 kmsorgusgovpttavm-tr.duckdns.org
 kmsorgusgovpttavm-trr.duckdns.org
+kmsorgusgovpttavm-ttr.duckdns.org
+kmsorgusgovpttavmzx.duckdns.org
 kmsorgusu.blogspot.com
 kmsorgusuyaphemengovptt.com
 kmsorguu-gov-tr.duckdns.org
@@ -302581,6 +302591,7 @@ pzrhzthgvhzt.net
 pzrmarket90.com
 pzrmczsixmreglykle.net
 pzrmrketfrstlar666123.com
+pzrmrktrossy432.com
 pzrs.online
 pzrsavrhahzmnt.net
 pzrsnlkyl.shop
@@ -320177,6 +320188,7 @@ sanalkapida-klima-siparis.online
 sanalkapida-klima-siparis.xyz
 sanalkapinda-market-101.com
 sanalkapinda-market-101.online
+sanalkngbrdagldn.com
 sanalkrdi.site
 sanall-a101im.site
 sanallgiriis.com
@@ -325612,6 +325624,7 @@ sepetteodeme.com
 sepettesevilenurunlerikacirma.com.tr
 sepettesevilenurunlerikacirma.online
 sepettesevilenurunlerikacirma.xyz
+sepettesiparis.com.tr
 sepettesiparisiniz.click
 sepettesizlereurunlerfirsatta.com.tr
 sepettesizlereurunlerfirsatta.online
@@ -335838,6 +335851,7 @@ sonfirsatbugunaldinaldin.site
 sonfirsatgunleri.com
 sonfirsatgunleria.com
 sonfirsaticintikla.wiki
+sonfirsatikacirma.com
 sonfirsatikacirma.net
 sonfirsatim.com.tr
 sonfirsatindirimlerimayis.com.tr
@@ -380126,6 +380140,7 @@ volrexpath-kgmyukleme.net
 volslirsan2a.digital
 volta-motor-101ortaklik.shop
 voltaaktuelleri.com
+voltaaldinfirsat.cfd
 voltaaldinfirsat.sbs
 voltaauda.net
 voltacina1o1.net
