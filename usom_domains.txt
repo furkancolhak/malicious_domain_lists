@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-03T21:05:13.592266
+# Updated: 2025-08-03T22:05:13.317814
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43265,6 +43265,7 @@ agustosiadeleriniz-turk.com
 agustosiadesi-sorgulama-tr.com
 agustosiadesi-sorgulama.com
 agustosiadesi-sorgulamaekrani.com
+agustosindirimi.com
 agustosindirimi.duckdns.org
 agustosindirimi101.com.tr
 agustosindirimi101.online
@@ -165593,6 +165594,7 @@ garantibbvamobilbenimsubem.tk
 garantibbvamobilgiris.com
 garantibbvamobilgiriss.com
 garantibbvamobilkanal.cfd
+garantibbvamobilkanal.com
 garantibbvamobils.com
 garantibbvamobils.maximumisceps.com
 garantibbvamobilsubesikazandirir.ph
@@ -168211,6 +168213,7 @@ gecefirsatim.b-cdn.net
 gecefirsatim.online
 gecefirsatlari.shop
 gecefirsatlarikacmamali.duckdns.org
+gecefirsatlarisuana1o1de.duckdns.org
 geceflrstlarikcrmayin.com
 gecefrsatlarburada.shop
 gecefrsatlarikacirma.com
@@ -168572,6 +168575,7 @@ gelbizdeal.com.tr
 gelbizdeal.name.tr
 gelbizdeal.net.tr
 gelbizdeal.org.tr
+gelbizdeal.web.tr
 gelbizegrnt.net
 gelbizimlekatilsana.com.tr
 gelburaya.com.tr
@@ -195421,6 +195425,7 @@ hizlialisverisanindasizlerle.com.tr
 hizlialisverisanindasizlerle.xyz
 hizlialisverisegeldik.com.tr
 hizlialisverisegeliyoruz.com.tr
+hizlialisverisgunleri.cfd
 hizlialisverisim.com
 hizlialisverislersizlerle.com.tr
 hizlialisverislersizlerle.online
@@ -227753,6 +227758,7 @@ kampanyalarinadresi.online
 kampanyalarinadresi.xyz
 kampanyalarinbitmesinesongunsatinal.online
 kampanyalarinbitmesinesongunsatinal.xyz
+kampanyalaringunubugun.sbs
 kampanyalariniz-bizden.epizy.com
 kampanyalariniz.cf
 kampanyalariniz.com.tr
@@ -297712,6 +297718,7 @@ promsn-hmn-hemn-tkla-kazn-snde-ktl.site
 promsortirovochnie.com
 promsynbasvrlar.click
 promsynnqnbbkmpnya.click
+promsynvakti.click
 promsyon-alma-platforumu-hemns-al.site
 promsyon-als-hmn-kazn-snde.site
 promsyonbasvru.click
@@ -308048,6 +308055,7 @@ rcercu.hopto.org
 rceygpl.com
 rcfdhhtvz.duckdns.org
 rchan0.com
+rcheracikdnzxbsvrhmnn.duckdns.org
 rcherun.com
 rchitecture.org
 rchkzg.com
