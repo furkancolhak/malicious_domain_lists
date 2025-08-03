@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-03T10:05:13.950818
+# Updated: 2025-08-03T11:05:12.548132
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -99584,6 +99584,7 @@ cep-sube-teb-tr.com
 cep-sube-vakf.xyz
 cep-sube-yapikredi-bonus-tr.cf
 cep-sube.sbs
+cep-subem-firsatlar.duckdns.org
 cep-subem-mobil-giris.ml
 cep-subem-mobil-giris.tk
 cep-subesi-yapikredi-tr.ga
@@ -167220,6 +167221,7 @@ garentonlinekiralik.com
 garentr.com
 garentr.online
 garentr.site
+garentsubem.shop
 garentt7424onnln.net
 garentta.net
 garentta.shop
@@ -215387,6 +215389,7 @@ islem-basvur-giris-sistemi.click
 islem-basvuru-edev.xyz
 islem-basvuru.com
 islem-bilgiler-cepte.life
+islem-cep-mobilgirisler-kredi.duckdns.org
 islem-cepte-online.life
 islem-cepte-sorgu.life
 islem-ceptegiris-hemen.life
@@ -234161,6 +234164,7 @@ kisaozelfinans.com
 kisaozelindirimler.xyz
 kisaparlament.net
 kisasurelia1o1indirmleri.duckdns.org
+kisasurelifirsatlara101.duckdns.org
 kisasurelikampyafirsatlari.duckdns.org
 kisasurelizeltas.xyz
 kisatlmalisin.com
@@ -238395,6 +238399,7 @@ ktkhgss.com
 ktklbmoqkb.duckdns.org
 ktkrdbsvr.com
 ktkylsfdpassolig.net
+ktlgmgovr.top
 ktlm-islem.online
 ktlm-kmpny.net
 ktlmkmpny.net
@@ -294230,6 +294235,7 @@ pollsakppasfo.vercel.app
 pollstate.top
 pollsterconverse.top
 pollupastp.vercel.app
+pollupyaf.vercel.app
 pollutedness.com
 polluteeminent.top
 polluteendow.top
@@ -295270,6 +295276,7 @@ poyolarpo.vercel.app
 poypol.duckdns.org
 poyuduyusuyu.site
 poyuiugdgi.duckdns.org
+poyureavva.vercel.app
 pozaceranlo132127.zapto.org
 pozgio.cyou
 pozharstor-semspyat.jokideb.site
