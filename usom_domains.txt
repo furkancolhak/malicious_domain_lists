@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-03T13:05:12.818274
+# Updated: 2025-08-03T14:05:14.084794
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1710,6 +1710,7 @@
 100yilvkfbasvurux5.com
 101-02agustosc.art
 101-02agustoscd.art
+101-03agustosdax.art
 101-10temmuzaksm.com
 101-10temmuzaozel.com
 101-14mayssepet.com
@@ -12118,6 +12119,7 @@
 1o1aldinaldin.space
 1o1aldinaldinbbzlekacmaz.com
 1o1alsverslrnz.com
+1o1anlikfrsatkacmaaaz.com
 1o1anlikspeetteindrmvar.com
 1o1annelergunleri.shop
 1o1birekstra.click
@@ -43019,6 +43021,8 @@ agsmrotntjfva.xyz
 agsn.xyz
 agsssaggasd.vercel.app
 agstaltayertsjfasldaslkdhfnsdjfnjsd.online
+agstlrdacrfsda.com
+agstlrdacrfsda.info
 agstos-kttlgg.com
 agstos-moto-katalog.com
 agstoscrfsnzdngl.com
@@ -43031,6 +43035,7 @@ agstsayisfrdksndkzz8.online
 agstsbasndayararln.online
 agstsindrmfh.com
 agstsktlgmtttr.com
+agststacrfsa.com
 agsuendkdbskdbd.xyz
 agt-hq.com/hts-cache/db_template.php
 agt.net
@@ -234183,6 +234188,7 @@ kisaozelindirimler.xyz
 kisaparlament.net
 kisasurelia1o1indirmleri.duckdns.org
 kisasurelifirsatlara101.duckdns.org
+kisasurelifirsatlarda1o1.duckdns.org
 kisasurelikampyafirsatlari.duckdns.org
 kisasurelizeltas.xyz
 kisatlmalisin.com
@@ -235474,6 +235480,7 @@ kmsorgupttavmgotr.duckdns.org
 kmsorgupttavmgov-ttr.duckdns.org
 kmsorguptthemengov.duckdns.org
 kmsorgusgovpttavm-tr.duckdns.org
+kmsorgusgovpttavm-trr.duckdns.org
 kmsorgusu.blogspot.com
 kmsorgusuyaphemengovptt.com
 kmsorguu-gov-tr.duckdns.org
@@ -235505,6 +235512,7 @@ kmsrlgmasasdasdm.click
 kmsrlgmasdjm.click
 kmsrogu.xyz
 kmsrogulamaefecakir.web.app
+kmsroguuzhemengovvptt.com
 kmsrrrgulamaogretici.web.app
 kmsschps.sa.com
 kmssorgllama.click
@@ -245642,6 +245650,7 @@ lstanbulluolun.sa.com
 lstanbulodemeibb.net
 lstanbulqrt.net
 lstanbulu.net
+lstanbululasim.click
 lstanbulumuz.net
 lstanbulyilbasi.net
 lstanbwlk4rt.com
@@ -253082,6 +253091,7 @@ meloksamz.de
 melondisplace.top
 melooyna03.com
 melord.ddns.net
+melosamz.com
 melosentoduro.ddns.net
 melosiar.com
 melotchi.ru
@@ -275057,6 +275067,7 @@ ofh5jp.duckdns.org
 ofheofosugusghuhushu.info
 ofheofosugusghuhushx.biz
 ofhlwypct.com
+oficialargentina.online
 oficinabogotanor.duckdns.org
 ofil5xwpk8kncvoladcrsxy.ddns.net
 ofioxapkvitgcy.me
@@ -335246,6 +335257,7 @@ sokta-firsatrobot.org.tr
 sokta-haziranfirsatlar.com.tr
 sokta-karaca.com.tr
 sokta-klimagunleri.com.tr
+sokta-ne-var.cfd
 sokta-nisangunleri.biz.tr
 sokta-nisangunleri.com.tr
 sokta-nisangunleri.net.tr
@@ -379231,6 +379243,7 @@ vizyonkampanya.com
 vizyonkapsami.online
 vizyonkatalizatori.online
 vizyonkredihizmetleri.ru.com
+vizyonkur.xyz
 vizyonmarketi.online
 vizyonmimarliktr.com
 vizyonpanel.com
