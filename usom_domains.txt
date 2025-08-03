@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-03T12:05:13.058184
+# Updated: 2025-08-03T13:05:12.818274
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1751,6 +1751,8 @@
 101-31tmmzsabah.art
 101-3agustos.art
 101-3agustosda.art
+101-3agustosdax.art
+101-3agustosep.art
 101-3agustosfrst.art
 101-3agustosxi.art
 101-3haziranaksam.com
@@ -6737,6 +6739,7 @@
 155f00ffd2d4.com
 155polis-tr.online
 155polisi155tr.online
+155polisil155tr.online
 155polisis.online
 155polisitr.com
 155polisitr.online
@@ -11976,6 +11979,7 @@
 1kkjzq.duckdns.org
 1klkcicwe.duckdns.org
 1ko5qmy.duckdns.org
+1kontravolta.cfd
 1kotyatelephone.tk
 1kpnfzrsy.duckdns.org
 1kpwhja.duckdns.org
@@ -12112,6 +12116,7 @@
 1o1agustos-frstlari.online
 1o1aldinaldin.com
 1o1aldinaldin.space
+1o1aldinaldinbbzlekacmaz.com
 1o1alsverslrnz.com
 1o1anlikspeetteindrmvar.com
 1o1annelergunleri.shop
@@ -51337,6 +51342,7 @@ alisverisbloglari.com
 alisverisbulutu2024.com
 alisveriscebimdep-tt.com
 alisverisceptekapinda.xyz
+alisverisde.com.tr
 alisverisde1numara101.com.tr
 alisverisde1numara101.xyz
 alisverisdekampanyalifirsatlar.com
@@ -68969,6 +68975,7 @@ basvuruonlinebncatr.com
 basvuruonlinebyrdadenuz.20-42-95-49.plesk.page
 basvuruonlinehizmetlerin.xyz
 basvuruonlineislemleri-kayit.net
+basvuruonlinekayitlari.duckdns.org
 basvuruonlinekuveyt.net
 basvuruonlinetrbinancesorgu.line.pm
 basvuruonysayflarinakayitlar.space
@@ -81790,6 +81797,7 @@ birliktealisverisguzel.xyz
 birliktebasar.com
 birliktebiziz-diyalogplatformwebtrgiris.com
 birliktedahagucluyuz.cfd
+birliktedahagucluyuz.sbs
 birliktedestekler-govtr.epizy.com
 birlikteekimayikampanyalari.online
 birlikteekimayikampanyalarina.online
@@ -102302,6 +102310,7 @@ cicekbahcem.pro
 cicekbahcesi.co
 cicekbahcesi.info
 cicekbahcesi.pro
+cicekbahcesi.site
 cicekcidukkani.b-cdn.net
 cicekcigledx.com.tr
 cicekdunyalari.xyz
@@ -102337,6 +102346,7 @@ ciceklerimizozelveguzeldir.blogspot.com
 cicekmarket.site
 cicekmarket.vip
 cicekmarket.xyz
+cicekmarketim.org
 ciceksaati.app
 ciceksaati.co
 ciceksaati.com
@@ -157347,6 +157357,7 @@ firmalarimizinfirsatlaridele.space
 firmalarinizialin.buzz
 firmes777.duckdns.org
 firmlavish.top
+firmma4lari.click
 firmmelody.top
 firmmilk.top
 firmsecure.bond
@@ -167225,7 +167236,9 @@ garentonlinekiralik.com
 garentr.com
 garentr.online
 garentr.site
+garentsube.shop
 garentsubem.shop
+garentsubesi.shop
 garentt7424onnln.net
 garentta.net
 garentta.shop
@@ -245615,6 +245628,7 @@ lstanbul.net
 lstanbul.online
 lstanbul.store
 lstanbul.tech
+lstanbulbasvuru.com
 lstanbuldaodemelibb.net
 lstanbulkart.com
 lstanbulkart.istanbul
@@ -305976,6 +305990,7 @@ qybbzollqq.duckdns.org
 qyedyzkatl.recircx12.com
 qyehp2a.duckdns.org
 qyfuep.duckdns.org
+qyhahqhbmsnhnamhqhqbsnklmslkkksmbsush.xyz
 qyhebue.com
 qyjfasjle.duckdns.org
 qyjfez.duckdns.org
@@ -387238,6 +387253,7 @@ wmiecyuifc.duckdns.org
 wmiprvse.com
 wmiwapzjzt.duckdns.org
 wmjfehetrn.duckdns.org
+wmkgmgovt.top
 wmkkxzsts.duckdns.org
 wmlmjeihyf.duckdns.org
 wmm53c.cyou
