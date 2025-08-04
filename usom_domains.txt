@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-04T13:05:12.310768
+# Updated: 2025-08-04T14:05:12.174760
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -23693,6 +23693,7 @@
 5855e81d.hds-dnd9n.com.cn
 5864faa.duckdns.org
 5865485652.cloud
+5865692.space
 5869962112.cloud
 586gw15.duckdns.org
 5876.hopto.org
@@ -42806,6 +42807,7 @@ agasavvasr.vercel.app
 agasbgbasf.vercel.app
 agasfagascc.vercel.app
 agasfasdafas.website
+agasffaposa.vercel.app
 agasgahaga.click
 agasrreerg.vercel.app
 agatha.is-best.net
@@ -53395,6 +53397,7 @@ amooy.com
 amooy.com/webservice/db_template.php
 amor-clubhotels.com/db_template.php
 amordegato.es/storefront/db_template.php
+amorecok.sbs
 amorenvena.com
 amoretaniintrodano36.com
 amoretanoenntrodano38.com
@@ -82941,6 +82944,7 @@ bizburaday.shop
 bizburadayi.shop
 bizburadayizyasiz.net
 bizburayayenigelmedikgerigeldik.cloud
+bizburdakazandiriyoruz.duckdns.org
 bizburdavarkansznrdsnz.shop
 bizburdayizsizneredesiniz.com
 bizbuyuz.shop
@@ -93791,6 +93795,7 @@ busenineserink.com
 buseria4.store
 busermentyear.ddns.net
 busferbenvurdumnvl.blogspot.com
+busfrdisratlarkacmasina1o1.blogspot.com
 busfrwrknvls.blogspot.com
 busgetrent.xyz
 bush2015.net
@@ -104030,6 +104035,7 @@ client.googleapis.online
 client.yatirim-garanti.com
 client.zrtyatirim.com
 clientacceuil202405.ddns.net
+clientarea-guzelnet-tr.studiodentisticocanossa.com
 clientbanquepopulairesecuritemail.duckdns.org
 clientcare.co.ls//db_template.php
 clientcare.co.ls/db_template.php
@@ -114536,6 +114542,7 @@ demlafka.org
 demmazondem.duckdns.org
 demmokarda.surf
 demmonkampanya.xyz
+demmonsinirlisayida.xyz
 demmonzamani.xyz
 demnbsesfefd.site
 demo-hpgz.xyz
@@ -138680,6 +138687,7 @@ edevletceptesubegov-banka-giris.com
 edevletcezasistemi.com
 edevletcezasorgu.org
 edevletcezasorgulama.org
+edevletcezasorgusu.org
 edevletcezavevergiler.com
 edevletcimeraidatnoktasigovtr.com
 edevletcimeriade.com
@@ -140882,6 +140890,7 @@ efsane1o1kmpnyalartusdyr.online
 efsaneagustosflrtstlarii.com
 efsaneagustosindrmlerii.store
 efsaneagustossflrstlri.com
+efsaneagustosskampanyasi.com
 efsaneagustosslndlrmlrl.com
 efsanearalikkampanyasi.com.tr
 efsanearalikkampanyasi.online
@@ -155168,6 +155177,7 @@ fearlesbensadersad.com
 fearlescanasddas.com
 fearleskes.com.tr
 fearlesndandess.com
+fearlessbasvurusayfasi.duckdns.org
 fearlessdersecan.com
 fearlesskkbaysts.com
 fearlest.services
@@ -161716,6 +161726,7 @@ frappantz.site
 fraser337.xyz
 frasergibson8623.xyz
 frasha99.ddns.net
+frasiais.duckdns.org
 frassirishiproc.com
 fraternityg.top
 fratriedetantinetjockey.pw
@@ -175911,6 +175922,7 @@ grntibbvapromosyon.com
 grntibca.cf
 grntibdvv.tk
 grntibnkakmpya.com.tr
+grntibonus-meta.cfd
 grntibonusfirsati.com
 grntibonusmeta-fb.cfd
 grntibonusunial.com
@@ -233043,6 +233055,7 @@ kgmbeklemedenislem.sg-host.com
 kgmbilgi-icrasis.com
 kgmborcodemesorgulama.com
 kgmdencezayolodemesi2023.com
+kgmeer.qpon
 kgmetc.qpon
 kgmgc.cc
 kgmgcshizlislemelrdms.duckdns.org
@@ -234799,6 +234812,7 @@ kknm1.xyz
 kknm1best.blogspot.com
 kknnd.duckdns.org
 kkntxdmnskmcjhv.cn
+kkodddasdmmdas.com
 kkodemennet.blogspot.com
 kkolaylilkklar-ptt-kaargolariniz-gelsiin.website
 kkolaylilkklar-pttt-kaargoolariniz-gelsiin.com
@@ -250401,6 +250415,7 @@ market-alisverisleri-ptt-siparis.online
 market-alisverislerii-ptt-siparis.online
 market-bt.site
 market-bugune-ozel-indirimler-var-tr.online
+market-carrefoursa.vercel.app
 market-cepte.com
 market-cepte.com.tr
 market-dive.online
@@ -279578,6 +279593,7 @@ onlineislemlerco.tic.tc.hibushop.com
 onlineislemleregiriskapisiedevlet.com
 onlineislemlerekrani.store
 onlineislemleremlakkonut.com
+onlineislemleremlakkonut.net
 onlineislemlergirisi-com.tk
 onlineislemlergirisivkf.online
 onlineislemlergirisivkfyeni.online
