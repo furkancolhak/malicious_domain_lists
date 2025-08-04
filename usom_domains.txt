@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-04T14:05:12.174760
+# Updated: 2025-08-04T15:05:13.002326
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -11443,6 +11443,7 @@
 199.247.25.102
 199.247.30.230
 199.247.4.86
+199.247.6.61
 199.255.26.50
 199.38.243.9
 199.38.244.114/33bi
@@ -46001,6 +46002,7 @@ aishield.shop
 aiside.shop
 aisimple.top
 aisirif-sfriaiis-sifieidi.lol
+aisksdjsijdsknshak.icu
 aisleosymn.com
 aisoraplus.com
 aisozsymbsvur.net
@@ -50141,6 +50143,7 @@ alboilehizli.com
 albousala.com/db_template.php
 albrakaturk.com
 albrk71.app
+albrkabasvurukayitformu.duckdns.org
 albrktk2.app
 albrktr0.app
 albrktr01.app
@@ -87816,6 +87819,7 @@ bnnceteknomusteridestekmerkezi2022.com
 bnncetemmuzhediyeleri.cloud
 bnncetradsakmpynlarmasd.com
 bnncetrkmpyn1.store
+bnncetrkmpyn2.store
 bnnchizligirishlznca.com
 bnncl.net
 bnncll.com
@@ -93361,6 +93365,7 @@ burakegitim.org
 burakegitimvakfi.com
 burakegitimvakfi.org
 buraktuel.duckdns.org
+bural-sana-gore.shop
 buralar-sana-gore.shop
 buralar-senin-icin.com
 buralar-seninle-guzelse-sever-acele.xyz
@@ -125135,6 +125140,7 @@ djnkteufsxmhofpuc.org
 djnsklmzz381.ddns.net
 djnxtnjsuqbdewg.cn
 djoqe512.duckdns.org
+djp.center
 djqgplsfr.com
 djqhml.com
 djqyrwapbdamwaty.com
@@ -166925,6 +166931,7 @@ garantreklam25.click
 garantrkampny.vercel.app
 garantrwebsie.site
 garantsube-online.sa.com
+garantsube-password.sa.com
 garantsube-password.shop
 garantsube-passwords.sa.com
 garantsube.click
@@ -168679,6 +168686,7 @@ geldikgidiyoruz3.cfd
 geldikgidiyoruz4.cfd
 geldikgittiksimdi.com
 geldikigidiyoruz5.cfd
+geldikistedostum1.cfd
 geldikvegitmeyecegizdedik.com
 geldimgittim.online
 geldin-gordun-senin.com.tr
@@ -169690,6 +169698,7 @@ geryangro.com
 geryednkserviaktarim.my
 geryednkyonlendrmeaktarimekrani.cfd
 geryednuktransferlerekrani.site
+geryiednkaktarim.my
 geryiedonuk-iletism-servisi.site
 gerze.online
 gerzeksas.com
@@ -178764,6 +178773,7 @@ guvenlihgs3d.xyz
 guvenlihgsbakiyedollum.epizy.com
 guvenlihgss76.22web.org
 guvenlihizliodemebaglantisi.com.tr
+guvenlihizlisorunsizsiparis.xyz
 guvenlihizmetin.com.tr
 guvenlihzligecisodme.net
 guvenlihzligecisykle.net
@@ -190759,6 +190769,7 @@ heryollz.xyz
 heryone50kzan.co
 heryonepaketler-turkcell.com
 heryrvlfvlaa.online
+herzaman-aldin-aldintekfler.store
 herzaman-bunlar-gelir-tutarsan-senindir.com
 herzaman-desteye-devam.icu
 herzaman-hepdestek.com
@@ -224578,6 +224589,7 @@ justmoneykartalbddk713.duckdns.org
 justmoneykartalbddk714.duckdns.org
 justmoneykartalbddk715.duckdns.org
 justmoneykartalbddk716.duckdns.org
+justmoneykartalbddk717.duckdns.org
 justmoneykartalbddk72.duckdns.org
 justmoneykartalbddk73.duckdns.org
 justmoneykartalbddk74.duckdns.org
@@ -240072,6 +240084,7 @@ kvturkkampanyalari.com
 kvtvjm.top
 kvueytrurkr.com
 kvueyttrcep.com
+kvurfur.ru.com
 kvuyirncscru.info
 kvuytaltingoldpuannininiz.com
 kvuytaltinlootpuansizlerlealtininiz.com
@@ -255763,6 +255776,7 @@ miracledigital.vip
 miracledigitalinc.com
 miracledigitalseo.com
 miraclelegendary.top
+miracleresortslara.com
 miracletraumatic.top
 miracleworkstudios.com
 miraclon.fun
@@ -279468,6 +279482,7 @@ onlineindirimfirsatlari.com
 onlineindirimfirsatlari.online
 onlineindirimfirsatlari.shop
 onlineindirimfirsatlari.site
+onlineindirimgunleri.sbs
 onlineindirimgunleribasladi.com
 onlineindirimgunlerin.com
 onlineindirimgunlerinde.shop
@@ -288191,6 +288206,7 @@ paribu-giristransferi.com
 paribu-grs-guncel.com
 paribu-guncelcekilis2023.com
 paribu-guncelgiris.com
+paribu-guvenlik.cyou
 paribu-haberi.com
 paribu-haftasonu.com
 paribu-hediye-topla-paribu-yarinin-dunyasi-tr.cf
@@ -294590,10 +294606,12 @@ popimart.xyz
 popkapipki.ddns.net
 poplehuanirian.top
 popmarchjopa1.com
+popmuynas.vercel.app
 popo1998111.ddns.net
 popoiuiuntnt.net
 popolove275ds.ddns.net
 popooosneneee.net
+popooplas.vercel.app
 popopuns.best
 popoye.host
 poppenproductions.com
@@ -302301,6 +302319,7 @@ pupilfragile.top
 pupilfy.com
 pupilvoucher.top
 pupl.fanclub.rocks
+pupopolas.vercel.app
 puppuslog.xyz
 puppyclothesshop1.net
 puppyclothesshop2.net
@@ -302403,6 +302422,7 @@ putha.duckdns.org
 putmastering.com
 putmein.zapto.org
 putogle.com
+putraerea.vercel.app
 putrajayagemilang.com
 putsober.buzz
 puttty.org
@@ -331895,6 +331915,7 @@ siparisonaylacom.online
 siparisonaylama.store
 siparisonaylama.xyz
 siparisozetodeme.online
+siparispaneli.click
 siparispay.online
 siparispayurun.com
 siparispayurun.online
@@ -379752,6 +379773,7 @@ vkfonlineislemlergirisivkfyeni.ga
 vkfonlineislemlergirisivkfyeni.gq
 vkfonlineislemlergirisivkfyeni.ml
 vkfpagegirisonline.click
+vkfprkfsat.duckdns.org
 vkfproflarkestrs.com
 vkfrtrrrrrrrr.net
 vkfs-islem.online
@@ -389488,6 +389510,7 @@ wwvpaributoggkampanya.com
 wwvprobtcturk.com
 wwvptt-avm.com
 wwvpttavm-secure.com
+wwvpttavm-securem.com
 wwvpttavm.com
 wwvsahibinden-secure.com
 wwvsahibinden.com
