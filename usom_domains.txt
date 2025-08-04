@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-04T07:05:11.998161
+# Updated: 2025-08-04T08:05:12.653669
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -28850,6 +28850,7 @@
 85.158.108.135
 85.159.214.61
 85.159.229.62
+85.17.120.200
 85.17.127.172
 85.17.127.173
 85.17.127.174
@@ -67654,6 +67655,8 @@ basvursrm.com.tr
 basvursrm.cyou
 basvursrm.xyz
 basvursrn.com.tr
+basvursrn.cyou
+basvursrn.xyz
 basvursrs.com.tr
 basvursrs.xyz
 basvursrz.com.tr
@@ -69753,6 +69756,7 @@ baykr.space
 baykredge.store
 baykriona.icu
 bayksecure.store
+bayksow.xyz
 bayktr.trbaykl.com
 baykuus.com
 baylak.ddns.net
@@ -105035,6 +105039,7 @@ coderrytcopy.ddns.net
 codersa.xyz
 codertricks.zapto.org
 codeseek.top
+codesrobot.cfd
 codevexillium.org
 codevisualstudio.org
 codevolta.com
@@ -125738,6 +125743,7 @@ dnzdnz.freewebhostmost.com
 dnzedsanclmon1linece1el1l1emden.net
 dnzedsanclmon1linece1el1l1emdesn.net
 dnzeesdsdezcadkecliss2023.net
+dnzefshmnbrdnbsvr.duckdns.org
 dnzellm.com
 dnzels.com
 dnzfrstlsrmsmz.linkpc.net
@@ -138653,6 +138659,7 @@ edevletceptemobil.world
 edevletcepten2020formu.com
 edevletceptesubegov-banka-giris.com
 edevletcezasistemi.com
+edevletcezasorgu.org
 edevletcezasorgulama.org
 edevletcezavevergiler.com
 edevletcimeraidatnoktasigovtr.com
@@ -140685,6 +140692,7 @@ efeniveatoomos.top
 efeoyundaefefefe.click
 eferforum-bireyselkampanya-basvur-online.ml
 eferiwalabd.com
+eferoad.com
 efesakenr.net
 efesengul.online
 efesfinans.online
@@ -162014,6 +162022,7 @@ freshislem.22web.org
 freshlender.top
 freshmanenclosure.top
 freshmantemporal.top
+freshroute.top
 freshstartrmcdns.duckdns.org
 freshtech.website
 freshtime.com.pk
@@ -172408,6 +172417,7 @@ git.tc/cepteclub
 git.tzsafe.com
 git1ab.com
 gitae.duckdns.org
+gitagla.sbs
 gitanes.zapto.org
 gitanes82.zapto.org
 gitbrancher.com
@@ -173517,6 +173527,7 @@ gobal-onlinehediyenial.com
 gobalhizmet-iadetalebiniolustur.com
 gobalhizmet-iadetalebiniziolustur.com
 gobay.info
+gobaykar.site
 gobaytechs.com
 gobbledgums.com
 gobbledygook.cfd
@@ -178071,6 +178082,7 @@ guvenilensiteim.live
 guvenilensiteim.pro
 guvenilensiteim.shop
 guvenileodeme-s-paramizguvende.com
+guvenilesatiyoruz.xyz
 guvenilir-aidatt-iade.com
 guvenilir-alisveris.online
 guvenilir-alisveris.org
@@ -222096,6 +222108,7 @@ jamillassad.com
 jamis.freemyip.com
 jamm.to
 jammycanonicalupdates.cloud
+jamnesstrateg.click
 jamshed.pk
 jamsjajsmjaasdasdasdas.world
 jamudakalkan.host
@@ -224012,6 +224025,7 @@ jryb.tw
 jryeltnxyg.duckdns.org
 jrypjkiursquobo.cn
 jryycllsiwonfmt.cn
+jrzqmkxvtpln.sa.com
 jrztxofmh.xdk8ax.cn
 js-stats.com
 js-storage.click
@@ -228510,6 +228524,7 @@ kamudestek-egovtr.epizy.com
 kamudestekleme-govtr.epizy.com
 kamudosyasorgu.org
 kamuduyuru.bns-vio.site
+kamuedevlet.org
 kamuehizmet.com
 kamuhizmeti-cimer-aidat-iadeleri.com
 kamuhizmetler.com
@@ -233020,6 +233035,7 @@ kgmgov-tr.bond
 kgmgov-tr.ink
 kgmgovitr.top
 kgmgovm.top
+kgmgovot.top
 kgmgovs.sbs
 kgmgovtr.ink
 kgmgovtr.top
@@ -234693,6 +234709,7 @@ kkhandedomain.com
 kkharmonydomsom.click
 kkhearletendersenting.duckdns.org
 kkhgsbrcsodeonline.duckdns.org
+kkhhnndsadsa.space
 kkhomes.site
 kkhydy.cyou
 kkiadeislemleri.com
@@ -235567,6 +235584,7 @@ kmsorgusgovpttavm-trr.duckdns.org
 kmsorgusgovpttavm-ttr.duckdns.org
 kmsorgusgovpttavmzx.duckdns.org
 kmsorgusu.blogspot.com
+kmsorgusulamasksehh.com
 kmsorgusuyaphemengovptt.com
 kmsorguu-gov-tr.duckdns.org
 kmsorguyap-ptt-gov.duckdns.org
@@ -271165,6 +271183,7 @@ nuance215.xyz
 nuancesmgir.pw
 nuasdina1.net
 nuatt.ddns.net
+nuavolta1.cfd
 nubank-online.com
 nubaz.ddns.me
 nubberone.site
@@ -273596,6 +273615,7 @@ oav0nc5y.duckdns.org
 oavalidateaccess.ddns.net
 oavbdtsrilovnkn.ru
 oavdqpxrck.duckdns.org
+oavienet.store
 oawbimcell.com
 oawmsnxemgrbgud.ru
 oawqnbdri.com
@@ -281123,6 +281143,7 @@ openlypled.top
 openmd5.com
 openmindway.online
 openmixg.store
+openmodel.cfd
 openningsoonming.zapto.org
 openorder.site
 openoutlookdocs.hopto.org
@@ -305848,6 +305869,7 @@ quvpcxqpbvspdxk.biz
 quwjixvorh.duckdns.org
 quwqihxwnqp.net
 quxacaltlbdjkxwkx.me
+quxovyui.com
 quxyzzqogi.duckdns.org
 quyenxeko.zapto.org
 quyenzo.ru
@@ -309132,6 +309154,7 @@ redmiyonlendirmesiburadanyapilyor.baby
 redmiyonlendirmesiburadanyapilyor.click
 redmiyonlendirmesiburadanyapilyor.my
 redmond.corp-microsoft.com
+redneuronalhumana.online
 rednosehorse.com
 redofficecallcenter.com
 redondibic05.com
@@ -333860,6 +333883,7 @@ smartmediasearcher.com
 smartmeg.com
 smartmoneyinvestments.homes
 smartnest.quest
+smartnest.sbs
 smartnewjerseyhomebuyers.com/06yefer
 smartnote.co
 smartoools.co.za/db-config-ini.php
@@ -335163,6 +335187,7 @@ sokmarket.firsatgunleri.net
 sokmarket.net.tr
 sokmarket.org.tr
 sokmarket.shop
+sokmarket.son24saat.cfd
 sokmarket.store
 sokmarket.xyz
 sokmarketaktuelindirimler.com
@@ -338350,6 +338375,7 @@ spheresulphur.top
 sphericalabreast.top
 sphericaladhere.top
 sphericalstereotype.top
+spherionx.com
 sphinxon.com
 sphisctnvl.com
 sphlrjxvad.duckdns.org
@@ -352541,6 +352567,7 @@ theebeestbrookeer.website
 theeconomusbasica.com
 theefloralpos.com
 theelcapstatads.top
+theelectrohit.org
 theelitevailcollection.com
 theenahee.hopto.org
 theend.ddns.net
@@ -359080,6 +359107,7 @@ trammxersorxdsu.net
 tramnebindas.blogspot.com
 tramnrdessakin.net
 tramo-hasaro-sorgu.blogspot.com
+tramoraa.com
 tramosnatin.net
 trampofmz-23918.portmap.io
 trampresumably.top
@@ -363126,6 +363154,7 @@ tulalavno.store
 tulapolailo.site
 tuldapulda.site
 tulink.mx
+tulipank.com
 tulipvan.com
 tulpyplatxveikm.ru
 tuluavalle3.duckdns.org
@@ -411936,6 +411965,7 @@ zavasy.net
 zavasy.xyz
 zavayo.mobi
 zavdanismanlikvearacilik.net
+zavebveti.store
 zavetin.pro
 zavfer.online
 zavfi.com
