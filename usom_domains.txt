@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-03T23:05:15.646474
+# Updated: 2025-08-04T00:05:12.492827
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -40230,6 +40230,7 @@ acikkampanyalar.shop
 acikkapisosyaldestek.com
 acikkdeniz-iadesube.com
 acikkdenizzv20-giris.com
+acikkefsdnzhmngrsypp.duckdns.org
 acikkgirisdeniz-v002.tk
 acikkgirisdeniz-v071.tk
 acikkgirisdeniz-v13.tk
@@ -42813,6 +42814,7 @@ agcsolifia.duckdns.org
 agdafaspolar.vercel.app
 agdagsdmlolo.vercel.app
 agdahopasltsa.vercel.app
+agdaluoul.vercel.app
 agdamolarso.vercel.app
 agdapolasgrw.vercel.app
 agdapolastmunu.vercel.app
@@ -165568,6 +165570,7 @@ garantibbvakredi.duckdns.org
 garantibbvakredi.ml
 garantibbvakredi.rf.gd
 garantibbvakredi.vercel.app
+garantibbvakredibasvuru.com
 garantibbvakredibasvurusu.com
 garantibbvakredileriall.com
 garantibbvakredim.ml
@@ -171537,6 +171540,7 @@ giris.basvurugiris.com
 giris.basvurularim.77-83-201-133.plesk.page
 giris.bddk-aidat-iadesi-basvuru-kabul.com
 giris.ce-is.online
+giris.cetebr-tebdr.com
 giris.de-ndenk.online
 giris.den-ga.online
 giris.den-sa.online
@@ -241478,6 +241482,7 @@ lbimcellllparayuklemeservisi.com
 lbimcelltrcark.net
 lbimcelltrhizmet.com
 lbinance-tr.com
+lbinancetr.com
 lbinancetr.com.tr
 lbinanncekampanyan.tk
 lbiqeypcggnh.com
@@ -257426,6 +257431,7 @@ mobilbasvurukampanyasi-online.ga
 mobilbasvurukampanyasi-online.gq
 mobilbasvurukampanyasi-online.ml
 mobilbasvurukampanyasi-online.tk
+mobilbasvurukanali.site
 mobilbasvurukredilerdenizden.co.vu
 mobilbasvurum.com.tr
 mobilbasvurum.ip-ddns.com
@@ -335927,6 +335933,7 @@ sonfirsatbizdedir.biz.tr
 sonfirsatbizdedir.com.tr
 sonfirsatbizdedir.info.tr
 sonfirsatbizdedir.name.tr
+sonfirsatbizdedir.net.tr
 sonfirsatbizdedir.org.tr
 sonfirsatbrda.shop
 sonfirsatbugunaldinaldin.site
@@ -356815,6 +356822,7 @@ tr-garantibireyselonlinezamani.com
 tr-garantibireyselonlinezamanii.com
 tr-garantibonuskisgeldi.com
 tr-garantiiadeler.com
+tr-garantimobil.com
 tr-garantimobil.online/katil
 tr-garenta.net
 tr-garenta.org
