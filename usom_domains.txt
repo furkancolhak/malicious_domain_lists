@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-04T17:05:12.488465
+# Updated: 2025-08-04T18:05:12.017710
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16910,6 +16910,7 @@
 2takeaway.es//db_template.php
 2takeaway.es/db_template.php
 2takeaway.es/wp-admin/db_template.php
+2takildikfenas.duckdns.org
 2tapsifrance21subat.cloud
 2tapsiparis21subat.cloud
 2tcjo2bo.duckdns.org
@@ -18156,6 +18157,7 @@
 354157841634165413545431.com
 3542233342543478.com
 3543432343343.cloud
+3545625465232.click
 35470.url.9xiazaiqi.com
 354qytr.cn
 35542222534.cloud
@@ -33986,6 +33988,7 @@ a101a1lzdd-inxyzfdirsat.xyz
 a101aa.net
 a101ada.net
 a101agustosdason.duckdns.org
+a101agustosfrsatiozel.duckdns.org
 a101agustosindirimi.vercel.app
 a101akpindirim.com
 a101aksamindirim.com
@@ -68154,6 +68157,7 @@ basvuruak.com
 basvuruakbankhizli.buzz
 basvuruakbankonlinefirsat.net
 basvurual.online
+basvurualani.sbs
 basvurualegenclikkredisi.link
 basvurualtiay-deniz.online
 basvurualtiay-erteleme-onay-acik.online
@@ -80929,6 +80933,7 @@ bireyselcepteteb.com
 bireyselcloak.cf
 bireyselcuzdanonaysayfasionlineozel.line.pm
 bireyselcuzdansorgulamasayfasionline.line.pm
+bireyselde-farkimiz-tarzimizdir.ooguy.com
 bireyseldegeracikdenizv2denizbank.co.vu
 bireyseldehizli.net.tr
 bireyseldeniz.ml
@@ -85268,6 +85273,7 @@ blnancetr.christmas
 blnancetr.co
 blnancetr.info
 blnancetr.xyz
+blnancetr4.xyz
 blnanceturkiye.com
 blnanceturkiye.ml
 blnanceturkiye.tk
@@ -155465,6 +155471,7 @@ fenerbahceilaclamafirmasidometes.xyz
 fenerbahcesampionuzab.online
 fenerbonus.b-cdn.net
 fenerhabcedenizhaseteyeson.site
+feneriium.online
 fenerilaclamasifeyzi.net
 fenerissosdenissos.site
 fenerium.org
@@ -187405,6 +187412,7 @@ hbsaga-aldin-aldin.cfd
 hbsaga-aldin-aldin.cyou
 hbsaga-aldin-aldin.icu
 hbsaga-aldin-aldin.sbs
+hbsarodnoarabaode.space
 hbscstb.com
 hbsedgwey.xyz
 hbsvrm.store
@@ -226535,6 +226543,7 @@ kalbindeki-sevgiyle-hayatinda-takilan-bulurlar.com
 kalbindekiidnrimler.xyz
 kalbine-dokunup-hissediyorsan-sende-bizden-birisin.com
 kalbinegidenyoldakkifirsatlar.cfd
+kalbinegidenyoldakkifirsatlar.sbs
 kalbinfirsatin.shop
 kalbinin-icinden-hislerini-iyisinden-yakala.com
 kalbinin-sesi-burada-duyulacak.com
@@ -240265,6 +240274,7 @@ kwen0939.zapto.org
 kwentkwrt.net
 kwentongnoypi.com
 kwfnasaem.com
+kwfuwuf.ru.com
 kwfw.me
 kwgmwebgcsonhgskaryolu.duckdns.org
 kwhfibejjyxregxmnpcs.supabase.co
@@ -259679,6 +259689,7 @@ mokorotlocorporate.com/db_template.php
 mokorotlocorporate.com/wp-config-ini.php
 moktarpicaasrinabil.zapto.org
 mokuntutoku.tk
+molapsta.online
 molariform.com
 molatecta.icu
 molatoriby.cyou
@@ -260636,6 +260647,7 @@ movis-es.ignorelist.com
 movl1.ddns.net
 movokold.xyz
 movolokko.de
+movolta.cfd
 movolta.sbs
 movufa.com
 mow8aqpnl.duckdns.org
@@ -294364,6 +294376,7 @@ polarverse.top
 polasavasr.vercel.app
 polasfhhkjjsa.vercel.ap
 polaspotura.vercel.app
+polaspv.online
 polastpoara.vercel.app
 polasyrn.shop
 polat-geldi-reklam-basvurusu-com.ml
@@ -297767,6 +297780,8 @@ promosyonalmavaktin.com
 promosyonbasvuru.shop
 promosyonbasvurulari.com
 promosyonbasvurulari.shop
+promosyonbasvuruonline.duckdns.org
+promosyonbasvurusistemi.duckdns.org
 promosyonbasvurusu.com
 promosyonbasvurusuyap.me
 promosyonbasvuruyap.tr.ht
@@ -325921,6 +325936,7 @@ septiembre2022.duckdns.org
 septiembresesientequevienediciembre.duckdns.org
 septim-index.com.tr
 septimoserv.duckdns.org
+septkapidaglsne.com
 septlrmzdeburadayizszle.com
 septt-gov.top
 septtealisriskolay.net
@@ -342726,6 +342742,7 @@ subenonline-garant.za.com
 subenqnbfinans.com
 subeon1linehosting.cf
 subeonle7-com.tk
+subeonline-act.shop
 subeonline-garant.ru.com
 subeonline-garant.sa.com
 subeonline-garant.za.com
@@ -366571,6 +366588,7 @@ tuvturkaracmuaynelermb.web.app
 tuvturkaracmuaynelermh.web.app
 tuvturkaracmuaynelermj.web.app
 tuvturkaracmuaynerandvuhh.web.app
+tuvturkaracmuaynerdnvud.web.app
 tuvturkaracmuaynerf.web.app
 tuvturkaracmuyanexhzxmeti.net
 tuvturkaracmuyanexodeme.net
@@ -372374,6 +372392,7 @@ v-atandasdestek-tr.com
 v-banksection.com
 v-chords.de
 v-digitalloperamenusu.online
+v-digitalltuzelllislemenusu.online
 v-digitalltuzellmenusu.online
 v-digitalltuzelmenusu.online
 v-dijiital-vb.tk
@@ -406607,6 +406626,8 @@ yenilenencepsube-qnbfinansbank.cf
 yenilenencepsube-qnbfinansbank.ml
 yenilenendenizcep.com
 yenilenenetkinlikkatilimlari.net
+yenilenenfirsatlardabuhafta.cfd
+yenilenenfirsatlardabuhafta.sbs
 yenilenengaranti.com
 yenilenenhalkbank.com
 yenilenenhalksube.cf
