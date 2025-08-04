@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-04T11:05:12.516238
+# Updated: 2025-08-04T12:05:12.269533
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2814,6 +2814,7 @@
 103.146.23.112
 103.146.78.152
 103.147.12.116
+103.149.253.145
 103.149.28.141
 103.149.90.235
 103.15.28.195
@@ -6695,6 +6696,8 @@
 154551220867.duckdns.org
 154551220903.duckdns.org
 154551220908.duckdns.org
+15455895558998890.xyz
+15455895558998892.xyz
 154616464.cloud
 154755.hopto.org
 15475885882.xyz
@@ -12228,6 +12231,7 @@
 1o1plushaziranim.com
 1o1prsmbnrdm.com
 1o1prsmslcs.com
+1o1reklamlarisinirlistok.duckdns.org
 1o1sepetttefrsatkacmaz.com
 1o1spettefirsatkacmaz.com
 1o1sponrslklabiz.com
@@ -22779,6 +22783,7 @@
 50ggguku.duckdns.org
 50gx7y9e.duckdns.org
 50i2wf5t16ohgn1.ddns.net
+50ltaracbuzdolabi.xyz
 50meetnik.com
 50onay-basvurufinanscepteonay.vercel.app
 50prbkoin.tk
@@ -74531,6 +74536,7 @@ billgisayfam.net
 billgive.info
 billi.econeurqa.com
 billieeilish-tour.com
+billiejean.sbs
 billielaw.com/wp-config-ini.php
 billielishhui.blogspot.com
 billigkreditonline.top
@@ -80347,6 +80353,7 @@ bireysel-getsahibinden.com
 bireysel-giris-ekrani.com
 bireysel-giris-guvenli.site
 bireysel-giris-yapikredi.com
+bireysel-giris.com
 bireysel-giris.site
 bireysel-guvenli-alisveris.com
 bireysel-guvenli-ilan.com
@@ -89608,6 +89615,7 @@ borsakampanyasi.store
 borsalira.com
 borsaliraturk.com
 borsalsan.com
+borsanabzi.com
 borsapetrolturk.com
 borsaptrl.com
 borsara-tr.com
@@ -93363,6 +93371,7 @@ buralarda-kqmpnxya.net
 buralarda-mevsim-zorlu-oldu-sonan.com
 buralarda-mutluluk-sonbaharda-geldi.com
 buralarda-mutluluklar-sakin-unutmadan-alsana.com
+buralarda-sana-gore.shop
 buralarda-sevgiden-guzel-hisler-var.com
 buralarda-sizden-birazda-sevdigin-gelirler.com
 buralarda-sizleri-mutlu-edecek-hayat-budur.com
@@ -158178,6 +158187,7 @@ firsatindirimzamanibasladi.shop
 firsatindirimzamanieylul.com
 firsatindirimzamanlari.com
 firsatindirlerburdanalin.online
+firsatindirmleria1o1.blogspot.com
 firsatingunleriindirim.shop
 firsatingunlerisimdi.shop
 firsatingunu-geldi.com
@@ -160292,6 +160302,7 @@ flrsatlarinizgelolsn.xyz
 flrsatlarinizglmisolsn.xyz
 flrsatlarinizikacirmayin.shop
 flrsatlarkacmaz29mayis.shop
+flrsatlartamamensizinelinizdeolsad.rip
 flrsatoldugundanberibizsizolduk.site
 flrsatolduguzamansokmarolura.store
 flrsatolduguzamansokmarolurasa.store
@@ -177016,6 +177027,7 @@ guncelevlllkadrestr.com.tr
 guncelevlllkadresttrt.com.tr
 guncelfaizkampanyalari.com
 guncelfaturaodeme.com
+guncelfinans.com
 guncelfirsatgeldi.com.tr
 guncelfirsatgeldi.xyz
 guncelfirsatlar.com
@@ -189706,6 +189718,7 @@ hemensiparsnver.click
 hemensiparsver.info
 hemensiparsver.pro
 hemensiparsver.site
+hemensipirasiver.click
 hemensiqortaladin.com.tr
 hemensiqortaladinmi.com.tr
 hemensiqortam.net
@@ -206754,6 +206767,7 @@ ile-siparis-et.com
 ile-siparis.com.tr
 ile-siparisim.com
 ile-sistem-tamamla.com
+ile-sistemi-tamamla.com
 ile-sistemler.com
 ile-tedarik-odeme.com
 ile-tedarik-odemeler.com
@@ -224537,6 +224551,7 @@ justmoneykartalbddk707.duckdns.org
 justmoneykartalbddk709.duckdns.org
 justmoneykartalbddk712.duckdns.org
 justmoneykartalbddk713.duckdns.org
+justmoneykartalbddk714.duckdns.org
 justmoneykartalbddk715.duckdns.org
 justmoneykartalbddk716.duckdns.org
 justmoneykartalbddk72.duckdns.org
@@ -225492,6 +225507,7 @@ kacirmabul.com
 kacirmabunusendegel.com
 kacirmaca.online
 kacirmacadiri.shop
+kacirmadan-kamp-yap-topla.top
 kacirmadanaltukenmkuzere1o1.shop
 kacirmadansatinalbufirsatlarherzaman.xyz
 kacirmadansatinalmalisin.com.tr
@@ -226597,6 +226613,7 @@ kalog.vn
 kalomob.store
 kalorsystem.com
 kalpfogi.net
+kalpkalbekarsionline.cfd
 kalplere-atilan-sevgi-dolu-anlar-surekli-burada.com
 kalplere-atilan-sevgi-dolu-anlar-surekli-burada.xyz
 kalplere-atilan-sevgi-simdilik-burada.com
@@ -229362,6 +229379,7 @@ karaca-english-hhome-firsatlariyilsonu.com
 karaca-ev-aletleri.com
 karaca-firsat-dunyasi.shop
 karaca-firsat.com.tr
+karaca-firsati.duckdns.org
 karaca-gunleri-kasim.xyz
 karaca-gunlerim.xyz
 karaca-home-com-com-tr.sbs
@@ -234761,6 +234779,7 @@ kkmeoi03q.duckdns.org
 kkmftmutas.duckdns.org
 kkmmtt.duckdns.org
 kkmmwebgcshgsyol.duckdns.org
+kkmomossdasdsa.com
 kkmzkassssskkaa.top
 kkmzzupbfu.onflue.ru
 kknm1.xyz
@@ -276890,6 +276909,7 @@ onl11lineis1emgir1s.online
 onl1inehgsod3mealan1niz.com
 onl1ne-verif1cat1on.zapto.org
 onl1neb1mcelp4ketyukle.com
+onl1nemlgros.shop
 onl1nerandevualxd.net
 onlalnie-xmrkktfirstllrifyla.net.tr
 onlari-unutmayanlarin-sonunda-yine-gorusecegi.top
@@ -279543,6 +279563,7 @@ onlineislemlerbzlerlebrd.com.tr
 onlineislemlerco.tic.tc.hibushop.com
 onlineislemleregiriskapisiedevlet.com
 onlineislemlerekrani.store
+onlineislemleremlakkonut.com
 onlineislemlergirisi-com.tk
 onlineislemlergirisivkf.online
 onlineislemlergirisivkfyeni.online
@@ -291651,6 +291672,7 @@ pensive-panini.31-220-82-81.plesk.page
 pentacheck.xyz
 pentagon.info.ru.xsph.ru
 pentagonrat.ddns.net
+pentagroups.net
 pentahealthinstitute.com
 pentatic.win
 pentaxzero.click
@@ -295669,6 +295691,7 @@ pr2cyy.duckdns.org
 pr30ta.net
 pr3t815.duckdns.org
 pr4k81mt.duckdns.org
+pr7nt3wm8y.lol
 praachichemfood.com
 prabdestekgiris.com
 prabdestektr.com
@@ -298299,6 +298322,7 @@ psycch2.za.com
 psychiatristcynicism.top
 psychiatryconfederation.cn
 psychiatryturtle.top
+psycho.sbs
 psychologicalceramic.top
 psychologicalevacuate.top
 psychologie-heute.eu
@@ -332844,6 +332868,7 @@ sizleri-burda-bu-mubarek-gunde-mutlu-ederiz.com
 sizleri-daha-cabuk-sevindiren.com
 sizleri-daha-mutlu-gorup-sevindik.com
 sizleri-dusunurken-aldiniz-yoksa-uzulursunuz-burada.com
+sizleri-icin-ktelfi-buradas.store
 sizleri-mutluluga-cagirip-seviniyoruz.com
 sizleri-mutsuz-gormek-istemiyoruz-burada-songun.com
 sizleri-mutsuz-goruyoruz-burada-mutlu-olun.com
@@ -333263,6 +333288,7 @@ skkolathola.icu
 skkslslopppgranttitt.com.tr
 skkwem.ddns.net
 skl1.online
+sklaceptemr.com
 sklbimcell.com
 sklgwsdayj.duckdns.org
 sklivytoc.site
@@ -342601,6 +342627,7 @@ subenizin-pandemi1.xyz
 subenizinternet-qnbfinans.com
 subenizvakif2.co.vu
 subenonline-garant.sa.com
+subenonline-garant.za.com
 subenqnbfinans.com
 subeon1linehosting.cf
 subeonle7-com.tk
@@ -388948,6 +388975,7 @@ wvwparibuonlineislem.com
 wvwpariburmzanetkinlik.com
 wvwptt-avm.com
 wvwpttavm-secure.com
+wvwpttavm-securem.com
 wvwpttavm.com
 wvwramazanozeletkinlik.com
 wvwsahibinden.com
@@ -414682,6 +414710,7 @@ zirratkatilim.com
 zirratkrdini.baby
 zirrattemekliveciftciikrdibsvru.ip-ddns.com
 zirsaatbnkss.camdvr.org
+zirsaatbonbkasi.camdvr.org
 zirtbox.duckdns.org
 ziruecwwol.duckdns.org
 zirve.app
