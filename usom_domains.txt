@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-05T11:05:12.366769
+# Updated: 2025-08-05T12:05:13.151605
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -17587,6 +17587,7 @@
 325523788557358.com
 32563362322515556.com
 32563362322515756.com
+325656253234.click
 3257358311345.com
 3257593257.cloud
 32583362322515756.com
@@ -30238,6 +30239,7 @@
 90101010101.cloud
 901010112222-222.cloud
 9011-111-111111.cloud
+9019900990.duckdns.org
 9021vhc.duckdns.org
 902394.duckdns.org
 902at3s.cn
@@ -82598,6 +82600,7 @@ bitmeyemhgs.sg-host.com
 bitmeyen-kasim-kampanyalari.shop
 bitmeyen-mutluluk-cebinize-yakisiyor-burada.com
 bitmeyen-sevda-geliyor-hemen-hizmete.com
+bitmeyen-yaz-firsatlari.click
 bitmeyen-yeni-yil-firsatlari.shop
 bitmeyen-yeni-yilfirsatlari.shop
 bitmeyen-yeniyilfirsatlari.shop
@@ -129351,6 +129354,7 @@ dvtdbzjgzk.duckdns.org
 dvtortkbnk.online
 dvtr-ewret.com
 dvtrgbprhxdwuai.info
+dvujoqwtiaicmraxwzkp.com
 dvun.hopto.org
 dvuugwzaqb.duckdns.org
 dvuvyoyk.duckdns.org
@@ -160329,6 +160333,7 @@ flrsathergunindirimoldusaol.store
 flrsatherkesgelsanaderamasenkac.store
 flrsatherkeslecumartrsidegelded.store
 flrsatherkesleguzelhemen.store
+flrsatherkesleolsapazartesigel.rip
 flrsatherkesleolursasenolmalaan.shop
 flrsatherklessokkosaldiyebagir.store
 flrsatherolursaolsadagelebilir.shop
@@ -192988,6 +192993,7 @@ hgsmgss.net
 hgsmlemelerim.net
 hgsmlnguncel.com
 hgsmlnnyukleme.com
+hgsmobilbrcod.com
 hgsmobildenyukleme.com
 hgsmobilyuklemeler.com
 hgsmobilyuklemeleri.com
@@ -196781,6 +196787,7 @@ hizliteklifgga.site
 hizliteklifggb.site
 hizliteklifler.com.tr
 hizliteknolojihizmetler2023.online
+hizlitercihin.com
 hizliteslim.com.tr
 hizliteslimat.online
 hizliteslimat.shop
@@ -198257,6 +198264,7 @@ hoisllemenulogin.com
 hoistlogistics.top
 hoiubusiness.duckdns.org
 hojestkersts.com
+hojestkertlest.cloud
 hojgklks.org
 hojlshg.org
 hok7fvy6v.duckdns.org
@@ -226821,6 +226829,7 @@ kamp-cantani-hazirla-cik.top
 kamp-cantani-hazirla-gel.top
 kamp-keyfi-icin-son-firsat.top
 kamp-keyfi-simdi-basliyor.top
+kamp-malzemeleri-son-firsat.top
 kamp-malzemeleri-son-indirim.top
 kamp-malzemelerini-kacirmadan-al.top
 kamp-shopping.online
@@ -288302,6 +288311,7 @@ paribu-giristransferi.com
 paribu-grs-guncel.com
 paribu-guncelcekilis2023.com
 paribu-guncelgiris.com
+paribu-guvenlik.click
 paribu-guvenlik.cyou
 paribu-haberi.com
 paribu-haftasonu.com
@@ -298673,6 +298683,7 @@ ptltakkdpkargm.com
 ptltakkibm.com
 ptltgov-ptt.top
 ptltkargotakp.net
+ptltkmsorglm.com
 ptltkrgtakkiph.com
 ptltksrgotakbi.net
 ptm-wd3463btrq-uc.a.run.app
@@ -335387,6 +335398,7 @@ sokmarket-sokmarket.com
 sokmarket-sokmarket.site
 sokmarket-tr.club
 sokmarket-tr.site
+sokmarket-yazindirimleri.cfd
 sokmarket.cfd
 sokmarket.com-cpsk.com.tr
 sokmarket.com-e-eurun.com.tr
@@ -335406,6 +335418,7 @@ sokmarketburada.com.tr
 sokmarketcarsamba.site
 sokmarketcepte-indirim.com
 sokmarketcepte.com
+sokmarketcepte.duckdns.org
 sokmarketcepte.online
 sokmarketcepte.site
 sokmarketcepte.xyz
@@ -383834,6 +383847,7 @@ webbnsdkkrmdirmn.com
 webbs.live
 webbsbayrntilrmizimm5.xyz
 webbsbayrntilrmizimp5.xyz
+webbsbayrntilrmizimpm9.xyz
 webbsbayrntilrmizims2.xyz
 webbsbayrntilrmizin93.xyz
 webbsbayrntilrmizinis8.xyz
