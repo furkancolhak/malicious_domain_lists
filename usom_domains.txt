@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-05T05:05:12.644981
+# Updated: 2025-08-05T06:05:12.676645
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -62280,6 +62280,7 @@ aviskiraoto.online
 aviskurumsalfiiokiralama.com
 aviskurumsalfilokiralama.com
 avisle-kirala.com
+avisle.icu
 avislearackirala.ml
 avislearackiralama.ml
 avislehizlakirala.cf
@@ -88127,6 +88128,7 @@ bnsbasvurtr.com
 bnsbasvurugiris.com
 bnsbasvurular.com
 bnsbasvurutr.com
+bnsbbvs.com
 bnsc-giris-sayfasi.com
 bnsc.2dnserver.com
 bnsc.x-tokens.online
@@ -114737,6 +114739,7 @@ denemebonusu2023.com
 denemebonusual.xyz
 denemebonusuilekazan.com
 denemebonusuyeni.org
+denemeden-aldikdemeyin-firsatlari.com.tr
 denemeden-aldikdemeyin-firsatlari.cyou
 denemeden-aldikdemeyin-firsatlari.xyz
 denemeden-ne-kadar-iyi-oldugunu-bilemezsin-al.com
@@ -128893,6 +128896,7 @@ dunyalari-sevdiren-seyler-bizle-hayata-doner.com
 dunyalarseninolsun.me
 dunyambasvurum.net
 dunyanayak.xyz
+dunyaninenucuzalisverisyerleri.cfd
 dunyaninenucuzalisverisyerleri.sbs
 dunyapaketleme.com
 dunyaptt.net
@@ -175981,6 +175985,7 @@ grntibca.cf
 grntibdvv.tk
 grntibnkakmpya.com.tr
 grntibonus-meta.cfd
+grntibonus-metafb.cfd
 grntibonusfirsati.com
 grntibonusmeta-fb.cfd
 grntibonusunial.com
@@ -185683,6 +185688,7 @@ harikalardiyarikampnayasi.cfd
 harikalardiyarikampnayasi.icu
 harikalardiyarikampnayasi.my
 harikalardiyarinageldin.blogspot.com
+harikalargunukampanaar.sbs
 harikamarketimm.com
 harikamayisfirsatlari.com.tr
 harikamayisfirsatlari.online
@@ -217420,6 +217426,8 @@ istericaoperamus.ru
 istermsenden.com
 istersen-bugunlerde-mutlu-eder.com
 istersen-senin-olabilir.com
+istersentekrardene.cfd
+istersentekrardene.sbs
 isterviipx.cfd
 istesinirdeniz.com
 istesinirdeniz.xyz
@@ -258184,6 +258192,7 @@ mobildenizramazankredinaninda.online
 mobildenizsenin.com.tr
 mobildenizseninle.com.tr
 mobildenizsizeozel.info
+mobildenizspromosyn.bounceme.net
 mobildenizsube.cf
 mobildenizsube.com
 mobildenizsube.ga
@@ -266280,6 +266289,7 @@ nazqxq.net
 nb2y7lscc.duckdns.org
 nb4ixx3kg.duckdns.org
 nb50dmwo4zo5edo8.zapto.org
+nb5kw9rt2m.lol
 nba.goldysat.com
 nbaglass.com
 nbanandaslkolaylk.com
@@ -326098,6 +326108,7 @@ seridom-dom.site
 series-mpegs.gl.at.ply.gg
 series236.xyz
 seriesprogressive.top
+serigrafik.pro
 serihizliyukle.sg-host.com
 serikatil007.com
 serilrlsrmkl.duckdns.org
@@ -330984,6 +330995,7 @@ sikayyetvarkuruumsal.ml
 sikayyetvarkuruumsal.tk
 sikhfamilyfoodvan.org.au
 sikhforjustice.org
+sikilmisgotundavasiolmaz.sbs
 sikilpkqa.servehttp.com
 sikkaayet-uyari-anasayfa.ga
 sikkaayet-var-anasayfa.ga
@@ -372427,6 +372439,7 @@ v-akifozellimit.xyz
 v-akiftanlimitler.xyz
 v-akiftaonlinelimit.xyz
 v-atandasdestek-tr.com
+v-ayin-kredi-firsati.xyz
 v-banksection.com
 v-chords.de
 v-digitalloperamenusu.online
@@ -415659,6 +415672,7 @@ zrtbnkkrdfrst.xyz
 zrtbnkonline.xyz
 zrtfrstlrrrsas.xyz
 zrtkalim.com
+zrtlftnkrdiibsvru.duckdns.org
 zrtlmnbnbs.duckdns.org
 zrtnzhmbsdf.gleeze.com
 zrtnzhmnglsns.gleeze.com
