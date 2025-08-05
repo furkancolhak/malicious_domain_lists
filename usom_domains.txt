@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-05T10:05:13.842011
+# Updated: 2025-08-05T11:05:12.366769
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -128885,7 +128885,6 @@ dunya-hediyemobildeniz.com
 dunyaalemnizane.cyou
 dunyabirligivakfi.com.tr
 dunyabiryanasenbiryanafani.xyz
-dunyabizimgelecekbizim.com.tr
 dunyadernek.site
 dunyadevibasladi.best
 dunyadonbana.online
@@ -166552,6 +166551,7 @@ garantimobil-com-tr.ml
 garantimobil-com-tr.tk
 garantimobil-hediye.com
 garantimobil-online.com
+garantimobil.cfd
 garantimobil.live
 garantimobil.ml
 garantimobil.org
@@ -189645,6 +189645,7 @@ hemenkiralariz.com
 hemenkiralikaraban.com.tr
 hemenkiralikaracim.com.tr
 hemenkmaraba.com
+hemenkmsorg.shop
 hemenkmsrg.com
 hemenkolaycagelsenizessad.com
 hemenkolaycaglsnenzse.com
@@ -213650,6 +213651,7 @@ ircx.us.to
 ircxx.us.to
 iregentos.info
 ireiureoi0dwoi.com
+iremcicek.com.tr
 iremkurumu.com
 ireopsmrert.info
 iresolved-reccovery.hopto.org
@@ -259251,6 +259253,7 @@ mobilticaretp-ttsnaal.com
 mobiltlyukle.com
 mobiltlyukleme.com
 mobiltogbasvuru.duckdns.org
+mobiltr-islem.com.tr
 mobiltrafikveznesi.ml
 mobiltrbasvuruportali-besinciyilaozel-tr.tk
 mobiltrbn2022-tekno-2022gunlerimusterilerimizle.com
