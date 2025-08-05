@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-05T13:05:12.981390
+# Updated: 2025-08-05T14:05:12.441479
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3203,6 +3203,8 @@
 104.238.159.149
 104.238.172.90
 104.238.177.242
+104.238.205.105
+104.238.220.216
 104.238.61.144
 104.239.213.7
 104.243.32.142/~control/hgs
@@ -8529,6 +8531,7 @@
 181.214.223.96
 181.214.58.14
 181.215.176.23
+181.215.182.64
 181.215.226.168
 181.215.237.34
 181.215.246.155
@@ -10325,6 +10328,7 @@
 193.160.32.118
 193.161.193.99
 193.162.143.218
+193.163.194.7
 193.163.7.160
 193.164.223.77
 193.164.7.120
@@ -10426,6 +10430,7 @@
 193.239.147.197
 193.239.147.201
 193.239.147.46
+193.239.236.149
 193.239.84.205
 193.239.85.55
 193.239.86.168
@@ -10665,6 +10670,7 @@
 194.33.40.104
 194.33.40.164
 194.33.40.72
+194.33.45.155
 194.36.173.3/exploit
 194.36.173.3/lmaowtf
 194.36.173.4
@@ -19873,6 +19879,7 @@
 42.230.50.75
 42.238.24.9
 42.239.227.39
+42.252.99.59
 42.51.40.184
 42.84.228.232
 42.87.173.217
@@ -20916,6 +20923,7 @@
 45.86.163.163
 45.86.163.77
 45.86.163.93
+45.86.208.240
 45.86.230.20
 45.86.230.64
 45.86.54.206
@@ -27122,6 +27130,7 @@
 77.246.96.7
 77.247.110.58
 77.247.126.200
+77.247.126.239
 77.247.181.162
 77.255.12.88
 77.28.198.246
@@ -85295,6 +85304,7 @@ blnancetr.christmas
 blnancetr.co
 blnancetr.info
 blnancetr.xyz
+blnancetr3.xyz
 blnancetr4.xyz
 blnanceturkiye.com
 blnanceturkiye.ml
@@ -91194,6 +91204,7 @@ bsrtangrsfa.net
 bss9mi6v.duckdns.org
 bssadvtt-dvttt.com
 bssasascvsbn14-vnblassawkspacket.com
+bssfryzaktlnmndlrms.click
 bsshdddhd.online
 bssjr.com
 bssnonline.ddns.net
@@ -104180,6 +104191,7 @@ clio2024.top
 cliobomb11.xyz
 clipallotment.top
 clipboardgames.xyz
+cliper.digital
 cliphot.me
 clipjudicial.top
 clipper.guru
@@ -171741,6 +171753,7 @@ giris.szden-bzden.online
 giris.szdeniz-bzdenz.online
 giris.szdn-bzdn.online
 giris.te-bce.online
+giris.tebrd-gerd.com
 giris.test-izlem.xyz
 giris.tkk-vy.online
 giris.to-ga.online
@@ -196344,6 +196357,7 @@ hizlikampanyasi.pw
 hizlikantemsi-8f6890bc61a1.herokuapp.com
 hizlikantemsin-c25e1fcaa9b4.herokuapp.com
 hizlikatilisacikdenizv2denizbank.co.vu
+hizlikaybol.sbs
 hizlikaydet724.com
 hizlikaydetseniz.com
 hizlikaydol.online
@@ -224681,6 +224695,7 @@ justmoneykartalbddk73.duckdns.org
 justmoneykartalbddk74.duckdns.org
 justmoneykartalbddk75.duckdns.org
 justmoneykartalbddk800.duckdns.org
+justmoneykartalbddk801.duckdns.org
 justmoneykartalkredi.duckdns.org
 justmoneykartalmercedes.duckdns.org
 justmoneykartalreklamlar.duckdns.org
@@ -233615,6 +233630,7 @@ kilogramstagger.top
 kilogramvelocity.top
 kilohor110.hopto.org
 kilohysterical.top
+kilomersssorgulamatpgovm.duckdns.org
 kilomersssrorgulamatpgov.duckdns.org
 kilometer1509.blogspot.com
 kilometerherald.top
@@ -235506,6 +235522,7 @@ kmkaydim.net
 kmkhgss.com
 kmkilometre.com
 kmkmsorgulahemen-gov-tr.duckdns.org
+kmkmsrogruszpttgovavm.com
 kmkzxx0a.duckdns.org
 kmlahdzc.net
 kmlbilgisisweb.sbs
@@ -247447,6 +247464,7 @@ m-turkiyegov-tr.com
 m-tv-trafik.shop
 m-twodemelerimtr.com
 m-uhde.de
+m-vakif-firsatim.click
 m-vibisubeislemleri.com
 m-wwwtuorkiye.online
 m-wwwturkiye.online
@@ -280446,6 +280464,7 @@ onlinesorgu.tk
 onlinesorgu2025.cfd
 onlinesorguekrani.site
 onlinesorguekrani.store
+onlinesorguiletisim.my
 onlinesorguislem.com
 onlinesorguislemlerim.com
 onlinesorgula.shop
@@ -335465,6 +335484,7 @@ sokmarketim-tr.cfd
 sokmarketim.cfd
 sokmarketim.online
 sokmarketimceptee.com
+sokmarketimfirsat.cfd
 sokmarketin.online
 sokmarketindirim-cepte.site
 sokmarketindirim.com
@@ -349725,6 +349745,7 @@ tebfinansaks.com
 tebfinansfx.com
 tebfinansfx2.com
 tebfirsatbayramim.com
+tebfirsatlarimriodeerlerde.duckdns.org
 tebfirsatsubesi.com
 tebfnansgiris.cloud
 tebgenelbasvuru.com
@@ -349821,6 +349842,7 @@ tebmobilsube.werte.win
 tebmobilsubem.com
 tebmobilsubemcep.ml
 tebo2zcnt.duckdns.org
+tebobeba.duckdns.org
 tebonlinebanka.tk
 tebonlinebankacilik.com
 tebonlinebasvur.0fees.us
@@ -384489,6 +384511,7 @@ webhediyeinternetbasvuru.com
 webhediyeler-ramazanozel.com
 webhelp-ledgerdownaloed.webflow.io
 webhgs-yuklemeleri.com
+webhgsmobil.com
 webhgsyuklemeleri.com
 webhiz-merkezis.com
 webhizligecisler.com
