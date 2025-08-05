@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-05T16:05:13.094812
+# Updated: 2025-08-05T17:05:12.907944
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -61994,6 +61994,7 @@ aveutiok.pro
 avevildswshnz.com
 avf2vwnel.duckdns.org
 avfa-wd3463btrq-uc.a.run.app
+avfasfas.duckdns.org
 avfecmys.com
 avfilo.xyz
 avfoldmedicine.com
@@ -165860,6 +165861,7 @@ garantibnk.epizy.com
 garantibnk.online
 garantibnk.tk
 garantibnkasi.com
+garantibnkbasvuru.cfd
 garantibnkmblonay.b-cdn.net
 garantibnkmobilgiris.cfd
 garantibnkmobill.mooo.com
@@ -209405,6 +209407,7 @@ indirimlibaharurunleri.com.tr
 indirimlibavsok.com.tr
 indirimlibavulfirsat.com.tr
 indirimlicay.com.tr
+indirimliefsanagunler.sbs
 indirimliekpaket-turkcell.com
 indirimliekpaketler-20gb-turkcell.com
 indirimliekpaketleri-20gb-turkcell.com
@@ -302762,6 +302765,7 @@ pxkt.me
 pxmqlnus4.digital
 pxnel.pw
 pxnqis.com
+pxocyrptox.shop
 pxomtv5.duckdns.org
 pxorschecker.fun
 pxorshub.fun
