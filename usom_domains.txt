@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-06T02:05:13.324760
+# Updated: 2025-08-06T03:05:12.613041
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -25079,6 +25079,7 @@
 65475672.duckdns.org
 65475673.duckdns.org
 6547568567956.cloud
+6548127.cloud
 6548595763474.cloud
 65487458795487.duckdns.org
 654984653165.net
@@ -71569,6 +71570,7 @@ bebescuriosostym.com
 bebetiket.blogspot.com
 bebetiketci.blogspot.com
 bebetlyuklemeci.blogspot.com
+bebevea-gir.click
 bebevea-gir.za.com
 bebiskaforever.space
 beburthanwithopetitions.ru
@@ -72122,6 +72124,7 @@ benalmasambaskasialacalan.shop
 benbabadas.top
 benbabamadoyamadim.net
 benbilmem.xyz
+benbilmemama101bilir.sbs
 benbilmemsenbilirsin.xyz
 benbimcell.tk
 benbircarderim.com
@@ -91900,6 +91903,7 @@ btloxcyrok.info
 btlpaketislem.net
 btlpaketvezne.net
 btlpua.com
+btlym.xyz
 btmasilet.net
 btmclassic.net
 btmclell.me
@@ -101992,6 +101996,7 @@ chickenstrips.ddns.net
 chickentikkamusala.ddns.net
 chicksaddlery.net
 chicletetictac.ddns.net
+chicparisi.com
 chicwardrobee.top
 chidepalazzo.com
 chidera12345.ddns.net
@@ -107964,6 +107969,7 @@ cotabiladesps.hopto.org
 cotanjantu.club
 cotar4ux.duckdns.org
 cotdyuar.com
+cotfemilkyway46.duckdns.org
 cothdesigns.com
 cothenahudson.net
 cothmisb.com/webservice/wp-config-ini.php
@@ -109477,6 +109483,7 @@ criticschronicle.com
 critter.qrfgsd.com
 crixerticfy.hopto.org
 crixmanrte.duckdns.org
+crixsperyuma.duia.us
 crizmaxiumum.space
 crizzybee.ddns.net
 crjhutpupm.duckdns.org
@@ -123703,6 +123710,7 @@ dijitalgarantigirisim.live
 dijitalgarantiglobalgirisim.net
 dijitalgarantiisllemenu100yil.com
 dijitalgarantislemenu100yil.com
+dijitalgelir.org
 dijitalgib.com
 dijitalgib.com.tr
 dijitalgiris-acikdeniz.com
@@ -165968,6 +165976,7 @@ garantibonusacik-com-tr.tk
 garantibonusbayrami.com
 garantibonusbbva-com-tr.tk
 garantibonusbbva.com
+garantibonusbilgi.agustoskampanyasorgulamalari25.com
 garantibonuscekilis.com
 garantibonuscep.ga
 garantibonuscep.ml
@@ -186120,6 +186129,7 @@ hashimqq.ddns.net
 hashing.win
 hashjdshjasdh.net
 hashkey.online-meeting.xyz
+hashplor.com
 hashtag.com.pk/test/db-config-ini.php
 hashtag.com.pk/test/db_template.php
 hashtag.com.pk/test/wp-config-ini.php
@@ -188035,6 +188045,7 @@ hedefebasari.online
 hedefeulas.online
 hedeffit.com
 hedeffo.com
+hedefgalaksi.space
 hedefilo.com
 hedefimiz2024.dev
 hedefintek.com
@@ -213004,6 +213015,7 @@ investdinvest.info
 investence.info
 investerection.top
 investfi-nance.com
+investforfinance.com
 investfortification.shop
 investgenie.store
 investgenius.shop
@@ -239398,6 +239410,7 @@ kusursuzalisveristebugun.cfd
 kusursuzalisveristebugun.click
 kusursuzalisveristebugun.my
 kusursuzalisveristebugun.sbs
+kusursuzalisveristelerdeindirimlerbugun.cfd
 kusursuzalisvrlerburada.com.tr
 kusursuzalisvrlerburada.online
 kusursuzayakinidinrim.click
@@ -249353,6 +249366,7 @@ makemodern.top
 makemystep.online
 makenko.net
 makepetition.top
+makesource.vip
 makeupmaestic.top
 makeventure.top
 makeyearn.top
@@ -267646,6 +267660,7 @@ netgiris.site
 netgovailevesaglikbakanligigovtr.tk
 netgsm-bilgi-guncelleme.com
 netgsm.app
+netgundem.shop
 nethaber.club
 nethaber.online
 nethaber.site
@@ -270513,6 +270528,7 @@ nopanel.site
 nopanel.store
 nopanel.top
 nopanel.xyz
+nopawb.space
 nopdoxifmfdafssfdfzz.blogspot.com
 nopejohn.com
 nopewhatnoobs.ddns.net
@@ -283280,6 +283296,7 @@ otur.itemdb.com
 oturbianlatayim.za.com
 oturlsadoelk.net
 oturtma.itemdb.com
+oturtma.proxydns.com
 oturttum.itemdb.com
 otuvvgddcbqi.cc
 otuz.online
@@ -306108,6 +306125,7 @@ quizcram.top
 quizdune.top
 quizenclose.top
 quiztestapplication.azurewebsites.net
+quiztr.tilda.ws
 quizzical-austin.94-156-66-71.plesk.page
 quizzical-ellis.103-252-91-241.plesk.page
 quizzical-ride.20-42-95-49.plesk.page
@@ -313804,6 +313822,7 @@ rudrakshaayogashala.com
 rudtbchi.com
 rudyhunter54.xyz
 rudytremfe.ddns.net
+ruecharme.com
 ruemmelin.info
 rueo6oii.duckdns.org
 ruepliz.click
@@ -315578,6 +315597,7 @@ sadeceonlineozelfirsatlar.duckdns.org
 sadeceonlineozelkampanyalar.duckdns.org
 sadeceonlineozelkapinageldi.com.tr
 sadeceonlineozelsatis101.codevoyage.cfd
+sadeceonllinea1o1.duckdns.org
 sadeceonlneozelfrsatlara1o1.duckdns.org
 sadecepera.fun
 sadecesanaozelindirimler.com
@@ -332186,6 +332206,7 @@ siparsinkapida.click
 siparsinkapindaa.com
 siparsinsepete.org
 siparsinsepete.store
+siparskapida.click
 siparskoloy.online
 siparsnadresn.click
 siparsnhazir.click
@@ -354592,6 +354613,7 @@ tl.anindaislemmerkezi.com
 tl.ibanka.fiba.online
 tl2j38w9.mypressonline.com
 tl3lqnm.xdk8ax.cn
+tl777.it.com
 tlahonzabica.zendesk.com
 tlaktar.com
 tlannemya.dev
