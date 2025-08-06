@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-06T08:05:13.441256
+# Updated: 2025-08-06T09:05:12.611935
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1716,6 +1716,7 @@
 101-03agustosdax.art
 101-03agustosoglen.art
 101-05agustosd.art
+101-06agustos-sizlere.art
 101-06agustossbh.art
 101-10temmuzaksm.com
 101-10temmuzaozel.com
@@ -2089,6 +2090,7 @@
 101alisverisfirsatlari.com
 101alisverisredmiburasi.cfd
 101alisverisredmiburasi.sbs
+101alisverisredmiburasidir.sbs
 101aonlinegiris.app
 101aonlinesatinal-shop.preview-domain.com
 101aonlinesepet.com.tr
@@ -5823,6 +5825,7 @@
 144.139.247.220
 144.172.103.42
 144.172.108.37
+144.172.110.50
 144.172.112.84
 144.172.114.57
 144.172.122.30
@@ -11234,6 +11237,7 @@
 196.251.85.55
 196.251.86.13
 196.251.86.49
+196.251.86.50
 196.251.90.10
 196.251.92.78
 196.251.93.126
@@ -33650,6 +33654,7 @@ a101.101kabsakal.com
 a101.101onlinehzmet.net
 a101.1o1frstlrkpndaaa.click
 a101.2302svortr.com
+a101.35647132937.com
 a101.agustos.site
 a101.agustosenuygun.com
 a101.akolayperakende.com
@@ -48553,6 +48558,7 @@ akt-ifglrlsyonlendirme.apps.dj
 akt-smdi.shop
 akt-ue-l-uru-nle-r.com
 akt-zmn-gldi.shop
+akt.101-06agustos-sizlere.art
 akt.101-1agustosd.art
 akt.101-1agustosgec.art
 akt.101-27temmuzaksm.com
@@ -56614,6 +56620,7 @@ aquabsafe.com
 aquabsafe.com/db_template.php
 aquabsafe.com/wp-admin/db-config-ini.php
 aquabsafe.com/wp-config-ini.php
+aquafina.sbs
 aqualityailem.dev
 aqualityailemkk.blogspot.com
 aqualogicwc.co.uk/zen/wp-config-ini.php
@@ -65541,6 +65548,7 @@ bahcelerdenko.xyz
 bahceliler.name.tr
 bahcemdensofrana.pro
 bahcemingulleri.shop
+bahcenurgaz.my
 bahcesmart.pro
 bahidll.ddns.net
 bahisbest.com
@@ -67466,6 +67474,7 @@ basvurcekilis-qnbfinans.com
 basvurceponay.servehumour.com
 basvurcnm.com.tr
 basvurcnm.xyz
+basvurcsm.com.tr
 basvurdelidevre.com
 basvurdenizbankinternetsube.com
 basvurdenize2022.cf
@@ -72370,6 +72379,7 @@ bensizinbabanizim.net
 benslzukeer.xyz
 benson12.ddns.net
 bensosyalim.net
+benstoun.com
 bent3457.xyz
 bentaxworld.com
 benteknoloji.org
@@ -100576,6 +100586,7 @@ ceptesokmarketsanal.online
 ceptesokmarkettim.online
 ceptesokmarkettr.com
 ceptesoknisan.com
+ceptesokonline.duckdns.org
 ceptesokonlinefirsatlarrr.online
 ceptesokramazan.online
 ceptesokta.com
@@ -105476,6 +105487,7 @@ cokdahaguclu2-8fdb54e9ccae.herokuapp.com
 cokdegistimbenkizim.net
 cokepramehot.duckdns.org
 cokgezenti.name.tr
+cokgucluyuz.sbs
 cokguzel-firsat-1o1-kampanya.com
 cokguzelgunleraslakacirma.com.tr
 cokguzelgunleraslakacirma.xyz
@@ -126553,6 +126565,7 @@ dolabits.su
 dolan-yalci-kepente.dnsuser.de
 dolanaodlana2.online
 dolanaodlana2.xyz
+dolandimdolandimdadolandirildim.sbs
 dolap-alisveris.com.tr
 dolap-alisverislerim-ileguvende.click
 dolap-apps.com
@@ -155430,6 +155443,7 @@ feedmanifestation.top
 feedmee.ddns.net
 feedradiator.top
 feedrun.online
+feedston.com
 feedsupporting-media.com
 feeeda.fit
 feeedorbackees.fit
@@ -228730,6 +228744,7 @@ kampocadirke.shop
 kampocdr.shop
 kamponyabuarada42.com
 kampori.xyz
+kampotodemon.my
 kampppanyaliurunlerimizekimindevasa.com
 kampsizbsvrgjjsiz.space
 kampspn23.com
@@ -235828,6 +235843,7 @@ kmsorgulamayap-gov-ptt-tr.duckdns.org
 kmsorgulamayapburdanptt.duckdns.org
 kmsorgulamayapgovptt.duckdns.org
 kmsorgulamayapo-gov-ptt.duckdns.org
+kmsorgulamayappburdanptt.duckdns.org
 kmsorgulamaz.com
 kmsorgularchp.xyz
 kmsorgularimachp.web.app
@@ -243946,6 +243962,7 @@ lix1i0.duckdns.org
 lixar.top
 lixland.net
 lixompto.ddns.net
+lixsine.com
 lixupyu.com
 lixurnjfkk.duckdns.org
 lixwashere.online
@@ -246232,6 +246249,7 @@ luckyspin-ff.duckdns.org
 luckystarsteps.com
 luckystartwith.com
 luckytriumph.com
+luckytronn.com
 luckytry.net
 luckywinner-2021.com
 luckywinnernow.com
@@ -255977,6 +255995,7 @@ miprojector.shop
 miqueias123.duckdns.org
 mir.tyg.mybluehost.me
 mir4.ddns.net
+mirabionix.com
 miracbxmcllseninle.com
 miraccell1.cf
 miraccell2.gq
@@ -284966,6 +284985,7 @@ page-standars-confrim.duckdns.org
 page-warring-203366.8698523.com
 page.web.account.verify.auth.limited.retrojamop.com
 page0077.wixsite.com
+page1948.duckdns.org
 page2020-irtibatplatformtrweb.com
 page4form.duckdns.org
 pageamplification.top
@@ -332175,6 +332195,7 @@ siparisleriniz-online-ptt-market.online
 siparisleriniz.com.tr
 siparislerinizbizim1e.online
 siparislerinizlanirda.cloud
+siparislern6agustosta.cloud
 siparislernhizlanir23temmuz.cloud
 siparislerozela101.online
 siparislistokgunleri.xyz
@@ -332229,6 +332250,7 @@ siparisvpay.online
 siparisyonlendirm21.cloud
 sipariszamanisimdgldi.com
 siparrisgelircalissim.com
+siparsburada.click
 siparsepette.org
 siparsepette.store
 siparsepette.xyz
@@ -366472,6 +366494,7 @@ turnvolatility.top
 turojgbovh.duckdns.org
 turostp.top
 turourkiaye.online
+turoven.com
 turp.pw
 turpackage.help
 turpath.com
@@ -413229,6 +413252,7 @@ zindufdybd.duckdns.org
 zindy5.com
 zindy5111.com
 zindy511131.com
+zineblade.com
 zinek.com
 zinfaktoreliz.com
 zing.vietnamflash.com
