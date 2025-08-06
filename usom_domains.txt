@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-06T18:05:12.652332
+# Updated: 2025-08-06T19:05:14.672479
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -33579,6 +33579,7 @@ a101-online.satisim-50.site
 a101-online.site
 a101-online.top
 a101-online.xyz
+a101-online10.click
 a101-online11.click
 a101-onlineindirim.hopto.org
 a101-onlineislemler.com.tr
@@ -68911,6 +68912,7 @@ basvurumdevlet.destek-ozel-kampanyasi-bireysel-basvurum.xyz
 basvurumdunyam.net
 basvurumekani.com
 basvurumekran-akbank.duckdns.org
+basvurumenusu.com
 basvurumerkez.com
 basvurumerkezi-denizbank.com
 basvurumerkezi-denz.com
@@ -114610,6 +114612,7 @@ delirtendeli.host
 delirtir.space
 delirtmeyinla.com
 delisimplygun.run
+delivanefiratlar.cfd
 deliver-rapids.xyz
 deliverclos.online
 deliverclos.sbs
@@ -171231,6 +171234,7 @@ gideonitesprojects.com/db-config-ini.php
 gideonitesprojects.com/db_template.php
 gideonitesprojects.com/wp-config-ini.php
 giderken-yanina-urunu-alsana-buradan.com
+gidin-aldiniz-buradas-hep.store
 gidinsubozlinsiznle.com
 gidisler-gelisler-sg-host.com
 gidisyklememcii.net
@@ -228168,6 +228172,7 @@ kampanyalariniz.site
 kampanyalariniz.tk
 kampanyalariniz.xyz
 kampanyalarinkacirmamakicinn.com.tr
+kampanyalariphlipsa1o1.sbs
 kampanyalariteksayfadanyonetebilirvekayitolabilirsiniz.net
 kampanyalariveetkinliklerimizisorgulaynvebasvurun.net
 kampanyalariveetkinliklerimizisorgulaynvebasvurunuz.net
@@ -228813,6 +228818,7 @@ kampnayahaftasiburada.com.tr
 kampnayahaftasiburada.online
 kampnayalialisverlers.cfd
 kampnaylardabuugnkifirsarlar.cfd
+kampnaylardabuugnkifirsarlar.sbs
 kampny93992.shop
 kampnya-acikdenizv2denizbank.com
 kampnya-al-ucz-hemn.shop
@@ -248027,6 +248033,7 @@ maccaffe.com
 macdocs.ddns.net
 macdonaldmackay43.xyz
 macdonaldo.hopto.org
+macera-dolu-kamp-hayati.top
 maceraya-atilmanin-tam-zamani.top
 macestedt.dev
 macetient.store
@@ -318098,6 +318105,7 @@ sahibinden.get-tr.net
 sahibinden.get-tr.online
 sahibinden.get-urun-al.fun
 sahibinden.get.online-alisverisin.com.tr
+sahibinden.get.param-guvende-ss.com
 sahibinden.get.secure-paramguvende-online.com
 sahibinden.get.ticaretler-guvende.com
 sahibinden.getguvenlialisverisim.com.tr
@@ -380372,6 +380380,7 @@ vkkkfkvma2141.duckdns.org
 vkkkhkyqpz.duckdns.org
 vkkkkkkkkkkkkk.site
 vkklvatlvtlalvaa.online
+vklamntkfvkf.com
 vklhfcpmzd.duckdns.org
 vkligyvraz.duckdns.org
 vklkvlvllvklvlvlvklvnm.net
