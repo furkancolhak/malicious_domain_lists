@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-06T17:05:53.932472
+# Updated: 2025-08-06T18:05:12.652332
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -25669,6 +25669,7 @@
 6agustos.duckdns.org
 6agustossiparislerinden.cloud
 6agustosssiprailerinden.cloud
+6agustss.duckdns.org
 6ahlemlove2y.hopto.org
 6ahna4.duckdns.org
 6aldk2hzw.duckdns.org
@@ -33578,6 +33579,7 @@ a101-online.satisim-50.site
 a101-online.site
 a101-online.top
 a101-online.xyz
+a101-online11.click
 a101-onlineindirim.hopto.org
 a101-onlineislemler.com.tr
 a101-onlineislemler.xyz
@@ -42978,6 +42980,7 @@ agfsattyeadfry.vercel.app
 aggadfgbbxv.vercel.app
 aggasbczzv.vercel.app
 aggasggascaq.vercel.app
+aggasgmumm.vercel.app
 aggasgpolasd.vercel.app
 aggasgvv.vercel.app
 aggasrasgm.vercel.app
@@ -43596,6 +43599,7 @@ ahero-resource-center.org/administrator/db_template.php
 ahf3cq30.duckdns.org
 ahf4ycvea439tt9rq.site
 ahg1.co
+ahgasggas.vercel.app
 ahgdapmion.duckdns.org
 ahgfjagsfh.click
 ahgfscdagvsbhd-awhgfdctafgdi.icu
@@ -43640,6 +43644,7 @@ ahkshkgzlsr.jumpingcrab.com
 ahlam1212.ddns.net
 ahlbrandt.eu
 ahlform.online
+ahloteryasfa.vercel.app
 ahlqzfc.com
 ahlxwfv6gy5fghmwtdrq.net
 ahm00d66.hopto.org
@@ -91228,6 +91233,7 @@ bsehuehfeirit.ru
 bses-sso.com
 bsfghgmkeskstraffh.digital
 bsfotodesign.com
+bsfrynldryrsnzbrayaa.my
 bsglanstklask.space
 bsguvende.online
 bshallcel.net
@@ -93932,6 +93938,7 @@ burunsbimcell.com
 burururururugururururu.net
 bury.snailtracebrass.com
 buryixianc.duckdns.org
+burzaman-aldiniz-buradas-hep.store
 bus527.cfd
 busaatkampanyavar.shop
 busaatlerdekampanyavar.shop
@@ -100645,6 +100652,7 @@ ceptesokmarkettim.online
 ceptesokmarkettr.com
 ceptesoknisan.com
 ceptesokonline.duckdns.org
+ceptesokonline.online
 ceptesokonlinefirsatlarrr.online
 ceptesokramazan.online
 ceptesokta.com
@@ -114566,6 +114574,7 @@ deliciousincorporate.top
 deliciousprime.cf
 deliciouswingsny.com
 delidaivaneolmusumfirsarlari.cfd
+delidaivaneolmusumfirsarlari.sbs
 delidehset.duckdns.org
 delidehsetfirsatlar.cfd
 delidelikupeli.best
@@ -172787,6 +172796,7 @@ gizemci.site
 gizemkurulu.com
 gizemkurumlari.com
 gizemligelecegim.online
+gizemlikutun.com
 gizemliyol.top
 gizemlizamanlaryardimvakfi.com
 gizeotek.com
@@ -191060,6 +191070,7 @@ herzamn-dnirm-firsatlari-burdas.com
 herzamn-dnirm-firsatlari-burdas.shop
 herzamn-dnirm-firsatlari-burdas.store
 herzamn-pandemi.cf
+herzamna-aldiniz-buradas-hep.store
 herzamna-app-plkaksd.store
 herzamnaiadelericinyil2023.net
 herzamnheryrdebnlarkarsnizackar.shop
@@ -224840,6 +224851,7 @@ justkowir.duckdns.org
 justlice.store
 justmethods.ddns.net
 justmoneykartalbddk.duckdns.org
+justmoneykartalbddk.giize.com
 justmoneykartalbddk10.duckdns.org
 justmoneykartalbddk11.duckdns.org
 justmoneykartalbddk20.duckdns.org
@@ -227046,6 +227058,7 @@ kamp-keyfi-icin-son-firsat.top
 kamp-keyfi-simdi-basliyor.top
 kamp-malzemeleri-son-firsat.top
 kamp-malzemeleri-son-indirim.top
+kamp-malzemelerinde-son-firsat.top
 kamp-malzemelerini-kacirmadan-al.top
 kamp-shopping.online
 kamp-subesi.sa.com
@@ -227946,6 +227959,7 @@ kampanyalar-a101cebimde.xyz
 kampanyalar-acikdenizv2denizbankhediye.com
 kampanyalar-acikdenizv2denizbankhediye.online
 kampanyalar-basvuru-finan-com.ml
+kampanyalar-carrefoursa.vercel.app
 kampanyalar-denizbank.com
 kampanyalar-finansbank.com
 kampanyalar-finanscard.com
@@ -228798,6 +228812,7 @@ kampnayadakiindiirmler.cfd
 kampnayahaftasiburada.com.tr
 kampnayahaftasiburada.online
 kampnayalialisverlers.cfd
+kampnaylardabuugnkifirsarlar.cfd
 kampny93992.shop
 kampnya-acikdenizv2denizbank.com
 kampnya-al-ucz-hemn.shop
@@ -230891,6 +230906,7 @@ kasa-ptt-gov.top
 kasabamusic.net
 kasalarca.net
 kasanka.net
+kasap-zamani.shop
 kasaraomoveis.com.br
 kasarlarbizde.com.tr
 kasarlarbizde.xyz
@@ -292997,6 +293013,7 @@ philippeetjeanpierre.com
 philippines-credit365.top
 philippinesdailynews.com
 philipsa1o1.net
+philipskampanya.sbs
 philipstr.online
 philipstravels.ae
 philipxturner.com
@@ -294274,6 +294291,7 @@ plorinnoult.com
 plortan.hopto.org
 plot.writerdrinkup.cc
 plotelaborately.top
+ploteryasf.vercel.app
 plotgir.pw
 plothenceforth.top
 plotkaproniskafratyabonlaritagrafi.net
@@ -294286,6 +294304,7 @@ plow.docupdftext.com
 plow.industryperfectbmi.cc
 ploxoychelovek3097.ddns.net
 ploxtermaster.duckdns.org
+ployoatdga.vercel.app
 plpaedjaofheagoahdgu.info
 plpanaifheaighai.com
 plplme.site
@@ -294874,6 +294893,7 @@ polosifirsatgirisim.com
 poloskyvalizcom.nicepage.io
 polovalizinsoktaan.net
 polox.xyz
+polparppoa.vercel.app
 polpasolvv.duckdns.org
 polpoasaf.vercel.app
 polpuhdsafhk.vercel.app
