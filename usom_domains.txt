@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-06T09:05:12.611935
+# Updated: 2025-08-06T10:05:12.180720
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6549,6 +6549,7 @@
 151.236.23.93
 151.236.28.11
 151.236.30.223
+151.242.152.91
 151.243.213.234
 151.38.146.180
 151.80.142.33
@@ -6665,6 +6666,7 @@
 154.216.19.225
 154.216.2.135
 154.216.20.216
+154.219.123.25
 154.221.19.221
 154.221.26.108
 154.221.30.136
@@ -20014,6 +20016,7 @@
 43.248.8.108
 43.249.11.188
 43.249.9.245
+43.250.174.250
 43.252.228.179
 43.252.228.252
 43.252.228.75
@@ -20651,6 +20654,7 @@
 45.202.35.35
 45.202.35.86
 45.202.35.91
+45.204.217.177
 45.207.12.71
 45.221.96.37
 45.226.133.188
@@ -207403,6 +207407,7 @@ illegalnet.ru
 illegalobsessive.top
 illegalpageupdates964.duckdns.org
 illegalpala.net
+illegalplatform.checkmate.zone
 illegals.life
 illegaltd.com
 illegaltd.com.tr
@@ -325726,6 +325731,7 @@ senneduun4mmuhagodum.asia
 senneistrsncbndehaydurma.online
 sennesinbeeee.xyz
 sennesinn.duckdns.org
+senneyeguluyonyrraam.sbs
 senneymissinbeabi.cyou
 sennn.duckdns.org
 seno.ddns.net
@@ -328006,6 +328012,7 @@ sgkasibasvuru.site
 sgkbagkur.net.bedava-internet.com
 sgkbakanliklardestek.epizy.com
 sgkborcsorgulama.ga
+sgke.cc
 sgkhizmetdokumu.info
 sgkhizmetsorgulama.net
 sgkline.com
@@ -385359,6 +385366,7 @@ websbayrntnilarimzm4.xyz
 websbbayrntilarm09.xyz
 websbbayrntilarm19.xyz
 websbbayrntilarm90.xyz
+websbbayrntilrmiz3.xyz
 websbskgmbilgin.sbs
 websbulerimayrntisd6.xyz
 websbulerimayrntisi3.xyz
