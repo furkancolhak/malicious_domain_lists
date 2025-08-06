@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-06T12:05:12.872560
+# Updated: 2025-08-06T13:05:12.031261
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -552,6 +552,7 @@
 0675393840271107.cloud
 067usaa.duckdns.org
 068lvkfa.duckdns.org
+06agustos-sizlere.art
 06amo0.duckdns.org
 06d1vx.duckdns.org
 06ekimindirimler.work
@@ -43049,6 +43050,7 @@ agrahotelbooking.com
 agrahusrat.com
 agrajiltd.co.tz
 agrariobuenasuerte.duckdns.org
+agrashasg.vercel.app
 agrave.hopto.org
 agreeable-fifth-roast.glitch.me
 agreeable-stripe-trombone.glitch.me
@@ -60451,6 +60453,7 @@ asw.animegogofilms.info
 asw22w.is-best.net
 aswaasgas.online
 aswdsx.nichesite.org
+asweiomex.com
 aswenedo.space
 asx1odetr.net
 asxajkymegtfsxqlv.org
@@ -72632,6 +72635,8 @@ berurn.com
 beruteuy.com
 bervin.com.tr/yonetimpaneli/fonksiyonlar/connection.php
 berxwedan.cyou
+beryloplascz.click
+beryloplascz01.click
 berylshaper.com
 bes-online-portal.com
 bes-s.com/wp-includes/db_template.php
@@ -82536,6 +82541,7 @@ bitcoinbitcoin.xyz
 bitcoinbits.xyz
 bitcoineverestai.app
 bitcoininvestment.zapto.org
+bitcoinjsc.com
 bitcoinkredikarti.com
 bitcoinkreditbank.com
 bitcoinminerworldwide.com/wp-includes/db_template.php
@@ -89533,6 +89539,7 @@ books.com-identifier-servicelog.name
 booksandtoys.com.tr
 booksandtoys.com.tr/admin/controller/design/connection.php
 bookscastle.zapto.org
+booksiparisslerin.cloud
 booksnotespdf.com//db_template.php
 bookspace.us
 bookspoint.us
@@ -121406,6 +121413,7 @@ devasaindirimliurunlerimisadece.com
 devasaindirimliurunlerimisadeceburasi.com
 devasakampanyalar.xyz
 devasakampanyalardabugun.cfd
+devasakampanyalardabugun.sbs
 devasakampanyalardafirsat.cfd
 devasakampanyaninyeri.cfd
 devasakampanyaninyeri.icu
@@ -136882,6 +136890,7 @@ ecezamaliye.org
 ecezaportal.org
 ecezasorgula.org
 ecezasorgulama.org
+ecezauzlasma.com
 ecf-est.com
 ecfidolsukda.site
 ecga046.duckdns.org
@@ -209854,6 +209863,7 @@ indrimegasinirlisayialdin.xyz
 indrimegasinirlisayialdinaldin.xyz
 indrimfirsatlaril.xyz
 indrimim-pazarcii-101de.com
+indrimin-adresi.sbs
 indrimler2023kasm.online
 indrimlerikis2024.online
 indrimlerteksayfada.shop
@@ -213303,6 +213313,7 @@ iodfipiwpoer.duckdns.org
 iodgeve.info
 iodhqowihdq2235df.ddns.net
 ioere.hopto.org
+ioerhby.pages.dev
 ioesxd.duckdns.org
 ioewjhfdhduiusfh.com
 iofgxaxjnl.duckdns.org
@@ -315778,6 +315789,7 @@ sadret.site
 sadrg.top
 sadrt.website
 sads-track.co
+sadsa.juteexport.net
 sadsadskd3241-3sdcsdla.store
 sadsajkdhasjhasf.click
 sadsantnasnd.blogspot.com
@@ -319923,6 +319935,7 @@ sahibnden.sat-ticaret.com
 sahibnden.siparis-ticaretleri.com
 sahibnden.siparis-ticari.com
 sahibnden.siparisler-tr.com
+sahibnden.space
 sahibnden.tedarikci-ile.com
 sahibnden.ticaret-sepetim.com
 sahibnden.ticari-ilan.com
@@ -325652,6 +325665,7 @@ seninicinhemen.xyz
 seninicinkampanyafirsati.tech
 seninicinkampanyalarbayram.net
 seninicinozelfirsatbasvuru.xyz
+seninicinsecilen-firsat.top
 seninislemin.xyz
 seninizmirescortun.com
 seninkampannyan.com.tr
@@ -336833,6 +336847,7 @@ sonifgyr5.cf
 sonificaton.com
 sonik.hopto.org
 sonikream.ddns.net
+sonilisimdeaufltcom.quantara.sbs
 sonindiriimleriinennyeniibaslangiclari.shop
 sonindirim.shop
 sonindirim13aralikkacirma.online
@@ -358140,6 +358155,7 @@ tr-vakif-mobil-giris.ml
 tr-vakifbank-cep-sube.cf
 tr-vakifbank-sube.cf
 tr-vakifbankk.ga
+tr-vakifbanktakredim.click
 tr-vakifbasvuru.com
 tr-vakifbnk-bireysel.tk
 tr-vakifkampanyalari.ml
@@ -361203,6 +361219,7 @@ trink724.xyz
 trinkb.xyz
 trinkbasic.net
 trinkbonus.digital
+trinkcebinde.digital
 trinketiket.xyz
 trinkinizisisiz.online
 trinknakit.com
@@ -395652,6 +395669,7 @@ x14.xxxatat456.com
 x17dxaqaw.duckdns.org
 x187.ddns.net
 x19.app
+x1a1001kkx.o000x1x11.workers.dev
 x1akuxbv.cn
 x1b3l7.mqpu6.ru
 x1bboovcel.com
