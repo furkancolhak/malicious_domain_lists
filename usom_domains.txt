@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-06T06:05:13.083579
+# Updated: 2025-08-06T07:05:13.011860
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2086,6 +2086,8 @@
 101alimlariburadanyapiliyor.sbs
 101alisveris.com
 101alisverisfirsatlari.com
+101alisverisredmiburasi.cfd
+101alisverisredmiburasi.sbs
 101aonlinegiris.app
 101aonlinesatinal-shop.preview-domain.com
 101aonlinesepet.com.tr
@@ -15893,6 +15895,7 @@
 2691ef8ac711h.net
 26925aa97254.net
 26932.cloud
+26937106.cloud
 269444bimcel4444gbyagmrkampanya.net
 2698139875134.com
 269zs.panade.ru
@@ -40893,6 +40896,7 @@ acualerte.tk
 acucon.net/wp-admin/includes/db_template.php
 acudususucu.site
 acukxteru.bdkhxlbbu.ru
+acun.store
 acunilicali-212.xyz
 acunilicali.cfd
 acunt-securityalert.ddns.net
@@ -85055,6 +85059,7 @@ blknoiz.com
 blkrtmdlm.net
 blksehirr.com
 blkv23.click
+blkviewz.com
 blkvkmkinj.duckdns.org
 blkwav.com
 bllcemlll.com
@@ -85392,6 +85397,7 @@ blockchaintransparency.instute
 blockchainvekisiselveriyonetim.xyz
 blockchainvekriptoparayonetimi.xyz
 blockfi.loans
+blockhatchr.com
 blockholer.com
 blockingmanhattan.com
 blocklinkexchange.com
@@ -121426,6 +121432,7 @@ developmentalretrospect.top
 developmentreign.top
 developmentway.online
 developnegligence.top
+developrapid.online
 develops-resorts-header-porter.trycloudflare.com
 developstream.online
 developzed.dev
@@ -160056,6 +160063,7 @@ flat-login-signup.webflow.io
 flatassist.top
 flatdoctrine.top
 flatfeer.hopto.org
+flatfeex.com
 flatforwardtogether.xyz
 flatirritation.top
 flatmarble.top
@@ -175755,6 +175763,7 @@ greenrat6610.ddns.net
 greenrealm.world
 greenrecurrence.top
 greenrem.ddns.net
+greenroad.loan
 greensdale.top
 greensecas.xyz
 greenstatecu.zapto.org
@@ -265987,6 +265996,7 @@ naotemcomo.duckdns.org
 naourl.com
 naovemdegarfonasopa.app
 nap.ingbank.group
+napasmash.store
 napcondolence.top
 napicaksin.app
 napimcokdegerlivaktim.com
@@ -322462,6 +322472,7 @@ sdigj.xyz
 sdirazflwd.duckdns.org
 sditg6qdkfotmv16efg.ddns.net
 sdiuksuvwwquemh.su
+sdivex.cyou
 sdjblgdpld.duckdns.org
 sdjfkhsdfhjdas.net
 sdjfnvnbbz.pw
@@ -338985,6 +338996,7 @@ sponsorlu-10.top
 sponsorlu-100.online
 sponsorlu-101.online
 sponsorlu-102.online
+sponsorlu-103.online
 sponsorlu-107.online
 sponsorlu-109.online
 sponsorlu-11.online
@@ -360085,6 +360097,7 @@ trc-ekonomi-baknligi-iade-basvuru-form.tk
 trc.webhop.net
 trcarpente.com
 trcbbmtrtrhazinegovtr.com
+trcblaw.tilda.ws
 trcbnaduyurutr.com
 trcbncbasvurgiris.com
 trcbnrcbgrisi.com
@@ -363423,6 +363436,7 @@ tubitakorg.typeform.com
 tubitakorgtr.typeform.com
 tubitakresmi.typeform.com
 tubitakresmiorg.typeform.com
+tublodeajero.duckdns.org
 tubpariang.com
 tubuz3ubhz222.top
 tuc0f4.duckdns.org
@@ -379592,6 +379606,7 @@ visiongroups.co.in
 visiongta.online
 visionja.ch
 visionlink.online
+visionstep.cfd
 visit.news/bddkaide
 visit2013.in.ua
 visitaustriaislands.com
@@ -387065,6 +387080,7 @@ willcall3171212345678.tk
 willcall317121234567890.tk
 willdynamic.top
 willemshoeck.nl/y872ff2f
+willhem.top
 willia2.ddns.net
 william2243.duckdns.org
 williamhankins.com
@@ -404764,6 +404780,7 @@ yaptklarmaytrmakln.com
 yapvcix.com
 yapyapyap.vercel.app
 yaqg8bs.duckdns.org
+yaqifredimobile.click
 yaqiikredii.com
 yaqikredi.com
 yaqikredii.com
@@ -407878,6 +407895,7 @@ yeterli.xyz
 yeterlidesto.com
 yeterliislersdwe.net
 yeterliolurgaliba.com
+yetermibilmiyorumsenbilirsin.sbs
 yeterrr3d.xyz
 yetersnbnisevo.net
 yeterulanyeter.com
