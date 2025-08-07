@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-07T16:05:17.343854
+# Updated: 2025-08-07T17:05:12.564004
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -55326,6 +55326,7 @@ anunankis111.duckdns.org
 anunankis1111.duckdns.org
 anunaske.com
 anuragcreatives.com/db_template.php
+anurasvba.vercel.app
 anuresesd.com
 anurybadovaqy.biz
 anusa11.duckdns.org
@@ -92995,9 +92996,11 @@ buharbilisim.com
 buharikafirsatlarhaziranaozelgeldi.com.tr
 buhavalardalastiksizdolasmasakin.com
 buhdayuno.site
+buhfasffas.vercel.app
 buhfjcv.com
 buhftlarineniyilerinisenyakala.shop
 buhftsnucrfsnzdn.com
+buhgasfgaa.vercel.app
 buhgsmarketleri.club
 buhgsyi.rf.gd
 buhizmetinertcu.tk
@@ -273928,6 +273931,7 @@ o-payfix.com
 o-pttgov.top
 o-ziraatbankasi.com
 o.lauraflower.info/auth
+o000x1x11.workers.dev
 o00145hy.duckdns.org
 o01f7lox70uvyl7nova.ddns.net
 o0b6042n.duckdns.org
