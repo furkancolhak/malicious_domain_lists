@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-07T12:05:12.881276
+# Updated: 2025-08-07T13:05:12.478406
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4858,6 +4858,7 @@
 12536154250.xyz
 12545215.cloud
 125532415324324.com
+1255415551255655880.xyz
 1255551122434.cloud
 12555988999880080.xyz
 12555988999880082.xyz
@@ -9804,6 +9805,7 @@
 188.119.113.152
 188.119.148.75
 188.120.227.9
+188.120.246.133
 188.126.89.151
 188.127.224.114
 188.127.224.46
@@ -20784,6 +20786,7 @@
 45.61.136.83
 45.61.136.85
 45.61.137.109
+45.61.137.120
 45.61.137.183
 45.61.137.213
 45.61.137.226
@@ -24956,10 +24959,15 @@
 64.71.166.50
 64.72.205.32
 64.94.84.217
+64.94.85.15
 64.94.85.219
+64.95.10.117
 64.95.10.243
+64.95.11.80
 64.95.12.71
 64.95.13.166
+64.95.13.203
+64.95.13.210
 64.myxmr.pw
 6405wat.duckdns.org
 640koo5sb.duckdns.org
@@ -25063,6 +25071,7 @@
 65.222.202.53
 65.222.221.216
 65.38.120.110
+65.38.121.164
 65.38.121.198
 65.38.121.211
 65.38.121.64
@@ -46015,6 +46024,7 @@ air-dyson.com.tr
 air-mag.ro
 air-wrap.com.tr
 air01.zapto.org
+airarticlegenerate.com
 airbnb-payverification.com
 airbnb-reservation.cloud
 airbseeker.com
@@ -50271,6 +50281,7 @@ albktr422.app
 albl.org/amex.secure_documents/new-payment_advice.html
 alblaraka.com
 albmenkuldegerler.com
+albmenkuldegerler.net
 albnaak.com
 albnk24.site
 alboilehizli.com
@@ -69358,6 +69369,7 @@ basvurutrbnnrgiris.online
 basvurutrformlar.org
 basvurutrmbnca.com
 basvurutse.com
+basvurutse.org
 basvuruturkiye.com
 basvuruturkiyeaidat.org
 basvuruturkiyede.com
@@ -91608,6 +91620,7 @@ bsvruemekliiziraattbnkkkmmbl.duckdns.org
 bsvruemekliveciftcii.duckdns.org
 bsvrugirsleri-dvvltlogin.org
 bsvrugrs.bns-vio.site
+bsvrumblyppkrrefssbe.duckdns.org
 bsvrumonlineisubemkuveytturk.net
 bsvrutarihh.net
 bsvrutrx1.com.tr
@@ -120427,6 +120440,7 @@ derinhaberler.net
 derinhberler.net
 derinislem.22web.org
 derinkesif.space
+derinly.site
 derinruyalar.org
 derinsnl0ylm.shop
 derinsular.shop
@@ -139027,6 +139041,7 @@ edevletdimeriadehakkimtr.com
 edevletdiplomaservisi.online
 edevletdogrulamasistemi.xyz
 edevletdosyasorgulama.com
+edevletdosyasorgulama.org
 edevletduyurublogspot.com
 edevletegeliriadeleri.com
 edevletehliyetsorgu.com
@@ -141893,6 +141908,7 @@ egyforweb.zapto.org
 egypt-dream.net
 egypt.basketball
 egypt.zapto.org
+egyptanimals.com
 egypthelp.online
 egyqaz.com
 egyvwwpcktsiojuk.com
@@ -160616,6 +160632,7 @@ flrsatkapinizdangidiyorla.shop
 flrsatkapinizdangidiyoroo.shop
 flrsatkapinizdangidiyorzz.shop
 flrsatklardankosarakgelmesenlerl.life
+flrsatklardankosaraksasgelmesenlerl.life
 flrsatkurbanbayhemflrsatolsa.store
 flrsatkusagina.xyz
 flrsatkusaginburda.xyz
@@ -169702,6 +169719,7 @@ georgia-travel.org
 georginabringas.com
 georginabringas.com/dkndhfg72
 georgino.net
+geostat.lat
 geostatcdn.com
 geostatisticsip.com
 geostatisticsworld.com
@@ -224998,6 +225016,7 @@ justmoneykartalbddk803.duckdns.org
 justmoneykartalbddk804.duckdns.org
 justmoneykartalbddk805.duckdns.org
 justmoneykartalbddk850.duckdns.org
+justmoneykartalbddk851.duckdns.org
 justmoneykartalkredi.duckdns.org
 justmoneykartalmercedes.duckdns.org
 justmoneykartalreklamlar.duckdns.org
@@ -228881,6 +228900,7 @@ kampanyszlerler.vercel.app
 kampanyxacanxrx.com
 kampanyyanokttan.com
 kampasorgula2022.com
+kampavio.xyz
 kampaya-online-bizde-form-online-com.ml
 kampayaarburada.com.tr
 kampayaarburada.online
@@ -236029,6 +236049,7 @@ kmsorgudayiz.sa.com
 kmsorgugovtr-com.duckdns.org
 kmsorgugulyan.shop
 kmsorguhemen-gov.duckdns.org
+kmsorguhteklfbursad.com
 kmsorgula-1772f24c17a5.herokuapp.com
 kmsorgula3-94f50d998d48.herokuapp.com
 kmsorgula4-e0a6de0728c2.herokuapp.com
@@ -237617,6 +237638,7 @@ kralkaybeders41.click
 kralkaybederse.click
 kralkaybederse2.click
 kralkaybederse3.click
+kralkybederse.duckdns.org
 krallaar.click
 krallalargeliyor.com
 krallar.za.com
@@ -238516,6 +238538,7 @@ kredionlinesubesizdeniz.co.vu
 kredionlinev2denizbank.co.vu
 krediozelfirsat.com
 krediparam.com
+kredipromosyon.cyou
 kredipuanisorgusu.com
 krediqnbgiriskampanya.com
 kredired.com
@@ -284298,6 +284321,7 @@ ozel-indirimgunleri-turkcell.com
 ozel-indirimlerin-burda.com
 ozel-indrmler-buradan.blogspot.com
 ozel-islemonaybasvurudeniz.com
+ozel-kamp-firsatlarini-yakala.top
 ozel-kampanya.com.tr
 ozel-kampanya.online
 ozel-kampanya.xyz
@@ -304535,6 +304559,7 @@ qnb-online-kredihizmetler.duckdns.org
 qnb-online.online
 qnb-onlinepuan.com
 qnb-parapuan-mobil.com
+qnb-promosyon.duckdns.org
 qnb-promosyonhizmetlerim.duckdns.org
 qnb-qatar.com
 qnb-qnbqnb.vercel.app
@@ -332367,6 +332392,7 @@ siparis-onayli-115530.com
 siparis-onayli-115532.com
 siparis-onayli-115534.com
 siparis-onayli-115535.com
+siparis-onayli-115537.com
 siparis-paramguvende.com
 siparis-pttavm.com.tr
 siparis-pttavm.info.tr
@@ -341292,6 +341318,7 @@ startarticulate.top
 startbeastx.cfd
 startbin.com
 startculturl.site
+startdeeplearning.com
 startdegenerate.top
 startdep041plagesdep.duckdns.org
 startdetraor.webflow.io
@@ -372949,6 +372976,7 @@ uzpsclemt.com
 uzpvlm.duckdns.org
 uzqls7kxql.com
 uzrfyrwzye.duckdns.org
+uztickets.com
 uzuciornou.duckdns.org
 uzufl8qvn.duckdns.org
 uzulmesevdicegim.com
@@ -393459,6 +393487,7 @@ www-worldkampanyamgiris.com
 www-worldpuanaktifetvakif.com
 www-worldpuanaktiflemegiris.com
 www-wwwtwitter.com
+www-xn--sahsecurcesahibindenpgvenliodeme-tmd-com-tr.filesusr.com
 www-xtrendx-xfrsatx.com.tr
 www-xtrendx-xfrsatx.online
 www-xtrendx-xfrsatx.xyz
