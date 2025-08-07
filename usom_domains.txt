@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-07T11:05:12.943378
+# Updated: 2025-08-07T12:05:12.881276
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -602,6 +602,7 @@
 078rky.duckdns.org
 0794746659.hopto.org
 0798lp.com
+07agustos-sizlere.art
 07aswua.duckdns.org
 07blswv93.duckdns.org
 07e30kww.duckdns.org
@@ -22714,6 +22715,7 @@
 5.75.175.90
 5.75.177.255
 5.75.243.212
+5.79.66.133
 5.79.71.205
 5.8.18.117
 5.8.18.242
@@ -28938,6 +28940,7 @@
 85.158.108.135
 85.159.214.61
 85.159.229.62
+85.17.120.200
 85.17.127.172
 85.17.127.173
 85.17.127.174
@@ -36732,6 +36735,7 @@ acarionline.com
 acarislem.com
 acarkurulusu.org.tr
 acarkurumlari.com.tr
+acarmenkuldegerler.com
 acarmenkulonline.com
 acarmenkulonline.com.tr
 acarmenkultr.com
@@ -50893,6 +50897,7 @@ aldn-asdldnnxfirsstllariyla.gb.net
 aldn-zaldnnxfirstllariyla.net.tr
 aldnaldn-kmpnya.xyz
 aldnaldn101frsatlar.hopto.org
+aldnaldnfrstburda.tech
 aldnaldngnlrnz.online
 aldnaldnhftaninyildizlri.cloud
 aldnaldnhftaninyildizlri.online
@@ -51340,6 +51345,7 @@ alimlarinizgeldisimdi.online
 alimmerkeztr.com.tr
 alimohor.zapto.org
 alimokwlak.ddns.net
+alimora.xyz
 alimpetrol-tr.com
 alimsatimtpao.com
 alimsecure.com.tr
@@ -61919,6 +61925,7 @@ avantajbkle.com
 avantajburada.digital
 avantajburada.xyz
 avantajcadde.com
+avantajcebinde.digital
 avantajcepsun.biz
 avantajcepte.page
 avantajdolum.xyz
@@ -100434,6 +100441,7 @@ cepteblmcsll.com
 ceptebmobilm.com
 ceptebonus-hediye.gq
 ceptebonus.com
+ceptebonus.digital
 ceptebonusflashvar.com
 ceptebsubem.com
 ceptecepfinans.com
@@ -143950,6 +143958,7 @@ email-verify-account-apple.com
 email-verify-apple.com
 email.gov.in.attachment.drive.servicesmail.site
 email.gov.in.maildrive.email
+email.mg-d0.substack.com
 email.microsoftonline.services
 email.sco.gov.pk.viewdoc.online
 email.uqauv.cn
@@ -169197,6 +169206,7 @@ gelibolusubesindeler.xyz
 gelilah.com
 gelilrxa.com.tr
 gelimog.online
+gelin-aldiniz-buradas-hep.store
 gelinalinsd-burdsa-aldsn-adln.shop
 gelinberabergarantiye.online
 gelinberabergidelim.net
@@ -224987,6 +224997,7 @@ justmoneykartalbddk802.duckdns.org
 justmoneykartalbddk803.duckdns.org
 justmoneykartalbddk804.duckdns.org
 justmoneykartalbddk805.duckdns.org
+justmoneykartalbddk850.duckdns.org
 justmoneykartalkredi.duckdns.org
 justmoneykartalmercedes.duckdns.org
 justmoneykartalreklamlar.duckdns.org
@@ -237602,6 +237613,7 @@ kralisis23q.site
 kralkampanyastand.store
 kralkampanyayikama.shop
 kralkaybeders4.click
+kralkaybeders41.click
 kralkaybederse.click
 kralkaybederse2.click
 kralkaybederse3.click
@@ -339208,6 +339220,7 @@ spnpfczwso.duckdns.org
 spnrlugndrirklmlr1.xyz
 spnrlugndrirklmlr2.xyz
 spnrrlubasvvrzirat.com
+spnrrlubasvvrzyapi1.com
 spnslruvkfreklamci.duckdns.org
 spnslur-924991249.name.tr
 spnsorlu-1vakf.duckdns.org
@@ -368763,6 +368776,7 @@ ucuzharca101.xyz
 ucuzhgsyukleme.com
 ucuzinstagramtakipcisatinal.blogspot.com
 ucuzkampanyalar.click
+ucuzkampanyalar.icu
 ucuzkampanyalar.my
 ucuzkampanyalar.sbs
 ucuzkira.xyz
