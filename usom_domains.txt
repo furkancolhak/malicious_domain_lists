@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-07T21:05:12.710335
+# Updated: 2025-08-07T22:05:15.127288
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2240,6 +2240,7 @@
 101firsatlarigirisadresi.my
 101firsatlarigirisadresi.sbs
 101firsatlarim.shop
+101firsatlarinzburda.psee.io
 101firsatlarisizinle.duckdns.org
 101firsatlarkapinda.com
 101firsatlaronline.xyz
@@ -29770,6 +29771,7 @@
 8aralikkmpanyaindirimi.xyz
 8araliksizleakfirsat.com.tr
 8arkazlaanafakanzswaz.com
+8asugotystsamasa.cloud
 8atjl71kn.duckdns.org
 8au0jopho.duckdns.org
 8au19dm.cn
@@ -50857,6 +50859,7 @@ aldinkactinfirsatlari.online
 aldinligunler.com
 aldinmatkaps505.xyz
 aldinmialdin.online
+aldinmialdinkampanyasi.cfd
 aldinmialdinkampanyasi.sbs
 aldinmihic.xyz
 aldinn-a101-aldiin-yildizlari.com
@@ -65714,6 +65717,7 @@ bajiw.com
 bajoer.fast-page.org
 bak.zeroproofs.com
 baka.thecorpot.com
+bakalimelimizdenevarmiss.sbs
 bakamsndwe.net
 bakani-devlethibeler.com
 bakani-devlethibesi.com
@@ -321189,6 +321193,7 @@ sanapazarp-ttavm.com
 sanaporatzumazakides.online
 sanarmksdw.net
 sanasntsmdmasmsa.blogspot.com
+sanasorusormambile.sbs
 sanateksperi.pro
 sanatincografiavrupagezisi.xyz
 sanatvedogaltasarimlarincografyasi.xyz
@@ -368971,6 +368976,7 @@ ucuzundaucuzufirsati.xyz
 ucuzundaucuzufirsatlar.cfd
 ucuzundaucuzufirsatlar.icu
 ucuzundaucuzufirsatlar.sbs
+ucuzundaucuzufirsatlarbuhafta.cfd
 ucuzundaucuzuindiirmler.cfd
 ucuzundaucuzuindiirmler.sbs
 ucuzundaucuzuluxmasa.xyz
@@ -414130,6 +414136,7 @@ ziraat.serfams.shop
 ziraat.serfams.store
 ziraat.serfsad.shop
 ziraat.site
+ziraat.subeden.sbs
 ziraat.tr.eonbl.com
 ziraat.website
 ziraat.yardim.live
