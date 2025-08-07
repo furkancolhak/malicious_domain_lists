@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-07T13:05:12.478406
+# Updated: 2025-08-07T14:05:12.268906
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1720,6 +1720,7 @@
 101-05agustosd.art
 101-06agustos-sizlere.art
 101-06agustossbh.art
+101-07agustosd-sizlere.art
 101-07agustosd.art
 101-07agustosmrt.art
 101-10temmuzaksm.com
@@ -30963,6 +30964,7 @@
 932quo9.cn
 9348243249382479234343284324023432748892349702394023.xyz
 935dkl6bh.duckdns.org
+935marsbahis.duckdns.org
 9361ut7266400273a616.icu
 936304130.dfgqdsd.ru
 936494-session.org
@@ -59452,6 +59454,7 @@ asdasddasquez.net
 asdasddfgdfhfgasd.net
 asdasddsadassdadassda.blogspot.com
 asdasddwqd2025.info
+asdasderasderasder.duckdns.org
 asdasdere.duckdns.org
 asdasdhjhgjasdasdashgjghj.blogspot.com
 asdasdjsgdkgdkfasdas.shop
@@ -144466,6 +144469,7 @@ emlakkatilim.goldenlig.com
 emlakkatilim96yil.net
 emlakkatilimbanking.com
 emlakkatilimdan.net
+emlakkonut.org
 emlakkonutvergisiborcututi.blogspot.com
 emlaklavlv.net
 emlaklimsnciyzz.net
@@ -175701,6 +175705,7 @@ gratefulpeninsula.top
 gratificationclaw.top
 gratificationwarfare.top
 gratifully.com
+gratis-b.dynuddns.com
 gratis-c.ddnsguru.com
 gratis-ile-indirimler.online
 gratis-indirim-gunleri.com.tr
@@ -280070,6 +280075,7 @@ onlineislembireysel.com
 onlineislembirimi.com
 onlineislembudget.com
 onlineislemdeniz.ml
+onlineislememlakkonut.net
 onlineislemgarantihazirkredi.co.vu
 onlineislemhgs.sbs
 onlineislemim-tl.xyz
