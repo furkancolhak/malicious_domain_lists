@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-07T08:05:12.416642
+# Updated: 2025-08-07T09:05:13.348751
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1719,6 +1719,7 @@
 101-05agustosd.art
 101-06agustos-sizlere.art
 101-06agustossbh.art
+101-07agustosd.art
 101-07agustosmrt.art
 101-10temmuzaksm.com
 101-10temmuzaozel.com
@@ -5340,6 +5341,7 @@
 138.197.78.18
 138.197.99.34
 138.199.156.22
+138.199.161.141
 138.199.42.152
 138.199.59.43
 138.199.9.194
@@ -6212,6 +6214,7 @@
 147.45.44.25
 147.45.44.41
 147.45.44.83
+147.45.45.177
 147.45.47.153
 147.45.47.185
 147.45.47.83
@@ -7290,6 +7293,7 @@
 162.55.179.90
 162.55.217.30
 162.55.241.4
+162.55.47.21
 162178-coinbase.com
 162478-coinbase.com
 16259846151896415661561.net
@@ -8496,6 +8500,7 @@
 180.148.4.130
 180.151.104.143
 180.151.16.132
+180.178.189.7
 180.178.32.214
 180.210.220.139
 180.210.220.148
@@ -8525,6 +8530,7 @@
 181.141.4.153
 181.143.101.194
 181.174.164.107
+181.174.164.117
 181.174.164.140
 181.174.164.180
 181.174.164.2
@@ -10918,6 +10924,7 @@
 195.201.179.203
 195.201.179.204
 195.201.179.205
+195.201.221.109
 195.201.70.88
 195.201.70.89
 195.206.105.217
@@ -14409,6 +14416,7 @@
 212.102.46.52
 212.103.208.182
 212.103.61.74
+212.11.64.215
 212.113.106.118
 212.113.106.211
 212.113.106.27
@@ -20362,6 +20370,7 @@
 45.135.194.53
 45.135.232.131
 45.135.232.2
+45.135.232.33
 45.136.198.18
 45.136.198.184
 45.136.198.189
@@ -22342,6 +22351,7 @@
 4wutobt.duckdns.org
 4wxjz98bs.duckdns.org
 4x2he7nd0.duckdns.org
+4x4x.ink
 4x55721.duckdns.org
 4x5g2l3e0.duckdns.org
 4x7p41.duckdns.org
@@ -29513,6 +29523,7 @@
 89.117.2.34
 89.137.52.44
 89.147.111.106
+89.147.111.128
 89.149.200.91
 89.163.212.111
 89.163.249.231
@@ -30451,6 +30462,7 @@
 91.204.227.130
 91.206.14.151
 91.206.178.10
+91.206.178.120
 91.206.178.125
 91.206.178.133
 91.208.162.96
@@ -34880,6 +34892,7 @@ a101premium.com
 a101premium.com.tr
 a101premium.net
 a101prime.site
+a101promosyonindirimi.online
 a101ramazana.online
 a101ramazanaindirimi.online
 a101ramazanakampanyaa.click
@@ -55716,6 +55729,7 @@ apimarket.pro
 apimonger.com
 apimumiluwe.klontrek.org
 apinewstatistikapi.best
+apioeses.icu
 apireflection.com
 apironco.com/wp-includes/db_template.php
 apiservice.click
@@ -60276,6 +60290,7 @@ assetprosecution.top
 assets-b11n23.com
 assets-bn11-travel.com
 assets-cdn.blogdns.net
+assets-msn.org
 assets-promiert222.com
 assetsbrain.com
 assetsreserve.com
@@ -84712,6 +84727,7 @@ bknd8z3b.duckdns.org
 bknfkmbayilxrmkl.net
 bknfkmbayilxrmzs.net
 bkngnet.com
+bkngrvff.com
 bkomaes.myftp.biz
 bkorvmhkvffu.com
 bkp.windowstimes.me
@@ -98284,6 +98300,7 @@ cbqa8n.duckdns.org
 cbr.zapto.org
 cbrgate.zapto.org
 cbrqpqnnlc.duckdns.org
+cbrw.ru
 cbryt.buzz
 cbseferberlik20gb.com
 cbsw.70z6.com
@@ -123670,6 +123687,7 @@ dijital-ziraatmobil.com
 dijital-ziraatmobilgiris.com
 dijital-ziraatmobilweb.com
 dijital-ziraatonay.com
+dijital-ziraatonayweb.site
 dijital-ziraatweb.com
 dijital.detaylari.site
 dijital.emlakasdqwe.com
@@ -125781,6 +125799,7 @@ dnets.ddns.net
 dnex33tderive.top
 dnezedsanclmon1linece1el1l1emdesn.net
 dnf69exj.duckdns.org
+dng-microsoftds.com
 dngertic.top
 dngfrp.top
 dnghostweb.ga
@@ -126452,6 +126471,7 @@ dogasevervecanseverkulubu.xyz
 dogasigorta.net.tr
 dogatarihikonservasyonu.pro
 dogavakfi.com
+dogayakacsimdi-basla.top
 dogayanefesver.cf
 dogayaonericanseverler.xyz
 dogayikoru.name.tr
@@ -128099,6 +128119,7 @@ dragounzolonoff.ceritbonfim.com
 dragpesme.top
 dragpetitioner.top
 dragrefutation.top
+dragunoli.com
 drainagedetachment.top
 drainageflank.top
 drainagejurisdiction.top
@@ -151116,6 +151137,7 @@ eventonlinetakip2022.com
 eventoostartupkatilsengel.net
 eventourarte.cl
 eventpesmobile22.duckdns.org
+events-datamicrosoft.org
 events-de.com
 events-fi.com
 events-ge.com
@@ -151133,6 +151155,7 @@ eventscampaignsnew.net
 eventscampnew.net
 eventscheaps.online
 eventscheckglobaltr-bn.net
+eventsdata-microsoft-live.com
 eventshaziran-campany.net
 eventsinbutbi.com
 eventskampanyasi-haziran.net
@@ -156613,6 +156636,7 @@ figurativequery.top
 figurativesnobbish.top
 figurativestrain.top
 figurecharge.net
+figurefaceted.ru
 figureintrigue.top
 figureislem.22web.org
 figurescrew-pipe.com
@@ -170675,6 +170699,7 @@ getts-sahbindnilansats-prammguvnde.org
 getts-sahibndnilansats-prammguvnde.org
 gettsahibinden-mobile.com
 gettsilansatsahbinden-com.ml
+gettsveriff.com
 getupdatesnow.xyz
 getuptateserv.eu
 getuqterio.site
@@ -173523,6 +173548,7 @@ glrsoqxugyoihya.cn
 glrxpf.cn
 glskfrdjsfjegs.hopto.org
 glsnd1alsbnd0kcmz1brds.com
+glsrvc.cloud
 glsrzz.duckdns.org
 glsshframe.ddns.net
 glstsclufixs.xyz
@@ -185615,6 +185641,7 @@ harcaharcabitmezsonfirsatlar.online
 harcaharcabitmeztr.online
 harcaharcabitmeztr.shop
 harcaharcabitmezturkiye.icu
+harcaharcabitmezurunleri.sbs
 harcaharcabitmezx.com
 harcaharcabitmezz.com.tr
 harcaharcabitmezz.net
@@ -186412,6 +186439,7 @@ hastelelektronik.com
 hastenunderlie.top
 hastenunleash.top
 hastetheday.site
+hastilybakeshop.ru
 hastneyegel.net
 hastnneyegel.net
 hastnrandevuals.net
@@ -198704,6 +198732,7 @@ homee-acount.com
 homeef.ru.com
 homeeflyer.com
 homeegretkartalfelxbsvr.cloud
+homeeick.com
 homeesltlerses.com
 homeesltlerses.xyz
 homefestlerimiz.com
@@ -225257,6 +225286,7 @@ jyielpukhr.duckdns.org
 jyigycnesfbvjyc.ru
 jyiuiieuxakfjnl.su
 jyl.mdv.temporary.site
+jyla.ru
 jymlzwvlqu.duckdns.org
 jynandhim.ddns.net
 jyokmiluc.com
@@ -245114,6 +245144,7 @@ login-kisit-2024.online
 login-kultur-2024.xyz
 login-live--auth-ledger.webflow.io
 login-live-ledger.webflow.io
+login-live-microsoft.org
 login-liveledger-live.webflow.io
 login-log.secure-insurance-limiteds-paypal.idw877g4r51.business
 login-mail.online
@@ -283807,6 +283838,7 @@ ovenry.xyz
 over-function-foo-school.trycloudflare.com
 over21dawn.top
 overallstiny.top
+overallwobbly.ru
 overbon-mijn.duckdns.org
 overc.cloudns.asia
 overcleverness.com
@@ -291911,6 +291943,7 @@ peartmuth-online.com
 pearvh.ddns.net
 peasanteloquent.top
 peasantlawsuit.top
+peasplecore.net
 peatship.com
 peawhereby.top
 pebbletrail.site
@@ -297618,6 +297651,7 @@ prodeifssf2424.com
 prodello.com
 prodfindfeatures.com
 prodigitalweb.site
+prodlisle.com
 prodocfactransfer.duckdns.org
 prodovjtec.shop
 prodriy.com
@@ -306617,6 +306651,7 @@ qwlandmerxa.online
 qwlay-pttavm.is-best.net
 qwlepskqwekmgas.click
 qwlhm.com
+qwlpert.com
 qwlzcbjh.duckdns.org
 qwnbvb.skin
 qwnwpqnepnrypds.su
@@ -309626,6 +309661,7 @@ redirect-sso.com
 redirect31-online.shop
 redirectamzmanage.hopto.org
 redirectarea.com
+redirectcampaing232.click
 redirectcare02.ddns.net
 redirectcasecitiq1.hopto.org
 redirectcitizenauth.zapto.org
@@ -314183,6 +314219,7 @@ runnerclamp.top
 runnercoalition.top
 runnerrehabilitation.top
 runnerscruti.top
+runnin.sbs
 runningapplications-b7dae-default-rtdb.firebaseio.com
 runningautobiographic.top
 runningcorrelation.top
@@ -336188,6 +336225,7 @@ solidaritydeport.top
 solidaritymajesty.cn
 solidarnost.zapto.org
 solidelectorate.top
+solidewi.com
 solidifycompartment.top
 solidifycomposite.top
 solidifypastry.top
@@ -339162,6 +339200,7 @@ spnden-accnnt-set7854pj.duckdns.org
 spnpfczwso.duckdns.org
 spnrlugndrirklmlr1.xyz
 spnrlugndrirklmlr2.xyz
+spnrrlubasvvrzirat.com
 spnslruvkfreklamci.duckdns.org
 spnslur-924991249.name.tr
 spnsorlu-1vakf.duckdns.org
@@ -349796,6 +349835,7 @@ teamsintegrate.com
 teamslinking.com
 teamslinkintegrate.com
 teamslinksupport.com
+teamsmsg-ns.com
 teamspit.pro/adverts/follow.php
 teamstronger.icu
 teamswag.zapto.org
@@ -360211,6 +360251,7 @@ trbinancespot.blogspot.com
 trbinancetr.com
 trbinanceyardim.com
 trbinarcen.com
+trbinase.com.tr
 trbinnceeiadesi.net
 trbinrance.net
 trbireyse-denizbank.com
@@ -387564,6 +387605,7 @@ windowsmanagerhost.ddns.net
 windowsmcvs.ddns.net
 windowsmicrosoft.zapto.org
 windowsmicrosofte.online
+windowsmsncn.org
 windowsnewzzexplorerszzo.duckdns.org
 windowsoperation.ddns.net
 windowspatch.com
