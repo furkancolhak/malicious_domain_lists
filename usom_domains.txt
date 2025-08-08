@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-08T07:05:13.639117
+# Updated: 2025-08-08T08:05:12.195729
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2590,6 +2590,7 @@
 101ramazansklq.com
 101ramcarsamba.com
 101redirect.life
+101redmialimyeriburasi.cfd
 101redmicinkampanya.click
 101redmicinkampanya.my
 101redmicinkampanya.sbs
@@ -9397,6 +9398,7 @@
 185.244.25.134
 185.244.25.134/ab4g5
 185.244.25.134/lmaowtf/
+185.244.25.135
 185.244.25.135/nope/
 185.244.25.137/33bi/
 185.244.25.137/bins
@@ -11250,6 +11252,7 @@
 196.251.114.158
 196.251.115.187
 196.251.115.188
+196.251.115.36
 196.251.116.36
 196.251.117.179
 196.251.69.118
@@ -65721,6 +65724,7 @@ bajiw.com
 bajoer.fast-page.org
 bak.zeroproofs.com
 baka.thecorpot.com
+bakaers.com
 bakalimelimizdenevarmiss.sbs
 bakamsndwe.net
 bakani-devlethibeler.com
@@ -109596,6 +109600,7 @@ crfursaabzmolursa.com
 crfyonlendirme.shop
 crgjhhsodmxc.net
 crgricill.gruposenhordobonfim.net
+crhammerstein.de
 crhecbeaw.com
 crhgytsai.com
 criandobolos.com.br
@@ -126518,6 +126523,7 @@ doganmobilya.app
 doganrandxevu.net
 doganslxamavarbendemetriks.com
 doganurgazmasa.click
+dogaotobuzdolabi.click
 dogapusulasi.org
 dogasehri.click
 dogasevervecanseverkulubu.xyz
@@ -128518,6 +128524,7 @@ drommtoinononcechangerrer.info
 droneisgood.site
 dronekargo.pro
 dronerc.it
+dronnoovista.com
 droogggdhfhf.com
 droohsdronfhystgfh.info
 droopily.eu
@@ -141247,6 +141254,7 @@ efsanefirsatlarbrda.com
 efsanefirsatlarinizizinhepsismdiburda.duckdns.org
 efsanefirsatlarsimdiayaginizageldihemenal.xyz
 efsanefirsatlarsimdibayramaozel.xyz
+efsaneflrsatlarikacirma8agustos.duckdns.org
 efsaneflrsatlarkacmaz.duckdns.org
 efsanefrstlar1o1kapinda.shop
 efsanegeldiburada.biz.tr
@@ -155819,6 +155827,7 @@ fenthis.store
 fenthishubs.store
 fentivv.com
 fentq.org
+fentraazenfe.com
 fenvefizikdusunceler.xyz
 fenzor.com
 feodosh.hopto.org
@@ -157205,6 +157214,7 @@ finansalislemlerqnb.com
 finansalkampanyalar.com
 finansalkredipaketi.click
 finansalsorgulama.site
+finansanaliz.pro
 finansbahar.com
 finansbakyeniyil.tk
 finansbank---mobilsuben.com
@@ -157681,6 +157691,7 @@ finpeak.online
 finpeaks.online
 finra-online.com
 finreachr.com
+finshinne.com
 finsnlilarkazniyor.vercel.app
 finsolutions.top
 finsorgu.org
@@ -159165,6 +159176,7 @@ firsatlarimiz.esubem.xyz
 firsatlarimiz.kmpanyalar.xyz
 firsatlarimizbzlrleanindabsvrnz.com.tr
 firsatlarimizidegerlendirin.online
+firsatlarimizidegerlendirin.xyz
 firsatlarimiziisizindengelen.space
 firsatlarimiziisizinindengelen.space
 firsatlarimizsizlerlebirarada.online
@@ -195345,6 +195357,7 @@ hispanoles.com
 hissapptr.com
 hisse-yatirim.com.tr
 hissebono.com
+hissedalgasi.com
 hissekarturk.com
 hisseler-yatirim.com.tr
 hissepetrol-tr.com
@@ -213397,6 +213410,7 @@ investoriskayitbasvuru.com
 investorlinguistics.top
 investorobscure.top
 investorpresumably.top
+investpatrol.pro
 investpremium.click
 investprizma.info
 investprofitbprofit.info
@@ -222487,6 +222501,7 @@ jacquelinefrederica.net
 jacquelinepatrickson.net
 jacquettadonaldson.net
 jacsbson.com
+jacsmile.store
 jad.fisbonline.com
 jad12.ddns.net
 jadakennel.com
@@ -229211,6 +229226,7 @@ kanun.sendegerikalma.com
 kanunaciklamatrgiris-web.com
 kanundestekle-edevletgovtr.epizy.com
 kanunubilgilendirme.blogspot.com
+kanunz.com
 kanvergi.net
 kanvergivd.net
 kanyewest.com.ru
@@ -238760,6 +238776,7 @@ kriptoberksite.site
 kriptoex.com
 kriptofirsatlarinikacirma.xyz
 kriptogelecek.top
+kriptogundem.top
 kriptokartallar.com
 kriptokisitikaldirkazan.com
 kriptokoin.vip
@@ -242668,6 +242685,7 @@ lekkeleke.xyz
 lekozoin.com
 lekscopy.xyz
 lekuvam.com
+lekzenntrale.com
 lelarlads.top
 lele.zapto.org
 lelelevis.app
@@ -245976,6 +245994,7 @@ loungepetition.top
 loupeacara.net/flexdeonblake
 loupeahak.com/flexdeonblake
 lourencinisupermercados.com.br
+loustoune.com
 loutcho.ddns.net
 louvre-event.com
 louvrebil.click
@@ -250731,6 +250750,7 @@ maplecontrol.top
 maplecrest.online
 maplediesel.top
 maplegateu-yj.xyz
+maplezen.site
 mappedal.top
 mappingmorrage.top
 mappins.io
@@ -256082,6 +256102,7 @@ millsmanagement.nl
 millsmiltinon.com
 millsmitchell32.xyz
 millsrock.zapto.org
+millstoun.com
 millswan.duckdns.org
 milltsigortaa.com
 milltvlk.com
@@ -256403,6 +256424,7 @@ mirsuyalki.net
 mirtheatre.com
 mirtotakapanaritaka.top
 mirubzi.zapto.org
+mirverlleknim.com
 mirw.wf
 mirzato.pro
 mirzonrrlekfen.com
@@ -259983,6 +260005,7 @@ modernpale.duckdns.org
 modernpaths24.space
 modernsaturation.top
 modernstream.online
+modernteknolojiler.com
 moderntense.online
 moderntips.org
 modernwave.site
@@ -263676,6 +263699,7 @@ muhtesmkasm101frsatlari.com
 muhtesmkassim101de.com
 muhtesmyeniyil101kapinda.com
 muhtessemramazan20gb.com
+muhtez.com
 muhtrrhssan.site
 muhuduhusuhud.site
 muhur.online
@@ -276541,6 +276565,7 @@ olexegy.com
 oleyburs.net
 oleyrandevu.net
 olfaso.net
+olfrex.com
 olftyb.com
 olgaa.ir
 olgakurakina-color.xyz
@@ -293863,6 +293888,7 @@ piyasam-govtr.blogspot.com
 piyasam.online
 piyasam.site
 piyasam.website
+piyasarapor.top
 piyasastrongasrrrtzz.net
 piycacj7.duckdns.org
 piyerdesllemla.site
@@ -299274,6 +299300,7 @@ ptrleumsupport.com
 ptrlkmpnya.com
 ptrlpao.com
 ptrlsupport.com
+ptrlvest.com
 ptrncldrdiszegeln3.online
 ptronlymas.com
 ptrsigorta.net
@@ -302977,6 +303004,7 @@ pupilfy.com
 pupilvoucher.top
 pupl.fanclub.rocks
 pupopolas.vercel.app
+puppeteerpathsync.xyz
 puppuslog.xyz
 puppyclothesshop1.net
 puppyclothesshop2.net
@@ -303993,6 +304021,7 @@ qeukbromz.com
 qeumj1p0m.duckdns.org
 qeutrewenir.us
 qevacttsph.duckdns.org
+qevol.cyou
 qeweqwe.blogspot.com
 qewofxagcuq.org
 qewqku.top
@@ -307307,6 +307336,7 @@ rafinerimimarlik.com/db_template.php
 raflardaindirimlerdencokonlinedevar.cfd
 raflardaindirimlerdencokonlinedevar.my
 raflardaindirimlerdencokonlinedevar.sbs
+raflardakidolulugunsebebburasi.cfd
 rafon.zapto.org
 rafroflokgogcoc.top
 rafsistemleriburada.blogspot.com
@@ -322593,6 +322623,7 @@ scottfranch.org
 scottfranch.org/p66/8734gf3hf
 scottfranch.org/p66/oiheiryur92
 scottish-agreement-laundry-further.trycloudflare.com
+scottishmuslim.com
 scottjsh.ddns.net
 scoutalienation.top
 scouting-bvb.nl/8etyfh3ni
@@ -323035,6 +323066,7 @@ sealmramazzn.com.tr
 sealmramazzn.online
 sealmramazzn.xyz
 seanhenning-101.ddns.net
+seanowy.com
 seaorlakegaranti.buzz
 sear.yeniden-gelelim.cfd
 searalmasna.sd
@@ -332176,6 +332208,7 @@ simpotex.ga
 simpotex.ml
 simpowerlogistics.co.za//db-config-ini.php
 simpowerlogistics.co.za/db-config-ini.php
+simproum.com
 simpsonskinner53.xyz
 simshans3.duckdns.org
 simsiro-nklio.dnc.su
@@ -344415,6 +344448,7 @@ sultanlara-ozel-com.sbs
 sultanlarpashalar.shop
 sultannn.ddns.net
 sultansmagnificence.site
+sultnz.com
 sultonahyouoaid8373.lt.emlnk.com
 suluaracyikama.shop
 sulufm.top
@@ -354729,6 +354763,7 @@ tiringmanifestation.top
 tiringstreamline.top
 tirivagoamabilenerolbulut3.com
 tirominobatik.work
+tironaf.store
 tirtaningnusantara.com
 tirwvy.org
 tirzriwallit.webflow.io
@@ -356679,6 +356714,7 @@ torpdidebar.com
 torpedo-hockey.ru
 torpedo-moscow.com
 torpesito.ddns.net
+torqlet.com
 torragnarek.com
 torrent-tools.software
 torrntvz.com
@@ -368226,6 +368262,7 @@ typeclothes.co.uk
 typeencyclopaedia.top
 typeforms.online
 typeks.duckdns.org
+typelyt.com
 typesettingsforyou.com
 typetiscii.xyz
 typewriteoactivity.top
@@ -369673,6 +369710,7 @@ ultraviewer.icu
 ultravirilehemer.com
 ultrayukleme.sg-host.com
 ultrayuktr.info
+ultrvest.com
 ultttrstktk.site
 ulubey.site
 ulubeyvergi.net
@@ -370951,6 +370989,7 @@ urbank.xyz
 urbanlight.top
 urbanlytic.com
 urbanpathz.com
+urbanpeak.sbs
 urbanpeak.site
 urbansferret.com
 urbanstanderd.com
@@ -378983,6 +379022,7 @@ versuiadeyiartkj.net
 versusbattle.pw
 versusflatter.top
 vertedfe.b-cdn.net
+vertenrg.org
 vertgji-22odemse.net
 vertia-zcea001.click
 vertia-zcea001.info
@@ -405839,6 +405879,7 @@ yatirimekim-mobildenizbank.com
 yatirimfirsariziraatte.com
 yatirimfirsati.top
 yatirimfirsatlari.org
+yatirimgazetesi.top
 yatirimguru.online
 yatirimhaberleri.net
 yatirimhat.com
@@ -409832,6 +409873,7 @@ ylsnkrcadn.com
 ylst7xk27rsnwxo.ddns.net
 ylt59me.duckdns.org
 ylunosyath.xyz
+ylvaronquessia.my
 ylvq.me
 ylw7mc.duckdns.org
 ylyephrvjt.duckdns.org
@@ -410604,6 +410646,7 @@ yopporomosnyknhfta.sbs
 yopporomosyknhfta.xyz
 yopporomosyknhhfd.cyou
 yopse.online
+yoqhiimina.za.com
 yoranmacalsfedameda.xyz
 yorgan.my-style.in
 yorgundemkratxx.net
