@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-08T14:05:15.581160
+# Updated: 2025-08-08T15:05:14.065163
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5756,6 +5756,7 @@
 14251221114122556520.xyz
 14251221114122556523.xyz
 14251221114122556524.xyz
+1425122211222122155655890.xyz
 1425122211222122155655892.xyz
 14251425554150.xyz
 14251425554152.xyz
@@ -36769,6 +36770,7 @@ acarislem.com
 acarkurulusu.org.tr
 acarkurumlari.com.tr
 acarmenkuldegerler.com
+acarmenkuldegerler.online
 acarmenkulonline.com
 acarmenkulonline.com.tr
 acarmenkultr.com
@@ -43418,6 +43420,8 @@ agustosfirsatlariburda101.com.tr
 agustosfirsatlariburda101.online
 agustosfirsatlariburda101.xyz
 agustosfirsatlaridayshemenbasvur.net
+agustosfirsatlarindakigunler.cfd
+agustosfirsatlarindakigunler.sbs
 agustosfrstlrinikcrma.online
 agustosfrstlrlgile.online
 agustosglbalfirsatbasvurususongun.com
@@ -48763,6 +48767,7 @@ aktarmalardestegibasladi.site
 aktarmalarekranionline.site
 aktarmaservisionline.my
 aktarmasorgulamaislemleri.cyou
+aktarmekrani2025.cfd
 aktaronlineiadeni.xyz
 aktarsanahemeniade4.b-cdn.net
 aktartar7hemeniadeni5.b-cdn.net
@@ -50904,6 +50909,7 @@ aldintemmuzdason.name.tr
 aldintemmuzdason.net.tr
 aldintemmuzdason.org.tr
 aldintemmuzdason.web.tr
+aldinua1o1.cfd
 aldinvealdinkmpnya.hopto.org
 aldinverdin-kapidesepetin-1-0-1.com
 aldinvolta.net
@@ -172085,6 +172091,7 @@ giris.k11asdhashdhashdahsdh.site
 giris.k12sadhasdhashdhashdas.site
 giris.k18ahsdhashdahsdhahsdadhs.site
 giris.k25sahdhasdhahsdahsdhasd.site
+giris.k2asdhashdhasdhashdhasd.site
 giris.kampanyagirisi.store
 giris.kmh-zrt.online
 giris.kt-vaikf.online
@@ -178438,6 +178445,7 @@ guvende-param-sahibinden-secure2d.com
 guvende-param-sahibinden.com
 guvende-param.com
 guvende-param.com.tr
+guvende-param.online
 guvende-param.xyz
 guvende-paramonline.tk
 guvende-s.com.tr
@@ -234128,6 +234136,7 @@ kilometredsvcfvcd.shop
 kilometredurum.sa.com
 kilometredurumonl.com
 kilometredurumusimdiihizli.web.app
+kilometreessorugzgovptt.duckdns.org
 kilometregovsorgulama.org
 kilometregulyan.shop
 kilometrehasar.shop
@@ -248552,6 +248561,7 @@ magaji.duckdns.org
 magalu-ultra4k.hopto.org
 magalumobile.hopto.org
 maganomojer.eu
+magarionhully.duckdns.org
 magaza-a101.online
 magaza-com-tr.sbs
 magaza-familia.com
@@ -316126,6 +316136,7 @@ sadeceonlinefirsati.online
 sadeceonlinefirsatlarherzamanburada.com.tr
 sadeceonlineindirimfirsatlarii.shop
 sadeceonlinekampa101.duckdns.org
+sadeceonlinekampan.duckdns.org
 sadeceonlineozel.cfd
 sadeceonlineozel.online
 sadeceonlineozel101.com
@@ -339678,6 +339689,7 @@ sponsorlu-77.online
 sponsorlu-78.online
 sponsorlu-79.online
 sponsorlu-80.online
+sponsorlu-81.online
 sponsorlu-82.xyz
 sponsorlu-83.online
 sponsorlu-8325625.com
@@ -356248,6 +356260,7 @@ tokilerinizegelin.blogspot.com
 tokilerisbasvuru.blogspot.com
 tokilerleshuzkyy.com
 tokilibasvurularim.net
+tokim.bounceme.net
 tokimshuzkyy.online
 tokiomarbuzki.com
 tokiomarklpc.com
@@ -371192,6 +371205,7 @@ url-reclick2.xyz
 url-reclick3.xyz
 url-reclick4.xyz
 url-redicret2.sbs
+url-redigret1.sbs
 url-redirect.xyz
 url-redirect0.site
 url-redirect1.site
@@ -383529,6 +383543,7 @@ watersloss.com
 waterspring.su
 watertightchronically.top
 watertxwnd.com
+watsons.dynuddns.com
 wattdisposition.top
 wattpaddestekformu-com.ml
 wattsanitation.top
