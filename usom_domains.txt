@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-08T18:05:11.782513
+# Updated: 2025-08-08T19:05:21.930249
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -42004,6 +42004,7 @@ adsadsadsads.duckdns.org
 adsaldsajdj15asd.net
 adsanse.sa.com
 adsasdasdasdasdadsbbbiiimmmmccceelll4444.org
+adsasderasdcsa.duckdns.org
 adsaws.ddns.net
 adsay.xyz
 adsbazar.net//db_template.php
@@ -43787,6 +43788,7 @@ ahmeterdem.sa.com
 ahmetfinans.me
 ahmetgungorqq.hopto.org
 ahmetkaya21.xyz
+ahmetkaya31.cfd
 ahmetkaya4.com
 ahmetkayahayatii.blogspot.com
 ahmetkayarte.com
@@ -73857,6 +73859,7 @@ bigbaazaronline.com/wp-includes/db-config-ini.php
 bigbaazaronline.com/wp-includes/wp-config-ini.php
 bigbachatmart.com/wp-includes/requests/db_template.php
 bigbagmobi.ru
+bigbang24sout.freemyip.com
 bigbigou007.zapto.org
 bigbirdint.com/wp-includes/db_template.php
 bigbiztech.com
@@ -99614,6 +99617,7 @@ celebrateelapse.top
 celebrationshub.shop
 celebratioopz.shop
 celebritass.top
+celebrity-perfectteeam.click
 celebrity.hopto.org
 celebritydread.top
 celebrityleaflet.top
@@ -179741,6 +179745,7 @@ guzelgunler-tebsubem.com
 guzelgunler.name.tr
 guzelgunler.net
 guzelgunler.site
+guzelgunler2.shop
 guzelgunlerade.online
 guzelgunlerde.com
 guzelgunlerde.com.tr
@@ -185324,6 +185329,7 @@ hamakfirsatlari.club
 hamamamamamam4352.com
 hamamamamamama2313.com
 hamamamamamamaamama9831.com
+hamamamamamamama8981.com
 hamamamamamamamam9834.com
 hamamamamamamamamamam2341.com
 hamamamamamamamamamama1738.com
@@ -234151,6 +234157,7 @@ kilometredsvcfvcd.shop
 kilometredurum.sa.com
 kilometredurumonl.com
 kilometredurumusimdiihizli.web.app
+kilometreessorugzgorvptt.duckdns.org
 kilometreessorugzgovptt.duckdns.org
 kilometregovsorgulama.org
 kilometregulyan.shop
@@ -248669,6 +248676,7 @@ magazasfamilia.net.tr
 magazasfamilia.org.tr
 magazasicom-tr.sbs
 magazasok.com.tr
+magazatrcepte.info.tr
 magazaturkcell.com
 magazazincirim.com
 magazhajajsja.duckdns.org
@@ -333633,6 +333641,7 @@ sizle.istanbul
 sizlebasladik.net
 sizleburadan.net
 sizleozel2022.net
+sizler-aldiniz-eklfiler-herzmn.store
 sizler-az-yuzun-gulsun.top
 sizler-bayrama-gelin-burada-mutlu-olun.com
 sizler-bayramda-mutlu-olacaksiniz-bizlerle.com
@@ -380820,6 +380829,7 @@ vkkkhkyqpz.duckdns.org
 vkkkkkkkkkkkkk.site
 vkklvatlvtlalvaa.online
 vklamntkfvkf.com
+vklamnvkf.com
 vklhfcpmzd.duckdns.org
 vkligyvraz.duckdns.org
 vklkvlvllvklvlvlvklvnm.net
@@ -381357,6 +381367,7 @@ voltageartifact.top
 voltagedeterrent.top
 voltageimmersion.top
 voltagesentimental.top
+voltahaberleria1o1.cfd
 voltahaberleria1o1.sbs
 voltaia1o1.net
 voltakampanya.shop
@@ -409332,6 +409343,7 @@ yildizlarkayarken.com
 yildizlarkonteyner.com.tr/?kl=
 yildizlartoptanparakende.com
 yildizlarveteknolojikmedeniyetler.xyz
+yildizli-buz-gucu-trio.sbs
 yildizlialisverisler.online
 yildizlialisverisler.xyz
 yildizlibahceligunler.chickenkiller.com
