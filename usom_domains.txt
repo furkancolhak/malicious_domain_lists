@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-08T17:05:12.398990
+# Updated: 2025-08-08T18:05:11.782513
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2595,6 +2595,7 @@
 101redmialimyeriburasi.sbs
 101redmialimyeriburasidir.cfd
 101redmialimyeriburasidir.sbs
+101redmicifirsatalimlari.cfd
 101redmicinkampanya.click
 101redmicinkampanya.my
 101redmicinkampanya.sbs
@@ -4516,6 +4517,7 @@
 12-ocak-ozelfirsatlar.shop
 12-ocakfirsatlari.shop
 12-ocakozelfirsatlar.shop
+12-rds-afg12-fwsa-12sasfagt12.sbs
 12-temmuz-kampanyalari.com
 12.178.187.7
 12.olfaso.net
@@ -72345,6 +72347,7 @@ bendeguvenddee.info
 bendehazir.com.tr
 bendekere.online
 bendenalgel.biz.tr
+bendenalgel.org.tr
 bendenalgel.web.tr
 bendendahaiyilerinibulursun.xyz
 bendengitme1.com.tr
@@ -93642,6 +93645,7 @@ buradayiz.shop
 buradayizbiz.net
 buradayizteb.online
 buradsa-aldin-aldintekfler.store
+buradsa-aldiniz-eklfiler-herzmn.store
 buradsa-aldint-aldisn-teklifler.com
 buraforalogsa.vercel.app
 burak3d.xyz
@@ -111265,6 +111269,7 @@ cuncileel.top
 cunerier.com
 cuneytugur.com.tr/language/connection.php
 cunironi182.ddns.net
+cunkuelimdebaskasikyoktu.sbs
 cunnymgir.pw
 cunobavexiho.com
 cuofco.duckdns.org
@@ -230010,6 +230015,7 @@ karaca-ev-aletleri.com
 karaca-firsat-dunyasi.shop
 karaca-firsat.com.tr
 karaca-firsati.duckdns.org
+karaca-firsatlar-com-tr.sbs
 karaca-gunleri-kasim.xyz
 karaca-gunlerim.xyz
 karaca-home-com-com-tr.sbs
@@ -232764,6 +232770,7 @@ keesterfcu-kfcu.ddns.net
 keesterfcu-kfculogi.ddns.net
 keewoolas.pw
 keewoom.co.kr
+kefelukasparesort.com
 keffxecqimbuoq.me
 kefilsizbasvurudepartmani.com
 kefilsizbasvurum.com
@@ -236069,6 +236076,7 @@ kmosna.cfd
 kmosoada.com
 kmosoda.com
 kmoud.mooo.com
+kmp-gnc-bg.cfd
 kmp-gnc-onl.cfd
 kmp245d4de3.store
 kmp56o3.duckdns.org
@@ -282861,6 +282869,7 @@ osheoufhusheoghuesdu.info
 osheoufhusheoghuesdx.biz
 oshhkdluh.biz
 oshimen45gstr.duckdns.org
+oshimen45gstr.freemyip.com
 oshirohego.com
 osiblzu.com
 osieofcorizon.fun
@@ -326648,6 +326657,7 @@ sepettekampanya.one
 sepettekampanya.org
 sepetteki-urunler.com.tr
 sepettekiefsaneindirim101.com
+sepettekimutluluk.top
 sepettekolay.com.tr
 sepetten1o1indirimi.com
 sepetten1o1inidirimi.fwh.is
@@ -335225,6 +335235,7 @@ snczvsqodz.duckdns.org
 snd1glsn0sng1br.com
 snd616.co
 sndbndensinglbaki.art
+sndbnlrdrpymcbkglgtt.cfd
 sndbnmgbiolmamlisin.cfd
 snde-basvurtakipkampanyasina.com
 snde-hemenbasvurbizekatilkmpanyasi.com
@@ -335821,6 +335832,7 @@ sok-efssneagustiskmpy.com
 sok-ekstra.com
 sok-fffwwssfs.sbs
 sok-firsat-guncel.com.tr
+sok-firsat.cfd
 sok-firsatanlari.com.tr
 sok-firsatanlarin.com.tr
 sok-firsatim5.net
@@ -373068,6 +373080,7 @@ uzaoppdvxk.duckdns.org
 uzas.my-style.in
 uzay3d.xyz
 uzaybilgi.com
+uzaydan-soguk-dokunuslar.sbs
 uzaygbnxecell.net
 uzaykesifveteknolojigelecegimizinharitasi.xyz
 uzayli.name.tr
@@ -380698,6 +380711,7 @@ vkfkredibasvurutalebi.cf
 vkfkredibasvurutalebi.ga
 vkfkrediekranibasvuru.click
 vkfkredindverfraisscevgkf.app
+vkfkredindverfraisscevgkf.net
 vkfkredionlinesayfapagesi.click
 vkfkredionlinesistemgiris.click
 vkfkredisayfasibasvuruekrani.click
@@ -381343,6 +381357,7 @@ voltageartifact.top
 voltagedeterrent.top
 voltageimmersion.top
 voltagesentimental.top
+voltahaberleria1o1.sbs
 voltaia1o1.net
 voltakampanya.shop
 voltakampanyada.cfd
