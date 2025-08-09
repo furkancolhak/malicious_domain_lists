@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-09T11:05:11.870059
+# Updated: 2025-08-09T12:05:12.498818
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -99310,6 +99310,7 @@ cebtetebonusu.com
 cebtetebsube.online
 cebtetebyukle.com
 cebteyimteb.com
+cebttebmfrsatlar.cloud
 cebucafe.net
 cebucfg.org
 cebunchplanmarc.com
@@ -139105,6 +139106,7 @@ edevletceptemobil.world
 edevletcepten2020formu.com
 edevletceptesubegov-banka-giris.com
 edevletcezabilgi.org
+edevletcezagov.org
 edevletcezaportal.org
 edevletcezasistemi.com
 edevletcezasorgu.org
@@ -155289,6 +155291,7 @@ fbcenterrecoverys01100-2024.duckdns.org
 fbcgak.ddns.net
 fbcl2.adsoft.name
 fbcl2.softad.net
+fbclickid-metabrowser.cfd
 fbclickid.site
 fbclikisbnksponsorlurklm.site
 fbcliksponsorlureklam.site
@@ -225858,6 +225861,7 @@ k70hjlwtm.duckdns.org
 k71qb7.duckdns.org
 k71tm5euu.duckdns.org
 k75neay.duckdns.org
+k7ashdahsdhashdahsdhasd.site
 k7ashdashdhashdahsdh.site
 k7chesid9.hopto.org
 k7frk864o.duckdns.org
@@ -230052,6 +230056,7 @@ karaca-caydanlik.com.tr
 karaca-dunyasi-com-tr.sbs
 karaca-english-hhome-firsatlariyilsonu.com
 karaca-ev-aletleri.com
+karaca-firsat-com-tr.sbs
 karaca-firsat-dunyasi.shop
 karaca-firsat.com.tr
 karaca-firsati.duckdns.org
@@ -233866,6 +233871,7 @@ kgsavbildirisiodme.sbs
 kgsbhgborcihlalgcs.duckdns.org
 kgsborcereihlalegecisese.duckdns.org
 kgsgeciseleriodere.duckdns.org
+kgshglgecisodemebrced.duckdns.org
 kgshgsblsgeciborcse.duckdns.org
 kgshgspttavmnet.blogspot.com
 kgsikorta.xyz
@@ -235365,6 +235371,7 @@ kkbaytardomdomain.com
 kkbaytarjuzdanlar.com
 kkbaytarkkds.com
 kkbaytarspacee.com
+kkbbfyfafjfs.space
 kkbbkksskk.com
 kkbbytar.com
 kkbcuzdanlar.space
@@ -235476,6 +235483,7 @@ kkmeoi03q.duckdns.org
 kkmftmutas.duckdns.org
 kkmmtt.duckdns.org
 kkmmwebgcshgsyol.duckdns.org
+kkmocmndasd.click
 kkmomossdasdsa.com
 kkmzkassssskkaa.top
 kkmzzupbfu.onflue.ru
@@ -279921,6 +279929,7 @@ onlinegericenteriletisim.site
 onlinegeridnkaktarimlar.sbs
 onlinegerihizmeti.site
 onlinegeriodemeguncel.online
+onlinegerisorguekrani2025.my
 onlinegerisrgu.icu
 onlinegerisrgu2025.my
 onlinegeriyednkaktarimekrani.site
