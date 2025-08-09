@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-09T14:05:12.077604
+# Updated: 2025-08-09T15:05:12.349699
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43800,6 +43800,7 @@ ahmetfinans.me
 ahmetgungorqq.hopto.org
 ahmetkaya21.xyz
 ahmetkaya31.cfd
+ahmetkaya32.cfd
 ahmetkaya4.com
 ahmetkayahayatii.blogspot.com
 ahmetkayarte.com
@@ -52375,6 +52376,7 @@ almosawi.ddns.net
 almoshell.website
 almutosaliq.com
 almxlsks-almxmsk-alzmmda.icu
+almzsmm-zamkzmakka.sbs
 aln3imi00100.zapto.org
 alnaaze757.hopto.org
 alnabaanews.com
@@ -93049,6 +93051,8 @@ buhaftanin-sonkampanyasi.shop
 buhaftanindirimi.hopto.org
 buhaftanineniyiurnlerinisenalbunukacrma.shop
 buhaftaninenleri101.online
+buhaftaninindirimlerinde.cfd
+buhaftaninindirimlerinde.sbs
 buhaftaninindxrimi.hopto.org
 buhaftaninkacmaz-firsatlaria101.kesug.com
 buhaftaninkasimfirsatlarialdinaldin.online
@@ -125924,6 +125928,7 @@ dnbn3424-sllc.com
 dnbnetnben.xyz
 dnbzgthi.duckdns.org
 dnc7njclenrat.ddns.net
+dndenbguneeniylerbrda.cfd
 dndenizbank.com
 dndenoncgldkkmpnnyyial.com
 dndzh457thdhjk.at/checkpieceuntil
@@ -160698,6 +160703,7 @@ flrsat-kmpny.com.tr
 flrsat-online-kapida.name.tr
 flrsat1o1.com
 flrsata-hos-geldiniz.cloud
+flrsatagustoskampanyavaktl.com
 flrsatahapazargunlerindealir.store
 flrsatahasendekatmaherkeskos.store
 flrsatalarimhemendasali.shop
@@ -200440,6 +200446,7 @@ hs-online-banking.com
 hs-onlinebanking-customer.com
 hs-ys-e.com
 hs1996hh.hopto.org
+hs32g-a2qq-sgagfq-wd-sag-adasda.org.tr
 hs47rcxm6u0wb3jipe.ddns.net
 hs5sk2xl.duckdns.org
 hs6o394.duckdns.org
@@ -230089,6 +230096,7 @@ karaca-online.com.tr
 karaca-online.info.tr
 karaca-online.net.tr
 karaca-online.org.tr
+karaca-sana-ozell-com-tr.sbs
 karaca-sepete-mutlulugu-cebine-girer.com
 karaca-size-ozel-com-tr.sbs
 karaca-sultan.sbs
@@ -234280,6 +234288,7 @@ kilometreuzmanblgisstem.web.app
 kilometrev.web.app
 kilometrevehasarcom.shop
 kilometrevehasarkaydi.autos
+kilometrosgorgulamahemengovpttsxsaz.com
 kilometsgorulari.xyz
 kilommetreshemnnpttgovavm.duckdns.org
 kilommetreshemnnpttgovavvm.duckdns.org
@@ -323210,6 +323219,7 @@ sdweaqew2.blogspot.com
 sdwghdtwww.click
 sdwjvtmvsgkh.pw
 sdxcvxccxcxxc.s3.eu-central-1.amazonaws.com
+sdxkawda.blogspot.com
 sdxsxsx.click
 sdxylkr.duckdns.org
 sdyhxawrvxae.in
@@ -355001,6 +355011,7 @@ titnovacrion.top
 tito.ddns.net
 titoharor.ddns.net
 titouam.duckdns.org
+titowdxkw.click
 titus102023.ddns.net
 titutuyumuyusuyu.site
 titwilobu.com
