@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-10T19:05:12.650754
+# Updated: 2025-08-10T20:05:10.875271
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -50941,6 +50941,8 @@ aldinmialdin.online
 aldinmialdinkampanyasi.cfd
 aldinmialdinkampanyasi.sbs
 aldinmihic.xyz
+aldinmimialdinmifirsat.cfd
+aldinmimialdinmifirsat.sbs
 aldinn-a101-aldiin-yildizlari.com
 aldinn-a101-aldinn-yildizlaricom.com
 aldinnaldi101aktuell.online
@@ -52412,6 +52414,7 @@ almutosaliq.com
 almxlsks-almxmsk-alzmmda.icu
 almzsmm-zamkzmakka.cfd
 almzsmm-zamkzmakka.cyou
+almzsmm-zamkzmakka.icu
 almzsmm-zamkzmakka.sbs
 aln3imi00100.zapto.org
 alnaaze757.hopto.org
@@ -83095,6 +83098,7 @@ bixchat.com
 bixcmclal.net
 bixconnex.com
 bixcrll126.net
+bixden-aldiniz-eklfiler-herzmn.store
 bixdqgehub.outher.ru
 bixfsfas.net
 bixguncell79.net
@@ -97554,6 +97558,7 @@ carefaoursa.com.tr
 careffouerrsa.com
 careffour.sa.com
 careffourr.sa.com
+carefour-arg.com
 carefour.jiahs.xyz
 carefourlufirlar.shop
 carefourlugunler.shop
@@ -127795,6 +127800,8 @@ dostlar.store
 dostlareli.com
 dostlarimgerigeldi.net
 dostlarimlabenim.xyz
+dostlarinfirsatlarindakiadresler.cfd
+dostlarinfirsatlarindakiadresler.sbs
 dostlarlaberaber.net
 dostlarmeclisi.xyz
 dostlarmekani.com.tr
@@ -182877,6 +182884,7 @@ hakkinizdaki-sikayetler.ml
 hakkinizdakisikayetler.epizy.com
 hakkinizdakisikayetler.ga
 hakkinizdakisikayetler.tk
+hakkinizdan-oturu-gitmeyen-kazanarak-oldu.com
 hakkinizdaolansikayetler-tr.ml
 hakkinizdaolansikayetler.tk
 hakkinizdasiikayetvar.com
@@ -234421,6 +234429,7 @@ kilometsgorulari.xyz
 kilommetreshemnnpttgovavm.duckdns.org
 kilommetreshemnnpttgovavvm.duckdns.org
 kilommetreshemnpttgovavm.duckdns.org
+kilomrslkfkl.duckdns.org
 kilomtrehizlisorguchp.xyz
 kilomtremonlinesorglma.web.app
 kilomtreniogrenchp.xyz
@@ -264720,6 +264729,7 @@ mutualequate.top
 mutualmonopolise.top
 mutualshort.top
 mutulumusterilerinyeri.cfd
+mutulumusterilerinyeri.sbs
 mutzjwge.com
 muugkvteut.duckdns.org
 muuhhtesemcuma.com.tr
@@ -326918,6 +326928,7 @@ sepettekimutluluk.top
 sepettekolay.com.tr
 sepetten1o1indirimi.com
 sepetten1o1inidirimi.fwh.is
+sepettenaldn.com
 sepettenalishizmeti.com
 sepetteodeme.com
 sepettesevilenurunlerikacirma.com.tr
@@ -333794,6 +333805,7 @@ sizinbizsizmiz.online
 sizindebizimlegelesinizvar.net
 sizindegelin.net
 sizindeisinizolsun.com
+sizindeniziniz.duckdns.org
 sizindirdenizlerimiz.com
 sizindunyanizahosgeldiniz.blogspot.com
 sizine-devletiniz.com
@@ -403589,6 +403601,7 @@ yanindakifirsatlarbugunler.xyz
 yanindakigucdestek.com
 yanindakiguzellik.top
 yanindakiheyecandolusu.com
+yanindakineselisekilde.com
 yanindayimgulumsetirim.net
 yanindayiztebli.duckdns.org
 yaninizdafirsatlarsizlerlebirlikte.com.tr
