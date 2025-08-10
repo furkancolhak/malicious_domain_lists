@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-10T05:05:12.748192
+# Updated: 2025-08-10T06:05:12.688960
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -185855,6 +185855,7 @@ harcaharcabitmezfirsatlar.icu
 harcaharcabitmezfirsatlar.sbs
 harcaharcabitmezgibi.cfd
 harcaharcabitmezgibi.sbs
+harcaharcabitmezgibibiterler.sbs
 harcaharcabitmezgonlum.cfd
 harcaharcabitmezgonlum.sbs
 harcaharcabitmezgunler.cfd
@@ -185903,6 +185904,8 @@ harcaharcabitmezz2024a.xyz
 harcaharcabitmz.blogspot.com
 harcaharcabitmzzk.online
 harcaharcabrdabitmez1o1.com
+harcaharcaharcabitmez.cfd
+harcaharcaharcabitmez.sbs
 harcaharcaindirimler.cfd
 harcaharcaindirimler.sbs
 harcaharcasizlerle.net
