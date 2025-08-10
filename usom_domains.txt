@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-10T17:05:11.691024
+# Updated: 2025-08-10T18:05:13.033363
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5974,6 +5974,7 @@
 14515579416.cloud
 1452155544558890.xyz
 1452155544558891.xyz
+1452155544558892.xyz
 14522880072.xyz
 145251559888090.xyz
 145251559888890.xyz
@@ -48163,6 +48164,7 @@ akiter.cuxmgecsem45.com
 akiter.kampancancumartx.com
 akiter.pazaragustos61.com
 akiter.pazartesimarket32.com
+akiter.pzrmrktrsy-326.com
 akiter.salifirsatlari27.com
 akiter.saligecem38.com
 akiter.salisabahi14.com
@@ -48724,6 +48726,7 @@ akt.10agostos-pazar.art
 akt.10agostos-pazarda.art
 akt.3agustos-indrm.com
 akt.cuma-onlinefirsatz.com
+akt.cumamrkt-3213.com
 akt.cumartesi-agustsindrm.net
 akt.indirim-31temmuzx.art
 akt.mayis-firsatiaksamlar.com
@@ -89493,6 +89496,7 @@ bonusfirsatta.tk
 bonusflas-garant.icu
 bonusflash-garantimcon.com
 bonusflash-kampanya.vercel.app
+bonusflash.digital
 bonusflash1946.com
 bonusflashiadebasvuru.com
 bonusflashizliformlar.com
@@ -94764,6 +94768,7 @@ bvssmclli.com
 bvstigveriapp.online
 bvsucurisda20000.tech
 bvtkxleblicukfu.ru
+bvtr-web-login.za.com
 bvuguamjtf.duckdns.org
 bvuzdvvxhq.duckdns.org
 bvvbve4.duckdns.org
@@ -135417,6 +135422,7 @@ e-sube-yapikredi-tr.com
 e-sube-yapikredii.com
 e-sube-yapikredii.net
 e-sube-ziraat.online
+e-sube.hedefmenkulyatirim.online
 e-sube.yapikrediturkiyenindijitalbankasi.com
 e-subeacikdenizv2.gq
 e-subeacikdenizv2022.tk
@@ -180770,6 +180776,7 @@ h3lpr3.store
 h3m3n.is-best.net
 h3sg-yukleme.gq
 h3uh3uh3.ddns.net
+h3weg-12-sa-f-fs-fsaa-sff-21-21wsaf12safsghhsd.sbs
 h3xnfc1r.duckdns.org
 h3xw96.duckdns.org
 h3xy1983.zapto.org
@@ -186276,6 +186283,8 @@ harikalar-yeniden-geliyor-sizlere-burada.com
 harikalarburadaniz.net
 harikalardakampnayalardafirsat.cfd
 harikalardakampnayalardafirsat.sbs
+harikalardakifirsatlarinyeriburasi.cfd
+harikalardakifirsatlarinyeriburasi.sbs
 harikalardiyarifirsati.cfd
 harikalardiyarikampanya.xyz
 harikalardiyarikampnayasi.cfd
@@ -192108,6 +192117,7 @@ hgkvofk.net
 hgkyklegec.org
 hgl-sodemev-akt.net
 hglbsgecborcoderlereg.duckdns.org
+hglbsgecisihlaborcicra.duckdns.org
 hgldrhgssq.com
 hglenddr22rreodeme.net
 hgleyuklesme.net
@@ -228011,6 +228021,7 @@ kampanyabasvurusubuguneozelbance.tech
 kampanyabasvurusuorthenighteight.net
 kampanyabasvuruv2deniz.tk
 kampanyabende.online
+kampanyabildirimi.com
 kampanyabildirimi.xyz
 kampanyabilgilendirmetr-giris.com
 kampanyabilgilendirmetr-giris.net
@@ -235144,6 +235155,7 @@ kisaozelindirimler.xyz
 kisaparlament.net
 kisasuredeindirima1o1.duckdns.org
 kisasurelia1o1indirmleri.duckdns.org
+kisasurelietkinlikyayinda.com
 kisasurelifirsatlara101.duckdns.org
 kisasurelifirsatlarda1o1.duckdns.org
 kisasurelikampyafirsatlari.duckdns.org
@@ -236436,6 +236448,7 @@ kmsorgulamayapgovptt.duckdns.org
 kmsorgulamayaphemegovptteuge.web.app
 kmsorgulamayapo-gov-ptt.duckdns.org
 kmsorgulamayappburdanptt.duckdns.org
+kmsorgulamayovgovhemenpttasdww.com
 kmsorgulamaz.com
 kmsorgulamzsazniyogovptt.duckdns.org
 kmsorgularchp.xyz
@@ -238896,6 +238909,7 @@ kredionlinev2denizbank.co.vu
 krediozelfirsat.com
 krediparam.com
 kredipromosyon.cyou
+kredipromosyon.site
 kredipuanisorgusu.com
 krediqnbgiriskampanya.com
 kredired.com
@@ -339592,6 +339606,7 @@ spet-teki-indirimi-kap101.click
 spet-teki-indirimi-kap101.com.tr
 spet-teki-indirimi-kap101.cyou
 spet-teki-indirimi-kap101.xyz
+spetinizicinvarizbizde.com
 spetlerburdasiznicin.com
 spfc-01fcu.org
 spfpqe.duckdns.org
@@ -346990,6 +347005,7 @@ sznicnbstnbsldkknmpyl.xyz
 sznidztoqg.duckdns.org
 sznkmnzz.com
 sznleilkaltayodemsz.site
+sznsayenizdeagstss.com
 sznsnnu-xindrmmllriyleyni.xyz
 sznsnnu-xsinddrmmlldriyleyni.xyz
 sznsnnu-xsinddrmmllriyleyni.xyz
@@ -348050,6 +348066,7 @@ tam-zamani-com-tr.sbs
 tamadasesaas.ltd
 tamafadadestek.com
 tamam-onay.xyz
+tamamaktuel101.duckdns.org
 tamambayileri.is-best.net
 tamamdir-elinizdeki-dengiyle-buyumek-bunun.com
 tamamdir.name.tr
@@ -358069,6 +358086,7 @@ tr-eiademerkezii.com
 tr-ekatilim-internetsubesi.com
 tr-ekonomibak-destekpandemi.net
 tr-ekonomiisst.online
+tr-ekran-entry.click
 tr-ekstra.shop
 tr-elektronik-iade-sistemi.com
 tr-elektronik-sepetin.online
@@ -365459,6 +365477,7 @@ turkcelltrpasaj.com
 turkcellturkey.com
 turkcellweb.com
 turkcellwebalisveris.com
+turkcellwebmagazalari.com
 turkcellwebmagazasi.com
 turkcellwebmarket.com
 turkcellwebsite.com
