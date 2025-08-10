@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-09T23:05:13.663524
+# Updated: 2025-08-10T00:05:13.714732
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -170175,6 +170175,7 @@ geriyednkaktarimlarekrani.site
 geriyednkaktarmsrgu.click
 geriyednkia-de.com
 geriyednkoniineaktrm.site
+geriyednksorgu-2025-iletisim.cfd
 geriyednksorgu2025.cfd
 geriyednksorgu2025.my
 geriyednksorguserv2025.cfd
@@ -230252,6 +230253,7 @@ karacamarketimm.org.tr
 karacamarketlerim.com
 karacamayis.com.tr
 karacamayisaktuel.com.tr
+karacamshop.free.site.pro
 karacamutfakhome.xyz
 karacamutfaktad1.denemepaketi.com
 karacanisan-kampanya.com.tr
@@ -239457,6 +239459,7 @@ kudaterbangtinggi.duckdns.org
 kudivmaefaer.net
 kudmgivpvuejmgog.io
 kudrnwosas.faith
+kudurttum.proxydns.com
 kudusedestekol.com
 kuduseyardim.com
 kudzyylikesmen.ddns.net
@@ -258297,6 +258300,7 @@ mobilbasvuru-tabletdestegi.com
 mobilbasvuru-yarinindunyasibu5syilaozel-com.tk
 mobilbasvuru.com.tr
 mobilbasvuru.online
+mobilbasvuru.sbs
 mobilbasvuru.xyz
 mobilbasvuruacikdenizv2denizbankgiris.co.vu
 mobilbasvuruackkkdnzbireyselbasvuru.com
@@ -339741,6 +339745,7 @@ sponsorlu-1.ovh
 sponsorlu-10.online
 sponsorlu-10.top
 sponsorlu-100.online
+sponsorlu-1001.online
 sponsorlu-101.online
 sponsorlu-102.online
 sponsorlu-103.online
@@ -339851,6 +339856,7 @@ sponsorlu-78.online
 sponsorlu-79.online
 sponsorlu-80.online
 sponsorlu-81.online
+sponsorlu-82.online
 sponsorlu-82.xyz
 sponsorlu-83.online
 sponsorlu-8325625.com
@@ -348015,6 +348021,7 @@ tamvergiodeme.net
 tamvfysbukujsfaau.com
 tamzamanibursum.com
 tamzamanigeldikisimdi.duckdns.org
+tamzamanigelince.camdvr.org
 tamzamanindanavans.online
 tamzmnigeldiki.duckdns.org
 tan-candida-78.tiiny.site
@@ -414483,6 +414490,7 @@ ziraat.kim
 ziraat.kromozom.id
 ziraat.ml
 ziraat.mobil-giris-tr.com
+ziraat.mobilbasvuru.sbs
 ziraat.mobilonlineozelkampanyalar.cf
 ziraat.mobilonlineozelkampanyalar.gq
 ziraat.obidatticampaign.us
