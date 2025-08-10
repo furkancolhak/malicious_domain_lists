@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-10T15:05:12.457674
+# Updated: 2025-08-10T16:05:11.526953
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -37687,6 +37687,7 @@ acik-firsatburadabasvur.com
 acik-firsatdenizdebasvuru.com
 acik-firsatgunu.com
 acik-firsatmobildenizsube.com
+acik-hava-kamp-rotasi.top
 acik-hemenbireyselafillidenizbasvur.com
 acik-hizmetleri.cf
 acik-iadelermobildenisan.com
@@ -48884,6 +48885,7 @@ aktier.101sali-aksams.shop
 aktier.10agostos-pazar.art
 aktier.10agostos-pazarda.art
 aktier.online-temmuzfirsatlari.com
+aktier.pazarmartkc.art
 aktier.persembe-macvarhayirli.com
 aktier.temmuz-a-1o1.com
 aktif-20gb-internet-turkcell.com
@@ -124192,6 +124194,7 @@ dijitalislemim.com
 dijitalislemler-denizacik.com
 dijitalislemler-ziraatbireysel.com
 dijitalislemler-ziraatislemler.com
+dijitalislemler-ziraatkampanyaweb.site
 dijitalislemler.xyz
 dijitalislemlergiris-denizacik.com
 dijitalislemlergirisin-denizacik.com
@@ -181732,6 +181735,7 @@ hafta-kapimizda-siparis.com.tr
 hafta-kapinda-siparis.com.tr
 hafta-kapinizda-siparis.com.tr
 hafta-paribu.ga
+hafta-sonu-kamp-yolculugu.top
 hafta-sonunda-sizler-icin.com
 hafta-sonunda-sizler-icin.online
 hafta-sonunda-sizler-icinn.com
@@ -202490,6 +202494,7 @@ hzlrandvnnunall.net
 hzlrandvnual.net
 hzlsgevc.net
 hzlsigortamburdaatr.com.tr
+hzlsrglaklm.com
 hzlsrgulamalxsr.com
 hzlssmmw.click
 hzltlyklmlrnizz.net
@@ -246648,6 +246653,7 @@ lstanbul.online
 lstanbul.store
 lstanbul.tech
 lstanbulbasvuru.com
+lstanbulbreysell.online
 lstanbuldaodemelibb.net
 lstanbulkart.com
 lstanbulkart.istanbul
@@ -246658,6 +246664,7 @@ lstanbulkd.blogspot.com
 lstanbullu.shop
 lstanbulluolun.click
 lstanbulluolun.sa.com
+lstanbulluolunburdan.myshopify.com
 lstanbulodemeibb.net
 lstanbulqrt.net
 lstanbulu.net
@@ -256676,6 +256683,7 @@ mircosofdevice.com
 mircosoftdefender.com
 mirediohq.store
 mirento.store
+mirexaorigin.com
 mirgarllumnim.com
 miriammoreno124.xyz
 mirinabisaxii.top
@@ -278889,6 +278897,7 @@ online-promerica-app-9938998438484848849.duckdns.org
 online-promotion14.online
 online-ptt-avm.fun
 online-ptt-dolum.fun
+online-pttavm.com
 online-pttavm.com.tr
 online-pttavm.shop
 online-puankampanyasi-bireysel-katilim.cf
@@ -326361,6 +326370,7 @@ seninbankankayit.com
 seninbaskangir.com
 seninbayin.xyz
 senincekilisin.tk
+seninde-kalana-geriden-bakmadan-aldilar.com
 senindeyuvan.com
 senindeyuvan.net
 seninduyurun.website
@@ -335649,6 +335659,7 @@ snsz-kl-brlrd.shop
 snsz-olmyrk.shop
 snsz-olmz.shop
 snszakdrgidgzllklrr.com
+snszakdrgidgzllklrr.info
 snszakdrgidgzllklrr.online
 snszknmpylrrindnyndnkcmzz.online
 snszknmpylrrindnyndnkcmzz.xyz
@@ -377500,6 +377511,7 @@ vbif.cloud
 vbireyselvakifkrdiline.xyz
 vbiuytslc.com
 vbjdh2uhds7dhis.pro
+vbkampanyalar4fs.duckdns.org
 vbkatilimonlinemobilgiris.online
 vbkatlllmonineegiriss.tk
 vbl9mf.duckdns.org
@@ -381025,6 +381037,7 @@ vkftorbetgiris.tk
 vkftr.net
 vkfvfkvfvxfkvkf.com
 vkfvkfkgkkvkf.duckdns.org
+vkfvkfkvaf.duckdns.org
 vkfvkfvfsavkaf.com
 vkfyeniyil2022kmpnyagiris.net
 vkgdge-ddkv.net
@@ -402981,6 +402994,7 @@ xzzyvtocdz.duckdns.org
 y-101sendegelal.com
 y-1o1comtr.online
 y-ardwswag.com
+y-digitallltuzelllkisimenu.online
 y-e-n-i-m-a-r-k-e-t-f-i-r-s-a-t.online
 y-istanbulkart.net
 y-ml.co
@@ -403541,6 +403555,7 @@ yanindakifirsatlarbugun.xyz
 yanindakifirsatlarbugunler.xyz
 yanindakigucdestek.com
 yanindakiguzellik.top
+yanindakiheyecandolusu.com
 yanindayimgulumsetirim.net
 yanindayiztebli.duckdns.org
 yaninizdafirsatlarsizlerlebirlikte.com.tr
