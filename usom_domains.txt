@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-10T10:05:12.366187
+# Updated: 2025-08-10T11:05:11.644106
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43487,6 +43487,7 @@ agustoskampanyasorgulamalari25.com
 agustoskampanyasorgulari.net
 agustoskampyanlarisonuclari2025.com
 agustoskmpnylrinikcrmx.online
+agustoskmppnylaarit.duckdns.org
 agustosmarket.com
 agustosmarketkampanyalari.online
 agustosonfirsatduyurulari.xyz
@@ -80052,6 +80053,7 @@ binnanceguvenlibasvuru.xyz
 binnancehediyeyagmurum.ml
 binnancelldehediyeler-com.ga
 binnancetr.tk
+binnancetr.xyz
 binnannce.net
 binnce-iade.com
 binnceagustoskampanyasi.net
@@ -93388,6 +93390,7 @@ bundan-ucuzu-yok.com
 bundanesia.com
 bundansendefaydalan.net
 bundansonradevamediniz.net
+bundansonrakiflrsat.duckdns.org
 bundansonrasiagustos.shop
 bundansonratop.top
 bundearsyusd.store
@@ -128132,6 +128135,7 @@ doyartik.site
 doytupodkifopffbiu.ddns.net
 doyukleme.22web.org
 doyumsuzakisverlerhafaasi.cfd
+doyumsuzakisverlerhafaasi.sbs
 doyumsuzalisverisadrsi.online
 doyumsuzalisverisadrsi.xyz
 doyumsuzalisverisgunleri.com.tr
@@ -178348,8 +178352,10 @@ gunun-yaklasan-s0on-firsati-burada.com.tr
 gununderandevu.net
 gunundeteslimat.com.tr
 gununenafillicuzdani.com
+gununfirsati-carrefoursa.vercel.app
 gununfirsati.net.tr
 gununfirsati.xyz
+gununfirsatii-carrefoursa.vercel.app
 gununfirsatiiste.com
 gununfirsatindirimelir.com.tr
 gununfirsatindirimelir.online
@@ -182098,6 +182104,7 @@ haftayildizi.org.tr
 haftayildizizeltas.xyz
 haftayildizlarionline.cfd
 haftayildizlarionline.click
+haftayildizlarionline.sbs
 haftin-hzt-yildzil.com
 haftninfirsttkmpnysinikcrma.com
 haftninurunleri.xyz
@@ -264590,6 +264597,7 @@ mutlumusteriadresierli.xyz
 mutlumusterifirsatlari.xyz
 mutlumusterikampanylari.online
 mutlumusterikampanylari.xyz
+mutlumusterileddengecemzsin.cfd
 mutlumusterilerinadresi.cfd
 mutlumusterilerinadresi.click
 mutlumusterilerinadresi.com.tr
@@ -298774,6 +298782,7 @@ promsynnqnbbkmpnya.click
 promsynvakti.click
 promsynvakti.com
 promsynvakti25.click
+promsynvakti26.click
 promsyon-alma-platforumu-hemns-al.site
 promsyon-als-hmn-kazn-snde.site
 promsyonbasvru.click
@@ -358904,6 +358913,7 @@ tr-vgiris.online
 tr-vvrrt.com
 tr-web-aid-atiniz.com
 tr-web-aidat-applicasion.org
+tr-web-b-b-v-a.za.com
 tr-web-basvurular.net
 tr-web-erisim-login.org
 tr-web-erisim-online.net
