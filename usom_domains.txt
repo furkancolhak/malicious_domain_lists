@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-11T19:05:13.585996
+# Updated: 2025-08-11T20:05:12.349125
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -162931,6 +162931,7 @@ frsatlarikacirmayinlrmk.duckdns.org
 frsatlarikacirmaynl.duckdns.org
 frsatlarikacirmaynllnktatn.duckdns.org
 frsatlarintamzamani.net
+frsatlarkaplznrzdas.com
 frsatlarkarli.duckdns.org
 frsatlarladoluyaam.site
 frsatlarlasznleyzsatnaln.com
@@ -162996,6 +162997,7 @@ frstlarkplrnizdasznle.com
 frstlarmkampanyam.shop
 frstlarmkcmzzziidrmde.com
 frstlarmkcmzzziidrmdee.com
+frstlartukenmkuzere1o1.com
 frstlklrdn-cpdnyrrlan.com
 frstlqr-burada.site
 frstlr-brds.duckdns.org
@@ -168932,6 +168934,7 @@ gecegece.b-cdn.net
 gecegecedeniz.tk
 gecegunduztikabasaa.com
 geceindirimlerim.online
+geceindirimlerisadeceonline.duckdns.org
 geceiszmirism.net
 gecekampanyalari.shop
 gecekizicayi.bid
@@ -175381,6 +175384,7 @@ goviadesitesi.com
 govihlashaber.org
 govio.top
 govjobs.top
+govkgm.cc
 govlawentrance.com
 govm.tk
 govmerkez.77-83-201-133.plesk.pag
@@ -191964,6 +191968,7 @@ hfticxdalisveris12.com
 hftn-indrim-hzmetleri-a101de.com
 hftnfrsltkmpny.sbs
 hftnfrstlrikpnda.xyz
+hftnsixnndxrimlrimsixndirm.com.tr
 hftortasindrmelrbrda101.com
 hftqwedkwgnnt.sbs
 hftqwedkwgnsnt.sbs
@@ -228069,6 +228074,7 @@ kampanyaadresleriburada.xyz
 kampanyaadreslerionline.com.tr
 kampanyaadreslerionline.online
 kampanyaadreslerionline.xyz
+kampanyaagunleri.cfd
 kampanyaagust.com
 kampanyaaidatigirisi.com
 kampanyaaindirim.com
@@ -234273,6 +234279,7 @@ khrig.com
 khrwr.duckdns.org
 khtaznakv.org
 khuisosipidor.ddns.net
+khungrofresh.freemyip.com
 khunnapap.com
 khuongbotnet.ddns.net
 khupekqmlfljse.com
@@ -236230,6 +236237,7 @@ kmcdkmpmz.site
 kmcdnrmzunuz.web.app
 kmci44-005df10f1eac.herokuapp.com
 kmci46-76d7e7851e8b.herokuapp.com
+kmciniz.shop
 kmcinizsrgm.web.app
 kmclarkedclein.web.app
 kmcnzsrm.za.com
@@ -236638,6 +236646,7 @@ kmsrlgmasdjm.click
 kmsrogu.xyz
 kmsrogulamaefecakir.web.app
 kmsrogulamayaphemngovpttszssazq.com
+kmsrogusugovptthyaphmnsz.com
 kmsrogusuyaphemngovpttqae.duckdns.org
 kmsroguuzhemengovvptt.com
 kmsrrrgulamaogretici.web.app
@@ -259327,6 +259336,7 @@ mobile-free-fr.freemooe.beget.tech
 mobile-garantibankasionline.com
 mobile-gets.com.tr
 mobile-gir.com.tr
+mobile-girjs.shop
 mobile-hizmetler.com.tr
 mobile-internet-online-yapikredi-tr.cf
 mobile-internetfinans.com
@@ -294057,6 +294067,7 @@ pikachuplay34.xyz
 pikanet.ddns.net
 pikaorspubaklva321123.com
 pikaprotocol.pm
+pikaptamir.pro
 pikaturkaatam.net
 pikchestop.com
 pikesyy.com
@@ -339936,6 +339947,7 @@ spnrlugndrirklmlr1.xyz
 spnrlugndrirklmlr2.xyz
 spnrrlubasvvrzirat.com
 spnrrlubasvvrzyapi1.com
+spnrslllzrt13.duckdns.org
 spnslruvkfreklamci.duckdns.org
 spnslur-924991249.name.tr
 spnsorlu-1vakf.duckdns.org
@@ -358561,6 +358573,7 @@ tr-ilanver.com
 tr-iletsim-gov.net
 tr-iletsim-gov.org
 tr-ilkbahar-firsatlari.com
+tr-indirim-urunler.com
 tr-indirimarketi.shop
 tr-indirimlialisveris.com
 tr-indirimsel.website
@@ -398324,6 +398337,7 @@ xn--alaidaialtdepe-zzc.app
 xn--albaraka-pza.com
 xn--albarka-twa.com
 xn--albraka-rwa.com
+xn--aldinaldinbugn-ssb.com.tr
 xn--aldinaldinmarket-ozel-aralik-firsat-cif.online
 xn--aldn-aldn-onlineozel-kapda-w5dfq.com.tr
 xn--aldnaldn-vkbe.site
@@ -403646,6 +403660,7 @@ yakuzavenom.xyz
 yakuzavenomtop2.com.tr
 yakuzavenomtop2.online
 yakuzavenomtop2.xyz
+yakuzavenomtop3.com.tr
 yakyak2023bimcelltlyukle.ga
 yakzatenalevaliyor.xyz
 yal1am.com
