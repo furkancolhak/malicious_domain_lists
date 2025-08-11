@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-11T13:05:12.503740
+# Updated: 2025-08-11T14:05:11.877676
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5978,6 +5978,7 @@
 1452155544558890.xyz
 1452155544558891.xyz
 1452155544558892.xyz
+1452155544558893.xyz
 1452155544558896.xyz
 1452155544558897.xyz
 1452155544558898.xyz
@@ -26879,6 +26880,7 @@
 74.124.219.71
 74.14.5.179
 74.15.2.252
+74.194.191.52
 74.208.219.59
 74.208.22.240
 74.208.236.42
@@ -28964,6 +28966,7 @@
 84723939218.online
 847coq6.duckdns.org
 847mv78bf.duckdns.org
+8480088480.duckdns.org
 848482501321.cloud
 84849155846.site
 8485937945231.xyz
@@ -82362,6 +82365,7 @@ bishopbell.co.uk
 bishopmartyrdom.top
 bisigorta.net
 bisikletci.xyz
+bisikletleregozatmanlazimnar.com
 bisikletlerihemenkesfetal.com
 bisislem.online
 bislem.net
@@ -102849,6 +102853,7 @@ cicekhizmetleri.info
 cicekhizmetleri.net
 cicekhizmetleri.net.tr
 cicekhizmetleri.online
+cicekhizmetleri.org
 cicekhizmetleri.shop
 cicekhizmetleri.site
 cicekhizmetleri.xyz
@@ -110141,6 +110146,7 @@ cryptonever.zapto.org
 cryptoregancy.online
 cryptoregancy.xyz
 cryptoriahq.com
+cryptosirinloom.xyz
 cryptostore.publicvm.com
 cryptotechdirect.com
 cryptothistech.com
@@ -113522,6 +113528,7 @@ datasepetim.com
 datasharefile.ddns.net
 datasheet.fun
 datashieldsecure.com
+datasirinstream.xyz
 datasoft-sa.com/wp-content/kcdxzz1rd02o6sj6y_9xiho-41106884826/
 datasolustar.com
 datasomatic.ru
@@ -137302,6 +137309,7 @@ echonex.io
 echoouter.top
 echoquartz.pro
 echoquill.online
+echosirinverse.xyz
 echotrailliving.com
 echoverse.live
 echrupebsm.duckdns.org
@@ -155422,6 +155430,7 @@ fbcenterrecoverys01100-2024.duckdns.org
 fbcgak.ddns.net
 fbcl2.adsoft.name
 fbcl2.softad.net
+fbclick-metabrowser.cfd
 fbclickid-metabrowser.cfd
 fbclickid-metabrowsetr.cfd
 fbclickid.site
@@ -197749,6 +197758,7 @@ hizmetdevlet-tr.com
 hizmetdeyiz.cfd
 hizmetdonusaidatmiktar.tk
 hizmetedevletaidat.tk
+hizmetedin.cfd
 hizmetegiris-turkeygovtr.com
 hizmetegitim.site
 hizmetegitimvakfi.com
@@ -202350,6 +202360,7 @@ hypercosine.ml
 hyperdrivealpha21vz8n.click
 hypernovaecho.online
 hyperr.hopto.org
+hypersiringrid.xyz
 hypertechno.website
 hypertextteches.com
 hypervenosity.com
@@ -210011,6 +210022,7 @@ indirimli-aktuel.com.tr
 indirimli-al.click
 indirimli-al.tk
 indirimli-bayan-aksesuarlari.store
+indirimli-carrefoursa.vercel.app
 indirimli-dyson.com.tr
 indirimli-ek-paket-turkcell.com
 indirimli-ek-paketlerim-20gb-turkcell.com
@@ -229323,6 +229335,7 @@ kampbuzdolabi.vip
 kampcadir.shop
 kampcadirsi.shop
 kampcdr.shop
+kampcilaricinozelfirsatlar.duckdns.org
 kampetu.xyz
 kampexa.xyz
 kampgeldikassimdi.online
@@ -233743,6 +233756,7 @@ keyifli-sekilde-mutluluk-getirdik-sizlere.com
 keyifliblog.top
 keyifligunlerinfirsatlari.xyz
 keyifliodeme.net
+keyiflisaatlerbasladi.com
 keyiflisekildeyakinda.com
 keykwtgoysdays.net
 keylearnva.com
@@ -234035,6 +234049,7 @@ kgmswebgcsodemees.com
 kgmtr.org
 kgmturkeytrodemelerim.net
 kgmtwebgecisodeee.duckdns.org
+kgmun.cc
 kgmurl.link
 kgmuylamal.net
 kgmwaigov.top
@@ -247144,6 +247159,7 @@ lunarayl.live
 lunarcrest.spcae
 lunardaddy.dnss.net
 lunardenunciation.top
+lunarsirinshift.xyz
 lunatect.freemyip.com
 lunbhothling.duckdns.org
 lunch938.xyz
@@ -268015,6 +268031,7 @@ neonr.html-5.me
 neonrealm.live
 neonrealm.site
 neonsh42jsdf.click
+neonsirinpulse.xyz
 neopayload.ddns.net
 neoplan.info
 neopolymers.com.au
@@ -272517,6 +272534,7 @@ nurcicek.com.tr
 nurgazcreative.nicepage.io
 nurgazindirim.vip
 nurgazkampanya101.duckdns.org
+nurgazlayazkeyfi.duckdns.org
 nurgazluxmasa.vip
 nurgazmasa.vip
 nurgazmasatakimi.xyz
@@ -294294,6 +294312,7 @@ pixelmator.pics
 pixelmator.us
 pixelnestr.store
 pixelnestre.online
+pixelorbsirinit.xyz
 pixelroot.site
 pixelsmith.shop
 pixeltwilight.com
@@ -297870,6 +297889,7 @@ priscillacallista.net
 priscillakristeen.net
 priscilliahelper.site
 prisectos.top
+prisirsimnova.xyz
 prism-west-candy.glitch.me
 prison-gov-bd.dwnlld.info
 prisonersprinkle.top
@@ -306793,6 +306813,7 @@ quantummyself.top
 quantumoptimum.top
 quantumpeak.store
 quantumshift.website
+quantumsirinwave.xyz
 quantumtr.xyz
 quantuymbolt.com
 quanty-growth-pro.space
@@ -333283,8 +333304,10 @@ sirfsenevdekaldiyeinternet.com
 sirhacks.ddns.net
 sirijayareddypsychologist.com/roawk/0kwsol940
 sirinadas.com/wp-includes/js/tinymce/plugins/link/scan/gcplcjphion/
+sirinastrglow.xyz
 sirinbutik.tech
 sirinivas.com
+sirinnovaterra.xyz
 siritacaginiz-pamuklu-dunyalar-burada.com
 siriusmd99.zapto.org
 sirkanteri.site
@@ -334750,6 +334773,7 @@ skysall.app
 skyscraperjelly.top
 skyscraperjeopardize.top
 skyscrapertropical.top
+skysirinfusion.xyz
 skysky.duckdns.org
 skytime79.net
 skytrigger.sbs
@@ -337723,6 +337747,7 @@ sonic4us.ru
 sonic4us.ws
 sonicbamboo.com
 sonicradius.cf
+sonicsirinflux.xyz
 sonicvivid.com
 sonifgyr5.cf
 sonificaton.com
@@ -338179,6 +338204,7 @@ sorgueceza.com
 sorguedevlet.com
 sorguedevlet.org
 sorguekrani.b-cdn.net
+sorguekrani2025.cfd
 sorguekranim-garantim.xyz
 sorguemaliye.org
 sorgugeriodeme.com
@@ -342722,6 +342748,7 @@ stormflux.store
 stormgocolocrest.xyz
 stormi1ng.com.tr
 stormlegue.com
+stormsirinbyte.xyz
 stormslva.net
 stormxdt007.zapto.org
 stormyirritation.top
@@ -345224,6 +345251,7 @@ super1x1.hopto.org
 super777bomba.ru
 superagustosdakiindirimlerr.com
 superagustosdakisuperfirsatlar.com
+superagustosskampanyalariyakalaa.com
 superaktuela1o1.online
 superaktuela1o13.online
 superalisverishaftalari.online
@@ -413937,6 +413965,7 @@ zerogirisi-turkeygovtri.com
 zerogloom.top
 zerogov.com
 zerogov.com/wp-content/plugins.deactivate/paypal-donations/src/paypaldonations/simplesubsribe.php
+zerogravsirinity.xyz
 zerohour.duckdns.org
 zeromezo.com
 zeronineonefive.cfd
