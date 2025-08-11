@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-11T22:05:13.667875
+# Updated: 2025-08-11T23:05:15.951525
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -85348,6 +85348,7 @@ bljqi92.duckdns.org
 bljwsiavov.duckdns.org
 bljxkpynast.com
 blkdw1l1.duckdns.org
+blkfishy.com
 blkgbyujjg.duckdns.org
 blkhgkri.info
 blkiufcmeb.duckdns.org
@@ -105844,6 +105845,7 @@ cokbasit.name.tr
 cokbaska.html-5.me
 cokbilenayandin.net
 cokbjgr.com
+cokcabukucuzluk.cfd
 cokcagecis.is-best.net
 cokcektikdumandumanduman.com
 cokcektin.online
@@ -112841,6 +112843,7 @@ dahakolyasdwe.net
 dahakylsdarc.net
 dahanemelas.shop
 dahaonce-gelenlerden-buradakine-benzeyeni-gorulmedi.top
+dahaucuzuyok.site
 dahaucuzuyok.store
 dahaucuzuyoki.icu
 dahaucuzuyokmarket.org.tr
@@ -143390,6 +143393,7 @@ ekpaketlerim-turktelekom.com
 ekparahediyen.com
 ekparahediyeniz.com
 ekpiuc.com
+ekran-bbva-giris.sa.com
 ekran-geri-aktarma.store
 ekran-sorgu-ve-aktar.cyou
 ekranaktaqnbbsayfa.com
@@ -187233,6 +187237,7 @@ hayatadolu.org
 hayataduyarlikanseverler.xyz
 hayatagidel.org
 hayatallahdad.com
+hayatatecrubekat.com
 hayatatutun.xyz
 hayataynidongusankinakarat.com
 hayatayukleme.rf.gd
@@ -191128,6 +191133,7 @@ hepten101basit.com
 heptombo.store
 heptop12sis.site
 hepucuz-carsamba.top
+hepucuzcokucuzal.sbs
 hepucuzhepucuz.cfd
 hepucuzhepucuz.sbs
 hepvartekvarsenvar.tk
@@ -236650,6 +236656,7 @@ kmsrogu.xyz
 kmsrogulamaefecakir.web.app
 kmsrogulamayaphemngovpttszssazq.com
 kmsrogusugovptthyaphmnsz.com
+kmsrogusuyapgovpttszsa.duckdns.org
 kmsrogusuyaphemngovpttqae.duckdns.org
 kmsroguuzhemengovvptt.com
 kmsrrrgulamaogretici.web.app
@@ -239311,6 +239318,7 @@ kroeusrkkk.net
 krokoboko9.xyz
 krokus-tickets.ru
 krollaugh.hopto.org
+krometricsoligen.freemyip.com
 kromozom.id
 krompres.tk
 kron1kcheckers.cf
@@ -259341,6 +259349,7 @@ mobile-garantibankasionline.com
 mobile-gets.com.tr
 mobile-gir.com.tr
 mobile-girjs.shop
+mobile-girjsler.shop
 mobile-hizmetler.com.tr
 mobile-internet-online-yapikredi-tr.cf
 mobile-internetfinans.com
@@ -268886,6 +268895,7 @@ newaugustcampanys-trtoggsixthing.net
 newauthurdomain.duckdns.org
 newbasdwqesad.net
 newbegin24.duckdns.org
+newbeginstep.top
 newbestgiveaway.com
 newbetter.click
 newbillingplace.com
@@ -315211,6 +315221,7 @@ rykfsn.xyz
 ryl2flame.ddns.net
 rylandi2002.com
 rylandshoulderiucom.hopto.org
+rylenta.com
 rylenz.top
 ryluniverse.zapto.org
 ryndtutu.com
@@ -371729,6 +371740,7 @@ url-gonderitanitim.cfd
 url-mini.com
 url-promo.club
 url-promotion.cfd
+url-pttislem.sbs
 url-pttislem1.sbs
 url-reclick.xyz
 url-reclick1.xyz
@@ -406823,6 +406835,7 @@ yazinfirsatlari.name.tr
 yazinfirsatlari.net.tr
 yazinfirsatlari.org.tr
 yazinfirsatlari.web.tr
+yazinfirsatlarinda.name.tr
 yazinfirsatlarinda.web.tr
 yazingelisisizlrlebulustu.com
 yazingelisisizlrlebulustu.info
