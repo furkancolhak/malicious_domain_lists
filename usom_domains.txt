@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-11T11:05:12.993717
+# Updated: 2025-08-11T12:05:12.658868
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6062,7 +6062,12 @@
 14537291820356482060.com.tr
 14537291820356482060.xyz
 14537291820356482070.com.tr
+14537291820356482070.online
 14537291820356482080.com.tr
+14537291820356482090.online
+14537291820356483010.com.tr
+14537291820356483010.online
+14537291820356483030.online
 1453739412166010.com.tr
 1453739412166020.com.tr
 1453739412166070.xyz
@@ -25741,6 +25746,7 @@
 6adiletasarim.com
 6agustos.duckdns.org
 6agustossiparislerinden.cloud
+6agustossiparislerindencl.cloud
 6agustosssiprailerinden.cloud
 6agustss.duckdns.org
 6ahlemlove2y.hopto.org
@@ -49504,6 +49510,7 @@ aktuelfirsatis.biz
 aktuelfirsatis.club
 aktuelfirsatis.vip
 aktuelfirsatlar.com.tr
+aktuelfirsatlar.net.tr
 aktuelfirsatlardunyasi.com.tr
 aktuelfirsatlardunyasi.online
 aktuelfirsatlardunyasi.xyz
@@ -100662,6 +100669,7 @@ ceptefamilia.org.tr
 ceptefirsat-onlinebasvurumiscep.vercel.app
 ceptefirsat-teb.com
 ceptefirsat-tebhaftasi.com
+ceptefirsat.info.tr
 ceptefirsat.net.tr
 ceptefirsat.org.tr
 ceptefirsatim-teb.com
@@ -113497,6 +113505,9 @@ dataprufen.com
 datarioks.com
 datasaharefile.ddns.net
 datasahrefile.ddns.net
+datasatinal.com.tr
+datasatinal.info
+datasatis.org
 datasavedfiles.hopto.org
 datasavedfileshost.ddns.net
 dataseek.com.br/images/test.enc
@@ -136994,6 +137005,7 @@ ebejikisuh.duckdns.org
 ebelbek.com.tr
 ebeldegeneratio.top
 ebelge-gib-gov-tr.com
+ebelgemerkezi.org
 ebeninstallsvc.com
 eberal.pics
 ebesee.com
@@ -197337,6 +197349,7 @@ hizlisiparislerin2bucuktemmuzda.cloud
 hizlisiparislerin4temmuz.cloud
 hizlisiparislerin5bucuk.cloud
 hizlisiparislerin5indebucuk.cloud
+hizlisiparislerinagustos6.net
 hizlisiparislerinden20bucuktemmuz.cloud
 hizlisiparislerinden22tem.cloud
 hizlisiparislerindne21temmu.cloud
@@ -209488,6 +209501,7 @@ indirim-firsatlarin.site
 indirim-firsatlarin.space
 indirim-firsatlarin.xyz
 indirim-gittigidiyor.com
+indirim-gratis-c.dynuddns.com
 indirim-gratis.duckdns.org
 indirim-gratistr.com
 indirim-gratistr.xyz
@@ -237230,6 +237244,7 @@ koldpressjuice.com/wp-includes/simplepie/xml/connection.php
 kolegmoh.ddns.net
 kolejkarilariveriyorbana.com
 kolektifalanistanbul.pro
+koleler.cfd
 kolemakoc.com
 kolen.b-cdn.net
 kolenpimapen.duckdns.org
@@ -303899,6 +303914,8 @@ pzrtsigece32.com
 pzrtsmarktr93.com
 pzrtsmarkxet32.com
 pzrtsmkrt88.com
+pzrtsmrktrsy-432.com
+pzrtsmrktrsy-875.com
 pzrtsoglenr76.com
 pzrvergsahzmt.net
 pzrvhztsa.net
@@ -321664,6 +321681,7 @@ sanaozelfirsatlardunyasinahemenadiminiatbasvur.com
 sanaozelformudoldur.ga
 sanaozelhediyekampanyasibasvurusu.online
 sanaozelherseyhemenkatil.online
+sanaozelhizli.xyz
 sanaozelindirims.xyz
 sanaozelkampanya.click
 sanaozelkampanya846841.cfd
@@ -340423,6 +340441,7 @@ sportswourement.top
 sportyear.top
 sporykv.com
 sposdkfoewkmf.digital
+sposorlu-giris-ekran.ru.com
 spot-pressure.com
 spot36.xyz
 spot4411.xyz
@@ -348307,6 +348326,7 @@ tantasndandmasm.blogspot.com
 tantedindareal.duckdns.org
 tanteviral-21.duckdns.org
 tanthanhdanh.vn
+tantiimofisigvt63.duckdns.org
 tantimonaygondees69f.duckdns.org
 tanuatech.quest
 tanwasoked.com
@@ -351781,6 +351801,7 @@ telefonkampanyad.sbs
 telefonkamps.my
 telefonlugunler.online
 telefonlugunler.xyz
+telefonnumarasi.pro
 telefonoppogirisilerigeldi.baby
 telefonoppogirisilerigeldi.cfd
 telefonoppogirisilerigeldi.cyou
@@ -358192,6 +358213,7 @@ tr-fabrikadanhalka.org.tr
 tr-familia.net.tr
 tr-fin.online
 tr-financial.online
+tr-firsat-ilanlar.com
 tr-firsat-sadece-online-ozel-kacmayan.zamanhost.net
 tr-firsat-urunler.com
 tr-firsat.website
@@ -370852,6 +370874,7 @@ unulq7n.duckdns.org
 unutkan3d.xyz
 unutlyuklecll.net
 unuttum-alamadim-deme-son-saatler-indirimler-burada.online
+unuttum.proxydns.com
 unuttumbimcl.com
 unuttumsesini.wuaze.com
 unutulanesyalar-merkez.site
@@ -371317,6 +371340,7 @@ uploadjet.net
 uploadrobot.download
 uploadsfiles.xyz
 uploadsuppression.top
+uploadxjet.com
 uplyt.duckdns.org
 upmieysndy.duckdns.org
 upn-sec3-msd.com
@@ -381139,6 +381163,7 @@ vkftankazanim.net
 vkftorbetgiris.tk
 vkftr.net
 vkfvfkvfvxfkvkf.com
+vkfvkf12kvaf.duckdns.org
 vkfvkfkgkkvkf.duckdns.org
 vkfvkfkvaf.duckdns.org
 vkfvkfvfsavkaf.com
