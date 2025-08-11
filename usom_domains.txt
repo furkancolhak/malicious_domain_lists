@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-11T06:05:12.446141
+# Updated: 2025-08-11T07:05:12.022220
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -63942,6 +63942,7 @@ b-a-s-v-u-r-u-o-n-l-i-n-e.net.tr
 b-a-s-v-u-r-u-onlinehaber.com
 b-always-free.org
 b-asvurudeste-khizmet.com
+b-b-vtr-ekran-web.za.com
 b-bconsult.com
 b-bmn.blogspot.com
 b-bnn.blogspot.com
@@ -185927,6 +185928,7 @@ harcaharcabitmezbabani.cfd
 harcaharcabitmezbabani.sbs
 harcaharcabitmezbebegim.cfd
 harcaharcabitmezbebegim.sbs
+harcaharcabitmezbensizdeyurumez.sbs
 harcaharcabitmezbitemz.cfd
 harcaharcabitmezbitemz.sbs
 harcaharcabitmezbitmez.cfd
@@ -292030,6 +292032,7 @@ pazargecis.net
 pazargunlerimiz.xyz
 pazargunugeldi.com.tr
 pazargunugez.net
+pazargunumegaindirim.rf.gd
 pazargununefirsatlabasla.icu
 pazargununefirsatlabasla.sbs
 pazargununeozeli.online
@@ -347043,6 +347046,7 @@ sznidztoqg.duckdns.org
 sznkmnzz.com
 sznleilkaltayodemsz.site
 sznsayenizdeagstss.com
+sznsayenizdeagstss.online
 sznsnnu-xindrmmllriyleyni.xyz
 sznsnnu-xsinddrmmlldriyleyni.xyz
 sznsnnu-xsinddrmmllriyleyni.xyz
