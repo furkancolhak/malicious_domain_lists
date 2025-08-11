@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-11T18:05:12.372684
+# Updated: 2025-08-11T19:05:13.585996
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5979,6 +5979,7 @@
 1452155544558891.xyz
 1452155544558892.xyz
 1452155544558893.xyz
+1452155544558894.xyz
 1452155544558896.xyz
 1452155544558897.xyz
 1452155544558898.xyz
@@ -25367,6 +25368,7 @@
 67.207.89.61
 67.209.177.163
 67.209.195.198
+67.21.32.81
 67.210.114.99
 67.213.75.205
 67.217.228.14
@@ -43274,6 +43276,7 @@ agstsbasndayararln.online
 agstsindrmfh.com
 agstsktlgmtttr.com
 agststacrfsa.com
+agststacrfsa.online
 agsuendkdbskdbd.xyz
 agt-hq.com/hts-cache/db_template.php
 agt.net
@@ -93954,6 +93957,7 @@ burdayiz.app
 burdayizsizler.shop
 burdayuzbirs.duckdns.org
 burdayzhepsiznleyiz.site
+burdbulduklarinizdnsize.com
 burdbyrmfrstlr.click
 burdchoureserdoc.com
 burdengainhave.top
@@ -228866,6 +228870,7 @@ kampanyalieylulgunleriyakindaaa.online
 kampanyalieylulgunleriyakindaaa.xyz
 kampanyalifba-services.com
 kampanyalifilo.com.tr
+kampanyalifirsatlarbizdedirda.duckdns.org
 kampanyalifiyatavantajlari.com
 kampanyalifiyatlialisveris.com
 kampanyaligirisonline2.online
@@ -259853,6 +259858,7 @@ mobilonlineozelkampanyalar.cf
 mobilonlineozelkampanyalar.gq
 mobilonlinesubesi.com
 mobilonlintriadebasvuru.ml
+mobilotooyolgcs.com
 mobilozel-kampanyafirsatlari.ml
 mobilozel-kampanyalar.cf
 mobilozel-kampanyalar.gq
@@ -335859,6 +335865,7 @@ sntrodulist.pro
 snubsjvtfp.duckdns.org
 snuggleapplicationswo.fun
 snugleymnguzllkrburda.com
+snugleymnguzllkrburda.online
 snukerukeutit.org
 snum.or.kr/skin_img/skin.php
 snum.synergize.co
