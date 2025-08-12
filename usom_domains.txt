@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-12T17:05:13.127335
+# Updated: 2025-08-12T18:05:12.076918
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -24689,6 +24689,7 @@
 6134728541296136547150.duckdns.org
 613531535835601.com
 613538815331126601.com
+61355xf6771d2.duckdns.org
 6141.ddns.net
 614614213.dfgqdsd.ru
 614m2ty.duckdns.org
@@ -43319,6 +43320,7 @@ agtkjfbzbq.duckdns.org
 agtojskvq.duckdns.org
 agtrosxksindirmxleri.com
 agtsozroeskaczindirmzxleri.com
+agtustounsdasiparis.duckdns.org
 agtysxrostikinxdrimxleridns.com
 agtyukle1.22web.org
 aguasdecastilla.com/uploads/db_template.php
@@ -85452,6 +85454,7 @@ blm6312.net
 blm81.tk
 blm981.tk
 blmabicimya.net
+blmancetr.com
 blmbizola.net
 blmbuma.net
 blmc-ceel.ga
@@ -88922,6 +88925,7 @@ bnx.ubp.mybluehost.me
 bnxcsjoindtr.com
 bnxhbc25hwcv8b8afawhevzw.biz
 bnxinenisynxdrmlrmbxn.sa.com
+bnxldmrisndixmdlridmsi.com.tr
 bnyazkampanyasii.net
 bnyeniyilbasvurutr.com
 bnyfrt.top
@@ -89139,6 +89143,7 @@ bodrumsubelerikampanya.online
 bodrumsubelerikampanya.xyz
 bodrumsunesc.com.tr
 bodssitarih.com
+bodubor.duckdns.org
 bodvx7.duckdns.org
 body30042.zapto.org
 bodyclassics.org
@@ -94281,6 +94286,7 @@ buseria4.store
 busermentyear.ddns.net
 busferbenvurdumnvl.blogspot.com
 busfrdisratlarkacmasina1o1.blogspot.com
+busfrrbrdasnkz.club
 busfrwrknvls.blogspot.com
 busgetrent.xyz
 bush2015.net
@@ -97871,6 +97877,7 @@ carreffourso.store
 carreffuoeor-sa.online
 carreffuoeour-sa-com.online
 carreffuorsa.com
+carreffuoursa.com
 carreforsa.shop
 carreforsadan-gelenlr.space
 carreforsadan-gelenlr.store
@@ -148574,6 +148581,7 @@ erendvm.net
 erenev.net
 erengame.xyz
 erenhidrolik.com
+erenkakass2.shop
 erenkar.b-cdn.net
 erenkar.net
 erenkokuyoo.click
@@ -170472,6 +170480,7 @@ gerumonet35-subokelel24.duckdns.org
 geryangro.com
 geryednkserviaktarim.my
 geryednkyonlendrmeaktarimekrani.cfd
+geryednukaktarim2024.cfd
 geryednuktransferlerekrani.site
 geryiednkaktarim.my
 geryiedonuk-iletism-servisi.site
@@ -179497,6 +179506,7 @@ guvenlibasvurum.top
 guvenlibasvurusayfasi.xyz
 guvenlibasvurusukampanyasiicintikla.online
 guvenlibasvurusukapmanyasiicintikla.online
+guvenlibildirimler.com
 guvenlibilgisistemi.com
 guvenliborcogrenme.gq
 guvenliborcsorgulama.com
@@ -181868,6 +181878,7 @@ hadikoyune.cfd
 hadil0lsizeozelurunler.com
 hadilerlelsvrsf0rr.shop
 hadimatkpalin.xyz
+hadimegasepet.lat
 hadiordandeliiiiiii.best
 hadisegerial.com
 hadisendebizekatil.com.tr
@@ -185203,6 +185214,7 @@ halktan-sikayetlerim.xyz
 halktan-uyari-var.buzz
 halktan-uyari-var.xyz
 halktanbaharfirsati.com
+halktanbaharfirsatlari.com
 halktanbildirimvar.biz
 halktanbildirimvar.tk
 halktanbildirimvar.us
@@ -186098,6 +186110,7 @@ harcaharcabitmeza1001.store
 harcaharcabitmeza101.online
 harcaharcabitmeza101.rf.gd
 harcaharcabitmeza101.store
+harcaharcabitmezadoanasinisatiyor.sbs
 harcaharcabitmezadonunablasiorospum.sbs
 harcaharcabitmezadonunannesikasarim.sbs
 harcaharcabitmezadonunannesinebastim.sbs
@@ -191255,6 +191268,7 @@ her-aninizda-sizinleyiz.click
 her-buldugunda-buzaman-gibi-olmaz-gel.com
 her-egd-fwqe-2112-arsf-dhts-afs.com.tr
 her-eve-sos-yal-destek-com.com
+her-mevsim-konfor-sende.com
 her-sey-burada.com
 her-seyin-en-guzeli-burda-var.com
 her-vatandasa-odeme-hizmeti.store
@@ -216452,6 +216466,7 @@ iskurbasvuru.xyz
 iskurcagrimerkezleri.com.tr
 iskurcepsube.biz
 iskurdesteklipaketleme.com
+iskurevdenis.online
 iskurevlerepaketleme.com
 iskurgovtr.site
 iskurisinizburda.com
@@ -230441,6 +230456,7 @@ karabukuni.cfd
 karaca-bizdir-com-tr.sbs
 karaca-caydanlik.com.tr
 karaca-dunyasi-com-tr.sbs
+karaca-duyam-com-tr.cfd
 karaca-english-hhome-firsatlariyilsonu.com
 karaca-ev-aletleri.com
 karaca-firsat-com-tr.sbs
@@ -291544,6 +291560,7 @@ pasajsanal.com
 pasajsanalmagaza.com
 pasajsanalmagazasi.com
 pasajsanalmarket.com
+pasajsanalmarketi.com
 pasajsite.com
 pasajticaretp-tt.com
 pasajtr.com
@@ -296762,6 +296779,7 @@ potorafac.io
 potototo.hopto.org
 potplea.top
 potrakit.ru
+potrasgm.online
 potteryascendance.top
 pottmaenn.space
 potunulit.org
@@ -311456,6 +311474,7 @@ renownedetiquette.top
 renownedfrantic.top
 renposan.app
 rensovetors.info
+renspotomere.freemyip.com
 rent-a-car-road.business.site
 rent-car-eu.vercel.app
 rent-port.click
@@ -336521,6 +336540,7 @@ sok-karacazamani.biz.tr
 sok-karacazamani.com.tr
 sok-karacazamani.info.tr
 sok-karacazamani.org.tr
+sok-katalog.cfd
 sok-klima-ozel.com.tr
 sok-klimanoktan.com.tr
 sok-klimaozel.com.tr
@@ -340753,6 +340773,7 @@ sportyear.top
 sporykv.com
 sposdkfoewkmf.digital
 sposorlu-giris-ekran.ru.com
+sposorlu-giris-ekrani.xyz
 spot-pressure.com
 spot36.xyz
 spot4411.xyz
@@ -369706,6 +369727,7 @@ ucubuu.net
 ucuczyaglar.xyz
 ucukkantem-28c224c2cbdf.herokuapp.com
 ucukkantem2-82c69a7a6a4b.herokuapp.com
+uculu-konfor-paketi-firsat.top
 ucuncuolymps.online
 ucusanzamans.net
 ucusu.store
@@ -370856,6 +370878,7 @@ undertakingnumb.top
 undertakingtariff.top
 undertakpseuion.top
 underuvukent.com
+undervioletta.freemyip.com
 underwearshopfor.com
 underwork.top
 undesirable.ru
@@ -371871,6 +371894,7 @@ ureticidenevinize.xyz
 ureticidenhizlitikla.shop
 ureticidenkapina.xyz
 ureticidenkapinagelsin.shop
+ureticidenkapinagelsin.xyz
 ureticidenlezzete.xyz
 ureticidenmasaniza.xyz
 ureticidenmutfaginiza.xyz
@@ -381670,6 +381694,7 @@ vlhzmxju.com
 vlilik.kredis.i.basuvuru.net
 vlj0fluw0.duckdns.org
 vljs34t.duckdns.org
+vlkfmaksjet.com
 vlklucjxltsgmfx.cn
 vlklz.xyz
 vlknhaber.club
