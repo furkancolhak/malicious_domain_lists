@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-12T02:05:11.985738
+# Updated: 2025-08-12T03:05:14.850811
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6077,6 +6077,8 @@
 14537291820356483010.com.tr
 14537291820356483010.online
 14537291820356483020.com.tr
+14537291820356483020.online
+14537291820356483030.com.tr
 14537291820356483030.online
 1453739412166010.com.tr
 1453739412166020.com.tr
@@ -139492,6 +139494,7 @@ edevletgov-hizmetler-iadeler-portal.tk
 edevletgov-webaidattr.com
 edevletgov.com
 edevletgov.gq
+edevletgov.org
 edevletgov.tk
 edevletgov122.b-cdn.net
 edevletgov124.b-cdn.net
@@ -172135,6 +172138,7 @@ giris-parimdestek.com
 giris-platformdoldur-portal.tk
 giris-portal-turkiye-govtr.com
 giris-portaltr-edevlet.com
+giris-pttavm.com
 giris-qnbkredi-basvuru.duckdns.org
 giris-resmitalepmerkeznoktasi.com
 giris-sahibinden9632659.com
@@ -301330,6 +301334,7 @@ pttavmmusteri-gov-tr.blogspot.com
 pttavmnet.com
 pttavmodeme-islemlerim.com
 pttavmodeme-noktasi.blogspot.com
+pttavmodemeler.duckdns.org
 pttavmodemenoktasi.blogspot.com
 pttavmonline-islem.com
 pttavmonline.com
@@ -407926,6 +407931,7 @@ yenifirsatlar.org.tr
 yenifirsatlarikacirmayin.com
 yenifirsatlarkapida.online
 yenifirsatlarkapida.xyz
+yenifirsatlarsizinle.site
 yenifirsatlarsizlerle.com.tr
 yenifirsatlarsizlerlebirliktesakinkacirma.com.tr
 yenifirsatlarsizlerlebirliktesakinkacirma.online
