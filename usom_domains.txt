@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-12T10:05:12.490685
+# Updated: 2025-08-12T11:05:12.051068
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -40999,6 +40999,7 @@ activechase.ddns.net
 activeculture.top
 activedebian.ru
 activedomain53.com
+activeelec.com
 activehdd.ru
 activelymgir.pw
 activemedia.network/wp-admin/db_template.php
@@ -100933,6 +100934,7 @@ ceptesokindirimfirsatlari.online
 ceptesokindirimler.com
 ceptesokindirimler.online
 ceptesokindirimlerin.online
+ceptesokindirimlifirsatlar.com
 ceptesokk.com.tr
 ceptesokkampanya.com
 ceptesokkampanyalari.online
@@ -143661,6 +143663,7 @@ elcoachingempresarial.com
 elcodata.ddns.net
 elcongoenespanol.info
 elcrkusn.asia
+elcrotary.org
 elcxoa.co
 elda30dpn.duckdns.org
 elday2022.ddns.net
@@ -158915,6 +158918,7 @@ firsatintamadresiburada.shop
 firsatinternet.cf
 firsatintooyyy.com
 firsatintoyy.com
+firsatinurunleraktif.com
 firsatinveindiriminnoktasi.store
 firsatinyaninda.online
 firsatisbmbonus.com
@@ -160906,6 +160910,7 @@ flrsat-kmpny.com.tr
 flrsat-online-kapida.name.tr
 flrsat1o1.com
 flrsata-hos-geldiniz.cloud
+flrsatadreslsokampanya.com
 flrsatagustoskampanyavaktl.com
 flrsatahapazargunlerindealir.store
 flrsatahasendekatmaherkeskos.store
@@ -186046,6 +186051,7 @@ harcaharcabitmeza101.store
 harcaharcabitmezadonunablasiorospum.sbs
 harcaharcabitmezadonunannesikasarim.sbs
 harcaharcabitmezadonunannesinebastim.sbs
+harcaharcabitmezadotambiribne.sbs
 harcaharcabitmezaktuel.shop
 harcaharcabitmezaldinal.xyz
 harcaharcabitmezaralikayi.shop
@@ -193201,6 +193207,7 @@ hgsbiletinebakyeyukle.com
 hgsbilgi.info
 hgsbilgilendirme.com
 hgsbilgileri.sg-host.com
+hgsbilgimobiliniz.com
 hgsbilgindirme.info
 hgsbilgiyukleme.site
 hgsbireysel-odemes033.net
@@ -231337,6 +231344,7 @@ kartal-flexhome129.cloud
 kartalbix.net
 kartalescort.mobi
 kartalhomenesfleskpleskdsad.cloud
+kartallafirsatlarbitmez.com
 kartallafirsatlarimbitmez.duckdns.org
 kartaodemeal.com
 kartary.com
@@ -236592,6 +236600,7 @@ kmsoara.com
 kmsoralgaka.com
 kmsorcuqq.net
 kmsordulama.shop
+kmsorgfhizmtelrptt.com
 kmsorggee.sa.com
 kmsorggglaa.web.app
 kmsorgla.shop
@@ -236712,6 +236721,7 @@ kmsrogulamayaphemngovpttszssazq.com
 kmsrogusugovptthyaphmnsz.com
 kmsrogusuyapgovpttszsa.duckdns.org
 kmsrogusuyaphemngovpttqae.duckdns.org
+kmsrogutlamtekflbrptt.com
 kmsroguuzhemengovvptt.com
 kmsrrrgulamaogretici.web.app
 kmsschps.sa.com
@@ -237350,6 +237360,7 @@ kolaysubee.dev
 kolaytakipcisatinal.com
 kolaytakipetmek.com
 kolaytlyukle.com
+kolaytrink.digital
 kolayuklehgs.com
 kolayve-hizli-islem.b-cdn.net
 kolayvergiler.herokuapp.com
@@ -254136,6 +254147,7 @@ megascoopsale.org
 megasearch.gq
 megasepet.lat
 megasepet.pics
+megasepet.sbs
 megashell.ddns.net
 megaskigoldmex.dvrcam.info
 megasport-afisha.ru
@@ -266360,6 +266372,7 @@ n-vnakavtslx.blogspot.com
 n-vvs-ii.net
 n.duckdns.org
 n.hmiblgoja.ru
+n.misecure.com
 n01b8eex.duckdns.org
 n01cvrybnss0019s.duckdns.org
 n01gtx4hf.duckdns.org
@@ -372484,6 +372497,7 @@ usomlaresgec.online
 usomldr.online
 usommerkeznonstop1.site
 usommobilbasvurubireyselekranim.online
+usomsalbizizatenyapiyoruzbizeengelolmuyorsunuz.itemdb.com
 usomukanirtanadamlar.app
 usomvsgulyan.com.tr
 usomyemeyizbiz.net
