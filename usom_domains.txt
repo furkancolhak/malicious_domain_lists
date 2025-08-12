@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-12T11:05:12.051068
+# Updated: 2025-08-12T12:05:12.045569
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2615,6 +2615,7 @@
 101redmicinkampanya.click
 101redmicinkampanya.my
 101redmicinkampanya.sbs
+101redmifirsaticinburadangirin.click
 101redmikampanyasi.cfd
 101redmikampanyasi.click
 101redmikampanyasi.sbs
@@ -3095,6 +3096,7 @@
 103.98.214.218
 103.mayisdetayklar.com
 103.zapto.org
+10398bn4899392g2834.cyou
 1039948190.corolain.ru
 103vqvm43v52a8o.ddns.net
 104-168-237-21.sslip.io
@@ -5978,6 +5980,8 @@
 145.40.126.81
 145.68.65.106
 1451051634243118756.com
+1451225115525555990.xyz
+1451225115525555991.xyz
 14515579416.cloud
 1452155544558890.xyz
 1452155544558891.online
@@ -43291,6 +43295,7 @@ agstsbasndayararln.online
 agstsindrmfh.com
 agstsktlgmtttr.com
 agstslburdsnz.info
+agstsokmpylrtn.duckdns.org
 agststacrfsa.com
 agststacrfsa.online
 agsuendkdbskdbd.xyz
@@ -51052,6 +51057,7 @@ aldn-zaldnnxfirstllariyla.net.tr
 aldnaldn-kmpnya.xyz
 aldnaldn101frsatlar.hopto.org
 aldnaldncmrtbuarda.tech
+aldnaldnfrstbrdadgrli.tech
 aldnaldnfrstbuarda.tech
 aldnaldnfrstburda.tech
 aldnaldnfrstburrda.tech
@@ -100927,6 +100933,7 @@ ceptesokfirsatlar.com
 ceptesokfirsatlar.online
 ceptesokfirsatlar.site
 ceptesokfirsatlari.online
+ceptesokfirsatlindirimler.com
 ceptesokilealisveris.com
 ceptesokilkbahargunleri.online
 ceptesokindirim.b-cdn.net
@@ -144721,6 +144728,7 @@ emkebasvurut.net
 emkei.cz
 emkeskburu.net
 emkkux.duckdns.org
+emklicftcizirrefs.bounceme.net
 emklieytgiris.com
 emklieytgirisi.com
 emkligiris.com
@@ -191373,6 +191381,7 @@ herkese-mutluluk-getiren-haberler-surekli-burada.com
 herkese-mutluluk-veren-gelenler-burada.com
 herkese-mutluluk-veren-iyilikler.com
 herkese-ozelfirsatlardunyasi.com
+herkese-ozelin-iyisi-sende-bilirsen-olmaz.com
 herkese-pandemi.club
 herkese-pandemi.online
 herkese-sevindiren-teklifler-getirdik-burada.com.tr
@@ -193207,6 +193216,7 @@ hgsbiletinebakyeyukle.com
 hgsbilgi.info
 hgsbilgilendirme.com
 hgsbilgileri.sg-host.com
+hgsbilgimobilborcunuz.com
 hgsbilgimobiliniz.com
 hgsbilgindirme.info
 hgsbilgiyukleme.site
@@ -196462,6 +196472,7 @@ hizlibasvurukapisi.tk
 hizlibasvurularacikdenizv2denizbankcom.co.vu
 hizlibasvurularacikenizv2denizbank.co.vu
 hizlibasvurulartrbnns.com
+hizlibasvurum.click
 hizlibasvurum.net
 hizlibasvurum.store
 hizlibasvurumerkezi.xyz
@@ -200728,6 +200739,7 @@ hs-online-banking.com
 hs-onlinebanking-customer.com
 hs-ys-e.com
 hs1996hh.hopto.org
+hs32g-a2qq-sgagfq-wd-sag-adasda.net.tr
 hs32g-a2qq-sgagfq-wd-sag-adasda.org.tr
 hs47rcxm6u0wb3jipe.ddns.net
 hs5sk2xl.duckdns.org
@@ -226192,6 +226204,7 @@ k81hqa8mv.duckdns.org
 k83byq4c906mohxeizf.duckdns.org
 k85fwri2ktobotw85vghglw.ddns.net
 k8asdhahsdhashdhashd.site
+k8asdhashdhasdhahsdhasd.site
 k8bbnghpl.duckdns.org
 k8ccyn.com
 k8cf0j5u.cf
@@ -234219,6 +234232,7 @@ kgshgspttavmnet.blogspot.com
 kgsikorta.xyz
 kgskhizligeciccs.org
 kgsmavbilgi.sbs
+kgsmgov.sbs
 kgsmgov.top
 kgsmlskcm.net
 kgsmwbgcsonlineodehgss.duckdns.org
@@ -247344,6 +247358,7 @@ lutcmz.net
 luteappiaoupghv.cn
 lutfengirmeyinlan.online
 lutfikirdarhastanem.xyz
+luthegiolle.freemyip.com
 lutheranph.com
 lutm3j3r.duckdns.org
 lutrella.com
@@ -247405,6 +247420,7 @@ lvak.blogspot.com.cy
 lvakifbank.com
 lvbelc5.com.tr
 lvbelc5.net
+lvbelc5.sbs
 lvbelcfife.net
 lvbelcone.net
 lvbelcsx.net
@@ -252194,6 +252210,7 @@ masculinetribute.top
 masculinityarticulate.top
 masculinityunderlying.top
 mascxzbmxzsdk.net
+masda-cadir-teklfisr-burasd.com
 masda-cadir-teklfisr-burasd.store
 masdgasgzxbnwqwq.net
 masdzxqrndvu.net
@@ -264125,6 +264142,7 @@ muhammercevik.arabamuayenesi.xyz
 muhammercevik.com
 muhasebe-e-devlet.com
 muhasebeler.club
+muhasebemizitutacakyokmu.cfd
 muhbethakandayi.com
 muhbirahmet.com
 muhbirayse.com
@@ -295620,6 +295638,7 @@ poleneturkiye.com
 polenkan.net
 polereaaf.vercel.app
 polesn.net
+polestarwinore.freemyip.com
 polewithcandy.com
 polgalllfas.vercel.app
 polhgss.com
@@ -316065,6 +316084,8 @@ s0k.sxngun-indirxmleri.top
 s0k.workers.dev
 s0kfirsatlardayiz.click
 s0kfirsatlarinizdayiz.click
+s0kfrsatbtmezbizde.com
+s0kfrsatbziimlehizlaa.com
 s0kkta-firstlrm.net
 s0mh58307lop1t1vo6oda2c.ddns.net
 s0mzamangldi1br0d1a.com
@@ -334692,6 +334713,7 @@ sketchysymmetry.top
 skfaitmuqwntvmh.ru
 skfisrasfsdf243204102401246546546.site
 skflforbsmsb.xyz
+skglaceptemrkt.com
 skglgxorw.duckdns.org
 skgmwebgecsonlineode.com
 skgroup.kiev.ua
@@ -336508,6 +336530,7 @@ sokcepte.net.tr
 sokceptebayram.online
 sokceptefamilia.net.tr
 sokceptefirsat.com
+sokceptefirsatlarimiz.com
 sokcepteindirim.online
 sokcepteindirimler.online
 sokcepteindirimler.site
@@ -339419,6 +339442,7 @@ soylukatilimvakfi.org
 soylularnakliyat.cf
 soymalarceptnykle.net
 soypir.top
+soysalhmoestlerkes.click
 soysaydestekhatti2.ml
 soyuzinformaciiimexanikiops.com
 soyyaqaci.blogspot.com
@@ -381326,6 +381350,7 @@ vkfkatilimfirsati.com
 vkfkatilimsupe.tk
 vkfkatilimsuperzaman.com
 vkfkatyardim.com
+vkfkbnkqeaslif.com
 vkfkbrnkqeaslif.com
 vkfkiredisorgulabilgi.site
 vkfkkckls.ml
@@ -383746,6 +383771,7 @@ waenbhtjza.duckdns.org
 waenkb.com
 wafflesdev.ddns.net
 wafrasdtgeghdhw.click
+wag1.sbs
 wag2000.ddns.net
 wagateway.pro
 wagedebris.com
@@ -414436,6 +414462,7 @@ ziads.ddns.net
 ziadziiizo.hopto.org
 ziakhaixssj.site
 ziarataratatasisaffas.cyou
+ziarataratatasisaffas.sbs
 zibhyarigr.com
 ziblora.com
 zibrpurrbm.duckdns.org
