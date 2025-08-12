@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-12T08:05:13.817936
+# Updated: 2025-08-12T09:05:12.871715
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5764,6 +5764,7 @@
 1421212511245221122591.xyz
 142127831123.com
 1421554555889998890.xyz
+1421554555889998892.xyz
 1422561559590.xyz
 1422561559592.xyz
 1422561559596.xyz
@@ -7265,6 +7266,7 @@
 162.144.119.216
 162.144.41.190
 162.19.135.215
+162.19.175.44
 162.19.224.214
 162.19.237.181
 162.208.2.182
@@ -9081,6 +9083,7 @@
 185.172.164.41
 185.172.66.203
 185.173.105.107
+185.173.235.134
 185.173.38.57
 185.173.92.141
 185.173.93.167
@@ -29023,6 +29026,7 @@
 85.143.166.158
 85.143.221.85
 85.158.108.135
+85.158.108.62
 85.159.214.61
 85.159.229.62
 85.17.120.200
@@ -96972,6 +96976,7 @@ campana20gb.com
 campandyafirsati.net
 campaniaoffkatildnmimonthoryear.net
 campaningkwtyouheafly.net
+campanole.com
 campany-jullly-sistembonusu.net
 campany-new-register.com
 campany202400001.cloud
@@ -157949,6 +157954,7 @@ fingerfriend.top
 fingerprintscrape.top
 fingerprintstats12.store
 fingersislem.22web.org
+fingersnap.sbs
 finglassafetyforum.ie
 finhaber.info
 fininvst.online
@@ -186034,6 +186040,7 @@ harcaharcabitmeza1001.store
 harcaharcabitmeza101.online
 harcaharcabitmeza101.rf.gd
 harcaharcabitmeza101.store
+harcaharcabitmezadonunannesikasarim.sbs
 harcaharcabitmezadonunannesinebastim.sbs
 harcaharcabitmezaktuel.shop
 harcaharcabitmezaldinal.xyz
@@ -238063,6 +238070,7 @@ kpssosymodeme.net
 kpssosymsss.net
 kpsssosyms.net
 kpsssssks-fun1lk.xyz
+kpsstercihin.com
 kpsyonetimv2-saglik-gov.tk
 kpsyonetimv2-saglik-govv.ga
 kpsyonetimv2-saglikk-gov.tk
@@ -254123,6 +254131,7 @@ megaptera-oi.org
 megascoopsale.org
 megasearch.gq
 megasepet.lat
+megasepet.pics
 megashell.ddns.net
 megaskigoldmex.dvrcam.info
 megasport-afisha.ru
@@ -254267,6 +254276,7 @@ meladze-concerts.com
 melahatvergc.com
 melamask-airdrop.ddns.net
 melamask.ddns.net
+melamorri.com
 melancia.xyz
 melarion.site
 melasco.xyz
@@ -259699,6 +259709,7 @@ mobilhediyelerbmwparibu.tk
 mobilhemendenizbasvurun.info
 mobilhesap-hizli-giris.xyz
 mobilhesap-onayli-giris.com
+mobilhgsbilgi.com
 mobilhibebasvurusu2021.com
 mobilhizlibasvuruportalin.info
 mobilhizmet.net
@@ -322532,6 +322543,7 @@ satisyonlendirme-24.com.tr
 satisyonlendirme.com.tr
 satiszamani.club
 sativmtsadferv.net
+satixy.xyz
 satiyindemsder.net
 satjhgdtja.duckdns.org
 satkas.waw.pl
