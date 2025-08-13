@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-13T18:05:12.395527
+# Updated: 2025-08-13T19:05:11.895103
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -297,6 +297,7 @@
 02-12-aesxer-chtc-xg.com
 02-12-zsesz-xgcf-cghj.com
 02-andjs-jsjakmds.cyou
+0202122022102.duckdns.org
 020219-103929.site
 0202939223.cloud
 0203050522.cloud
@@ -2529,6 +2530,7 @@
 101onlinesizeozel.com
 101onlinetr.com
 101onlinetr.ct.ws
+101onlne.xyz
 101ozel.online
 101parek-ende-alisve-ris.com
 101pazar-aksam.shop
@@ -3682,6 +3684,7 @@
 109.117.53.230
 109.12.111.14
 109.120.156.253
+109.120.179.170
 109.123.121.243
 109.133.93.127
 109.161.64.44
@@ -4633,6 +4636,7 @@
 12144444888999091.xyz
 12144444888999094.xyz
 12144444888999095.xyz
+12144515599940.xyz
 1214888.com
 1214betturka.click
 121529371556310ar.duckdns.org
@@ -4969,6 +4973,7 @@
 128.140.101.125
 128.140.102.206
 128.140.115.231
+128.140.120.188
 128.140.36.37
 128.140.66.19
 128.199.112.98
@@ -5186,6 +5191,7 @@
 131.150.216.118
 131.153.13.235
 131.153.38.11
+131.174.164.238
 131.196.243.123
 131.226.2.6
 131.255.4.96
@@ -6311,6 +6317,7 @@
 147.45.44.25
 147.45.44.41
 147.45.44.83
+147.45.45.168
 147.45.45.177
 147.45.47.153
 147.45.47.185
@@ -7545,6 +7552,7 @@
 167.235.135.104
 167.235.20.126
 167.235.233.95
+167.235.235.151
 167.235.236.131
 167.235.245.116
 167.235.34.144
@@ -8285,6 +8293,7 @@
 176981243862439360.xyz
 176981243862439380.com.tr
 176981243862439390.online
+177.136.225.135
 177.141.64.108
 177.155.36.166
 177.172.5.228
@@ -8638,9 +8647,13 @@
 181.143.101.194
 181.174.164.107
 181.174.164.117
+181.174.164.12
 181.174.164.140
+181.174.164.161
 181.174.164.180
 181.174.164.2
+181.174.164.201
+181.174.164.238
 181.174.164.25
 181.174.164.4
 181.174.164.41
@@ -14057,6 +14070,7 @@
 206.71.148.78
 206.71.149.179
 206.71.149.194
+206.72.199.225
 206.81.11.102/bins
 206.84.192.39
 206321.cloud
@@ -14652,6 +14666,7 @@
 213.166.68.24/repeater
 213.171.4.200
 213.173.45.230
+213.176.113.168
 213.176.36.42
 213.176.64.114
 213.182.204.57
@@ -22722,6 +22737,7 @@
 5.252.118.211
 5.252.118.232
 5.252.153.241
+5.252.153.94
 5.252.176.3
 5.252.176.55
 5.252.177.111
@@ -24864,6 +24880,7 @@
 62.60.134.177
 62.60.152.226
 62.60.154.106
+62.60.178.24
 62.60.226.64
 62.60.235.190
 62.60.237.116
@@ -25184,6 +25201,7 @@
 65.108.80.190
 65.108.96.201
 65.109.131.183
+65.109.162.8
 65.109.241.185
 65.109.25.109
 65.109.3.34
@@ -27299,6 +27317,7 @@
 77.105.146.121
 77.105.147.140
 77.105.147.243
+77.110.116.227
 77.111.101.78
 77.120.25.214
 77.131.246.80
@@ -51486,6 +51505,7 @@ aliciazapaterias.es
 alicoyasiyor.site
 alidatsorqula.dev
 alidawspdx.duckdns.org
+alidedeveharikalardiyari.com
 alidevletov.com
 alidinmigunlerinimldv.com
 aliduos.zapto.org
@@ -151561,6 +151581,7 @@ event-binance-takip.net
 event-campain.net
 event-coda32.duckdns.org
 event-codashop91.duckdns.org
+event-datamicrosoft.live
 event-ff-garenaresmi998.duckdns.org
 event-ff-resmi-garena-terbaru.duckdns.org
 event-fi-fcekilislerisizeozelkatil.net
@@ -179619,6 +179640,7 @@ guvenlibasvurum.top
 guvenlibasvurusayfasi.xyz
 guvenlibasvurusukampanyasiicintikla.online
 guvenlibasvurusukapmanyasiicintikla.online
+guvenlibildirim.com
 guvenlibildirimler.com
 guvenlibilgisistemi.com
 guvenliborcogrenme.gq
@@ -186629,6 +186651,7 @@ harikalardiyarikampnayasi.cfd
 harikalardiyarikampnayasi.icu
 harikalardiyarikampnayasi.my
 harikalardiyarinageldin.blogspot.com
+harikalardiyarindangelen.cfd
 harikalargunukampanaar.cfd
 harikalargunukampanaar.sbs
 harikamarketimm.com
@@ -236180,6 +236203,7 @@ klasikiletisimdengeldi.com
 klasikrandevu.app
 klasiletisimde20gbden.com
 klasjna.com/mccjt
+klaskampxanya.ru.com
 klassbilisimdendevproje.com
 klassteknoiletisimden.com
 klasykllezmmn.net
@@ -284455,6 +284479,7 @@ otoyolgecisleri.wixsite.com
 otoyolgecislerim.com
 otoyolgecisodekgmhgshizli.duckdns.org
 otoyolgecisodemelerihgs1.shop
+otoyolgiseodemesi.com
 otoyolguncelhaberler.com
 otoyolhgs.tr.gg
 otoyolhgspttode.net
@@ -310825,6 +310850,7 @@ redmifirsatlari.xyz
 redmifirsatlarihizlicakapinizda.my
 redmininfirsatlariburada.cfd
 redmininkacmazyazfirsatlari.cfd
+redmininkacmazyazfirsatlari.sbs
 redmininyazfirsatlari.sbs
 redmionlinealimyeri.baby
 redmionlinealimyeri.cfd
@@ -362916,6 +362942,7 @@ trm57h.duckdns.org
 trmacekilsimbizn103-771.click
 trmagazabimcell.com
 trmagazacepte.com.tr
+trmagazacepte.net.tr
 trmagazacepte.org.tr
 trmalmiadmx1.net
 trmamksamas.net
@@ -383514,6 +383541,7 @@ vwwpttavm.com
 vwwramazanetkinlikprb.com
 vwwrapzxa.duckdns.org
 vwws7yap5w.site
+vwwsahibinden-secure.com
 vwwsahibinden.com
 vwwvakifiademerkezimgiris.com
 vwwvv-sanalmarket.com
