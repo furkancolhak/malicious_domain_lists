@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-13T08:05:13.858744
+# Updated: 2025-08-13T09:05:15.795640
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -60291,6 +60291,7 @@ aslankiral.pro
 aslanmangalkomuru.com/panel/connection.php
 aslanorganizasyon.com//fonts/icomoon/connection.php
 aslanparcasimisinbet.tk
+aslanrklm.com
 aslansigorta.site
 aslanswerst.net
 aslantibe.site
@@ -74828,6 +74829,7 @@ bilgiselkayitolun.com
 bilgiselkayt.com
 bilgiselkaytol.com
 bilgiservisi-cimmerde.com
+bilgiservislerigirisleri.com
 bilgisiskgmgecis.sbs
 bilgisistemleri.icu
 bilgisistems.com
@@ -94020,6 +94022,7 @@ burdanhemen.shop
 burdanis.22web.org
 burdanislem.22web.org
 burdanyuklemeci.rf.gd
+burdas-aldina-ladinteklfi.store
 burdas-almaniz-laimzsi-cadir.store
 burdas-almaniz-laimzsi-kamp.store
 burdasa-aldnsiz-aldsn-teklifelr.shop
@@ -124564,6 +124567,7 @@ dijitalmobilvarlik-ziraatweb.com
 dijitalmobilweb-ziraat.com
 dijitalmobilweb-ziraatbireysel.com
 dijitalmobilweb-ziraatbireyselgiris.com
+dijitalmobilweb-ziraatbireyselgiris.site
 dijitalmobilweb-ziraatgiris.com
 dijitalmobilweb-ziraatkampanya.com
 dijitalmusterihizmetleri.cf
@@ -236763,6 +236767,7 @@ kmsorgulamayap-gov-ptt-tr.duckdns.org
 kmsorgulamayapburdanptt.duckdns.org
 kmsorgulamayapgovptt.duckdns.org
 kmsorgulamayaphemegovptteuge.web.app
+kmsorgulamayaphsvdgovptthmn.com
 kmsorgulamayapo-gov-ptt.duckdns.org
 kmsorgulamayappburdanptt.duckdns.org
 kmsorgulamayovgovhemenpttasdww.com
@@ -301407,6 +301412,7 @@ pttavm.seninsiparisin.com.tr
 pttavm.sepet-onay.com.tr
 pttavm.sepetfirsati.com.tr
 pttavm.sepetimguvenli.com
+pttavm.sepetkontrol.com.tr
 pttavm.sepetolustur.com.tr
 pttavm.sepette-guvenli-alisveris.com
 pttavm.sepette-tr.com
