@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-13T12:05:12.368930
+# Updated: 2025-08-13T13:05:11.963048
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6310,6 +6310,7 @@
 147.45.47.185
 147.45.47.83
 147.45.50.166
+147.45.78.102
 147.45.78.155
 147.45.79.104
 147.50.229.12
@@ -8183,6 +8184,7 @@
 176.123.9.238
 176.124.198.52
 176.124.198.55
+176.124.206.88
 176.124.214.229
 176.124.217.20
 176.124.32.84
@@ -8407,6 +8409,7 @@
 178.23.190.206
 178.23.190.74
 178.235.191.182
+178.236.246.241
 178.236.246.254
 178.236.247.7
 178.237.39.204
@@ -10896,6 +10899,8 @@
 194.87.138.79
 194.87.139.103
 194.87.186.66
+194.87.189.171
+194.87.189.19
 194.87.198.29
 194.87.219.115
 194.87.236.195
@@ -21484,6 +21489,7 @@
 46.210.182.252
 46.211.8.144
 46.225.233.149
+46.226.163.67
 46.226.164.8
 46.226.166.245
 46.228.205.159
@@ -22697,6 +22703,7 @@
 5.252.118.204
 5.252.118.211
 5.252.118.232
+5.252.153.241
 5.252.176.3
 5.252.176.55
 5.252.177.111
@@ -24841,6 +24848,9 @@
 62.60.154.106
 62.60.226.64
 62.60.235.190
+62.60.237.116
+62.60.237.38
+62.60.238.81
 62.72.185.39
 62.72.191.203
 62.72.22.91
@@ -43651,6 +43661,7 @@ agutin-tour.ru
 agutostostasoidnrimlerinbunlard.online
 agutosun-katalogu-burada.shop
 agutroesxjskjaxinxrimleri.com
+agutsounsiparisleri.duckdns.org
 aguvende.com
 aguvende.online
 aguxst0sxixndrmsxler.com.tr
@@ -94045,6 +94056,7 @@ burdanis.22web.org
 burdanislem.22web.org
 burdanyuklemeci.rf.gd
 burdas-aldina-ladinteklfi.com
+burdas-aldina-ladinteklfi.net
 burdas-aldina-ladinteklfi.store
 burdas-almaniz-laimzsi-cadir.store
 burdas-almaniz-laimzsi-kamp.store
@@ -102982,6 +102994,7 @@ cicekevreni.com
 cicekhizmetleri.club
 cicekhizmetleri.co
 cicekhizmetleri.com.tr
+cicekhizmetleri.dev
 cicekhizmetleri.digital
 cicekhizmetleri.info
 cicekhizmetleri.life
@@ -174565,6 +174578,7 @@ gogos1.net
 gogoservicewrap.com
 gogozer.com
 gohaiendo.com
+gohazeldale.com
 gohhs.com
 gohiding.com
 gohmm0.duckdns.org
@@ -200098,6 +200112,7 @@ hornprosper.top
 hornrepressive.top
 hornydyno.ddns.net
 horodityrowoboni.biz
+horosanlidudukgeldi.xyz
 horoskoperstellung.com
 horrenhorst.top
 horribleavert.top
@@ -207546,6 +207561,7 @@ ilanlari-tr.com
 ilanlarim-anasayfa.com
 ilanlarim-detay.com
 ilanlarim-dolap.com
+ilanlarim-get-s.com
 ilanlarim-get.com
 ilanlarim-guvende.com
 ilanlarim-guvende.com.tr
@@ -250582,6 +250598,7 @@ malimdinda.xyz
 malimidwife.top
 malimindraafat2112.xyz
 malimusavirariyoruz.cfd
+malimusavirariyoruz2.cfd
 malinapps2.xyz
 malisorgusistem.com
 malisuclar234.tk
@@ -317950,6 +317967,7 @@ sahibinden-gets-parramguvende.com
 sahibinden-gets.app
 sahibinden-gets.com
 sahibinden-gets.e-islemler-alisveris-tr.sa.com
+sahibinden-gets.e-param-guvende-tr.online
 sahibinden-gets.tr-online-odemelerim.sa.com
 sahibinden-gets.tr-satis.online
 sahibinden-getsahibinden.com
@@ -319911,6 +319929,7 @@ sahibinden.siparis-onaylama.website
 sahibinden.siparis-onayli-115522.com
 sahibinden.siparis-onayli-115524.com
 sahibinden.siparis-onayli-115528.com
+sahibinden.siparis-onayli-115540.com
 sahibinden.siparis-servisi.com
 sahibinden.siparis-sorgu.com.tr
 sahibinden.siparis-tamamla.com.tr
@@ -338168,6 +338187,7 @@ sonkanchase.duckdns.org
 sonkartlderlerdeedvltsd.shop
 sonkazzandiraanfirsatlarrr.xyz
 sonkerefrsatlar.cfd
+sonkezbrayaynlyrzsznrd.club
 sonkezbrdavardkszs.shop
 sonkezcumafrst.shop
 sonkezgel.com.tr
@@ -341191,6 +341211,7 @@ srkgjh.top
 srkncmltipetips.online
 srkoqhld.com
 srkousa.zapto.org
+srlaptop.com
 srlrdnbzyntc.com
 srm.mfa.tj.uzdaily.news
 srmarquiii.ddns.net
@@ -362822,6 +362843,7 @@ trm1net.blogspot.com
 trm57h.duckdns.org
 trmacekilsimbizn103-771.click
 trmagazabimcell.com
+trmagazacepte.com.tr
 trmagazacepte.org.tr
 trmalmiadmx1.net
 trmamksamas.net
