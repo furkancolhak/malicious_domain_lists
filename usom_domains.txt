@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-13T13:05:11.963048
+# Updated: 2025-08-13T14:05:12.538714
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4165,6 +4165,7 @@
 112.199.148.55
 112.213.89.130
 112.217.225.61
+112.248.114.89
 112.28.98.61
 112.85.42.158
 1120544290.corolain.ru
@@ -4699,6 +4700,7 @@
 122864562.xyz
 1229627566.info
 122wo94mm.duckdns.org
+123.10.153.253
 123.10.52.202
 123.146.1.140
 123.16.159.102
@@ -4886,6 +4888,7 @@
 125.235.4.59
 125.24.101.65
 125.41.6.49
+125.44.25.122
 125.64.103.51
 125.65.109.106
 125.com
@@ -6854,6 +6857,7 @@
 155.138.252.221
 155.138.253.165
 155.254.33.183/panel/five/pvqdq929bsx_a_d_m1n_a.php
+155.94.155.227
 155.94.160.72
 155.94.173.117
 155.94.173.142
@@ -8680,6 +8684,7 @@
 182.117.70.179
 182.117.83.74
 182.118.218.193
+182.121.138.178
 182.127.172.124
 182.127.5.215
 182.155.250.21
@@ -13147,6 +13152,7 @@
 202.142.151.190
 202.145.6.130
 202.162.33.243
+202.169.234.5
 202.177.13.68
 202.179.0.142
 202.179.5.161
@@ -14665,6 +14671,7 @@
 213.209.150.173
 213.209.150.174
 213.209.150.175
+213.209.150.188
 213.209.150.239
 213.21.220.222
 213.226.100.140
@@ -15022,7 +15029,9 @@
 2207135660806080.com
 220t2lnw6.duckdns.org
 221.131.165.119
+221.15.146.6
 221.176.88.201
+221.200.212.47
 221.226.192.77
 221.229.204.177
 221.232.247.2
@@ -15039,6 +15048,7 @@
 222-444-666-2.com
 222.137.17.155
 222.137.172.230
+222.137.25.225
 222.184.112.246
 222.186.15.115
 222.186.19.221
@@ -16458,6 +16468,7 @@
 29rpfyty4.duckdns.org
 29subatfirsatdeniz.online
 29ufttb.duckdns.org
+29wgvmn9cpfuwmbvmpi3.com
 29x9ti2.duckdns.org
 2a-coinbase.com
 2a-redirectore.ddns.net
@@ -18375,6 +18386,7 @@
 36.107.172.139
 36.109.44.113
 36.112.17.125
+36.152.9.62
 36.225.154.65
 36.226.6.186
 36.230.4.77
@@ -20022,7 +20034,9 @@
 42.192.206.174
 42.193.242.180
 42.228.106.246
+42.230.47.16
 42.230.50.75
+42.235.94.115
 42.238.24.9
 42.239.227.39
 42.252.99.59
@@ -20957,6 +20971,7 @@
 45.66.248.209
 45.66.249.118
 45.67.14.171/bins
+45.67.203.77
 45.67.229.149
 45.67.229.36
 45.67.230.134
@@ -26945,6 +26960,7 @@
 74.208.219.59
 74.208.22.240
 74.208.236.42
+74.214.56.173
 74.222.14.61
 74.222.14.94
 74.234.192.101
@@ -28743,6 +28759,7 @@
 82.117.159.158
 82.117.255.127
 82.117.255.80
+82.117.87.103
 82.118.16.128
 82.118.16.223
 82.118.16.49
@@ -101017,6 +101034,7 @@ ceptesokfirsatlar.com
 ceptesokfirsatlar.online
 ceptesokfirsatlar.site
 ceptesokfirsatlari.online
+ceptesokfirsatlarin.net
 ceptesokfirsatlindirimler.com
 ceptesokilealisveris.com
 ceptesokilkbahargunleri.online
@@ -101059,6 +101077,7 @@ ceptesokmarketsanal.online
 ceptesokmarkettim.online
 ceptesokmarkettr.com
 ceptesoknisan.com
+ceptesokodemeler.com
 ceptesokonline.duckdns.org
 ceptesokonline.online
 ceptesokonlinefirsatlarrr.online
@@ -120950,6 +120969,7 @@ desdek-formu-iadat-geri-iade-basvurusu.xyz
 desdek-formu-iadat-geri-iadesi.xyz
 desdek-kampasi-ozel-basvurularimiz.xyz
 desdemone.ddns.net
+desentupidora.pro.br
 deseondefend.com
 deserado.tk
 deserdeelersenlogatsikintiyok.vercel.app
@@ -126328,6 +126348,7 @@ dnshoswting.ga
 dnshoswting.gq
 dnshsdfskjasdns1423.com
 dnsinass.hopto.org
+dnsmicrosoftds-data.org
 dnsnkahsa-mladklasa-nmamska.cyou
 dnsnkahsa-mladklasa-nmamska.icu
 dnsnkahsa-mladklasa-nmamska.sbs
@@ -126672,6 +126693,7 @@ docpayfix.com
 docpmsi.us
 docprowetranspro.hopto.org
 docreview-rho.vercel.app
+docrf.org
 docs-cache.com
 docs-forwarding.online
 docs-info.com
@@ -151545,6 +151567,7 @@ event-spacex.com
 event-takip-binance.net
 event-takip-campain.net
 event-takpkampyanlari.com
+event-timemicrosoft.org
 event-travel.co.uk
 event-webby.com
 event-yili.net
@@ -199876,6 +199899,7 @@ homme.ddns.net
 hommenessetlerdeisbankmobl.cloud
 hommenestlerdeisbankmobl.cloud
 hommenestlerdeisbankmobl.duckdns.org
+hommmeneslerdeqnbcinohoksizflesk.cloud
 hommmeneslerdeqnbsizflesk.cloud
 hommmnesler1.site
 hommnestlerdeqnbfirsatlar.cloud
@@ -230238,6 +230262,7 @@ kapina-gelince-mutlu-hissedersin-burada.online
 kapina-online-kampanyaurunleri.com
 kapinafirsat.com.tr
 kapinageldiflrsat.art
+kapinageldikampanyan.xyz
 kapinageldisiparisin.xyz
 kapinagelsin.org
 kapinagelsin.xyz
@@ -230575,6 +230600,7 @@ karaca-sepete-mutlulugu-cebine-girer.com
 karaca-size-ozel-com-tr.sbs
 karaca-size-ozell-com-tr.sbs
 karaca-sultan.sbs
+karaca-sultanlara-ozel-com-tr.cfd
 karaca-sultann.club
 karaca-takimlar.free.site.pro
 karaca-takimlar.sbs
@@ -230713,6 +230739,7 @@ karacaozelindirim.com
 karacapazari.biz.tr
 karacapazari.com.tr
 karacashop.store
+karacasite.hazirsite.pro
 karacasonbaharzamani.com
 karacasonkasim-ozelfirsatlar.xyz
 karacastore.net.tr
@@ -233843,6 +233870,7 @@ ker45215421521.shop
 kerastaseshop.com.tr
 kerberdedasd.xyz
 kerdemdendnemerde.xyz
+kereca.space
 kerecersen.duckdns.org
 keredtite.shop
 keremakturkoglu.sbs
@@ -283109,6 +283137,7 @@ ordanaracmsuw.xyz
 ordaneburdanehe.net
 ordangeciss.is-best.net
 ordangldkbrdayz.shop
+ordangldksnyzfrs.click
 ordangldplasd.cfd
 ordealfrantically.top
 ordealnutrition.top
@@ -357081,6 +357110,7 @@ tokiedevlet-20f08.kxcdn.com
 tokiedevletbasvur-20f08.kxcdn.com
 tokiedevletbasvur-21393.kxcdn.com
 tokiedevletbasvuru-21358.kxcdn.com
+tokiev.com
 tokievim.com
 tokievim.com.tr
 tokigarantigiris.com
@@ -367008,6 +367038,7 @@ turkiyecomtr.site
 turkiyecomtr.website
 turkiyecoviddestek.epizy.com
 turkiyecsb.biz
+turkiyecsb.com
 turkiyecsb.org
 turkiyecumhurbaskanligi2.com
 turkiyecumhurbaskanligi3.com
@@ -372012,6 +372043,7 @@ ureticidentabagina.xyz
 ureticidentamzamani.xyz
 ureticidentermosal.xyz
 ureticidentuketiciye.xyz
+ureticidenyadanaagelsin.xyz
 ureticisatisplatformu.xyz
 ureticisecalisver.xyz
 ureticisepeti.xyz
@@ -372078,6 +372110,7 @@ url-gonderitanitim.cfd
 url-kampanya.sbs
 url-kampanyalar.sbs
 url-kampanyalar1.sbs
+url-kampanyalar2.sbs
 url-mini.com
 url-promo.club
 url-promotion.cfd
@@ -406814,6 +406847,7 @@ yasatalim.online
 yasayanfirsatadersim.com.tr
 yasayanfirsatadersim.xyz
 yasayanlar.name.tr
+yasec.ru
 yaseminaysubeleri.com.tr
 yaseminaysubesi.com.tr
 yaseminaysubesi.online
