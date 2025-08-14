@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-14T13:05:11.911500
+# Updated: 2025-08-14T14:05:14.197822
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4642,6 +4642,7 @@
 12144444888999094.xyz
 12144444888999095.xyz
 12144515599940.xyz
+12144515599941.xyz
 12144515599942.xyz
 12144515599944.xyz
 12144515599944555888909990.xyz
@@ -43499,6 +43500,7 @@ agustos-sabah-kampanyasi.com
 agustos-son-katalog-31.com
 agustos-sonu-kataologu.com
 agustos-tekflsibur-fsrslt-hrda.com
+agustos-tekflsibur-fsrslt-hrda.net
 agustos-tekflsibur-fsrslt-hrda.shop
 agustos-tekflsibur-fsrslt-hrda.store
 agustos-televizyon-katalog.com
@@ -54864,6 +54866,7 @@ anindajetkredim.click
 anindakalitelihizmet.pw
 anindakapidafirsatlar.com.tr
 anindakapidafirsatlar.online
+anindakapidahizlafrsattt.com
 anindakapinagelenfirsatlar.shop
 anindakapindaguveniliralisveris.com.tr
 anindakapindaguveniliralisveris.online
@@ -115016,6 +115019,7 @@ degismez-hersey-bir-kez-daha-yakina-ugrar.com
 degismez-sadece-gelisir-tanik-olan-bulur.shop
 degismez-tepkilere-yol-acmadik-gelin.com
 degisti-devir-yaniniza-gelen-fitrat.com
+degkgm.cfd
 degks.totalh.net
 deglenecektirbufirsatin.com
 degrace2020.hopto.org
@@ -124260,6 +124264,7 @@ dijitalbasvuru-sayfasi.com
 dijitalbasvuru-surecleri.com
 dijitalbasvuru-ziraat.com
 dijitalbasvuru-ziraatbireysel.com
+dijitalbasvuru-ziraatbireyselgiris.com
 dijitalbasvuru.ziraatmobilweb.com
 dijitalbasvurudeniz.xyz
 dijitalbasvurudenizbankgiris.co.vu
@@ -153419,6 +153424,7 @@ exuberant-group.com/wp-includes/db-config-ini.php
 exuberanttjdkwo.xyz
 exudixq8ejm4ynq.ddns.net
 exulorem.site
+exulta.xyz
 exuofmaocwlaofg.su
 exurebi2o03hc25.ddns.net
 exurunxixnxaxmxixdepoixxixm.xyz
@@ -182117,6 +182123,7 @@ hadilerlelsvrsf0rr.shop
 hadimatkpalin.xyz
 hadimegasepet.cfd
 hadimegasepet.click
+hadimegasepet.club
 hadimegasepet.lat
 hadimegasepet.sbs
 hadiordandeliiiiiii.best
@@ -225860,6 +225867,7 @@ justmoneykartalbddk72.duckdns.org
 justmoneykartalbddk73.duckdns.org
 justmoneykartalbddk74.duckdns.org
 justmoneykartalbddk75.duckdns.org
+justmoneykartalbddk777.duckdns.org
 justmoneykartalbddk800.duckdns.org
 justmoneykartalbddk801.duckdns.org
 justmoneykartalbddk802.duckdns.org
@@ -237020,6 +237028,7 @@ kmsorgulamagovv-tr.duckdns.org
 kmsorgulamagulyan.shop
 kmsorgulamakicin.blogspot.com
 kmsorgulamalariis.web.app
+kmsorgulamalarinizhemenppttm.com
 kmsorgulamapt.blogspot.com
 kmsorgulamaptt.shop
 kmsorgulamavm.com
@@ -238276,6 +238285,7 @@ kosubandiyeni34.site
 kosubandiyeni34.store
 kosunixmreglin.net
 kot8mm.duckdns.org
+kotak.mycardcard.in
 kotak.mycardcare.in
 kotakotak1.zapto.org
 kotasiz-evinterneti-aboneligi-basvurulari.click
@@ -247289,6 +247299,7 @@ lstanbul.online
 lstanbul.store
 lstanbul.tech
 lstanbulbasvuru.com
+lstanbulbreysell.click
 lstanbulbreysell.online
 lstanbuldaodemelibb.net
 lstanbulkart.com
@@ -336894,6 +336905,7 @@ sok-guncelkrc.net.tr
 sok-guncelnoktan.com.tr
 sok-harcaharcabitmez.ptt-hizmetlrnzdesnz.org
 sok-hepucuz.top
+sok-ilehepindirim.cfd
 sok-indirim.com
 sok-indirimzamani.com.tr
 sok-kampanya.com
@@ -341074,6 +341086,7 @@ sponsrvakifktlm.duckdns.org
 sponsurllux-indiriiim.com
 sponsurlugunlers.store
 sponszirtxaxa.duckdns.org
+sponszrrrtzaxa.duckdns.org
 spontane.name.tr
 spontaneitydecimal.top
 spontaneitydisplace.top
