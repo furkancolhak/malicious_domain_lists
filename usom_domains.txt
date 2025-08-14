@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-14T18:05:12.825546
+# Updated: 2025-08-14T19:05:12.507522
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43459,6 +43459,7 @@ agustos-apec-motor-katalog.com
 agustos-ayidenizbakampanyalari.tk
 agustos-basvurumusteriaciksube.com
 agustos-bireyselcekilisacikdeniz.com
+agustos-bitecek-tekflifrler-aldnm-aldsn.store
 agustos-buaydenizderst.tk
 agustos-dagitimgunlerinebasvuruyap-tr.tk
 agustos-duyurusitesi-tr.com
@@ -44004,6 +44005,7 @@ ahmetkaya31.cfd
 ahmetkaya32.cfd
 ahmetkaya33.cfd
 ahmetkaya4.com
+ahmetkayaciyim1.cfd
 ahmetkayafan1.cfd
 ahmetkayafan2.cfd
 ahmetkayahayatii.blogspot.com
@@ -51169,6 +51171,7 @@ aldinyeniyilkampanyasi.shop
 aldinz-aldn-tkefld-burds.store
 aldinz-taldisn-tkefld-burds.store
 alditalk.org
+aldivoltasinia1.cfd
 aldixlmlarimizaldikxlerimizmjdkdd.com
 aldkffd.zapto.org
 aldmeha-aaaa.com
@@ -89033,6 +89036,7 @@ bntrtrzl.vercel.app
 bntrts.rf.gd
 bntrttsrmplleasure.vercel.app
 bntrvatrzl.vercel.app
+bntrxrp-basvuru.com
 bntrxrphesal.vercel.app
 bntryazfirsatlarii.net
 bntrybus.vercel.app
@@ -199621,6 +199625,7 @@ homehitter.tk
 homeholess.top
 homeinspections.ddns.net
 homeinvestorakbasvuru.com
+homeinvestorakkayit.com
 homej.online
 homejlerkest.com
 homejsler.com.tr
@@ -225909,6 +225914,7 @@ justmoneykartalbddk74.duckdns.org
 justmoneykartalbddk75.duckdns.org
 justmoneykartalbddk777.duckdns.org
 justmoneykartalbddk778.duckdns.org
+justmoneykartalbddk779.duckdns.org
 justmoneykartalbddk800.duckdns.org
 justmoneykartalbddk801.duckdns.org
 justmoneykartalbddk802.duckdns.org
@@ -230352,6 +230358,7 @@ kapidakifirsatlarihemensepeteekle.online
 kapidakiinidirmlerburada.com
 kapidalisveris.net
 kapidamagaza.com.tr
+kapidamagaza.org.tr
 kapidaninda-10.shop
 kapidaodemea101.org
 kapidaodemeguvenli.com
@@ -311091,6 +311098,7 @@ redmininfirsatlariburada.cfd
 redmininkacmazyazfirsatlari.cfd
 redmininkacmazyazfirsatlari.sbs
 redmininyazfirsatlari.sbs
+redmininyazkampanyasi.sbs
 redmionlinealimyeri.baby
 redmionlinealimyeri.cfd
 redmionlinealimyeri.click
@@ -337199,6 +337207,7 @@ sokinidirimlerr.xyz
 sokisamn.net
 sokislemnfs.com
 sokkadlem.kralbayrak66.workers.dev
+sokkaldnaldnfrstbrini.tech
 sokkaldnaldnfrstlarragel.tech
 sokkampanya.com.tr
 sokkampanya.online
@@ -341150,6 +341159,7 @@ sponsrvakifktlm.duckdns.org
 sponsurllux-indiriiim.com
 sponsurlugunlers.store
 sponszirtxaxa.duckdns.org
+sponszrrrt1asd.duckdns.org
 sponszrrrtzaxa.duckdns.org
 spontane.name.tr
 spontaneitydecimal.top
@@ -398490,6 +398500,8 @@ xiomifirsatlariburada.cfd
 xiominfirsatlariburada.cfd
 xiominfirsatlariburada.sbs
 xiominineniyifirsatlariburada.cfd
+xiominineniyikampanyalariburada.cfd
+xiominineniyikampanyalariburada.sbs
 xiomininsurepfirsatlari.cfd
 xiomininsurepfirsatlari.sbs
 xiomininyazfirsatlari.cfd
