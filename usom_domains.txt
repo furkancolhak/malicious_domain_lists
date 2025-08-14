@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-14T08:05:12.668339
+# Updated: 2025-08-14T09:05:13.737377
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1543,6 +1543,7 @@
 10-1frskmsswwqe.xyz
 10-1sdekmps.sbs
 10-1skmpqwesa-s.xyz
+10-20refahyolu.com
 10-aasdsdsg-sddfsd-sdggsf-sddgsd.com
 10-ocak-firsat.shop
 10-ocakfirsat.shop
@@ -51518,6 +51519,7 @@ aliceplants.com
 aliciabayl.com//db_template.php
 aliciabayl.com/db_template.php
 aliciazapaterias.es
+alicikoruma.site
 alicoyasiyor.site
 alidatsorqula.dev
 alidawspdx.duckdns.org
@@ -51816,6 +51818,7 @@ alisverisdunyasininadresi.com.tr
 alisverisdunyasininadresi.xyz
 alisverisdunydamdasongun.com.tr
 alisverisdunydamdasongun.xyz
+alisverisdurumu.com
 alisverisduskunlerigeldi.xyz
 alisverisdyson.online
 alisverisedoymagunu.com.tr
@@ -63440,6 +63443,7 @@ axgmz1mr.duckdns.org
 axhackxa.ddns.net
 axhppv.duckdns.org
 axid.online
+axionhubs.shop
 axis.mycardcare.in
 axisape.top
 axisau.main.jp
@@ -67465,6 +67469,7 @@ basvrmerkezgrishemnkaytol.com
 basvrmerkezgriskaytol.com
 basvrmerkezi.online
 basvrmproms.click
+basvrmproms25.click
 basvrmtrcbnrcc.com
 basvrnsbbrdahmnetkla.click
 basvrnzbzleszdebsvrn.com.tr
@@ -105605,6 +105610,7 @@ coazoa.com
 cob5bj2t.duckdns.org
 coba-sec.ddnsking.com
 cobaindeh12.zapto.org
+cobaltivyshade.site
 cobaltsdjdjdshdshhsdhhdshsdhsdhdshgdghss.duckdns.org
 cobaltstone.top
 cobasite.duckdns.org
@@ -123117,6 +123123,7 @@ dgswbecixn.duckdns.org
 dgt-gob.duckdns.org
 dgt1.xyz
 dgtfh.com
+dgtkgn.cc
 dgtl-kmpany.click
 dgtl-kmpny.click
 dgtlocean.com
@@ -123828,6 +123835,7 @@ digitturk.com
 digiturk-pgsbolbolkampanya.com
 digiturk.com.tc
 digiturk.net.com.tr
+digiturk.net.tc
 digiturkbasvur.com.tr
 digiturkbasvuru.net
 digiturkbasvurumerkezim.com
@@ -128271,6 +128279,7 @@ doubledistant.net
 doubledisti3525.xyz
 doubledragon.top
 doubleeed.top
+doubleleads.org
 doublen.app
 doubleproximate.top
 doubler.link
@@ -169903,6 +169912,7 @@ gelirse-buraya-bizimkiler-gelir.xyz
 gelirsengorursun.cfd
 gelirsimdi-alisver.com
 gelirstratejisi.com
+gelirturbosu.com
 gelirturk.com
 gelirvrgiodeme.org
 geliryardimbursu-ortaekonomi.ga
@@ -182170,6 +182180,7 @@ haftacekilisi.com
 haftacicifirsatlarindakiidnirimler.cfd
 haftacicifirsatlarindakiidnirimler.sbs
 haftacndebykndrlmerv.shop
+haftada-yplrn-mermer.duckdns.org
 haftadaaozelsindimlerisizle.shop
 haftadaninyildizxliurnleri.site
 haftafirrsataldin.online
@@ -202143,6 +202154,7 @@ hutw45wla.duckdns.org
 huulog.com
 huvanir.top
 huverg.ru
+huvero.store
 huvfjkb-pttavm.is-best.net
 huvlvutoao.duckdns.org
 huvpolifde.click
@@ -225769,6 +225781,7 @@ justmoneykartalbddk.giize.com
 justmoneykartalbddk10.duckdns.org
 justmoneykartalbddk10.site
 justmoneykartalbddk11.duckdns.org
+justmoneykartalbddk1908.duckdns.org
 justmoneykartalbddk20.duckdns.org
 justmoneykartalbddk3.duckdns.org
 justmoneykartalbddk300.duckdns.org
@@ -238148,6 +238161,7 @@ korkorko.xyz
 korkulumedya.net
 kormala.com
 kormira.org
+kormirttorzon.com
 kormoran.bid
 kornee.zapto.org
 kornet-ua.ddns.net
@@ -258867,6 +258881,7 @@ mobil.tebligyeri.com
 mobil.uyap-gov.icu
 mobil.uyap-gov.me
 mobil.uyap-gov.xyz
+mobil01010giris010343.com
 mobil0nlllineegiris.net
 mobil2021hibebasvurusu.com
 mobil2021ramazanayidestek.com
@@ -260081,6 +260096,7 @@ mobilhediyelerbmwparibu.tk
 mobilhemendenizbasvurun.info
 mobilhesap-hizli-giris.xyz
 mobilhesap-onayli-giris.com
+mobilhglbgecicode.duckdns.org
 mobilhgsbilgi.com
 mobilhibebasvurusu2021.com
 mobilhizlibasvuruportalin.info
@@ -261982,6 +261998,7 @@ motovzbiz.b-cdn.net
 motown-player.com
 motown-space.com
 motrlutasitv3rgisi.org
+motrush.com
 motrvolt.net
 motsemhacking2023.ddns.net
 mottesapo.com
@@ -292166,6 +292183,7 @@ paul-positive.at.ply.gg
 paul.oasisdrinktracker.com
 paulbatesministries.com
 paulcruse.com
+pauldingares.org
 paulinhodo7crime.ddns.net
 paulmalkmus.com
 paulorado7cfno.ddns.net
@@ -301380,6 +301398,7 @@ pttalisveris.ile-ticaretim.com
 pttalisveris.odeme-sepetim.com.tr
 pttalisveris.onayli-siparis-417844.com
 pttalisveris.onayli-urunlerim.com
+pttalisveris.s-guvenli-siparis.com
 pttalisveris.sat-ile-al.com
 pttalisveris.satis-ile-ode.com
 pttalisveris.sepette-odemem.com.tr
@@ -315947,6 +315966,7 @@ s-guvenli-odeme.com.tr
 s-guvenli-odememonline.com
 s-guvenli-odemeyap.xyz
 s-guvenli-sepetim.com
+s-guvenli-siparis.com
 s-guvenli-siparis.com.tr
 s-guvenli-ticaret-get.store
 s-guvenli-ticaret-ile-alisveris.site
@@ -338807,6 +338827,7 @@ sorguekrani2025.cfd
 sorguekranim-garantim.xyz
 sorguemaliye.org
 sorgugeriodeme.com
+sorgugovtr.org
 sorguhaci.online
 sorguhemen-odemehizmeti.com.tr
 sorguhemen-odemehizmeti.site
@@ -341044,6 +341065,7 @@ sporcununagahalkbabasi.vip
 sporcununbabasiaraba.com
 spordasikevar.com
 sporify.ddns.net
+sporpaketibasvuru.site
 sporseverlericinyeniharaketlerrehberi.xyz
 sporsorads.blob.core.windows.net
 sport-picture.com
@@ -343358,6 +343380,7 @@ stormflux.store
 stormgocolocrest.xyz
 stormi1ng.com.tr
 stormlegue.com
+stormpipa.pro
 stormsirinbyte.xyz
 stormslva.net
 stormxdt007.zapto.org
@@ -371309,6 +371332,7 @@ uniformitydebris.top
 uniformityerupt.top
 uniformityintellect.top
 uniformmajestic.top
+uniformqhour.lat
 unifscon.com
 unifybarometer.top
 unifybenevolent.top
