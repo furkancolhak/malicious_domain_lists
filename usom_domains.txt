@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-14T15:05:12.253919
+# Updated: 2025-08-14T16:05:14.398615
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -60803,6 +60803,7 @@ asturkgrup.com/ar/yonetimpaneli/connection.php
 asturkkimya.com/w3/fonksiyon/connection.php
 asturkmadencilik.com/inc/connection.php
 asudusupola.site
+asufmotor.com.tr
 asuhduashiduhaiusdh.ddns.net
 asuqviic.ddns.net
 asurion-sso.net
@@ -101258,6 +101259,7 @@ cepteteb.giris-user.com
 cepteteb.kisalink.cc
 cepteteb.ml
 cepteteb.online
+cepteteb.xyz
 ceptetebaktivasyon-v2.tk
 ceptetebaktivasyon-v3.tk
 ceptetebayrami.com
@@ -144873,6 +144875,7 @@ emeliproyrmibn9.top
 emelkurumlari.com
 ememode.com
 emeniyecenesescendenes.site
+emenkul.com
 emeprqhmar.ws
 emeraldbarrow.site
 emeraldbazaars.site
@@ -160635,6 +160638,7 @@ fiyati-dusen-urunler-seninle-burada.top
 fiyatikap.com.tr
 fiyatinabakmadanalacagintekyer.sbs
 fiyatinidusun.com.tr
+fiyatiniduydumaldim.xyz
 fiyatlar-dusunce-bizim-aklimiz-da-gitti.com
 fiyaxper.com
 fiyfecphfygvexq.su
@@ -177207,6 +177211,7 @@ growthwall.click
 growtopiaheys.duckdns.org
 growtrailz.com
 growtura.lat
+growwithusnetflx.com
 growyourwealth.cf
 groz-toolz.com
 groznog-roomner.net
@@ -202227,6 +202232,7 @@ huwug.com
 huxoruodty.duckdns.org
 huydeptrai.zapto.org
 huyelerepe.xyz
+huygbvertulip.site
 huyightwa-lhogino.cfd
 huyightwa-lhogino.sbs
 huyontop.com
@@ -237565,6 +237571,7 @@ kol.frencko.at
 kola.memerax.com
 kolada.xyz
 kolasdastasdasdatasda.com
+kolasfcfa.duckdns.org
 kolasifirsatgirisim.com
 kolaw.duckdns.org
 kolawysuiy.duckdns.org
@@ -245341,6 +245348,7 @@ lkea-senin-icin.xyz
 lkeimdlik.net
 lkevkslrkonutkapi.com
 lkhizwusbd.duckdns.org
+lkhwgdw.click
 lkimlkrndlevydl.net
 lkitlfjirh.duckdns.org
 lkjdwd.click
@@ -252664,6 +252672,7 @@ maspow.xyz
 masquereal.duckdns.org
 masraca.duckdns.org
 masraf-aidatbasvurular.com
+masrafsizfaizsiz80hazirlimitiniz.duckdns.org
 masrafsizgarantim.biz
 masryvb.ddns.net
 mass.longvn.net
@@ -257153,6 +257162,7 @@ mindblow.top
 mindcore-elevation.online
 mindcraftstore.com
 mindfuei.com
+mindservo.com
 mindsetabiguous.top
 mindsetydit.org
 mindspur.site
@@ -270552,6 +270562,7 @@ nikola3d.xyz
 nikolaichooprov.ddns.net
 nikolay-romanov.su
 nikolayuzbir.click
+nikolayuzsekiz.click
 nikortal.ru
 nikotta.com
 nikotte.net
@@ -316394,6 +316405,7 @@ s-prmgvndes-iles-satis.xyz
 s-pro-kurumsalsahibinden.com
 s-pro-sahibinden.com
 s-prokurumsalsatis.online
+s-ptt-avm.com
 s-pttgov.top
 s-pturkey-p-t-a-v-m.shop
 s-qparam-guvende-al.store
@@ -334699,6 +334711,7 @@ sizinurunlerinizsepette.com.tr
 sizinurunlerinizsepette.online
 sizinurunlerinizsepette.xyz
 siziozelgiris.com
+sizistenizbizyaptikvkf.com
 sizistersenizherseyolur.tech
 sizisteyinbizyapalim.tech
 sizkimsinizyaaa.app
@@ -403142,6 +403155,7 @@ xrootx.zapto.org
 xrp-blnancetr.com
 xrp-blnancetr.xyz
 xrp-bntr.com
+xrp-bntr.info
 xrp-info.com
 xrp-trbinance.com
 xrparibudansizlercom.co.vu
