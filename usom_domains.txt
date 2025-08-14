@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-14T20:05:12.796838
+# Updated: 2025-08-14T21:05:12.531609
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -176770,6 +176770,7 @@ grfrm1z45a.link
 grfxcyofzgi.ru
 grg8tol4.duckdns.org
 grgenling.com
+grgjklamen.com
 grgngnrisponsorlurklamtwit.com
 grgnnbvsvur.com
 grgntibasvurulardangelenleronayi.duckdns.org
@@ -213628,6 +213629,7 @@ internetsubesiakbank.com
 internetsubesiakbank.site
 internetsubesiakbark.com
 internetsubesibonusacikdenizbankgirisleriniz2019.com
+internetsubesicebdeozelgirisbbva.ooguy.com
 internetsubesideniz.com
 internetsubesienpara.com
 internetsubesienparacomtr.com
