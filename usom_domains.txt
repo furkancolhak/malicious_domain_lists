@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-14T12:05:12.138975
+# Updated: 2025-08-14T13:05:11.911500
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -313,6 +313,7 @@
 02193j382g36820.fun
 021cz4.duckdns.org
 021oiyzis.ml
+0220120231202.duckdns.org
 02220333teamaccount.com
 02252-20244.net
 02348721340905821435.cloud
@@ -5919,6 +5920,7 @@
 144.172.103.42
 144.172.108.37
 144.172.110.50
+144.172.112.106
 144.172.112.84
 144.172.114.57
 144.172.122.30
@@ -7933,6 +7935,7 @@
 172.86.123.35
 172.86.127.224
 172.86.64.212
+172.86.64.67
 172.86.66.165
 172.86.66.43
 172.86.75.13
@@ -43495,6 +43498,7 @@ agustos-pandemisorgulamaekrani.tk
 agustos-sabah-kampanyasi.com
 agustos-son-katalog-31.com
 agustos-sonu-kataologu.com
+agustos-tekflsibur-fsrslt-hrda.com
 agustos-tekflsibur-fsrslt-hrda.shop
 agustos-tekflsibur-fsrslt-hrda.store
 agustos-televizyon-katalog.com
@@ -46817,6 +46821,7 @@ akakceshop.com
 akakfirsat-onlineislemler.com
 akaki.click
 akaksamlarbu.xyz
+akaksdsderefearsd.duckdns.org
 akal.cf
 akamacloud.pro
 akamai-analytics.com
@@ -88902,6 +88907,7 @@ bntonlinedestektr.com
 bntr-3949324412412.com
 bntr-5435439513245123421.com
 bntr-5435439513245123421.xyz
+bntr-xrpbasvuru.com
 bntr.info
 bntr155213165giris.com
 bntr2025.com
@@ -97392,6 +97398,7 @@ cangedersoyes.com
 cangroupsn.com
 canhgsm.com
 canhizmetlerionline.online
+canhizmetlerionline.xyz
 canibalsec.online
 canilenuricraat.online
 canileyap.shop
@@ -101050,6 +101057,7 @@ ceptennakit.com
 ceptenodeme.cf
 ceptenodeme.ml
 ceptenodeme.tk
+ceptensiparis.click
 ceptensokmarketim.online
 ceptentlyukleme.net
 ceptenyazaozel.com
@@ -101131,6 +101139,7 @@ ceptesokkampanyalari.online
 ceptesokkfirsatlari.cloud
 ceptesokkoonnllliinefiirsatlaarr.com.tr
 ceptesoklu.com
+ceptesokluindirim.com
 ceptesokmarket-indirim.online
 ceptesokmarket-ramazan.online
 ceptesokmarket.biz.tr
@@ -161234,6 +161243,7 @@ flrsatherzamandaolsaolurda.site
 flrsatherzamanindirimlerivardirfakat.store
 flrsatherzamanolsadaazraolur.shop
 flrsatherzamanolsasanada.store
+flrsathhesaplasandaolmasadahadila.world
 flrsathhhhalasaolmasadenhadilahha.world
 flrsathizlibirsekildesokolucaksin.store
 flrsatinburndayilbasinda.xyz
@@ -165206,6 +165216,7 @@ garant-internet-giris.pro
 garant-internet-isube.pro
 garant-internet-kanal.pro
 garant-internet-sube.pro
+garant-internetsuben.sa.com
 garant-internetsuben.za.com
 garant-isube-firsat.pro
 garant-isube-internet.pro
@@ -225809,6 +225820,7 @@ justmoneykartalbddk10.site
 justmoneykartalbddk11.duckdns.org
 justmoneykartalbddk1908.duckdns.org
 justmoneykartalbddk1910.duckdns.org
+justmoneykartalbddk1911.duckdns.org
 justmoneykartalbddk20.duckdns.org
 justmoneykartalbddk3.duckdns.org
 justmoneykartalbddk300.duckdns.org
@@ -237882,6 +237894,7 @@ konfirmasi-idapple.zapto.org
 konfirmasidapple-id.zapto.org
 konforlu-yasam-icin-harika-yaz.com
 konforlugezivearac.net
+konforu-yakala-simdi.top
 kong.tzsafe.com
 kongorocileyasdasdsins.site
 kongorocileysins.site
@@ -407480,6 +407493,7 @@ yazilimkafa.org
 yazilimturk.net
 yazimingunesi.xyz
 yazin-agustos-keyifli-alsvrs.com
+yazin-en-guzel-anlari.top
 yazin-kacirilmaz-firsatlari.shop
 yazin-son-mutluluguu.com
 yazin-tatil-firsatlari.xyz
