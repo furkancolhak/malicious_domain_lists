@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-14T17:05:12.110501
+# Updated: 2025-08-14T18:05:12.825546
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -18950,6 +18950,7 @@
 38.60.214.5
 38.61.218.113
 38.65.142.12
+38.69.12.158
 38.70.253.226
 38080.xc.cangpie.com
 380808fz.duckdns.org
@@ -28900,6 +28901,7 @@
 83.142.230.113
 83.147.243.18
 83.147.253.138
+83.147.55.85
 83.150.218.93
 83.168.66.145
 83.168.78.27
@@ -65973,6 +65975,7 @@ bahasaindowerguj.club
 bahaykuboeliterealty.com.au/wp-config-ini.php
 bahaykuboeliterealty.com.au/wp-includes/wp-config-ini.php
 bahbou.zapto.org
+bahcede-keyif-zamani.icu
 bahcelerdenko.xyz
 bahceliler.name.tr
 bahcemdensofrana.pro
@@ -94724,6 +94727,7 @@ buymagicmushies.com
 buymak.html-5.me
 buymart.top
 buyndnbklirsahrsyfnagder.cfd
+buyndnbklirsahrsyfnaolyrla.sbs
 buynorthwestairline.com
 buynoveltydoc.com
 buynow.com.pk/image/cache/catalog/baloons/wp-config-ini.php
@@ -123142,6 +123146,7 @@ dgknzooeqe.duckdns.org
 dgkytklfjrqkb.cloudfront.net
 dgl0r5fe.duckdns.org
 dglazners.hopto.org
+dglkkgm.cc
 dgminc.com
 dgmkflsdgm51.top
 dgmmotors.com
@@ -129908,6 +129913,7 @@ duyuruaktifprbtr.com
 duyuruaktuel.net
 duyuruakyazfirsatlari.com
 duyurubasvurugiris.com
+duyurubildirimi.com
 duyurubnacgiristr.com
 duyurubnascegiristr.com
 duyurubnasgiristr.com
@@ -144150,6 +144156,7 @@ elektronikdevletsiste-miiad-e.com
 elektronikgirisiadelerim.de
 elektronikhizmet.com.tr
 elektronikhizmetleriniz.com.tr
+elektronikhukuk.org
 elektronikiade.de
 elektronikiadeler.de
 elektronikiadem.de
@@ -176719,6 +176726,7 @@ gregefg.duckdns.org
 gregmounsey.com
 gregolia.duckdns.org
 gregordrenis.com
+gregsizlerlegere.com
 gregvictor.hopto.org
 gregwield.hopto.org
 grejwxylxk.duckdns.org
@@ -186853,6 +186861,7 @@ harmonyincorporate.top
 harmonykkdomdom.click
 harmonykkdomdom.com
 harmonykkhande.com
+harmonykkhande.duckdns.org
 harmonykkhande.space
 harmonysoft.info
 harmonytk.top
@@ -307361,6 +307370,7 @@ qsybyz.duckdns.org
 qsymhrfknxgmbyd.cn
 qt-pttgov.top
 qt2.top
+qt214-1ewq-e21sag-gas21qsa32.sbs
 qt3p5xmv1pqbsfk4mfm.ddns.net
 qt48xlz.duckdns.org
 qtaxosw.com
@@ -323991,6 +324001,7 @@ sdceonlneozlfrstlar.shop
 sdcexonlneozlkapindax.online
 sdcexonlnexozelxekstra.online
 sdcnefsalmamgrkl.com
+sdcqeonline.duckdns.org
 sdctfvdb-aytrcxdagvb-ywatrd.sbs
 sdctfvdb-aytrcxdagvb-ywatrr.cyou
 sdctfvdb-aytrcxdagvb-ywatrr.icu
@@ -324010,6 +324021,7 @@ sden-zden.xyz
 sdenizbank.com
 sdenizbonusmart.com
 sdens-menu.xyz
+sdenzbankpromosyn.vercel.app
 sderatea.click
 sderatea.digital
 sderatea.site
@@ -337187,6 +337199,7 @@ sokinidirimlerr.xyz
 sokisamn.net
 sokislemnfs.com
 sokkadlem.kralbayrak66.workers.dev
+sokkaldnaldnfrstlarragel.tech
 sokkampanya.com.tr
 sokkampanya.online
 sokkampanyaceptefirsatlar.com
@@ -351775,6 +351788,7 @@ tebriklere-kalani-burdan-verilir-uzaktan-almayin.com
 tebriklerkatildinizcptb.online
 tebriklerktlmsaglandi.com.tr
 tebriklerktlmsaglandi2.com.tr
+tebsdekenda.duckdns.org
 tebsenderesa.duckdns.org
 tebsicep.com
 tebsignature.email
@@ -352459,6 +352473,7 @@ teksistemlerinizegiris.com
 teksnkna.net
 teksoft.pro
 teksorunumparonayasanirim.com
+tekstilkonservasyon.pro
 tekstilmarket.club
 tekstkilpazarlama.xyz
 tekszdeanindakkbzle.com.tr
@@ -380520,6 +380535,7 @@ vestopay.xyz
 vestpetr.com
 vestprovip.cfd
 vestrydom.com
+veswfawd.click
 veta.hopto.org
 vetaprnvn.info
 veteietn.pro
@@ -398469,6 +398485,8 @@ xinsta.org
 xinteraktifgov.lat
 xioamiking.top
 xiogsm5k.duckdns.org
+xioimininyazfirsatlariburada.cfd
+xiomifirsatlariburada.cfd
 xiominfirsatlariburada.cfd
 xiominfirsatlariburada.sbs
 xiominineniyifirsatlariburada.cfd
