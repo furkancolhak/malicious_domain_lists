@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-14T05:05:13.559784
+# Updated: 2025-08-14T06:05:13.862588
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4638,7 +4638,9 @@
 12144444888999095.xyz
 12144515599940.xyz
 12144515599942.xyz
+12144515599944.xyz
 12144515599944555888909990.xyz
+12144515599945.xyz
 1214888.com
 1214betturka.click
 121529371556310ar.duckdns.org
@@ -35283,6 +35285,7 @@ a101yilbasifirsati.store
 a101yilbasifirsati.xyz
 a101yilbasiindirimleri.com
 a101yilbasikampanyan.online
+a101zincirmarketleri.com
 a1034400.xsph.ru
 a10a01.com
 a10a1-asdqwezxc.xyz
@@ -168490,6 +168493,7 @@ gasdgdfw.blogspot.com
 gasdgnsavsnamfwbwqf.online
 gasdgsdhsdshda.click
 gasfagsaggaraaa.com.tr
+gasfamnun.online
 gasfbthgsbska.shop
 gasffffffdsfdsfsd.xyz
 gasfgugwqfgufas-asfguhqwfas.cfd
@@ -182059,6 +182063,7 @@ hadikoyune.cfd
 hadil0lsizeozelurunler.com
 hadilerlelsvrsf0rr.shop
 hadimatkpalin.xyz
+hadimegasepet.cfd
 hadimegasepet.lat
 hadimegasepet.sbs
 hadiordandeliiiiiii.best
@@ -332375,6 +332380,7 @@ sikayetlerinvar-1.sbs
 sikayetlerinvar-12.sbs
 sikayetlerinvar-20.sbs
 sikayetlerinvar-21.sbs
+sikayetlerinvar-22.sbs
 sikayetlerinvar-25.sbs
 sikayetlerinvar-26.sbs
 sikayetlernvar.com
@@ -351634,6 +351640,7 @@ tebtr-ceptebonus.com
 tebtr.com
 tebtrwebbasvuru.site
 tebtuk.com
+tebweb.online
 tebwebbasvurum-tr.com
 tebwebbasvurumtr.com
 tebwebdetektiklabasvur.site
@@ -398299,6 +398306,7 @@ xinteraktifgov.lat
 xioamiking.top
 xiogsm5k.duckdns.org
 xiominfirsatlariburada.cfd
+xiominfirsatlariburada.sbs
 xiomininsurepfirsatlari.cfd
 xiomininsurepfirsatlari.sbs
 xiomininyazfirsatlari.cfd
