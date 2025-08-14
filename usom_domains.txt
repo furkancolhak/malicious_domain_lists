@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-14T11:05:12.451847
+# Updated: 2025-08-14T12:05:12.138975
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -558,6 +558,7 @@
 0643tipobet.com
 0654961636.cloud
 0663725.win
+0666525660216.duckdns.org
 0675393840271107.cloud
 067usaa.duckdns.org
 068lvkfa.duckdns.org
@@ -34652,6 +34653,7 @@ a101indiriim.com
 a101indiriimgunleri.com
 a101indiriimvakti.com
 a101indirim.com
+a101indirim.gt.tc
 a101indirim.lisanshesap.me
 a101indirim.net
 a101indirim.online
@@ -43279,6 +43281,7 @@ agjsxtorsxixndrixmerli.com
 agkwcmaikgicobvls.org
 aglai-tan.com
 aglamaoyna.xyz
+aglatiyorum.sbs
 aglayancivciv3.com
 aglayancocuk.com
 aglayinitler.xyz
@@ -43480,6 +43483,7 @@ agustos-korkmaz-katalog.com
 agustos-landmer-katalog.com
 agustos-lndrlmler-simdi-siparis-ver-hemen-teslimat.com
 agustos-lndrmleri-hemen-siparis-olustur.com
+agustos-mlgrossanaimark3t.shop
 agustos-mtr-katalog.com
 agustos-ozel-indirimler.com
 agustos-ozel-indirimlerim.com
@@ -43987,6 +43991,7 @@ ahmetkaya32.cfd
 ahmetkaya33.cfd
 ahmetkaya4.com
 ahmetkayafan1.cfd
+ahmetkayafan2.cfd
 ahmetkayahayatii.blogspot.com
 ahmetkayarte.com
 ahmetkerem.best
@@ -69518,6 +69523,7 @@ basvuruonayiniz.com
 basvuruonaykredi.com
 basvuruonaylandidenizde.duckdns.org
 basvuruonaylari.sbs
+basvuruonaymerkezi.short.gy
 basvuruonaysmdi.duckdns.org
 basvuruonline.org
 basvuruonline.site
@@ -97385,6 +97391,7 @@ cangardenresortshotel.com
 cangedersoyes.com
 cangroupsn.com
 canhgsm.com
+canhizmetlerionline.online
 canibalsec.online
 canilenuricraat.online
 canileyap.shop
@@ -100968,6 +100975,8 @@ ceptemagaza.com.tr
 ceptemagaza.info.tr
 ceptemagaza.net.tr
 ceptemagaza.org.tr
+ceptemagazam.com.tr
+ceptemagazam.org.tr
 ceptemagazaonline.biz.tr
 ceptemagazaonline.info.tr
 ceptemagazaonline.net.tr
@@ -101114,6 +101123,7 @@ ceptesokindirimler.com
 ceptesokindirimler.online
 ceptesokindirimlerimiz.com
 ceptesokindirimlerin.online
+ceptesokindirimlerle.com
 ceptesokindirimlifirsatlar.com
 ceptesokk.com.tr
 ceptesokkampanya.com
@@ -103092,6 +103102,7 @@ cicekhizmetleri.net
 cicekhizmetleri.net.tr
 cicekhizmetleri.online
 cicekhizmetleri.org
+cicekhizmetleri.parts
 cicekhizmetleri.shop
 cicekhizmetleri.site
 cicekhizmetleri.xyz
@@ -128857,6 +128868,7 @@ dressingsprinkle.top
 dressmoon.cl
 dressprotectaverage.com
 dretokular.top
+drevaly.xyz
 drevela.com
 drevertrest.zapto.org
 drevexa.site
@@ -156071,6 +156083,7 @@ fearislem.22web.org
 fearkesdearkesaddsa.duckdns.org
 fearlcankk.com
 fearlcanksfsafsak.com
+fearleeshomenshomenesds.duckdns.org
 fearlenevos.com
 fearlerafearsad.duckdns.org
 fearlesadsrekvakifsa.duckdns.org
@@ -161221,6 +161234,7 @@ flrsatherzamandaolsaolurda.site
 flrsatherzamanindirimlerivardirfakat.store
 flrsatherzamanolsadaazraolur.shop
 flrsatherzamanolsasanada.store
+flrsathhhhalasaolmasadenhadilahha.world
 flrsathizlibirsekildesokolucaksin.store
 flrsatinburndayilbasinda.xyz
 flrsatindircarsambagunuicin.club
@@ -180758,6 +180772,7 @@ gzlgnlercbrek.sbs
 gzlgnlrbrdasgkasd.shop
 gzlgnlrdebrdaksl.shop
 gzlgnlrdmzdkdllds.shop
+gzlgnlrmzdkldbrdnal.sbs
 gzlhrllkhis.wcnv20.cn/instagram-me
 gzllkkeyflerm.com
 gzlmactramer.net
@@ -182090,6 +182105,7 @@ hadil0lsizeozelurunler.com
 hadilerlelsvrsf0rr.shop
 hadimatkpalin.xyz
 hadimegasepet.cfd
+hadimegasepet.click
 hadimegasepet.lat
 hadimegasepet.sbs
 hadiordandeliiiiiii.best
@@ -183272,6 +183288,7 @@ hakkindaskaytvar.info
 hakkindaskaytvar.xyz
 hakkindawarsikayett.ml
 hakkindayorumsikayet.tk
+hakkini-arayanlara-duyurusu-burada-yetisen.com
 hakkiniizdasikayetvar.tk
 hakkiniizdasikayetvarr.tk
 hakkinizda-olusan-sikayetler-com.ml
@@ -196706,6 +196723,7 @@ hizlibakiyeyukle.xyz
 hizlibaklkilelr.net
 hizlibasariacikdenizv2denizbank.co.vu
 hizlibasvru.online
+hizlibasvservicessrgu.duckdns.org
 hizlibasvur-qnbfinansbnklogintr.com
 hizlibasvur-tccb.com
 hizlibasvur-tccbgov.com
@@ -198862,6 +198880,7 @@ hlzksidnf.shop
 hlzlasistem.duckdns.org
 hlzlica.sg-host.com
 hlzlislemlerimnokta.net
+hlzllaas0kfrsatlarrr.com
 hm0aqdx.duckdns.org
 hm0yhf.duckdns.org
 hm11d50r.duckdns.org
@@ -203587,6 +203606,7 @@ iade-denizden.com
 iade-destek.com
 iade-devlet-aidat.net
 iade-devlet-iade.com
+iade-devlet-tccmrbs101.b-cdn.net
 iade-devlet.com
 iade-devlet.de
 iade-devletaidatgovtr.com
@@ -225788,6 +225808,7 @@ justmoneykartalbddk10.duckdns.org
 justmoneykartalbddk10.site
 justmoneykartalbddk11.duckdns.org
 justmoneykartalbddk1908.duckdns.org
+justmoneykartalbddk1910.duckdns.org
 justmoneykartalbddk20.duckdns.org
 justmoneykartalbddk3.duckdns.org
 justmoneykartalbddk300.duckdns.org
@@ -229939,6 +229960,7 @@ kangrouwq.xyz
 kanielz.ddns.net
 kanika.ru
 kanimx01.top
+kanirtiyorum.sbs
 kankadoeeas.online
 kankalarimlokarim.xyz
 kankasalasa.sbs
@@ -232316,6 +232338,7 @@ katagoriyonetim-sanalmarketim.online
 katagos.net
 katakan-denganindah.duckdns.org
 katallogiriisllemenullerim.com
+katalog-carrefoursa.vercel.app
 katalog-indirimi.rf.gd
 katalog-temmuz-website.com
 katalog.sondonemkampanya.com
@@ -237698,6 +237721,7 @@ kolaysipars.click
 kolaysiparsin.click
 kolaysipris.com
 kolaysiprs.click
+kolaysirasnde.click
 kolaysorgula12-5535cc3fe3ec.herokuapp.com
 kolayssipars.xyz
 kolaysubee.dev
@@ -285856,6 +285880,7 @@ p-t-t-gunluk-firsatlar-avm.cfd
 p-t-t-gunluk-indirim-avm.cfd
 p-t-t-gunluk-kampanya-sepeti.cfd
 p-t-t-gunun-en-iyi-deallari.cfd
+p-t-t-hediye-gibi-kampanya.cfd
 p-t-t-her-gun-siparis-kampanya.cfd
 p-t-t-indirim-sepeti-gunluk.cfd
 p-t-t-indirimli-avm-urunleri.cfd
@@ -297260,6 +297285,7 @@ ppnaltddykduocrxf.org
 ppogkvmsja.xyz
 ppoorrt55522.ddns.net
 ppoortu8.beget.tech
+ppopolasfz.duckdns.org
 ppostastsa.duckdns.org
 ppowerwin.click
 ppowwerfulcourse.site
@@ -351483,6 +351509,7 @@ tebcekiliskampanya-2022.net
 tebcekiliskampanya-2022giris.net
 tebcekiliskampanya2022.net
 tebcendkeremse.duckdns.org
+tebcenkenea.duckdns.org
 tebcep-bireysel-firsat-tr.com
 tebcep.kisalink.cc
 tebcep.online
@@ -358390,6 +358417,7 @@ tr-a1dat1.xyz
 tr-account-kampanyabasuvurusu-1.cloud
 tr-acik-beva.click
 tr-acik-deniz-online.com
+tr-acik-mysa.sa.com
 tr-acik.site
 tr-acik.website
 tr-acikdeniiz-denizbank.com
@@ -366616,6 +366644,7 @@ turkishcargo7.net
 turkishcargotakip.org
 turkishcarpet.shop
 turkishdailynewsr.net
+turkishenergyfund.com
 turkishfurniture.blog
 turkishgovtr.org
 turkishh.shop
