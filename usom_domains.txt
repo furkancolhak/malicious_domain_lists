@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-15T19:05:14.363790
+# Updated: 2025-08-15T20:05:12.212088
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -23733,6 +23733,7 @@
 55564782566.cloud
 555777444.hopto.org
 5562241561-85521565874.shop
+556234.vercel.app
 5562e8hy.duckdns.org
 556322111-111.cloud
 5563345486384.com
@@ -43532,6 +43533,7 @@ agustos-teklfibruds-atalsd-aldin.com
 agustos-teklfibruds-atalsd-aldin.shop
 agustos-teklfibruds-atalsd-aldin.store
 agustos-televizyon-katalog.com
+agustos-telfs-rbrdsa-brda.shop
 agustos-telfs-rbrdsa-brda.store
 agustos-tv-katttlog.com
 agustos-vakifkatilimkredimevduatv2.tk
@@ -49102,6 +49104,7 @@ aktier.10agostos-pazar.art
 aktier.10agostos-pazarda.art
 aktier.10agustosazar-sizlere.art
 aktier.12agustos-aksm.art
+aktier.15agustos-aksmd.art
 aktier.online-temmuzfirsatlari.com
 aktier.pazarmartkc.art
 aktier.persembe-macvarhayirli.com
@@ -49549,6 +49552,7 @@ aktuel.carsambasabahi22.com
 aktuel.carsambasiparisre.com
 aktuel.cma1o1dnrm.net
 aktuel.cmrtsicnasl.net
+aktuel.cuma-aksamibizdonus.com
 aktuel.cuma-mayisonline.shop
 aktuel.cuma-mayisonlinebm.com
 aktuel.cumagustos97.com
@@ -55672,6 +55676,7 @@ anutw47.xyz
 anuvugoqodawyke.biz
 anvaatm.cn
 anvc.me
+anvetinet.com
 anviplwxrnzy.com
 anvvcctystyetysm-12.com
 anwardo049910.ddns.net
@@ -73595,6 +73600,7 @@ beyazidsubesindeler.xyz
 beyazisikvakfi.com
 beyazisikvakfi.site
 beyazkirmizi.xyz
+beyazkoc.store
 beyazlar.name.tr
 beyazsayfa.name.tr
 beyazsigorta.site
@@ -245143,6 +245149,7 @@ listetin.club
 listfoo.org
 listmerkez.xyz
 listospordi.duckdns.org
+lisxdbnrmdlmrnsmdlrms.com.tr
 liszjnvz.info
 litby.us
 litchrlet.owlickelea.ru
@@ -317257,6 +317264,7 @@ sadboi.ddns.net
 sadbrilliant.top
 sadbroken.top
 sadcasda.net
+sadcconalna1.duckdns.org
 sadceozlonlnxfirsarxlar.com.tr
 sadceozlonlnxfirsarxlar.xyz
 sadchaira.top
