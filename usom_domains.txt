@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-15T14:05:12.371531
+# Updated: 2025-08-15T15:05:14.097004
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -21630,6 +21630,7 @@
 465456654334.ddns.net
 465456uy6898sd999878.work.gd
 46546323574583238.com
+4667734552455.com
 467455213745334.com
 46816841685416854181.com
 4682.ddns.net
@@ -35250,6 +35251,7 @@ a101trendi.com
 a101trindirimin.online
 a101trindirimler.online
 a101tronline.site
+a101trt.com
 a101turkey.shop
 a101turkiye.com
 a101turkiye.icu
@@ -59881,6 +59883,7 @@ asdfghdsajkl.com
 asdfghertyhgfdsabnmvcxzdefrtgdshygvbfdswewq.cloud
 asdfghfgsan.net
 asdfghhjjbbbbvvvva.website
+asdfghjkl.dnset.com
 asdfghjkl5555.ddns.net
 asdfghjklj.cloud
 asdfghjklzxcv.net
@@ -80507,6 +80510,7 @@ birbakmisim-neler-oldu12.net
 birbank-aze.sbs
 birbankadandahafazlasiyiz.com
 birbaska-garanlt.vercel.app
+birbaska-garanlyk.vercel.app
 birbaska-garant.vercel.app
 birbaskadir.icu
 birbest.blogspot.com
@@ -88148,6 +88152,7 @@ bndestektr.com
 bndestektrgiris.com
 bndestektronline.com
 bndn-duyuru.com
+bndnynasnabnlargdmeli.cfd
 bndnzimfirsatlar.xyz
 bndogaltroyato.vercel.app
 bndsyhuse.site
@@ -95952,6 +95957,7 @@ byd8cyy3e.duckdns.org
 bydaoto.com
 bydautoo.com
 bydesignus.com
+bydoautoturkiye.com
 bydolum.blogspot.com
 bydsatinal.site
 bydtrauto.com
@@ -123207,6 +123213,7 @@ dgsvwxn.com
 dgswbecixn.duckdns.org
 dgt-gob.duckdns.org
 dgt1.xyz
+dgtbgni.cc
 dgtfh.com
 dgtkgit.cfd
 dgtkgn.cc
@@ -151565,6 +151572,7 @@ evdeninternetpaketleri.com
 evdeniskurun.com
 evdenislerin.godaddysites.com
 evdenisplatformu.net
+evdenkariyerim.online
 evdenkazanc.site
 evdenkolayinternet.xyz
 evdenpaket.tk
@@ -151988,6 +151996,7 @@ evineteslimoto.online
 evineyoloas.net
 evinfeoptasw.dedyn.io
 evinizdeki-neseli-gunleri-yeniden-getirdik.com
+evinizdencalisin.online
 evinize-saglik.xyz
 evinizin-temel-ihtiyaclari-carrfursa-com.top
 evinternetabonelikvebasvurumerkezi.site
@@ -164005,6 +164014,7 @@ furnituresales.ir
 furqaanenergy.com
 furrier.supportcodeblitz.com
 furrururu.duckdns.org
+fursutlarara.cfd
 furtherimperative.top
 furthermorepredominate.top
 furthermoresegregation.top
@@ -165300,6 +165310,7 @@ garant-internet-sube.pro
 garant-internetsuben.ru.com
 garant-internetsuben.sa.com
 garant-internetsuben.za.com
+garant-internetsubesi.sbs
 garant-isube-firsat.pro
 garant-isube-internet.pro
 garant-isube-mobil.pro
@@ -189045,6 +189056,7 @@ hearingembroidery.top
 hearislem.22web.org
 hearkerasdfearlsadesad.duckdns.org
 hearkesadcsad.duckdns.org
+hearkescancanisss.duckdns.org
 hearkesfarleasdresdad.duckdns.org
 hearkesfearlescanis.duckdns.org
 hearme.xyz
@@ -230860,6 +230872,7 @@ karaca-firsat-com-tr.sbs
 karaca-firsat-dunyasi.shop
 karaca-firsat.com.tr
 karaca-firsati.duckdns.org
+karaca-firsatlar-burda-com-tr.sbs
 karaca-firsatlar-com-tr.sbs
 karaca-gunleri-kasim.xyz
 karaca-gunlerim.xyz
@@ -281265,6 +281278,7 @@ onlineiislem.com
 onlineilehizliode.com
 onlineiletisimbaskanligi.click
 onlineiletisimindirim.com.tr
+onlineiletisimservisi.sbs
 onlineiletisimsorgu2025.cfd
 onlineiletisimsrgu.online
 onlineiletisimyonlendirme.us
@@ -301834,6 +301848,7 @@ pttavm.mobil-tr-ilanlariniz.com.tr
 pttavm.mobil-urunler-tr.com.tr
 pttavm.mobil-urunlerim-tr.com.tr
 pttavm.mobiltr-islemler.com.tr
+pttavm.mobiltr-islemlerim.com.tr
 pttavm.net
 pttavm.net.tr
 pttavm.net.web.tr
@@ -340568,6 +340583,7 @@ spet-teki-indirimi-kap101.click
 spet-teki-indirimi-kap101.com.tr
 spet-teki-indirimi-kap101.cyou
 spet-teki-indirimi-kap101.xyz
+spetinizbralardagelin.com
 spetinizicinvarizbizde.com
 spetlerburdasiznicin.com
 spetlerinizdeyzbzlerde.com
