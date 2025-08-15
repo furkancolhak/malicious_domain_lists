@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-15T15:05:14.097004
+# Updated: 2025-08-15T16:05:13.048626
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -68300,6 +68300,7 @@ basvuru-aralik-7.duckdns.org
 basvuru-aralik-8.duckdns.org
 basvuru-aralik.shop
 basvuru-bfcturk.com
+basvuru-binancetr.com
 basvuru-bireysel-aidat-geri-iade.com
 basvuru-bireysel-aidat-geri.xyz
 basvuru-bireysel-aidat-iadesi.com
@@ -113122,6 +113123,7 @@ dagitimpaketleme.com
 dagitimpaketleme.xyz
 dagnhmfg.tk
 dagnick.ddns.net
+dagrtaniyenibas.duckdns.org
 dags123hned2542.site
 dagsadatds.click
 dagsigorta.site
@@ -118331,6 +118333,7 @@ denizden-hediyeler.com
 denizden-hediyeler.epizy.com
 denizden-iadeler.com
 denizden-iiadeler.com
+denizden-kampanyalar.shop
 denizden-mobil.xyz
 denizden-ramazan-firsati.com
 denizden-ramazanaozel.com
@@ -168014,6 +168017,7 @@ garantreklam25.click
 garantrkampny.vercel.app
 garantrwebsie.site
 garantsube-online.sa.com
+garantsube-online.za.com
 garantsube-password.sa.com
 garantsube-password.shop
 garantsube-passwords.sa.com
@@ -170500,6 +170504,7 @@ gerantebvba.com
 geranticep.online
 geranticep.shop
 geranticepden.shop
+gerantidenislemler.shop
 gerantim-suben.shop
 gerantimobilden.shop
 gerantimobile.shop
@@ -210084,6 +210089,7 @@ indirim-gunleri.online
 indirim-gunleri.xyz
 indirim-gunlerim-turkcell.com
 indirim-gunu-tr.com
+indirim-gunu.free.site.pro
 indirim-hafta-boyunca-firsat-a101-kampanya-haftasi-tum-153.a1o1nlneee.ru.com
 indirim-haftasi-basladi.com
 indirim-haftasi-burada-sadece.com
@@ -230905,6 +230911,7 @@ karaca-sultann.club
 karaca-takimlar.free.site.pro
 karaca-takimlar.sbs
 karaca-tam-takim-com-tr.cfd
+karaca-tamim-das-com-tr.cfd
 karaca-yil-sonu-indirimleri.com
 karaca-yil-sonu-indirimleri.online
 karaca.live
@@ -258626,6 +258633,7 @@ mobil-btcturkpro.com
 mobil-btk-dijital-subem.ml
 mobil-btk-duyurular-giris.tk
 mobil-carrefoursa.vercel.app
+mobil-carrefourssa.vercel.app
 mobil-cekilisonlinebasvuru.com
 mobil-cep-kapinda-marketi-tr.online
 mobil-cepsube.com
@@ -280783,6 +280791,7 @@ onlinedevlethizmetim-giris.tk
 onlinedevlethizmetimkart.com
 onlinedevletimodemeler-portal.tk
 onlinedevletkurumu.com
+onlinedghnbsvr.com
 onlinedial.net
 onlinedietslimm.xyz
 onlinedigitaal.duckdns.org
@@ -336549,6 +336558,7 @@ snk-guncelkampanyaniz.net
 snkozhkr.zapto.org
 snkrcylsn.com
 snkzbrdapzrtsndfrst.shop
+snkzbrdavrdkopl.icu
 snkzbrdsznlehk.shop
 snkzvrolrazdasdas.club
 snlfrstlararlk.shop
@@ -338649,6 +338659,7 @@ sonkezcumafrst.shop
 sonkezgel.com.tr
 sonkezhaftasnnda.shop
 sonkezyazaktulndrml.com
+sonkezynlenyrzbrda.club
 sonkmkpsawajeno.shop
 sonkmpanyalartukenyr101.shop
 sonkmpnyasf101.com
@@ -408655,6 +408666,7 @@ yeniden-yeni-yilfirsatlari.shop
 yeniden-yeniyil-firsatlari.shop
 yeniden-yeniyilfirsatlari.shop
 yenidenasdwe.co
+yenidenbasliyor.com
 yenidenbeklenefirsat.com.tr
 yenidenbeklenefirsat.online
 yenidenbeklenefirsat.xyz
