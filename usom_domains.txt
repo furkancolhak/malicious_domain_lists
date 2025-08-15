@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-15T08:05:14.761583
+# Updated: 2025-08-15T09:05:13.120110
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -213,6 +213,7 @@
 010bimcell.net
 010fly.cn
 01101100.hopto.org
+011021021201201.mywire.org
 01110000111100.duckdns.org
 0116254-teaxmacc.com
 0116254team-acc.com
@@ -314,6 +315,7 @@
 021cz4.duckdns.org
 021oiyzis.ml
 0220120231202.duckdns.org
+022202120212021.mywire.org
 02220333teamaccount.com
 02252-20244.net
 02348721340905821435.cloud
@@ -4631,6 +4633,7 @@
 1211.hopto.org
 12111237721231234.cloud
 12122223366555990.xyz
+12122223366555995.xyz
 121231231313145451.blogspot.com
 1212tank.activitydmy.icu
 1212trfmde2v.dev
@@ -43516,6 +43519,7 @@ agustos-tekflsibur-fsrslt-hrda.com
 agustos-tekflsibur-fsrslt-hrda.net
 agustos-tekflsibur-fsrslt-hrda.shop
 agustos-tekflsibur-fsrslt-hrda.store
+agustos-teklfibruds-atalsd-aldin.com
 agustos-teklfibruds-atalsd-aldin.shop
 agustos-teklfibruds-atalsd-aldin.store
 agustos-televizyon-katalog.com
@@ -44449,6 +44453,7 @@ aidat-iade-giris-turkiyegovtr.tr
 aidat-iade-gov-e-devlet.com
 aidat-iade-gov-tr.com
 aidat-iade-hizmetleri-maliye-paneli.site
+aidat-iade-hizmetleri-maliye-paneli.xyz
 aidat-iade-hizmetleri.icu
 aidat-iade-hizmetleri.net
 aidat-iade-kontrol-portali-gov-tr.xyz
@@ -44472,6 +44477,7 @@ aidat-iade-odemesi.name.tr
 aidat-iade-online-form-gov-tr.com
 aidat-iade-online.top
 aidat-iade-portali-maliye-bakanligi.com
+aidat-iade-portali-maliye-bakanligi.online
 aidat-iade-portpanel.online
 aidat-iade-sistem.org
 aidat-iade-sistemi-aisgov-portali.ml
@@ -67982,6 +67988,7 @@ basvurgarden.duckdns.org
 basvurgardens.duckdns.org
 basvurgecisyapisleme.online
 basvurgiris.xyz
+basvurgirislerleberaberler.xyz
 basvurglobalsrvsak77.com
 basvurgnclevl.blogspot.com
 basvurgov.ekonomiplatformu.site
@@ -88990,6 +88997,7 @@ bntrintrrewardcenterreward.vercel.app
 bntriyge.vercel.app
 bntrkart.vercel.app
 bntrkavrt.vercel.app
+bntrkolaybasvuru-xrp.com
 bntrkolaybasvuru.com
 bntrkolayerisim.com
 bntrkolaygiris.xyz
@@ -101149,6 +101157,7 @@ ceptesokfamilia.net.tr
 ceptesokfamilia.org.tr
 ceptesokfirsat.com
 ceptesokfirsat.xyz
+ceptesokfirsatlar-agustosozel.com
 ceptesokfirsatlar.com
 ceptesokfirsatlar.online
 ceptesokfirsatlar.site
@@ -101164,6 +101173,7 @@ ceptesokindirim.com
 ceptesokindirimfirsatlari.online
 ceptesokindirimler.com
 ceptesokindirimler.online
+ceptesokindirimlerikap.com
 ceptesokindirimlerimiz.com
 ceptesokindirimlerin.online
 ceptesokindirimlerle.com
@@ -129074,6 +129084,7 @@ drolentbus.click
 droman.zapto.org
 dromeko.store
 drommtoinononcechangerrer.info
+droneharita.pro
 droneisgood.site
 dronekargo.pro
 dronerc.it
@@ -140456,6 +140467,7 @@ edevletlim-tr.com
 edevletlit-gov-tr.com
 edevletlogingovtr.com
 edevletmaliye.org
+edevletmaliyesorgu.org
 edevletmartayiadelerinizportaldan.com
 edevletmartiade.com
 edevletmartiadelerimiz.com
@@ -172532,6 +172544,7 @@ giris-taleparz.com
 giris-tarim-hizli.com
 giris-tarim-hizli.online
 giris-tarim-hizli.xyz
+giris-tebcepte-hizmetmobil.duckdns.org
 giris-tebpromosyonlarislemler.duckdns.org
 giris-tr-facebook.com
 giris-tr-gov.org
@@ -237047,6 +237060,7 @@ kmslkcmas.com
 kmslktmsnc.com
 kmsmakmkaask.net
 kmsoara.com
+kmsogrulamahmnenbuarada.com
 kmsoralgaka.com
 kmsorcuqq.net
 kmsordulama.shop
@@ -250965,6 +250979,7 @@ maliyedavalar.com
 maliyedavasorgu.org
 maliyedestekbasvurusu.ml
 maliyedosya.com
+maliyedosyagovtr.org
 maliyedosyalar.com
 maliyedosyalarim.com
 maliyedosyasisorgulat.com
@@ -252638,6 +252653,7 @@ masakblokesi.com
 masakcezabilgi.org
 masakcezasorgulama.org
 masakdenetim.com
+masakdosyagovtr.org
 masakdosyasorgu.com
 masakgovtr.com
 masakguvenlik.com
@@ -337319,6 +337335,7 @@ sokmarket.shop
 sokmarket.son24saat.cfd
 sokmarket.store
 sokmarket.xyz
+sokmarketagustosfirsatlari.com
 sokmarketagustosindirimleri.com
 sokmarketaktuelindirimler.com
 sokmarketaralikindirimi.site
@@ -350076,6 +350093,7 @@ tc-isbanksi.com
 tc-iscep.com
 tc-kartaidatiadesorgulama.com
 tc-kuveytturk.com
+tc-maliye-aidat-iade-merkezi.website
 tc-maliye-aidat-iade-merkezi.world
 tc-maliye-bakanligi-aidat-iade-portali.world
 tc-mbbaidattiademerkezi.com
