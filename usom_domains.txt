@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-16T11:05:12.733358
+# Updated: 2025-08-16T12:05:12.560940
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -93097,6 +93097,7 @@ bufirsatlarikacirmamalisin.xyz
 bufirsatlarikacirmamalisiniz.com.tr
 bufirsatlarikacirmamalisiniz.online
 bufirsatlarikacirmamalisiniz.xyz
+bufirsatlarikacrma.duckdns.org
 bufirsatlariseviyorum.com.tr
 bufirsatlariseviyorum.online
 bufirsatlarkacilirmazaldinaldin.com
@@ -96319,6 +96320,7 @@ c-prosahibinden.com
 c-pttgov.top
 c-tec-support.co.uk
 c-tgbbvaiisllemlllerii.com
+c-tr.online
 c.189hn.in
 c.65a9b4549d87a.digital
 c.beni-sev-me-sevme.xyz
@@ -154859,6 +154861,7 @@ faithful21.absorbeni.ru
 faithful48.absorbeni.ru
 faithful90.absorbeni.ru
 faithfulequity.top
+faithfulnesskiwi.lat
 faithgrey.com
 faithhumid.top
 faithmetal.com.pk//conf-template-databases-t.php
@@ -166025,6 +166028,7 @@ garanti.guvenlihesap.com.tr
 garanti.hisse-yatirim.com.tr
 garanti.hisseler-yatirim.com.tr
 garanti.hopto.org
+garanti.hovamusic.com
 garanti.httrackroblox.com
 garanti.iadegiris.com
 garanti.internet-giris.shop
@@ -171777,6 +171781,7 @@ ggezxdni.net
 ggf11.xyz
 ggf11best.blogspot.com
 ggfetfsdfsdfsdddf.shop
+ggfsfasfasfvvv.duckdns.org
 ggg-ds-dh-hds-5-25-21----521-251-rwfs-aeh-dss.com.tr
 ggg1234ghjk.ddns.net
 gggaaaaaaa.top
@@ -189126,6 +189131,7 @@ hearislem.22web.org
 hearkerasdfearlsadesad.duckdns.org
 hearkesadcsad.duckdns.org
 hearkescancanisss.duckdns.org
+hearkesdasdasdecvgas.duckdns.org
 hearkesfarleasdresdad.duckdns.org
 hearkesfearlescanis.duckdns.org
 hearme.xyz
@@ -199634,6 +199640,7 @@ holocentrus.com
 holoecho.online
 hologrambileklik.ga
 holographiccocoon.com
+holtrky.com
 holydolyna.com
 holydoome.co.uk
 holyeligibility.top
@@ -202297,6 +202304,7 @@ hurlspeciality.top
 hurmali.net
 hurmanedfa.surf
 hurmayermisinmekeden66.com
+hurmzz.com
 hurnis.ml
 hurr.zapto.org
 hurran.net
@@ -228896,6 +228904,7 @@ kampanyadiyarinahosgeldiniz.site
 kampanyadnzbnkduyuru.co.vu
 kampanyadnzbnkduyuru.com
 kampanyadnzmobilkredionay.net
+kampanyadonemi.com
 kampanyadoviz-acikdenizbank.com
 kampanyadresleriburada.xyz
 kampanyadunyamizahemenkatilin.online
@@ -230273,6 +230282,7 @@ kaparsakkrca.xyz
 kapata-arkeologi.kemdikbud.go.id
 kapcimerim.com
 kapda-frstyuzbirile.site
+kapdimkacdim.xyz
 kapgela101merkezonline.com
 kaphgsz.com
 kapi-a1o1-aninda.net
@@ -256848,6 +256858,7 @@ microsotf.ddns.net
 microssoft-teams.com
 microstteams.com
 microsupport32.zapto.org
+microtech.cyou
 microtik.stream
 microtreeinc.com
 microtreely.com
@@ -262193,6 +262204,7 @@ motelatrocious.top
 motelaugment.top
 motfleksram.com
 motform.online
+motgearx.com
 mother149.xyz
 mothercoffee.top
 motherequity.top
@@ -317354,6 +317366,7 @@ sadcconalna1.duckdns.org
 sadceozlonlnxfirsarxlar.com.tr
 sadceozlonlnxfirsarxlar.xyz
 sadchaira.top
+sadcnonlinkmo.duckdns.org
 sadconlna1o1kamp.duckdns.org
 sadcta-client.co.za/shopping/db-config-ini.php
 sadcta-client.co.za/shopping/wp-config-ini.php
@@ -324707,6 +324720,7 @@ secondcompany.cat
 secondglancedesign.ca
 secondlytr1.app
 secondnickname.cn
+secondrust.lat
 secondsing.top
 secondtest422413.zapto.org
 secondvocal.top
@@ -326181,6 +326195,7 @@ securitycentre-hsbc.com
 securitycompte.ddns.net
 securityfacebook.zapto.org
 securitygarbasvservices.duckdns.org
+securitygarbasvservicess.duckdns.org
 securitygetparamguvende.net
 securitygetparamguvendesatina.com
 securitygetparamilesahibinden.com
@@ -327642,6 +327657,7 @@ sensitiveendowment.top
 sensitivehumanitarian.top
 sensitivityidiotic.top
 sensiz-acilar-bittiginde-son-kez.com
+sensiz-olmaz-buralar.online
 sensiz-olmaz-hicbir-sey.shop
 sensizbayramindamk.net
 sensizgeceler.net
@@ -337197,6 +337213,7 @@ sok-guncelkrc.net.tr
 sok-guncelnoktan.com.tr
 sok-harcaharcabitmez.ptt-hizmetlrnzdesnz.org
 sok-hepucuz.top
+sok-ilehemengelsin.cfd
 sok-ilehemenkapinda.cfd
 sok-ilehepindirim.cfd
 sok-ilemutluyuz.cfd
@@ -412244,6 +412261,7 @@ yolumdayin-hgsptt.com
 yolumuz.online
 yolundagrntias.click
 yolunsonugorunuyor.ml
+yolunyarisiplus.com
 yolvars232.site
 yoma888.com/uyitfu65uy
 yomangaw.com
