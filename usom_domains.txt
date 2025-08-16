@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-16T17:05:14.776375
+# Updated: 2025-08-16T18:05:16.975875
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5083,6 +5083,7 @@
 12agustos-aksmda.art
 12agustostasiparisler.net
 12ailegarantiumrecekilis2025.duckdns.org
+12aileozelsinirliumrecekiliss.duckdns.org
 12aileyeumrefirsatigaranti.com
 12aileyeumrefirsatigaranti.online
 12aileyeumrefirsatigaranti.xyz
@@ -5747,6 +5748,7 @@
 1414142255599992.xyz
 1414142255599993.xyz
 1414142255599994.xyz
+1414142255599995.xyz
 1414743445.dfgqdsd.ru
 1415252514555280.xyz
 1415252514555282.xyz
@@ -88890,6 +88892,7 @@ bnswinner-summary.info
 bnt6bxc3.duckdns.org
 bntag-tekodeme-hizmetleri.online
 bntarsdfqw2025.com
+bntbasvuruekrani.com
 bntbrlus.vercel.app
 bntcbasvuru-tr.com
 bntcstrgirsanlk.com
@@ -151645,6 +151648,7 @@ evdengiris-uygulamasi-cepten20gb.com
 evdeninternetpaketleri.com
 evdeniskurun.com
 evdenislerin.godaddysites.com
+evdenislerkur.online
 evdenisplatformu.net
 evdenkariyerim.online
 evdenkazanc.site
@@ -158794,6 +158798,7 @@ firsat-subelermobildeniz.com
 firsat-subemobilgiris.com
 firsat-subende.com
 firsat-teklifleri.net.tr
+firsat-tkelfibru-brasdsa.store
 firsat-tum-hafta-haftasi-boyunca-kampanya-a101-indirim-61.a1o1nlneee.ru.com
 firsat-ucuzurnlerkcrma.com.tr
 firsat-urun.com
@@ -160911,6 +160916,7 @@ fkrnckm.shop
 fkrudyet.com
 fksafkasn.net
 fkt0pbmk.duckdns.org
+fkulbntr.online
 fkutjiggnm.duckdns.org
 fkuveytturk.com
 fkvevliklmkreds.com
@@ -187745,6 +187751,7 @@ hayaller.online
 hayallerakileguzel.click
 hayallere-ait-sevgiler-bize-geldi.com
 hayallere-kosarken-saatler-durmaz.top
+hayallere-kosarken-saatler-durmaz.xyz
 hayallerhayatlar.site
 hayalleri-susleyen-teklifler-kapiniza-geldi.com
 hayalleri-susleyen-teklifler-simdi-burada.com
@@ -208234,6 +208241,7 @@ ile-satin-alim.com
 ile-satinalim.com.tr
 ile-satisim.com
 ile-simdi-hallet.com
+ile-simdi-siparis.com
 ile-simdi-tamamla.com
 ile-siparis-et.com
 ile-siparis.com.tr
@@ -230517,6 +230525,7 @@ kapidafamilia.net.tr
 kapidafirsat.site
 kapidafirsat10.store
 kapidafirsatim-101.site
+kapidafrsattindrmlerr.click
 kapidafrstxqa.com
 kapidaguvenliode.cf
 kapidaguvenliode.ga
@@ -314820,6 +314829,7 @@ rodujuhocafy.biz
 roe.efeoyundasal.click
 roebabaoyunda.click
 roebabareklamda.efeoyundaefefefe.click
+roelpaketleme.site
 roentgenization.com
 roeoyunda.rabbiyessiratasoy.net
 roeoyunda.yasinatasoyholding.net
@@ -366724,6 +366734,7 @@ turkcellwebalisveris.com
 turkcellwebmagazalari.com
 turkcellwebmagazasi.com
 turkcellwebmarket.com
+turkcellwebmarketi.com
 turkcellwebsite.com
 turkcellwebtr.com
 turkcellx.paketleriyukle.com
