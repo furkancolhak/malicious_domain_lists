@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-16T18:05:16.975875
+# Updated: 2025-08-16T19:05:12.438004
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5083,6 +5083,7 @@
 12agustos-aksmda.art
 12agustostasiparisler.net
 12ailegarantiumrecekilis2025.duckdns.org
+12aileozelsinirlikampanyaateb.duckdns.org
 12aileozelsinirliumrecekiliss.duckdns.org
 12aileyeumrefirsatigaranti.com
 12aileyeumrefirsatigaranti.online
@@ -135133,6 +135134,7 @@ e-mobildevletgiris-kartiadelerim.com
 e-mobildevletgiris-kurum-kredikartlar.com
 e-mobildevletgiriswebplatformaidatlargovtr.com
 e-mobildevletiadeler-girisbilgilerim.com
+e-mobile-garantibbva.com
 e-mobile-servis-sorgulama-tr.com
 e-mobilesube.com
 e-mobilgiris-aidatlarhizmetimonlinegovtr.com
@@ -176357,6 +176359,7 @@ granattatatt.com
 granbasorgulama.page
 granbilgimerkezi.click
 granbotakami.top
+granbsvur.vercel.app
 grancarglobal.com
 grancmoon.com
 grand-circus.ru
@@ -269556,6 +269559,7 @@ nevajewels.net
 nevaleapi.online
 nevarneyok33.digital
 nevarsa-carfursa.online
+nevarsaa-carfourssa.duckdns.org
 nevarsabizdevarr.com
 nevas-acaka.net
 nevatis.duckdns.org
@@ -317165,6 +317169,7 @@ saatler.win
 saatlerdebuyukkampanya.online
 saatliasdqwads.net
 saatlibomba32.xyz
+saatlikhaberlersimdi.com
 saatvesaatkampanya.online
 saaw.zapto.org
 sabah-cumartesii.com
@@ -337291,6 +337296,7 @@ sok-klimanoktan.com.tr
 sok-klimaozel.com.tr
 sok-market-com-tr.top
 sok-market-hizli.cfd
+sok-market-indirim.cfd
 sok-market-online.com
 sok-market-sepet.cfd
 sok-market.com
@@ -373406,6 +373412,7 @@ usmagf.cyou
 usmanerdesinlaan.net
 usmatmaoc.com
 usmatmaoccc.com
+usmatmyterozel.duckdns.org
 usmatnkhbe.duckdns.org
 usmnemiakl.com
 usmnlem-xyz.cdn.ampproject.org
