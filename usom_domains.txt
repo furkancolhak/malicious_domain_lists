@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-16T14:05:13.981611
+# Updated: 2025-08-16T15:05:12.912511
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5744,6 +5744,7 @@
 1412023226.dfgqdsd.ru
 1414142255599990.xyz
 1414142255599991.xyz
+1414142255599992.xyz
 1414743445.dfgqdsd.ru
 1415252514555280.xyz
 1415252514555282.xyz
@@ -17872,6 +17873,7 @@
 3311231655456.com
 331363.com
 3321111111020304.cloud
+3321533200333.duckdns.org
 332237453981d0595033c23.com
 33256325.cloud
 333-222-666-7.com
@@ -83272,6 +83274,7 @@ bitpandaeventbestmai.duckdns.org
 bitranza.com
 bitrat9300.duckdns.org
 bitraydextool.com
+bitraydextool.info
 bitriova.com
 bitrobatea.xyz
 bitscrunch.ddns.net
@@ -106240,6 +106243,7 @@ coktatlisinbe.com.tr
 cokucuz.name.tr
 cokuykumvar.app
 cokuzunsurebeklemeyin.net
+cokyakindahepinizi.com
 cokzor-ya.com
 col-travel-insurance-3n.bond
 colabfile.com
@@ -187388,6 +187392,7 @@ hasssrrrsrglaaama.net
 hasstirals.jumpingcrab.com
 hasstneyegel.net
 hastaetmeyinlanadamiajsuer.club
+hastakayit.online
 hastalandimanne.com
 hastalandimbugun.com
 hastanedoktorkayitlari.xyz
@@ -187718,6 +187723,7 @@ hayalini-gercege-tasiyan-adres-burada.com
 hayalinizdetombalik.xyz
 hayalinizigerceklestirin.com
 hayalinle-ilerle-ve-zaferi-yakala.com
+hayalinpesinibirakmadan.top
 hayaller-dunyasi-geliyor-bizlere-surekli-yeniden.com
 hayaller-gercek-oluyor-yeniden-mutlu-sekilde.com
 hayaller-herkese-mutluluk-getiriyor-burada.com.tr
@@ -231591,6 +231597,7 @@ kariyerinbizimle.com
 kariyermediamarkt.store
 kariyermerkez.com
 kariyerteknosa.space
+kariyeryurticikargo.online
 kariyr.net
 karjalamasoratalamatoraksalamavanbah.net
 karkaine.com
@@ -260649,6 +260656,7 @@ mobilonlineozelkampanyalar.gq
 mobilonlinesubesi.com
 mobilonlintriadebasvuru.ml
 mobilotooyolgcs.com
+mobilotoyolicrageclsese.duckdns.org
 mobilozel-kampanyafirsatlari.ml
 mobilozel-kampanyalar.cf
 mobilozel-kampanyalar.gq
@@ -326209,6 +326217,7 @@ securitycompte.ddns.net
 securityfacebook.zapto.org
 securitygarbasvservices.duckdns.org
 securitygarbasvservicess.duckdns.org
+securitygarbasvservicesss.duckdns.org
 securitygetparamguvende.net
 securitygetparamguvendesatina.com
 securitygetparamilesahibinden.com
@@ -327670,6 +327679,7 @@ sensitiveendowment.top
 sensitivehumanitarian.top
 sensitivityidiotic.top
 sensiz-acilar-bittiginde-son-kez.com
+sensiz-kotuyuz.online
 sensiz-olmaz-buralar.online
 sensiz-olmaz-hicbir-sey.shop
 sensizbayramindamk.net
@@ -340078,6 +340088,7 @@ sosyolife.name.tr
 sosyologbayi.com
 sosyrdmuyglma.club
 sotefkl-telfs-rbrdsa-brda.com
+sotefkl-telfs-rbrdsa-brda.net
 sotefkl-telfs-rbrdsa-brda.shop
 sotermas.icu
 sotermas.xyz
@@ -348759,6 +348770,7 @@ tahsilmerkezi.xyz
 tahslatmerkezitrafik.ml
 tahtagdodcocledcezdoelasdedferedcece.com
 tahtahdur.site
+tahtuhgulipte.site
 tahtuhoplas2.website
 tahuahusd7814asd.site
 tahyodcagyofveremenorelizcolerizcoc.net
@@ -363507,6 +363519,7 @@ trmagazabimcell.com
 trmagazacepte.com.tr
 trmagazacepte.net.tr
 trmagazacepte.org.tr
+trmaliyeceza.org
 trmalmiadmx1.net
 trmamksamas.net
 trmarc.net
@@ -370699,6 +370712,7 @@ ucuzurunalmavakti.com
 ucuzurunkapinda.top
 ucuzurunler-burada.com.tr
 ucuzurunler-burada.site
+ucuzurunlerburda.duckdns.org
 ucuzurunlerim-burada.com.tr
 ucuzurunlerim-burada.site
 ucuzurunlerimiz-burada.com.tr
@@ -372803,6 +372817,7 @@ urlk1r7l.duckdns.org
 urllie.com
 urllio.com
 urlmanage.com
+urlmetafb.cfd
 urlmonday.net
 urloso.com
 urlotoyolhgsbrcodeblstm.duckdns.org
@@ -381143,6 +381158,7 @@ vibi-hizlisubeislemleri.com
 vibilsio2321.com
 vibiyilsonuceklisi.gq
 vibopart.ddns.net
+viborna.xyz
 vibramturkey.com
 vibrant-leakey.20-121-132-39.plesk.page
 vibrant-mendeleev.13-95-87-58.plesk.page
@@ -382909,6 +382925,7 @@ volrexpath-kgmblognet.net
 volrexpath-kgmyukleme.net
 volslirsan2a.digital
 volta-motor-101ortaklik.shop
+volta.cfd
 volta1.cfd
 voltaaktuelleri.com
 voltaaldinfirsat.cfd
@@ -383969,6 +383986,7 @@ vvwhalkbank-halkgiris.com
 vvwhalkbankonline.com
 vvwjajpu.duckdns.org
 vvwjgfthomcybwi.cn
+vvwpttavm-securem.com
 vvwtwitter.com
 vvwv-papara.com
 vvwv-sanalmarket-a101.com
