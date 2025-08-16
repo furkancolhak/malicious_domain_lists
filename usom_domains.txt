@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-16T10:05:13.752426
+# Updated: 2025-08-16T11:05:12.733358
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -383,6 +383,7 @@
 030y2.efae01.com
 031724031724031724.cloud
 032094092374786723.cloud
+0321223332012.duckdns.org
 0324712667128301qo3294.store
 0324824o2346617624e.store
 03300023300.duckdns.org
@@ -460,6 +461,7 @@
 0429502-220607.com
 0439593459823940492.cloud
 044004400444.duckdns.org
+04441235044204.duckdns.org
 04442525-444999.com
 0458939-234903.net
 045nnztom.duckdns.org
@@ -504,6 +506,7 @@
 050l28t.duckdns.org
 05122024bntr.com
 051wh4.duckdns.org
+05221555214250.duckdns.org
 05284oh.t68f3k.cn
 052f8842-fb28-4251-8759-78148e037ada-00-1n4dwrobtewcu.worf.replit.dev
 0536d340.hwqwwrh.com.cn
@@ -23387,6 +23390,7 @@
 52363473.cloud
 52365365243544.com
 523657457836.duckdns.org
+523748659230583902865092354378598342.com
 523852385235235.xyz
 5238543961305130539436425743.com
 5238543961305130539436425743.xyz
@@ -65301,6 +65305,7 @@ b9wpe3c.duckdns.org
 b9z.ddns.net
 ba-hmrh.info
 ba-hmrh.top
+ba.gettrials.com
 ba00lgdz.duckdns.org
 ba212312131bboboo125.com
 ba2a.com
@@ -68019,6 +68024,7 @@ basvurgardens.duckdns.org
 basvurgecisyapisleme.online
 basvurgiris.xyz
 basvurgirisbilgiler.xyz
+basvurgirisbilgilerleberaberler.xyz
 basvurgirislerbilgi.xyz
 basvurgirislerleberaberler.xyz
 basvurglobalsrvsak77.com
@@ -94066,6 +94072,7 @@ burakegitimvakfi.com
 burakegitimvakfi.org
 buraktuel.duckdns.org
 bural-sana-gore.shop
+buralar-boyle-olmuyo.shop
 buralar-sana-gore.shop
 buralar-senin-icin.com
 buralar-seninle-guzelse-sever-acele.xyz
@@ -170698,6 +170705,7 @@ geriaktarmalarekrani.site
 geriaktarmalarekrani.store
 geriaktarmalarsitesi.store
 geriaktarmavesorgulama.site
+geriaktarmsrgu.cfd
 geriaktarvesorgula.site
 gerialmakistermisin.rf.gd
 geribildirim-destek-com.ml
@@ -173871,6 +173879,7 @@ gksmedya.sorgupanel.net
 gktrgoolwdhh.net
 gktsk.cyou
 gkttpf.cn
+gkulbntr.online
 gkwsjnftn.xdk8ax.cn
 gkxtbg.duckdns.org
 gkxyhxyutx.duckdns.org
@@ -196821,6 +196830,7 @@ hizlialimlarin.com.tr
 hizlialimservisi.com.tr
 hizlialin.xyz
 hizlialisverimizde.space
+hizlialisveris-carfursa.online
 hizlialisveris-ptt-avm.online
 hizlialisveris101.com
 hizlialisverisadresi.shop
@@ -198563,6 +198573,7 @@ hizmetmerkzinvi.com
 hizmetmtv-e.com
 hizmetmuayenerandevu.com
 hizmetnoktalari.site
+hizmetnoktalari.xyz
 hizmetnoktalarim.xyz
 hizmetnoktalarimiz.xyz
 hizmetnoktalarin.xyz
@@ -237281,6 +237292,7 @@ kmsorguzuyaphtmngoszz.web.app
 kmsorptt-3591f3201846.herokuapp.com
 kmsorugsaduas.online
 kmsorugszksyapvdf.vercel.app
+kmsoruguyaphemngovpttefpak.web.app
 kmsorula.com
 kmsorulam.com
 kmsoruqq.com
@@ -252333,6 +252345,8 @@ marketiniain.click
 marketinidan.click
 marketiniz.xyz
 marketinkapida.com.tr
+marketinkapida.net.tr
+marketinkapida.org.tr
 marketinsidedata.com
 marketinternetsatis.com.tr
 marketinvolve.sbs
@@ -254721,6 +254735,7 @@ mega-haber.xyz
 mega-kargo-hizi-ile-kapinda.com
 mega-money.info
 mega101comtr.store
+mega1o1.gleeze.com
 mega2010.ddns.net
 mega22023.ddns.net
 megaa1o1urunlerinet.sa.com
@@ -281945,6 +281960,7 @@ onlineozel-mobilpuanlar.ml
 onlineozel-mobilpuanlar.tk
 onlineozel-ziraatbasvurular.art
 onlineozel.ct.ws
+onlineozel.hovamusic.com
 onlineozel.mobi
 onlineozel.online
 onlineozel.shop
@@ -282758,6 +282774,7 @@ onlneislemvakfv3.cf
 onlnelslemtb.net
 onlnemrkzbsvrusujjszzz.space
 onlnenvislem.b-cdn.net
+onlneozelfiyatlara1o1.duckdns.org
 onlneparswbmerkez.xyz
 onlnesatslardabuhafta.xyz
 onlnetefelonitv.net
@@ -284882,6 +284899,7 @@ otoyoldenetimbirimi.site
 otoyoldenetimbirimi.tk
 otoyoldolum.net
 otoyoldolumlari.net
+otoyoleihlrhgwciseicraey.duckdns.org
 otoyolgecis.website.yandexcloud.net
 otoyolgecis.xyz
 otoyolgecisbakiye.net
@@ -334000,6 +334018,7 @@ siparisimiz-secure.online
 siparisin.com.tr
 siparisinaninndakapinda.com
 siparisinburada.click
+siparisincepte.click
 siparisincepte.xyz
 siparisindirimlerialin5gmnom.com
 siparisindirimozel.com
@@ -340027,6 +340046,7 @@ sosyokral.name.tr
 sosyolife.name.tr
 sosyologbayi.com
 sosyrdmuyglma.club
+sotefkl-telfs-rbrdsa-brda.com
 sotefkl-telfs-rbrdsa-brda.shop
 sotermas.icu
 sotermas.xyz
@@ -361625,6 +361645,7 @@ tranflekodenmemtv.blogspot.com
 tranimmtrako.com
 tranix.zapto.org
 trank.hopto.org
+trankelo.xyz
 tranlfisik.net
 tranlkktmbnc.com
 tranmigrust.club
@@ -372723,6 +372744,7 @@ url-redirect4.site
 url-redirect5.site
 url-redirect7.site
 url-redirectfb.online
+url-redirectik.sbs
 url-rediret.xyz
 url-rediret1.xyz
 url-rediret2.xyz
@@ -415364,6 +415386,7 @@ ziad32222.ddns.net
 ziads.ddns.net
 ziadziiizo.hopto.org
 ziakhaixssj.site
+ziarataratatasisaffas.cfd
 ziarataratatasisaffas.cyou
 ziarataratatasisaffas.sbs
 zibhyarigr.com
