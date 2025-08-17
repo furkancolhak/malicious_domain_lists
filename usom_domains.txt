@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-17T20:05:13.226579
+# Updated: 2025-08-17T22:05:12.797524
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2709,8 +2709,10 @@
 101temmuz.duckdns.org
 101temmuzlarindiirmyagmuru.vercel.app
 101temmzufrsatlari.duckdns.org
+101tentk4mpanyaflrsatlarlburada.xyz
 101tentkampanyafirsatlariburada.cfd
 101tentkampanyafirsatlariburada.sbs
+101tentkampanyafirsatlariburadadir.cfd
 101tentkampanyalariburadad.cfd
 101tentkampanyasifirsat.cfd
 101tentkampanyasifirsat.pics
@@ -4676,6 +4678,7 @@
 1214betturka.click
 121529371556310ar.duckdns.org
 1215412254112554490.xyz
+1215412254112554491.xyz
 121637121.duckdns.org
 121991dec.ddns.net
 121milkyway.xyz
@@ -34723,6 +34726,7 @@ a101indirim.gt.tc
 a101indirim.lisanshesap.me
 a101indirim.net
 a101indirim.online
+a101indirim.org
 a101indirim.site
 a101indirim.store
 a101indirim.xyz
@@ -43699,6 +43703,7 @@ agustosfirsatlariburda101.xyz
 agustosfirsatlaridayshemenbasvur.net
 agustosfirsatlarindakigunler.cfd
 agustosfirsatlarindakigunler.sbs
+agustosfirsatlariylasizlerleyiz.shop
 agustosfrstlrinikcrma.online
 agustosfrstlrlgile.online
 agustosglbalfirsatbasvurususongun.com
@@ -80043,6 +80048,7 @@ binancetr-2025kampanya.xyz
 binancetr-2yil.com
 binancetr-iade.com
 binancetr-ramazancekilis.online
+binancetr.cfd
 binancetr.mywire.org
 binancetr2yilfiirsatlari.ml
 binancetr2yilozel.ml
@@ -89874,6 +89880,7 @@ bonusflashiadebasvuru.com
 bonusflashizliformlar.com
 bonusfsajhghgamag.buzz
 bonusgarantim-flash.com
+bonusgeldi.digital
 bonusgibi.com
 bonusgibigaranti.com
 bonusgiris-acikdenizbank2019.com
@@ -143864,6 +143871,7 @@ ekpiuc.com
 ekran-bbva-giris.sa.com
 ekran-geri-aktarma.store
 ekran-sorgu-ve-aktar.cyou
+ekran-webtr.online
 ekranaktaqnbbsayfa.com
 ekranaktarmasayasi.com
 ekranaktarsaysfmaqnb.com
@@ -218473,6 +218481,7 @@ istanbullumkart.net
 istanbulluol.click
 istanbulluolmak.net
 istanbulluoln.click
+istanbulluolsakmi.click
 istanbulluolurmusn.click
 istanbulluonlineon.com
 istanbullupazarrr.net
@@ -255993,6 +256002,7 @@ metadorinstasiki.byethost13.com
 metadsprotections.duckdns.org
 metaemaskalogine.webflow.io
 metafacebookcenter.com
+metafb-url.cfd
 metaflip.io
 metaflux.sbs
 metaforhelpservice.ml
@@ -258838,6 +258848,7 @@ mobil-btcturk.com
 mobil-btcturkpro.com
 mobil-btk-dijital-subem.ml
 mobil-btk-duyurular-giris.tk
+mobil-careffoursa.vercel.app
 mobil-carrefouresa.vercel.app
 mobil-carrefoursa.vercel.app
 mobil-carrefourssa.vercel.app
@@ -285870,6 +285881,7 @@ ozel-secrtysahibindenparam-guvende.com
 ozel-securityparamguvensahibinden.com
 ozel-sevgililergunuhediyeleri.com
 ozel-tim007.net
+ozel-tkelfibru-brasdsa.store
 ozel-vakif-mobil-2021.xyz
 ozel-yil-sonu-indirimleri.online
 ozel.carsambagustos786.com
@@ -341574,6 +341586,7 @@ spoonplausible.top
 spoonpork.top
 spoonsugar.top
 spop7jsv3byvw4s832k.ddns.net
+spor-aletleri-com-tr.icu
 sporaberturk.com
 sporadial.com
 sporanalizi.com
@@ -382225,6 +382238,7 @@ vk8xhz.duckdns.org
 vkafaksfasfsfss.com
 vkakakamnfk.com
 vkakkglinmntf.com
+vkalgemnehnvk.com
 vkalt-sdlvt.com
 vkalvalvalvalav.online
 vkasumgvkfv.com
