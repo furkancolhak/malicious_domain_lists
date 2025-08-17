@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-17T19:05:16.857721
+# Updated: 2025-08-17T20:05:13.226579
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2711,6 +2711,7 @@
 101temmzufrsatlari.duckdns.org
 101tentkampanyafirsatlariburada.cfd
 101tentkampanyafirsatlariburada.sbs
+101tentkampanyalariburadad.cfd
 101tentkampanyasifirsat.cfd
 101tentkampanyasifirsat.pics
 101tentkampanyasifirsat.sbs
@@ -89575,6 +89576,7 @@ bolgidilise.click
 bolibachan.com
 bolibolisd.xyz
 bolihudayade.site
+boliphildese.site
 boliptelsede.info
 bolizarsospos.com
 bolkafein.duckdns.org
@@ -160575,6 +160577,7 @@ firstlarrrim-burada.com
 firstlarxr.xyz
 firstlaryilsonu101dekapinda.com
 firstlightadventuretour.com
+firstlrkapndatukenyr1o1.com
 firstlrkcmzzxxenynii.site
 firstlrmabuhaafta.com
 firstlrmd-burd.com
@@ -237185,6 +237188,7 @@ kmpanya-al-ucuz-hmen.shop
 kmpanya-aldn.com.tr
 kmpanya-yeni-kasm.online
 kmpanya101defirstlari.com
+kmpanyagunlerinde.site
 kmpanyalar-geldi.xyz
 kmpanyalar.com.tr
 kmpanyalar.cyou
@@ -255931,6 +255935,7 @@ meta-telif-destek.ml
 meta-telif-hakki.ml
 meta-telifhakki.com
 meta-telifkanali.ml
+meta-trbinance.cfd
 meta-ua.online
 meta-users.hopto.org
 meta-verification-badge.ml
@@ -332844,8 +332849,10 @@ sikayetimvartr.info
 sikayetimvartr.ml
 sikayetimvartt.ga
 sikayetin-var-1.sbs
+sikayetin-var-10.sbs
 sikayetin-var-12.sbs
 sikayetin-var-15.sbs
+sikayetin-var-17.sbs
 sikayetin-var-18.sbs
 sikayetin-var-2.sbs
 sikayetin-var-21.sbs
@@ -385875,6 +385882,7 @@ web-edevletsosyalbasvuru.com
 web-edevletsosyaldestek.com
 web-edevletsosyalyardim.com
 web-edevletturkiyegovtr.tk
+web-ekrantry.online
 web-en--bridge-trzor.webflow.io
 web-erisim-iade-bedeli.net
 web-erisim-iade-bedeli.org
