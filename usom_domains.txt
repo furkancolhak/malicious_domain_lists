@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-18T08:05:35.448675
+# Updated: 2025-08-18T09:05:28.419053
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -20389,6 +20389,7 @@
 44201596357.cloud
 442335com.com
 442337224.goloser.ru
+442547440444.duckdns.org
 44255.online
 442hj92z.duckdns.org
 443123131123.cloud
@@ -23766,6 +23767,7 @@
 555333243244.com
 555342323232.cloud
 555454555131.cloud
+555485588588.duckdns.org
 5555253555.cloud
 55555.zapto.org
 555550000000001.cloud
@@ -44069,6 +44071,7 @@ ahmetakaryolcu3.com
 ahmetatilla.com.tr
 ahmetatilla.xyz
 ahmetbalaban.net
+ahmetbasaran.vercel.app
 ahmetbulgurgot.duckdns.org
 ahmetbulur.co
 ahmetbulur.online
@@ -62579,6 +62582,7 @@ avhizmtkarayolode.xyz
 avhukukbirim.info
 aviaasale.ruwww.aviaasale.ru
 aviadronazhed.com
+avialontrix.com
 aviapartsdepot.com
 aviasiya.com
 aviasiya.com/murad.by/life/wp-content/plugins/wp-accounting/inc/pages/page-search.php
@@ -80545,6 +80549,7 @@ bios-chip.co.za//db_template.php
 bios-chip.co.za/db-config-ini.php
 bios-chip.co.za/db_template.php
 bios-chip.co.za/wp-config-ini.php
+biosavanta.com
 bioselect.shop
 bioservepharma.com//db_template.php
 biosite.850numara.com.tr
@@ -85681,6 +85686,7 @@ blklklmcekl.com
 blklkmklkcell.com
 blkmklkmncell.com
 blknoiz.com
+blkplan.com
 blkrtmdlm.net
 blksehirr.com
 blkv23.click
@@ -113978,7 +113984,10 @@ datasaharefile.ddns.net
 datasahrefile.ddns.net
 datasatinal.com.tr
 datasatinal.info
+datasatinal.net.tr
+datasatinall.com
 datasatis.org
+datasatis.tr
 datasavedfiles.hopto.org
 datasavedfileshost.ddns.net
 dataseek.com.br/images/test.enc
@@ -214469,6 +214478,7 @@ investinturkeyo.com
 investinturkish.info
 investinturkishoil.top
 investion-best.info
+investlline.com
 investmagnethub.shop
 investmendvisor.net
 investment-accountant.info
@@ -221132,6 +221142,7 @@ izeltashizliguvenn.xyz
 izeltasindirimgunu.xyz
 izeltasindirmleri.xyz
 izeltasinidirimdee.com
+izeltasonline.vip
 izeltasseriuyguntakim.xyz
 izeltassetialdinaldin.xyz
 izeltasstok.xyz
@@ -229943,6 +229954,7 @@ kampanyapuan-ozelfirsatlar-online.club
 kampanyaqnb.vercel.app
 kampanyaramazan.online
 kampanyaramazan.xyz
+kampanyarehberi.xyz
 kampanyarentarackira.com.tr
 kampanyaresmiduyurubasvurunet.com
 kampanyasaati.shop
@@ -233973,6 +233985,7 @@ kelemterekeyfe.com
 kelen.talk4fun.net
 kelenedekeme.net
 kelenedemeke.online
+kelepce.sbs
 kelesimd392.xyz
 keleslerholding.org
 kelesra2.duckdns.org
@@ -262476,6 +262489,7 @@ mottesapo.com
 mottmputbagricole.hopto.org
 mottocarfilo.com
 mottrubeenandsalaries.ru
+moturai.com
 mou28v.duckdns.org
 mouadalves.zapto.org
 mouadnajix145.ddns.net
@@ -267500,6 +267514,7 @@ nafizeevdepaketleme.ml
 nafktzyj.com
 nafnaklerqeawas.net
 nafselaerasa.net
+naftolinne.com
 nafuq.xyz
 naga0.ddns.net
 nagahox.com
@@ -327805,6 +327820,7 @@ senneyeguluyonyrraam.sbs
 senneymissinbeabi.cyou
 sennn.duckdns.org
 seno.ddns.net
+senoldunvale.sbs
 senolmazsan-olmaz.com
 senordanatlayadurbebek.tk
 senoritaofdavao.ddns.net
@@ -353073,6 +353089,9 @@ telefondaindirimgunleribasladi.sbs
 telefondaindirimgunu.cfd
 telefondaindirimgunu.sbs
 telefondan.info
+telefondatasi.com
+telefondatasi.shop
+telefondatasisatinal.com
 telefonedevindirim.xyz
 telefonfatura.app
 telefonfirsatcisimi.cfd
@@ -394654,6 +394673,7 @@ www-kmonline.shop
 www-kmsorgulama.blogspot.com
 www-kmubilgilendirme.blogspot.com
 www-kobi-halkbankasi-com.tk
+www-koctas.shop
 www-kontorveznesi.net
 www-kontrtlyuklme.blogspot.com
 www-kredi.com
@@ -396181,6 +396201,7 @@ www.buydocumentonline.com/wp-config-ini.php
 www.buymore360.com/wp-config-ini.php
 www.c2tec.com.br
 www.cafeperrin.com/wp-config-ini.php
+www.cagrimerkezidata.com
 www.california-rehab-directory.com/ups-quantum-view/feb-12-18-06-21-46/
 www.cancermassive.com
 www.capecrystal.co.za//db_template.php
@@ -396239,6 +396260,8 @@ www.daleth.co.za//wp-config-ini.php
 www.daleth.co.za/db_template.php
 www.daleth.co.za/wp-includes/db-config-ini.php
 www.darkknight-media.com
+www.datasatinal.shop
+www.datasatinalx.com
 www.daxvly.xyz
 www.deceiveujkrgg.xyz
 www.defaultbluemarker.info
