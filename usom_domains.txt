@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-18T12:05:13.543284
+# Updated: 2025-08-18T13:05:14.360680
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4684,6 +4684,8 @@
 1215412254112554491.xyz
 1215412254112554492.xyz
 1215412254112554493.xyz
+1215412254112554494.xyz
+1215412254112554495.xyz
 121637121.duckdns.org
 121991dec.ddns.net
 121milkyway.xyz
@@ -19362,6 +19364,7 @@
 3etkhgsturkiye.org
 3etu5w.duckdns.org
 3exiol2.duckdns.org
+3eye.top
 3f12hfku.duckdns.org
 3f26.hegyp0x1.com
 3f2sdf32fsd2.top
@@ -20430,6 +20433,7 @@
 44448888.ru
 4445654444.cloud
 44487544.cloud
+44497144424440.duckdns.org
 444bijimcelkampanya.net
 444blue.com
 444bnzhgsode.org
@@ -50842,6 +50846,7 @@ aldimmaldimmkapanyalardan.xyz
 aldimpromoonayidenizdenbasvur.duckdns.org
 aldimujdefirsat.net
 aldimutfaka1.cfd
+aldimutfaka1.sbs
 aldin-101-aldin.net
 aldin-a101-aldin.net
 aldin-aldiin-a101.com
@@ -66477,6 +66482,7 @@ balkimotion.ru
 balkon-hemen-aldn-aladn.com
 balkonresidence.com/2174lt/7332142ner/biz/us
 balkonresidence.com/qk2semvd/
+balkonunda-huzur-var.icu
 balkranksmey.site
 balkrtbayi.net
 balksdjflkasjdk.online
@@ -182469,6 +182475,7 @@ hadiujbxlm.duckdns.org
 hadiuygulamasi.cfd
 hadiuygulamasi.click
 hadiuygulamasi.pics
+hadiuygulamasi.sbs
 hadiyavrumsdwe.net
 hadiziraatle.com
 hadjer.boutique
@@ -187581,6 +187588,7 @@ hataybayikrt.net
 hataybiizmleguzel.online
 hataybiizmleguzel.xyz
 hataydeprem.com
+hataydurum.sbs
 hataygozlemecilersoyfasi.site
 hataylilarsubeleri.com.tr
 hataylilarsubelerindekampanya.com.tr
@@ -197213,6 +197221,7 @@ hizlicahasarddurumuorren.net
 hizlicahemenhizlandi.shop
 hizlicahizlandi.shop
 hizlicakapidabizle.org
+hizlicakapidafrsattlarr.xyz
 hizlicakapilarinizda.com
 hizlicakirala.com.tr
 hizlicakirala.net.tr
@@ -210694,6 +210703,7 @@ indirimkapida-a1o1.com.tr
 indirimkapida.com.tr
 indirimkapida.net.tr
 indirimkapida.org.tr
+indirimkapilari.online
 indirimkapinda.com
 indirimkapinda.net.tr
 indirimkapindalar.sbs
@@ -237279,6 +237289,7 @@ kmpanya-al-ucuz-hmen.shop
 kmpanya-aldn.com.tr
 kmpanya-yeni-kasm.online
 kmpanya101defirstlari.com
+kmpanyagunleri.online
 kmpanyagunleri.site
 kmpanyagunlerinde.site
 kmpanyalar-geldi.xyz
@@ -260398,6 +260409,7 @@ mobilekredipanelim.sbs
 mobilelegendsbangbangevent2022.duckdns.org
 mobilelinkcm.link
 mobilemacuregain.ddns.net
+mobilemklivecftcibsvrusu.duckdns.org
 mobilemobileorlando.com
 mobilenflasyonkartiadeleri.cf
 mobilenpara.com
@@ -261195,6 +261207,7 @@ mobiltlyukleme.com
 mobiltogbasvuru.duckdns.org
 mobiltr-islem.com.tr
 mobiltr-islemler.com.tr
+mobiltr-islemlerin.com.tr
 mobiltrafikveznesi.ml
 mobiltrbasvuruportali-besinciyilaozel-tr.tk
 mobiltrbn2022-tekno-2022gunlerimusterilerimizle.com
@@ -334235,6 +334248,7 @@ siparis-onayli-115537.com
 siparis-onayli-115538.com
 siparis-onayli-115539.com
 siparis-onayli-115544.com
+siparis-onayli-115548.com
 siparis-paramguvende.com
 siparis-pttavm.com.tr
 siparis-pttavm.info.tr
@@ -335318,6 +335332,7 @@ sizleree-ozel.online
 sizlereenguzelhizmetdevlet.com
 sizlereguzel-haberiverenleriz.com
 sizlerehizmet.online
+sizlerekampanyamizvar.shop
 sizleremobiiiiliiiimteeeeeb.net
 sizlereozel-eventfirsati.com
 sizlereozel-firsathemenbasvur.cloud
@@ -341871,6 +341886,7 @@ sprs-updates.ddns.net
 sprunal.patrimoniosoberano.world
 sprxxs-nvy.net
 sprzfrsat.shop
+spselc.org
 spshhstrm.com
 spsiya.duckdns.org
 spsleyakgmhizligecis.net
@@ -369013,6 +369029,7 @@ turutismailkekeme.tk
 turview.com
 turyan.net
 turym.com
+turzeek.com
 tusaceitesesenciales.com
 tusaisqui.zapto.org
 tusaisquoi.ddns.net
@@ -402408,6 +402425,7 @@ xn--sahibnden-zpb.mobil-ilanlarla-tr.com.tr
 xn--sahibnden-zpb.mobil-ilanlarla.com
 xn--sahibnden-zpb.mobil-tr-ilanlarim.com
 xn--sahibnden-zpb.mobil-tr-ilanlarimizla.com.tr
+xn--sahibnden-zpb.mobiltr-islemlerin.com.tr
 xn--sahibnden-zpb.sepette-tr.com
 xn--sahibnden-zpb.tr-ilanlarimizla.com
 xn--sahibnden-zpb.urunler-mobils.com
