@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-18T05:05:14.835464
+# Updated: 2025-08-18T06:05:16.261773
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -50072,6 +50072,7 @@ aktuelsefirsatda.net
 aktuelsepetim.biz.tr
 aktuelsepetim.com.tr
 aktuelsepetim.info.tr
+aktuelsepetim.net.tr
 aktuelsepetim.org.tr
 aktuelshops101.online
 aktuelsindirimssepeti.online
@@ -129353,6 +129354,7 @@ dryerventwizarduniversity.org
 drygalskiseed.com
 dryhysterical.top
 drylandsys.com
+dryleafharbor.site
 drylipc.com
 drympchfnr.duckdns.org
 dryness78.xyz
@@ -145252,6 +145254,7 @@ emlakkatilim.goldenlig.com
 emlakkatilim96yil.net
 emlakkatilimbanking.com
 emlakkatilimdan.net
+emlakkonut.online
 emlakkonut.org
 emlakkonutgayrimenkul.org
 emlakkonutonline.com
@@ -158637,6 +158640,7 @@ firsaltar.sg-host.com
 firsaltar1.sg-host.com
 firsaltrtlarhepbizimle.net
 firsalvolta.net
+firsan.org
 firsararara.cfd
 firsasainews.com
 firsat--tr--bbav.xyz
@@ -187090,6 +187094,7 @@ harmoniousaloft.top
 harmoniousmourning.top
 harmoniouspatriotism.top
 harmonsorgu.rf.gd
+harmonulxn.info
 harmony.fichamboan.com
 harmonyconcession.top
 harmonyffdomdom.com
@@ -235318,6 +235323,7 @@ kilometresorgulayanlarchp.click
 kilometresorgulmaachp.xyz
 kilometresorguslmaz.com
 kilometresorgusu.com
+kilometresorgusuyladetay.web.app
 kilometresorguszetveefecakir.web.app
 kilometresorguyssyapgovptt.web.app
 kilometresorugustovpttav.com
@@ -277928,6 +277934,7 @@ olay1-yukleme.22web.org
 olaydanislemlerr.mywire.org
 olayhaberi.online
 olayislemler.22web.org
+olaysin.sbs
 olbmblm.icu
 olbwqehz.com
 olcakolcak.click
@@ -300011,6 +300018,7 @@ prompt-coinbase.com
 promptheusgpt.info
 promptin.webflow.io
 promptly-allows-pendant-close.trycloudflare.com
+prompttfay.info
 promptyeye.host
 promsn-hmn-hemn-tkla-kazn-snde-ktl.site
 promsortirovochnie.com
@@ -336038,6 +336046,7 @@ slenm.talk4fun.net
 slepimrepidrepi.site
 sleptmgir.pw
 slfhksfhs.click
+slfkmkcmkrmtkrmckzmntmdmsmt.xyz
 slfmhdglsfmjdgs.com
 slfsdvtt-dvtl.com
 slfze.com
@@ -360458,6 +360467,7 @@ tr-ziraatkatilimbireyselsube.com
 tr-ziraatmobilonline.com
 tr-ziraatonliine.com
 tr-ziraatonline-islem.com
+tr-ziraattkredibsvrusu.fixip.org
 tr-zirattbank.com
 tr-zirraatbank-internetsube.com
 tr-zirraatkatilim.com
