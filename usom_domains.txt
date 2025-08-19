@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-19T13:05:11.612658
+# Updated: 2025-08-19T15:05:10.995335
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6687,6 +6687,7 @@
 15.235.138.155
 15.235.143.16
 15.235.155.8
+15.235.172.219
 15.235.176.166
 15.235.202.109
 15.235.44.231
@@ -11463,6 +11464,7 @@
 196.251.69.180
 196.251.72.38
 196.251.80.231
+196.251.84.144
 196.251.84.211
 196.251.85.31
 196.251.85.55
@@ -21779,6 +21781,7 @@
 47.23.89.62
 47.236.179.229
 47.236.30.141
+47.238.124.68
 47.241.127.190
 47.241.13.216
 47.241.2.137
@@ -29526,6 +29529,7 @@
 87.121.69.25
 87.121.84.111
 87.121.84.24
+87.121.84.45
 87.139.163.216
 87.15.14.146
 87.223.80.45
@@ -34344,6 +34348,7 @@ a101.trsepet.com.tr
 a101.two2344.dev
 a101.ucuzmarket.store
 a101.urun-satin-al.com.tr
+a101.urunlerim.com.tr
 a101.urunodeme.com
 a101.uygunmart.com
 a101.vergisiz-islemler.com
@@ -98345,6 +98350,7 @@ carrefoursaturkiye.online
 carrefoursayazfirsati.it.com
 carrefoursayazfirsatlari.online
 carrefoursiteonlinee.com
+carrefourssa.com
 carrefourtr.shop
 carrefouursa.shop
 carreirapowerbi.com
@@ -114076,6 +114082,7 @@ datasatinal.com.tr
 datasatinal.info
 datasatinal.net.tr
 datasatinall.com
+datasatinall.org
 datasatis.org
 datasatis.tr
 datasavedfiles.hopto.org
@@ -123452,6 +123459,7 @@ dgtlocean.com
 dgtuhall-afisha.ru
 dgui33tarisland.top
 dgvcbjy7q32.github.io
+dgvgkngm.cc
 dgvgz7.duckdns.org
 dgw1ilt.duckdns.org
 dgwbfzjpn.com
@@ -153556,6 +153564,7 @@ expresschiatto.freeddns.org
 expressdeliverypttgov-tr.top
 expressfatura.com
 expressfirsat.com.tr
+expressfuture.online
 expresshizmetler.xyz
 expresshizmetlerim.xyz
 expressing.link
@@ -155438,6 +155447,7 @@ farklikampanyazamanlariii.shop
 farklilar.name.tr
 farklimsihayati.site
 farkliurun.name.tr
+farlaresdghaerads.com
 farm-sharing.at
 farmaciacairoli.eu
 farmacianovapiel.com
@@ -158288,6 +158298,7 @@ finansbannk.epizy.com
 finansbasvurundevamet.com
 finansbasvurusformiadesi.com
 finansbildirim.online
+finansbilgi.org
 finansbireysel.cf
 finansbireysel.com
 finansbireysel.ga
@@ -182266,6 +182277,7 @@ habitualvest.top
 habrafa.com
 habrewi.zapto.org
 habrion.cn
+habtodayturkprom.com
 habxrlergsvrgi.blogspot.com
 hac-kvytbuyil.com
 hac.zapto.org
@@ -258977,6 +258989,7 @@ mob546544565446565465416.cloud
 moba-fspin.duckdns.org
 mobailgiriz.com
 mobapptrack.com
+mobbb12343234.com
 mobbilacikv2denizz.net
 mobbilbireyselbasvuruuu.com.tr
 mobblyppkrddhmnbsvrr.duckdns.org
@@ -272920,6 +272933,7 @@ nouzubalol2025.xyz
 nouzubalol99.xyz
 nov-at.com
 nov16665.ddns.net
+nova-tech.sbs
 nova.html-5.me
 nova22.ddns.net
 novaappraisal.com
@@ -285875,6 +285889,7 @@ owopasdk.click
 owoqcocwqhxhkdd.cn
 owpodwx.click
 owpodwx.xyz
+owqeiedsam.world
 owqjkhud.com
 owqjmk74.duckdns.org
 owqoq70.duckdns.org
@@ -315334,11 +315349,13 @@ romixoff.com
 romotara.com
 romotionssale.shop
 romparititrnaksieertoor.net
+romulo.sbs
 romulus29.ddns.net
 romwkpdqajitonl.cn
 romxv.duckdns.org
 ron-mil-pl.site
 ron-mil-pl.space
+ronaldinho.sbs
 ronaldlubbers.site
 ronaldo25.zapto.org
 ronaldoan.duckdns.org
@@ -334061,6 +334078,7 @@ similartyfact.top
 similerwork.net
 simitgeldi.com.tr
 simitsarayiathome.nl
+simitt.sbs
 simkart-5010071948.blogspot.com
 simkart-571yxkl.blogspot.com
 simkart-kontor-yukleme.blogspot.com
@@ -334501,6 +334519,7 @@ siparisincepte.click
 siparisincepte.xyz
 siparisindirimlerialin5gmnom.com
 siparisindirimozel.com
+siparisinhadide.click
 siparisinhazir.xyz
 siparisinhazriz.click
 siparisinikacirma.com
@@ -337717,6 +337736,7 @@ sok-market-indirim.cfd
 sok-market-online.com
 sok-market-sepet.cfd
 sok-market-yolda.cfd
+sok-market-zamani.cfd
 sok-market.com
 sok-market.top
 sok-marketcepteindirim.site
@@ -342153,6 +342173,7 @@ sq83i1.duckdns.org
 sq9qmr46.duckdns.org
 sqanfkpcgtgcpek.cn
 sqauhg.com
+sqcepo.replit.app
 sqcmfwvi.com
 sqcssi.top
 sqcytjjh.xdk8ax.cn
@@ -366398,6 +366419,7 @@ turerkila.ru
 turevvakfi.org
 turex-invest.info
 turfeel.com
+turflip.com
 turfschiploge.nl
 turfschiploge.nl/8etyfh3ni
 turfslayer.com
@@ -379763,6 +379785,7 @@ velsweebsodeme.net
 velthara.store
 veltrixxy.com
 veltrona.site
+velttrixora.com
 velupra.pro
 velvest.xyz
 velvetmonarchy.top
