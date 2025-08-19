@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-19T12:05:12.085690
+# Updated: 2025-08-19T13:05:11.612658
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2994,6 +2994,7 @@
 103.234.54.128
 103.234.97.19
 103.237.86.41
+103.237.92.191
 103.239.30.126
 103.240.141.50
 103.241.64.128
@@ -4428,6 +4429,7 @@
 118.107.181.193
 118.107.219.66
 118.107.43.174
+118.107.46.174
 118.107.7.166
 118.140.151.242
 118.168.201.70
@@ -4455,6 +4457,7 @@
 118.71.138.69
 118.98.221.14
 118.99.13.4
+118.99.3.33
 118.99.6.202
 1180091888437714.duckdns.org
 1180203467.corolain.ru
@@ -5595,6 +5598,7 @@
 1396953057.dfgqdsd.ru
 13agtansy.duckdns.org
 13agustos-carsambam.com
+13agustostasiparileirln.net
 13aralikikacirmaindirimi.com.tr
 13aralikikacirmaindirimi.online
 13aralikindirminikacirma.com.tr
@@ -6875,6 +6879,7 @@
 154.85.35.82/bins
 154.86.22.47
 154.90.47.77
+154.91.183.174
 154.91.196.185
 154.91.227.32
 154.91.254.95
@@ -6982,6 +6987,7 @@
 156.238.111.174
 156.238.225.44
 156.240.157.226
+156.241.134.49
 156.244.14.127
 156.244.19.63
 156.245.16.55
@@ -48949,6 +48955,7 @@ aksfsajfl1js1.xyz
 aksfsda.click
 aksfsdad.click
 aksfsdas.click
+aksfsfgiris-anldk.com
 aksgelsgirs.jumpingcrab.com
 aksh-lig-ir.ip-dynamic.org
 akshaksja.click
@@ -89877,6 +89884,7 @@ bonusbenimle.tk
 bonusbinanshediyesibasvuru.com
 bonusbireysel.com
 bonusbitmez.b-cdn.net
+bonusbizim.digital
 bonusbolca.b-cdn.net
 bonuscard-denizbank.tk
 bonuscard-hediyepuan.space
@@ -101590,6 +101598,7 @@ ceptetebyfirsatlar.com
 ceptetebymusterihizmetleri.com
 ceptetebyukle.com
 ceptetebyukleme.com
+ceptetecfsirsat.com
 cepteteeb.com
 ceptetelefon.com
 ceptetelefonun.site
@@ -140720,6 +140729,7 @@ edevletlikaidat.com
 edevletlim-tr.com
 edevletlit-gov-tr.com
 edevletlogingovtr.com
+edevletmahkeme.com
 edevletmaliye.org
 edevletmaliyesorgu.org
 edevletmartayiadelerinizportaldan.com
@@ -149169,6 +149179,7 @@ erfzxc.html-5.me
 ergaegeg.zapto.org
 ergatesy.com
 ergbgfgf5.site
+ergen.sbs
 ergerenactmen.top
 ergewsdwses.shop
 erghgsc.com
@@ -196659,6 +196670,7 @@ hizlaislemler.net
 hizlakilometrehasar.shop
 hizlakiralakapinda.com
 hizlandir-islemi-hediyenihemenal.com
+hizlanir13agustostaan.net
 hizlanir6agustosta.net
 hizlanislem.22web.org
 hizlanxileodemeler.org
@@ -231725,6 +231737,7 @@ karcirakc2.site
 karcyilsn.com
 karcylsonn.com
 kard34ir.is-best.net
+kardanadam.sbs
 kardanbil.info
 kardansakaraska.duckdns.org
 kardasan.click
@@ -233783,6 +233796,7 @@ kconloginus.webflow.io
 kcpounds.ddns.net
 kcrafirsat.online
 kcrccahizmet.online
+kcrccahm.online
 kcribt.duckdns.org
 kcriptucom-logun.webflow.io
 kcrlmzalrzfirxltrlaraldmxaz.com
@@ -256229,6 +256243,7 @@ metadsprotections.duckdns.org
 metaemaskalogine.webflow.io
 metafacebookcenter.com
 metafb-url.cfd
+metafbgarant-url.cfd
 metaflip.io
 metaflux.sbs
 metaforhelpservice.ml
@@ -265069,6 +265084,7 @@ muayenesistemim.online
 muayenet.online
 muayenetasitrandevu.net
 muayeneturkhizmeti.com
+muayenetuvs.com
 muayenetuvturk.co
 muayenexarc.blogspot.com
 muayeneyap.net
@@ -292795,6 +292811,7 @@ patchcost.top
 patchtheschool.ddns.net
 patchthiswindows.com
 patchymgir.pw
+patdiyealdi.xyz
 patelk.online
 patent856.xyz
 patentattorneyscalifornia.com
@@ -337699,6 +337716,7 @@ sok-market-hizli.cfd
 sok-market-indirim.cfd
 sok-market-online.com
 sok-market-sepet.cfd
+sok-market-yolda.cfd
 sok-market.com
 sok-market.top
 sok-marketcepteindirim.site
@@ -378519,6 +378537,7 @@ valiz-firsat.com.tr
 valiz-kampanyan.com.tr
 valiz-kampanyan.net.tr
 valiz-kampanyan.org.tr
+valizdom.com
 valizfirsatigeldi.com.tr
 valizfirsatigeldi.xyz
 valizin-geldii.net
@@ -384630,6 +384649,7 @@ vwwramazanetkinlikprb.com
 vwwrapzxa.duckdns.org
 vwws7yap5w.site
 vwwsahibinden-secure.com
+vwwsahibinden-securem.com
 vwwsahibinden.com
 vwwvakifiademerkezimgiris.com
 vwwvv-sanalmarket.com
@@ -386336,6 +386356,7 @@ web-ifade-orjinal.xyz
 web-ighelpservice.com
 web-ihlalsorguyerinizhizli.net
 web-ilanlar-tr.online
+web-ilanlariniz.com
 web-ilantr.com
 web-iletisim-hizmtleri.net
 web-iletisim.online
@@ -391813,6 +391834,7 @@ wuvehus.com
 wuvici.com
 wuvidi.com
 wuw7b67t8.duckdns.org
+wuwu6.cfd
 wuxiyujingxuan.com
 wuyxnopnmm.duckdns.org
 wuzhenfestival.site
