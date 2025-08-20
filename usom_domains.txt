@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-20T15:05:11.761604
+# Updated: 2025-08-20T17:05:10.948451
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -23022,7 +23022,6 @@
 5.75.175.90
 5.75.177.255
 5.75.243.212
-5.79.66.133
 5.79.71.205
 5.8.18.117
 5.8.18.242
@@ -29295,7 +29294,6 @@
 85.158.108.62
 85.159.214.61
 85.159.229.62
-85.17.120.200
 85.17.127.172
 85.17.127.173
 85.17.127.174
@@ -36754,6 +36752,7 @@ abghaynoz12.ddns.net
 abgzg.xyz
 abh.zapto.org
 abhap.org
+abharam.sbs
 abhazya.xyz
 abhbap.org
 abhgsyukleme.biz
@@ -42109,6 +42108,7 @@ adobe-module.download
 adobe-pending-sign-7834892393293.pages.dev
 adobe-up-mdl.download
 adobe-up-ver.download
+adobe-updater.net
 adobe-upgrades.com
 adobe-us-updatefiles.digital
 adobe.cloudcreative.digital
@@ -43825,6 +43825,7 @@ agustosfirsatlariylasizlerleyiz.shop
 agustosfrstlrinikcrma.online
 agustosfrstlrlgile.online
 agustosglbalfirsatbasvurususongun.com
+agustosgunleri.online
 agustosgunleri.xyz
 agustosiadeleri-sorguekrani-2020.com
 agustosiadeleri-sorguekrani-tr.com
@@ -79798,6 +79799,7 @@ binance-login.org
 binance-mayis-etkinlikleri.net
 binance-member.xyz
 binance-meta-19d3b2af.xyz
+binance-meta-62af1d9c.com
 binance-meta-8e2d4f0a.xyz
 binance-meta-a3f91c7b.xyz
 binance-meta-a7k3m9xq.com
@@ -96496,6 +96498,7 @@ bzmjcellll.com
 bzmjncelll.com
 bzmleanindaszdebasvrnzhmn.com.tr
 bzmlebasrnvzn.buzz
+bzmlegefratlatrgeldi.com
 bzmlekmpnhisrglgl.com
 bzmleszdeanindaherseyz.com.tr
 bzmleszdebsvrnzhmnd.com.tr
@@ -127382,6 +127385,7 @@ dofuviiy.com
 dog-repair-shower.com
 dog-training-technique.com
 doga-ile-huzur-kosesi.top
+dogada-huzur-bul-keyfini-sur.top
 dogada-kamp-keyfi-seni-bekliyor.top
 dogada-ozgur-hisset.icu
 dogadakiguzelliklercanseverler.xyz
@@ -128812,6 +128816,7 @@ down2.ddns.net
 downape.top
 downdown.ru
 downdown.sa.com
+downf.lol
 downgalaxy.top
 downgradefamily.top
 downgradetrickle.top
@@ -146860,6 +146865,7 @@ enguvenileriniz0.com
 enguveniliradres.com
 enguveniliralisverisanindasepette.xyz
 enguveniliralisverislersizlerle.xyz
+enguvenilirsitelerde.shop
 enguvenli.tk
 enguvenlidenizmobil.ga
 enguvenliklisitelerimiz.com.tr
@@ -159073,6 +159079,7 @@ firsat-odeme.com
 firsat-onaybasvurudenizdehediyeler.com
 firsat-onayli-ilanlar.com
 firsat-onaymobildeniz.com
+firsat-oncedensize-geldi.xyz
 firsat-online-kacmaz.com.tr
 firsat-online-kapimda.name.tr
 firsat-online.com
@@ -159992,6 +159999,8 @@ firsatlarbildirimi.online
 firsatlarbitiyor.shop
 firsatlarbitiyoranindaguveniliralisveris.online
 firsatlarbitiyoranindaguveniliralisveris.xyz
+firsatlarbitmedengelsene.cfd
+firsatlarbitmedengelsene.sbs
 firsatlarbitmedensonalisverisler.com.tr
 firsatlarbitmedensonalisverisler.xyz
 firsatlarbitmezguveniliralisveris.online
@@ -163742,6 +163751,7 @@ frsatlar101.xyz
 frsatlarburdanhazirdevamet.com
 frsatlarburlarda.com
 frsatlarbusenenina101de.info
+frsatlardakacirmamaliyiz.duckdns.org
 frsatlardnyasindaszlerleyzz.com
 frsatlarikacirmasakin.com
 frsatlarikacirmatmmz.duckdns.org
@@ -192217,6 +192227,7 @@ herevolasifirsatgirisim.com
 herexanalysis.com
 herfiaaddrsttayeniaktuel.site
 herfiddrsttayeniaktuel.site
+herfirsatta-seninleyiz.xyz
 herfirsttayeniaktuel.site
 hergce-isnne.space
 hergecegeziyos.com
@@ -208983,6 +208994,7 @@ ilkevkonultlkapi.com
 ilkevmkredibsvrwhsz.net
 ilkevsosyaldevlet.net
 ilkfirsat-mobilingiris.xyz
+ilkgelen-firsatlaribilirsiniz.xyz
 ilkgelenalir.site
 ilkgelenfirsatiyakalar.site
 ilkgelir-songider-bakbizhala-burdayizdiye.top
@@ -218828,6 +218840,7 @@ istanbulluguvercinler.click
 istanbullukartal.com
 istanbullukarthizmeti.net
 istanbullukuzular.buzz
+istanbullular.click
 istanbullularabonus.net
 istanbullularaozel.com
 istanbullumkart.net
@@ -283808,6 +283821,7 @@ operatorlere20-gbcimerdenyukle.com
 operatorlere20gb-hemenyukle.com
 operatorlerinyuklmlri.xyz
 operatormarket.site
+operatormerkezi.com
 operatorpaketleri.live
 operatorrrrdolum.online
 operatortlyukleme3d.com
@@ -302799,6 +302813,7 @@ pttavmshop.com
 pttavmshop.shop
 pttavmshoptr.com
 pttavmsiparisim.com
+pttavmsiparisler.net
 pttavmsiparisleri.com
 pttavmsitetr.com
 pttavmstore.com
@@ -311962,6 +311977,7 @@ redmionlinealimyeri.baby
 redmionlinealimyeri.cfd
 redmionlinealimyeri.click
 redmionlinealimyeri.pics
+redmivestanelydefrsatlar.duckdns.org
 redmiyonlendirmesiburadanyapilyor.baby
 redmiyonlendirmesiburadanyapilyor.click
 redmiyonlendirmesiburadanyapilyor.my
@@ -315660,6 +315676,7 @@ rosariotijerasnj.duckdns.org
 rosatomgov.ru
 roscoesrestaurant.com
 roscoff.net
+roscosmosmeet.online
 rose1-awkardpoint2024.duckdns.org
 rose2-awkardpoint2024.duckdns.org
 roseace.com.pk/components/com_djimageslider/db-config-ini.php
@@ -323217,6 +323234,7 @@ sanalmarketimmigros.shop
 sanalmarketimpt-tal.cfd
 sanalmarketin.com
 sanalmarketin.com.tr
+sanalmarketinyaninda.online
 sanalmarketp-ttavm.com
 sanalmarketsokcepte.online
 sanalmarkett.site
@@ -323238,6 +323256,7 @@ sanalp-ttcepazar.com
 sanalp-ttceppazar.com
 sanalp-ttmobil.com
 sanalp-ttonline.com
+sanalpasajmarketin.com
 sanalpasajp-ttavm.com
 sanalpazarim.com.tr
 sanalpazarp-tt.com
@@ -354951,6 +354970,7 @@ termoplys-m.com
 termos-carrefoursa.vercel.app
 termos.duckdns.org
 termosa1o1.sbs
+termosal.cfd
 termosaxscv.icu
 termosfrsstlrgunu.online
 termosindirimlerihemen.duckdns.org
@@ -372854,6 +372874,7 @@ uovgbguptv.duckdns.org
 uovmw4.duckdns.org
 uovxszw.duckdns.org
 uoyty.icu
+up-community.net
 up-dot.hopto.org
 up-to-datefraudulent.top
 up-to-datemanifest.top
@@ -373115,6 +373136,7 @@ updateyahoo.duckdns.org
 updating-flash.cloudapp.net
 updating-infos.xyz
 updating-server-community.com
+updating-services.com
 updating.dothome.co.kr
 updatingmsoffice.blogspot.com
 updatingnews.xyz
@@ -373819,6 +373841,7 @@ urytqsiqort.com.tr
 urytqsiqort.xyz
 us-app02-omnisftmail-xchnge.com
 us-central1-yolocommon.cloudfunctions.net
+us-datarecovery-clearwater.com
 us-debtassistance.org
 us-frsatlradjsaa.sbs
 us-frstlrajasa.site
@@ -388909,6 +388932,7 @@ weekendmelody.top
 weekendplan.com.au
 weekjune.net
 weeklylifehacks.click
+weeklyuploads.click
 weeknegligence.top
 weekpatronage.top
 weekusual.net
@@ -408566,6 +408590,7 @@ yaz-kampanyamiz.art
 yaz-kampanyamz.net
 yaz-kampanyasi.com
 yaz-sicaginda-rahat-konforlu-yasam.com
+yaz-try-loginweb.xyz
 yaz-web-himetlri.net
 yaza1o1.net
 yazaa-ozxellkampnylarr.com
