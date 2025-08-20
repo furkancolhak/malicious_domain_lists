@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-20T12:05:11.843189
+# Updated: 2025-08-20T13:05:11.700974
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5309,6 +5309,7 @@
 134.119.217.84
 134.122.137.252
 134.122.197.80
+134.122.30.157
 134.122.9.255
 134.175.31.106
 134.19.179.147
@@ -5433,6 +5434,7 @@
 137.175.51.147
 137.175.53.170
 137.175.60.253
+137.184.105.192
 137.184.108.25
 137.184.115.230
 137.184.130.162
@@ -5440,6 +5442,7 @@
 137.184.190.170
 137.184.191.215
 137.184.219.244
+137.184.226.250
 137.184.65.71
 137.184.67.33
 137.184.73.79
@@ -5462,11 +5465,13 @@
 138.124.184.210
 138.185.72.26
 138.197.139.56
+138.197.15.182
 138.197.151.223
 138.197.152.201
 138.197.162.98/bins
 138.197.173.233/lmaowtf
 138.197.179.100
+138.197.24.249
 138.197.34.162
 138.197.78.18
 138.197.99.34
@@ -5487,6 +5492,7 @@
 138.68.11.101/ab4g5
 138.68.133.211
 138.68.14.52
+138.68.143.68
 138.68.154.133
 138.68.227.71
 138.68.242.68
@@ -5556,6 +5562,8 @@
 139.59.25.145
 139.59.25.145/bins/
 139.59.255.10
+139.59.42.255
+139.59.58.140
 139.59.59.63
 139.59.67.212
 139.59.69.41/bins
@@ -5842,6 +5850,7 @@
 142.79.237.163
 142.91.104.188
 142.93.105.254/bins/
+142.93.115.5
 142.93.119.175
 142.93.12.245
 142.93.120.109/0x1
@@ -6307,10 +6316,13 @@
 146.19.24.118
 146.19.247.28
 146.19.254.238
+146.190.119.189
 146.190.162.187
 146.190.208.30
 146.190.217.5
 146.190.44.66
+146.190.48.172
+146.190.57.24
 146.196.67.88
 146.196.81.163
 146.4.21.94
@@ -7062,6 +7074,7 @@
 157.230.33.8
 157.230.4.241/bins
 157.230.60.227
+157.230.8.75
 157.230.84.68/bins
 157.230.86.42/bins
 157.230.92.210/bins
@@ -7074,6 +7087,7 @@
 157.245.3.251
 157.245.4.113
 157.245.67.21
+157.245.69.67
 157.245.8.79
 157.254.194.225
 157.254.194.238
@@ -7197,6 +7211,7 @@
 159.65.155.170/bins
 159.65.155.229
 159.65.157.109/bins
+159.65.168.103
 159.65.169.108
 159.65.194.169
 159.65.203.76
@@ -7546,7 +7561,9 @@
 164.90.149.46
 164.90.154.158
 164.90.186.198
+164.92.117.229
 164.92.208.148
+164.92.232.89
 164.92.234.104
 164.92.243.252
 164.92.251.25
@@ -7568,9 +7585,11 @@
 165.22.169.113
 165.22.194.104
 165.22.201.77
+165.22.47.52
 165.22.48.169
 165.22.57.164
 165.227.105.246
+165.227.147.215
 165.227.148.68
 165.227.151.123
 165.227.155.252/bins/
@@ -7591,6 +7610,7 @@
 165.232.154.116
 165.232.154.73
 165.232.167.241
+165.232.73.237
 165.51.179.120
 1651561561651561.duckdns.org
 16516516522.cloud
@@ -7650,6 +7670,7 @@
 167.235.53.255
 167.235.62.105
 167.71.128.164
+167.71.133.68
 167.71.164.139
 167.71.171.209
 167.71.194.227
@@ -7869,6 +7890,10 @@
 170.247.235.23
 170.253.25.35
 170.39.193.232
+170.64.134.120
+170.64.134.89
+170.64.154.53
+170.64.166.144
 170.75.168.151
 170.84.12.53
 170.84.15.153
@@ -8470,6 +8495,8 @@
 178.128.60.34
 178.128.64.37/bins/
 178.128.76.186/lmaowtf
+178.128.84.187
+178.128.95.222
 178.128.96.167
 178.128.96.6
 178.130.42.94
@@ -10060,6 +10087,7 @@
 188.166.236.38
 188.166.41.194
 188.166.68.21
+188.166.71.161
 188.166.87.88
 188.166.91.186/bins
 188.166.92.212
@@ -14139,6 +14167,7 @@
 206.189.112.94/bins
 206.189.116.234
 206.189.118.55/bins
+206.189.120.50
 206.189.123.156
 206.189.131.213
 206.189.138.16
@@ -15755,6 +15784,7 @@
 24.158.23.166
 24.178.196.158
 24.199.98.128
+24.199.98.33
 24.206.4.170
 24.212.225.54
 24.212.78.153
@@ -25209,8 +25239,11 @@
 64.225.60.84
 64.225.97.34
 64.227.0.177
+64.227.146.243
 64.227.15.252
+64.227.150.86
 64.227.30.114
+64.227.41.39
 64.227.48.212
 64.227.77.39
 64.227.91.126
@@ -25713,6 +25746,7 @@
 68.183.157.144
 68.183.157.144/bins
 68.183.170.67/bins
+68.183.193.242
 68.183.200.63
 68.183.210.93
 68.183.219.115
@@ -27110,6 +27144,7 @@
 74.119.193.200
 74.119.194.203
 74.119.194.4
+74.119.195.187
 74.121.190.121
 74.124.219.71
 74.14.5.179
@@ -29542,6 +29577,7 @@
 87.121.69.25
 87.121.84.111
 87.121.84.24
+87.121.84.25
 87.121.84.45
 87.139.163.216
 87.15.14.146
@@ -43701,6 +43737,7 @@ agustosayfirsatlariii.xyz
 agustosayi-acikkampisdenizv7.tk
 agustosayi-ddnzfrsatlarindanyar.tk
 agustosayi-krdimevdusthesapladeniz.tk
+agustosayi.xyz
 agustosayidevkampanya.com
 agustosayifirsat.com.tr
 agustosayifirsat.online
@@ -66101,6 +66138,7 @@ bahaius.info
 bahaosgb.com//db_template.php
 bahaosgb.com/db_template.php
 bahaquci.com
+bahar-geldi-keyif-basladi-hemen.top
 bahar-hediyeleri.com
 bahar-i-lekapida.site
 bahar-kampanyasi.online
@@ -91793,6 +91831,7 @@ brqo0j.duckdns.org
 brqolmlzvt.duckdns.org
 brqqqpngff.duckdns.org
 brqzciiepq.duckdns.org
+brrbrrpatapim.sbs
 brrd.qpon
 brremcoz1.ddns.net
 brremlicens23.ddns.net
@@ -146088,6 +146127,7 @@ en-hizli-ve-kolay.b-cdn.net
 en-hizmette8yil-bmw.com
 en-iyi.xyz
 en-iyileri-tamolarak-buraada.com
+en-konforlu-anlar-icin-dogru-adres.top
 en-m--content-trezorh.webflow.io
 en-m3-ozelkampanya.com
 en-modern.online
@@ -146974,6 +147014,7 @@ eniyiceviz.club
 eniyiceviz.info
 eniyiekstralarburdavarsakinkcmra.shop
 eniyifirsat.com.tr
+eniyifirsati.com.tr
 eniyifirsatindrmlrm.click
 eniyifirsatlarbuarada.online
 eniyifirsatlarbuarada.xyz
@@ -176865,6 +176906,7 @@ gratis-c.ddnsguru.com
 gratis-ile-indirimler.online
 gratis-indirim-gunleri.com.tr
 gratis-indirim-gunleri.xyz
+gratis-j.dynuddns.com
 gratis-kariyer.com
 gratis-mobile.dynuddns.com
 gratis-online-tr.com
@@ -180455,6 +180497,7 @@ guvenliodemehizmeti.com
 guvenliodemehizmetleri.com
 guvenliodemeislemi.cfd
 guvenliodemeislemi.com
+guvenliodemeislemleri.cfd
 guvenliodemeislemleri.com
 guvenliodemek.tk
 guvenliodemeler.cf
@@ -202490,6 +202533,7 @@ hulusi.cfd
 hulusiakanzepasa.tk
 hulyeodelsf.net
 humaan88x.club
+humacao.info
 human-check.b-cdn.net
 human-fly900.online
 human-verify-4r.pro
@@ -248060,6 +248104,7 @@ ltkstlksltsltlstlsltlnm.net
 ltl56.com
 ltlly.com
 ltltttrmbllonllineislllemmenugiris.net
+ltmblncetra.info
 ltmccor.duckdns.org
 ltmp.nonflets.pl
 ltnbpy.com
@@ -252554,6 +252599,7 @@ marinaaa.duckdns.org
 marinade-finance.online
 marineblogapi.azurewebsites.net
 marinenuclear.top
+marineplot.com
 marinesoho.top
 marinetemperament.top
 marinewholesome.top
@@ -270401,6 +270447,7 @@ news-gazette.info
 news-info.space
 news-mailamzpaymnt.duckdns.org
 news-oblast.monster
+news-of-the-world.live
 news-on.site
 news-pirat.com
 news-portal.today
@@ -292709,6 +292756,7 @@ pasajsanal.com
 pasajsanalmagaza.com
 pasajsanalmagazalar.com
 pasajsanalmagazasi.com
+pasajsanalmarket.cfd
 pasajsanalmarket.com
 pasajsanalmarketi.com
 pasajsite.com
@@ -312332,6 +312380,7 @@ reklamsonhaberleri.online
 reklamspnsru13.xyz
 reklamsponsru.xyz
 reklamstnsartistqs.vercel.app
+reklamtanitimajansi4326.com
 reklamtanitmsponsoru32.xyz
 reklamyonlendirindirim.com
 reklamyonlendirme.vercel.app
@@ -315728,6 +315777,7 @@ rowlased.duckdns.org
 rowpztd.duckdns.org
 rowskez.site
 rowsylu.top
+roxbntr.xyz
 roxguefebr.talatental.ru
 roxjo3.ddns.net
 roxnne.com
@@ -334032,6 +334082,7 @@ simdibasvur.info.tr
 simdibasvur.name.tr
 simdibasvur.online
 simdibasvur.pro
+simdibasvur.site
 simdibasvur.tk
 simdibasvur.tv.tr
 simdibasvur.web.tr
@@ -335877,6 +335928,7 @@ sizlerlepaylasilanfirsatlar.online
 sizlerlepaylasilanfirsatlar.xyz
 sizlerlesevi1ensiparis1er.online
 sizlerlesevi1ensiparis1er.xyz
+sizlerlesiparisleranindavehizli.xyz
 sizlerlesiteler.site
 sizlerlesiteler.space
 sizlerlesongunfirsatlaribugunhemenal.com.tr
@@ -337859,6 +337911,7 @@ sok-market-zamani.cfd
 sok-market.com
 sok-market.top
 sok-marketcepteindirim.site
+sok-marketci.cfd
 sok-marketim.com
 sok-marketler.com
 sok-marketlerceptefirsat.site
@@ -373439,6 +373492,7 @@ url-redirectfb.online
 url-redirectfm.sbs
 url-redirectik.sbs
 url-redirectim.sbs
+url-redirectin.sbs
 url-rediret.xyz
 url-rediret1.xyz
 url-rediret2.xyz
@@ -406146,6 +406200,7 @@ yapik.mobilozel-kampanyalar.cf
 yapikampanya.com
 yapikampanyakredi.com
 yapikampanyakredi.com/tr
+yapikampanyannadresi.com
 yapikampanyasi.com
 yapikardi.com
 yapikartkesintileriniyade.com
