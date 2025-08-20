@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-20T14:05:19.065606
+# Updated: 2025-08-20T15:05:11.761604
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2250,6 +2250,7 @@
 101eozel.online
 101eozel.xyz
 101esalionline.com
+101extracebinde.shop
 101eylulmarket.com
 101fark.kacirnmanyin.click
 101firrssatlariinc.com
@@ -5884,6 +5885,7 @@
 142112551125555660.xyz
 142115541155590.xyz
 142115541155592.xyz
+142115541155594.xyz
 1421212511245221122590.xyz
 1421212511245221122591.xyz
 142127831123.com
@@ -12537,6 +12539,7 @@
 1o1plushaziranim.com
 1o1prsmbnrdm.com
 1o1prsmslcs.com
+1o1redmidebtmemelibunlar.duckdns.org
 1o1reklamlarisinirlistok.duckdns.org
 1o1sepetttefrsatkacmaz.com
 1o1spettefirsatkacmaz.com
@@ -30555,6 +30558,7 @@
 8yilozelen-bmwkatilimform.com
 8yilozelen-bmwkatilimformu.com
 8yilozelfirsatbnancede.net
+8yiykrotko4oi.buzz
 8yk83w.duckdns.org
 8yquv5nkg.duckdns.org
 8yqwrn.duckdns.org
@@ -43740,6 +43744,7 @@ agustosayi-acikkampisdenizv7.tk
 agustosayi-ddnzfrsatlarindanyar.tk
 agustosayi-krdimevdusthesapladeniz.tk
 agustosayi.xyz
+agustosayibitmesin.xyz
 agustosayidevkampanya.com
 agustosayifirsat.com.tr
 agustosayifirsat.online
@@ -55902,6 +55907,7 @@ anydeskupdate.com
 anydeskupdates.com
 anydleslk-download.com
 anyeva.com/wp-includes/db_template.php
+anyglobaldocument.com
 anyhostings.ru
 anyhowpredominate.top
 anyinfos.ru
@@ -66603,6 +66609,7 @@ ballallow.net
 ballbellberry376.xyz
 ballcosmopolitan.top
 balldisorder.top
+ballerinacapucino.sbs
 balleskalle.ddns.net
 ballet-shchelkunchik.com
 balletslash.top
@@ -79793,12 +79800,14 @@ binance-member.xyz
 binance-meta-19d3b2af.xyz
 binance-meta-8e2d4f0a.xyz
 binance-meta-a3f91c7b.xyz
+binance-meta-a7k3m9xq.com
 binance-meta-b8e5f407.com
 binance-meta-c7b18d53.xyz
 binance-meta-d1a7c3f9.com
 binance-meta-f0a4c9e8.xyz
 binance-meta-l8g2f5bz.com
 binance-meta-m3w9t7ds.com
+binance-meta-z2n8h5tc.com
 binance-meta.com
 binance-mo.com
 binance-new-campaigns-check.net
@@ -95008,6 +95017,7 @@ buyclothes.vip
 buycoronavirusfacemasks.com
 buydata.ch
 buydevelopquiet.buzz
+buydiplomashop.com
 buydotclearlynet.com
 buyer5452.xyz
 buyeringenuity.top
@@ -97494,6 +97504,7 @@ campaimalpce.top
 campain-binance-new-year.net
 campain-event-takip.net
 campain-yeni-yil.net
+campalix.xyz
 campana20gb.com
 campandyafirsati.net
 campaniaoffkatildnmimonthoryear.net
@@ -101317,6 +101328,8 @@ ceptekaraca.info.tr
 ceptekaraca.net.tr
 cepteki-tebinfirsatlari.com
 ceptekiaidat.com
+ceptekifirsatimsokta.shop
+ceptekimagazamsokta.shop
 ceptekimobilfirsatlarineylulayinda.click
 ceptekrc.com.tr
 ceptekrc.net.tr
@@ -161718,6 +161731,7 @@ flrsatherzamandaolsaolurda.site
 flrsatherzamanindirimlerivardirfakat.store
 flrsatherzamanolsadaazraolur.shop
 flrsatherzamanolsasanada.store
+flrsathherkeslehadelosanhayolmaz.world
 flrsathherkesleolmadnsatenneder.world
 flrsathherkesleolmasadaseadiclsaklar.world
 flrsathherkesleolmasadasenledenolsaklar.world
@@ -163747,6 +163761,7 @@ frsatlaryaninda-trgirisweb.xyz
 frsatna.xyz
 frsatstisekstraxt.online
 frsattemmzkacmaz1o1.com
+frsattttlarkappidangitmezzzz.online
 frsbasvrkmpnykatlm.com.tr
 frsfgkbi7.duckdns.org
 frsg9498da.portmap.io
@@ -170324,6 +170339,7 @@ gelendesizdenkampanya.online
 gelendiederin45siparis.com
 gelendlerimfirsat.com
 gelenedemeke.online
+geleneksel-firsat-haftasimi.xyz
 gelenekselpromolar.com
 gelenekseltemizlikfirmalari.xyz
 gelenekyolu.org
@@ -187004,6 +187020,7 @@ harcaharcaharcabitmez.cfd
 harcaharcaharcabitmez.sbs
 harcaharcaindirimler.cfd
 harcaharcaindirimler.sbs
+harcaharcarharharcabitmez.online
 harcaharcasizlerle.net
 harcaharcayagbitmez.online
 harcaharcazbitmeztrr.space
@@ -251401,6 +251418,7 @@ makatti.duckdns.org
 makaveli.pw
 makavi.hopto.org
 makawhy.hopto.org
+makbntr.xyz
 makbulevkf.net
 makbuleyardm.org
 makcart.com
@@ -287169,6 +287187,7 @@ pacedogbelieves.com
 pacepoke.top
 pachek.net
 pachonjazul.duckdns.org
+pacificdocumentagency.com
 pacificprime.ae/db-config-ini.php
 paciflxinc.com
 pack-lines.com
@@ -292874,6 +292893,7 @@ passatempobasico.com.br
 passatorkktrmrsrglma.net
 passatorktoyerkaju.net
 passbank.ddns.net
+passcr.click
 passenger-299.zapto.org
 passenger-realize.com
 passenger-stroke.com
@@ -301209,6 +301229,7 @@ ptmarmara.com
 ptmarmaray.com
 ptmavm-alisveris.com
 ptmavm-kampanya.com
+ptmerkrrdaslfkrerrlremm.online
 ptmgrup.com
 ptmkm.ddns.net
 ptmnslmn.com
@@ -301843,6 +301864,7 @@ ptt-gumo.top
 ptt-gumv.top
 ptt-guoi.top
 ptt-guzo.top
+ptt-gvc.cfd
 ptt-gvcn.cc
 ptt-gvip.cc
 ptt-gvne.cc
@@ -305763,6 +305785,7 @@ qas-abctech.ddns.net
 qasdasdasdwad.net
 qasid.com
 qasmic.com
+qasralwatan-tours.com
 qassar1122.ddns.net
 qassar22.ddns.net
 qassar23.ddns.net
@@ -315789,6 +315812,7 @@ rowpztd.duckdns.org
 rowskez.site
 rowsylu.top
 roxbntr.click
+roxbntr.info
 roxbntr.xyz
 roxguefebr.talatental.ru
 roxjo3.ddns.net
@@ -337913,6 +337937,7 @@ sok-klima-ozel.com.tr
 sok-klimanoktan.com.tr
 sok-klimaozel.com.tr
 sok-market-aninda.cfd
+sok-market-anindagel.cfd
 sok-market-com-tr.top
 sok-market-hizli.cfd
 sok-market-indirim.cfd
@@ -340927,6 +340952,7 @@ soylukatilimvakfi.org
 soylularnakliyat.cf
 soymalarceptnykle.net
 soypir.top
+soysalcaanfearles.top
 soysalhmoestlerkes.click
 soysaydestekhatti2.ml
 soyuzinformaciiimexanikiops.com
@@ -372119,6 +372145,7 @@ ulusburskurulusu.com
 ulusgaranti.com/garanti
 uluslararasiyardimlasmavakfi.com
 uluslaregitimv.org
+ulusmevlana.online
 ulusoydestek.org
 ulusoykurumlari.org
 ulusyardimvakfi.com
@@ -375346,6 +375373,7 @@ uzaktantelefontakip.com
 uzaktanyap.net
 uzaktanyap.org
 uzakyoll.blogspot.com
+uzalardankalanlar.cfd
 uzanandestekeli.com
 uzananelvakfi.com
 uzananlar.site
@@ -378927,6 +378955,7 @@ varderozlopineyzoded.com
 vardinogo.ddns.net
 vareangold.de
 varemusunbunaneduyusen.xyz
+vareto.site
 varhgss.com
 variableannexation.top
 variableindictment.top
@@ -381772,6 +381801,7 @@ vgirislemmenuc.com
 vgirisllemenulenim.com
 vgirisllemmenuz.com
 vgizandar.top
+vgj.tookiso.live
 vgkb.info
 vgkqxahc.duckdns.org
 vgldglelxlg.net
@@ -405489,6 +405519,7 @@ yakinhukuk.com.tr
 yakinlardafirsatlarheransizlerle.com.tr
 yakinlardafirsatlarheransizlerle.cyou
 yakinlardafirsatlarheransizlerle.xyz
+yakinlardayizamcalar.com
 yakinzamndahediyeligeldi.com
 yakisikli-yonlendir.com
 yakisikliguvenlik.app
