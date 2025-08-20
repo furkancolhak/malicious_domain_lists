@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-20T07:05:12.822136
+# Updated: 2025-08-20T09:05:12.244708
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5872,6 +5872,7 @@
 142.93.88.16
 142050892.xyz
 142112551125555660.xyz
+142115541155590.xyz
 1421212511245221122590.xyz
 1421212511245221122591.xyz
 142127831123.com
@@ -11473,6 +11474,7 @@
 196.251.80.231
 196.251.84.144
 196.251.84.211
+196.251.84.253
 196.251.85.31
 196.251.85.55
 196.251.86.13
@@ -13025,6 +13027,7 @@
 20.151.8.168
 20.162.226.228
 20.169.37.196
+20.17.161.74
 20.190.39.195
 20.199.13.167
 20.199.14.20
@@ -52239,6 +52242,7 @@ alisversnadres.click
 alisversnoktasi.click
 alisversnokttasi.xyz
 alisverssepetin.store
+alisverssepetn.click
 alisverssepti.click
 aliswevreiiscuymaa.xyz
 alisyap.net
@@ -68797,6 +68801,7 @@ basvuru.kasimayigunleri.com.tr
 basvuru.kredi-hizmeti.com
 basvuru.kredi-mobil.com.tr
 basvuru.kredi-servisle.com
+basvuru.lflink.com
 basvuru.misecure.com
 basvuru.mobildeniz.hediye.3-77-235-143.plesk.page
 basvuru.online
@@ -79739,6 +79744,8 @@ binance-listigns.com
 binance-login.org
 binance-mayis-etkinlikleri.net
 binance-member.xyz
+binance-meta-19d3b2af.xyz
+binance-meta-8e2d4f0a.xyz
 binance-meta-a3f91c7b.xyz
 binance-meta-b8e5f407.com
 binance-meta-c7b18d53.xyz
@@ -144698,6 +144705,7 @@ ellieginas.xyz
 elliepanel.online
 elliepanel.pro
 elliepanel.store
+ellininadresi.com
 elliot.gulpminderdrink.com
 elliotgateway.ddns.net
 ellipatitqan.webflow.io
@@ -179161,6 +179169,7 @@ gunleri.online
 gunlerimiz-tatlli.com
 gunlerin-en-kazandirani-bizle-tadin.com
 gunlerindenindirim.com
+gunlerindeyiz.online
 gunleriniz.com.tr
 gunleriyi.online
 gunlerod.app
@@ -182621,6 +182630,7 @@ hadiseniize.com.tr
 hadisenizgelin.com.tr
 hadisenizzemrc.com.tr
 hadisenizzemrz.com.tr
+hadisepet.cfd
 hadisepet.click
 hadisepet.sbs
 hadisigorta.web.tr
@@ -188422,6 +188432,7 @@ haydistanbul.net
 hayditrmrrr.net
 hayditurkiye.xyz
 hayditurkiyei.xyz
+haydiuygulamasitom.pics
 haydiyenikampanyalarimiza.store
 haydiyilsonu-bireyselkampanya-basvur-online.ml
 haydl-haydl-ass.com
@@ -190910,6 +190921,7 @@ hemenbasvur.cfd
 hemenbasvur.duckdns.org
 hemenbasvur.life
 hemenbasvur.ml
+hemenbasvur.site
 hemenbasvur.store
 hemenbasvur.tech
 hemenbasvur5.buzz
@@ -210649,6 +210661,7 @@ indirimayzamanlari.online
 indirimayzamanlari.xyz
 indirimayzamanlariii.com.tr
 indirimayzamanlariii.xyz
+indirimbesin.online
 indirimbitmedekosun.cfd
 indirimbitmedekosun.click
 indirimbitmedekosun.icu
@@ -226444,6 +226457,7 @@ justmoneykartalbddk805.duckdns.org
 justmoneykartalbddk850.duckdns.org
 justmoneykartalbddk851.duckdns.org
 justmoneykartalbddk855.duckdns.org
+justmoneykartalbddkvip.com
 justmoneykartalbddkzirve.com
 justmoneykartalkredi.duckdns.org
 justmoneykartalmercedes.duckdns.org
@@ -227544,6 +227558,7 @@ kadeerremee.xyz
 kadehaklkmazlarla.co.vu
 kadehikaldirdim25.com
 kadenmhebb.site
+kader.sbs
 kader7.zapto.org
 kaderbaglantilarindayanisma.xyz
 kaderbirligi.com
@@ -228223,6 +228238,7 @@ kafayormayanalisveris.icu
 kafebar.net
 kafegua.com
 kafejer121.com
+kafes.sbs
 kafexyu.com
 kaffy.hopto.org
 kafila001.000webhostapp.com
@@ -230097,6 +230113,7 @@ kampanyanewbasvuru.cloud
 kampanyanialfaiz.com
 kampanyaninadresi.online
 kampanyaninadresiburada.online
+kampanyaninadresiyapi.com
 kampanyaninbitmesinesongun.online
 kampanyaninbitmesinesongun.xyz
 kampanyaninenuygunukoysepete.com.tr
@@ -230442,6 +230459,7 @@ kampnyyaaacekilisssstoggg.cloud
 kampocadir.shop
 kampocadirke.shop
 kampocdr.shop
+kampola.xyz
 kamponyabuarada42.com
 kampori.xyz
 kamporya.xyz
@@ -230570,6 +230588,7 @@ kanika.ru
 kanimx01.top
 kanirtiyorum.sbs
 kankadoeeas.online
+kankalar.sbs
 kankalarimlokarim.xyz
 kankasalasa.sbs
 kankaygrills.com
@@ -231498,6 +231517,7 @@ karacamshop.free.site.pro
 karacamshop3.free.site.pro
 karacamutfakhome.xyz
 karacamutfaktad1.denemepaketi.com
+karacan.sbs
 karacanisan-kampanya.com.tr
 karacannelergunu.com
 karacaonline.biz.tr
@@ -238972,6 +238992,8 @@ kovldmmllsfafftsnyrdn.click
 kovlrndv.net
 kovtrtamnsdwe.net
 kowersize.fun
+koxbntr.click
+koxbntr.xyz
 koxp1da-a1o1-an1ndo.net
 koyalvakfi.com
 koydumhizlicacash.blogspot.com
@@ -256054,6 +256076,7 @@ mernis-bilgilendirme-sistemleri.com
 mernis.co
 mernis.icu
 mernis.info
+mernis.us
 mernispanel.com
 mero000ooo.zapto.org
 meromarketim.com
@@ -269166,6 +269189,8 @@ negrr.ddns.net
 negsakf-ynvlsi.blogspot.com
 negtechnoloyg.com
 neguzelkampanyalariniz.xyz
+neguzellerdensensin.cfd
+neguzellerdensensin.sbs
 negzlgnlrvr.online
 nehabe.mobi
 nehelerdengekler.com
@@ -270657,6 +270682,7 @@ nexusworld.online
 nexusystem.online
 nexvila.store
 nexxoraboost.com
+nexxtgenius.com
 nexybeykar.com
 neyaptinbeabi.com
 neyaskm66.com
@@ -274442,6 +274468,7 @@ nvirandevuhizmeti.blogspot.com
 nvirandevuhizmeti8.b-cdn.net
 nvirandevukldsmvx.net
 nvirandevukshotherc.net
+nvirandevulari.com
 nvirandevulunuz.net
 nvirandevum.net
 nvirandevumal.net
@@ -284120,6 +284147,7 @@ ordinaltulips.com
 ordinarychapel.top
 ordinarycounteraction.top
 ordinarypendulum.top
+ordnbrdyhagldkns.icu
 ordngldkbzbrdngldk.shop
 ordos.duckdns.org
 orebimcell.com
@@ -300079,6 +300107,7 @@ proklineglob.site
 prokrakenportfolio.com
 prolakers.xyz
 prolakros.xyz
+prolar.sbs
 prolema.xyz
 prolending.pw
 prolepez.xyz
@@ -304249,6 +304278,7 @@ pttoutlet.online
 pttov-tr.top
 pttov.vip
 pttownc.buzz
+pttoycc.cfd
 pttp-svgo.top
 pttpaket.top
 pttpao.com
@@ -310762,6 +310792,7 @@ rchitecture.org
 rchkzg.com
 rchlinvade.ddns.net
 rchmm2r9.ru
+rchrcftciveemkli.duckdns.org
 rchuster.com
 rchxm2c.duckdns.org
 rchyfiw.net
@@ -327790,6 +327821,7 @@ sendenislem.22web.org
 sendenizmobilabank.gq
 sendenizmobilden.gq
 sendenkalanhaberler.online
+sendenkalanlardandevamke.cfd
 sendenvazgecememhicbizamanaffetbebegim.com
 sendeozelbasvuruyapbinnce.tech
 sendeqnebeqnbilekazzan.duckdns.org
@@ -336664,6 +336696,7 @@ slxgxlglenlaym.net
 slxrenobimcell.com
 slyhack.duckdns.org
 slyhacklink.wordpress.com
+slymnn.com
 slymnnz.com
 slyshlobnrfr.space
 sm-paramguvende-odeme.com
@@ -355040,6 +355073,7 @@ testeabc.ddns.net
 testebac.ro
 testechiny.duckdns.org
 testedaplications.ddns.net
+testeddf.lol
 testedelivery.ddns.net
 testedofelas.ddns.net
 testedwsedfc.ddns.net
@@ -369169,6 +369203,7 @@ turluindirimler.online
 turluindirimler.xyz
 turlututu.zapto.org
 turmash.ru/en_us/ach/112018
+turmaze.com
 turmoilcounteract.top
 turmoiltime.top
 turn35223.xyz
@@ -369654,6 +369689,7 @@ tuvturkrandevuolustur.com
 tuvturkrandevuolusturcom.com
 tuvturkrandevusu.com
 tuvturkrandevutuv.blogspot.com
+tuvturkrandvuhizmeti.web.app
 tuvturkreservation.com
 tuvturkreservation.net
 tuvturkresm.click
