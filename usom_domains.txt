@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-20T17:05:10.948451
+# Updated: 2025-08-20T18:05:12.546853
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43719,6 +43719,7 @@ agustosad1atodeme-leri.com
 agustosaktuelkampanyalari.store
 agustosaktuelkampanyalarl.com
 agustosalisverisfestivali.online
+agustosaozel.cfd
 agustosaozel101.shop
 agustosaozelkampanyalar.xyz
 agustosapec.store
@@ -43827,6 +43828,8 @@ agustosfrstlrlgile.online
 agustosglbalfirsatbasvurususongun.com
 agustosgunleri.online
 agustosgunleri.xyz
+agustosgunleribitmesin.online
+agustosgunleribitmesin.xyz
 agustosiadeleri-sorguekrani-2020.com
 agustosiadeleri-sorguekrani-tr.com
 agustosiadeleri-sorguekrani2020.com
@@ -49458,6 +49461,7 @@ aktifislemlerinizhizli.com
 aktifivdplatformu.blogspot.com
 aktifizyenni.net
 aktifkalbizimlekal.net
+aktifkampanya.com
 aktifkampanyalar.org
 aktifkampanyan.com
 aktifkep.net
@@ -146670,6 +146674,7 @@ enfirsat.site
 enfirsat.store
 enfirsatlarburada.site
 enfirsatlarin-yeni-tmmuza-ozell-smdiii-alll.com
+enfirsatli-gunleribirlikte.xyz
 enfislxisntlrmsixllm.com.tr
 enflasyon-ile-mucadele-basladi.online
 enflasyon.org
@@ -147129,6 +147134,7 @@ eniyisinibilirsinilefrst.com
 eniyisitr.live
 eniyisndrmlxrmbunlarbuayk.ru.com
 eniyisubataylarisizlerleolmali.shop
+eniyit-teklfirber-bruads.shop
 eniyit-teklfirber-bruads.store
 eniyiteklifsiqorta.com.tr
 eniyiteklifsiqorta.xyz
@@ -154881,6 +154887,7 @@ fabrikadan-halka.org.tr
 fabrikadan-halkaa.net.tr
 fabrikadanbanageldi.biz.tr
 fabrikadanbanageldi.info.tr
+fabrikadanbanageldi.org.tr
 fabrikadanhalka.net.tr
 fabrikadanhalka.org
 fabrikadanhalka.org.tr
@@ -229361,6 +229368,7 @@ kampanyadenizeozel.com
 kampanyadenizi.com
 kampanyadenizozelbasvuronline.cf
 kampanyadergisi.click
+kampanyadestek.com
 kampanyadestek.online
 kampanyadestekleri.com.de
 kampanyadestekli.com
@@ -237010,6 +237018,7 @@ kkvturkkatilimban.cf
 kkxkxksmmll.net
 kkxntkxrtodmhmzet.net
 kkxx888666.com
+kkyoldalargeliyorlar.com
 kkyxpfcdtkmtyca.ru
 kkzgx1gc.duckdns.org
 kkzjtv9.duckdns.org
@@ -237260,6 +237269,7 @@ klmsader-balmsask-asklmsad.sbs
 klmsorf-b0334e29039e.herokuapp.com
 klmsorguala.duckdns.org
 klmtreesrguchpp.click
+klmtresorghizmetim.web.app
 klmtresorgulama.blogspot.com
 klmtrsorgulama.blogspot.com
 klmtruzmanim.autos
@@ -237742,6 +237752,7 @@ kmsorgugovtr-com.duckdns.org
 kmsorgugulyan.shop
 kmsorguhemen-gov.duckdns.org
 kmsorguhizmeltbrudsa.net
+kmsorguhizmentlerbu.store
 kmsorguhteklfbursad.com
 kmsorguhziemterlnbrptt.shop
 kmsorgula-1772f24c17a5.herokuapp.com
@@ -286631,6 +286642,7 @@ ozledkbrreme.cyou
 ozlegul.site
 ozlemicindebebek.xyz
 ozlenenler.name.tr
+ozlfirsatlarbizdekacirma.duckdns.org
 ozlgelensiparsler.com
 ozlgnlergerigeldiiixx.online
 ozlhjua.duckdns.org
@@ -292953,6 +292965,7 @@ passright.co.za/wp-config-ini.php
 passsa.duckdns.org
 passsecv2.ddns.net
 passtemas.icu
+passtr.click
 passwback.click
 passwodbroked.life
 password-app.pro
@@ -337422,6 +337435,7 @@ snna-ayyfirsttllrixyniofzll.net.tr
 snnasknbizehir3131.com
 snnaxf5.duckdns.org
 snnd-ayyfirsttllrixyniozll.net.tr
+snndrlmerbrdabgld.sbs
 snnhcmrketmmknmpyyllriyklaa.com
 snnkn2e.is-best.net
 snnqbj.top
@@ -342535,6 +342549,7 @@ srgasdasd.click
 srgdahasrr.net
 srgddzwtrj.duckdns.org
 srgguncel.net
+srgislemler.cfd
 srgouosehohedohaeoh.ru
 srgouosehohedohaeohu.info
 srgudama.online
