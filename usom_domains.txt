@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-20T13:05:11.700974
+# Updated: 2025-08-20T14:05:19.065606
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2299,6 +2299,7 @@
 101frsatlararwq.com
 101frsatlararwq.live
 101frsatlararwq.za.com
+101frsatlarinikacrinmangerekir.duckdns.org
 101gecmarket.com
 101geldi.online
 101geldikapida.com
@@ -43571,6 +43572,7 @@ agsmrotntjfva.xyz
 agsn.xyz
 agsssaggasd.vercel.app
 agstaltayertsjfasldaslkdhfnsdjfnjsd.online
+agstgklmyplnasnt.online
 agstlrdacrfsda.com
 agstlrdacrfsda.info
 agstos-kttlgg.com
@@ -51727,6 +51729,7 @@ aliart.nl/db_template.php
 aliart.nl/wp-config-ini.php
 aliasintelligence-sso.com
 aliawais.zapto.org
+aliayseyisevirsebendeseniseviyorum.cfd
 aliba-viene.shop
 alibaba-t.com
 alibaba.zzux.com
@@ -79794,6 +79797,8 @@ binance-meta-b8e5f407.com
 binance-meta-c7b18d53.xyz
 binance-meta-d1a7c3f9.com
 binance-meta-f0a4c9e8.xyz
+binance-meta-l8g2f5bz.com
+binance-meta-m3w9t7ds.com
 binance-meta.com
 binance-mo.com
 binance-new-campaigns-check.net
@@ -103466,6 +103471,7 @@ cicekhizmetleri.cloud
 cicekhizmetleri.club
 cicekhizmetleri.co
 cicekhizmetleri.com.tr
+cicekhizmetleri.de
 cicekhizmetleri.dev
 cicekhizmetleri.digital
 cicekhizmetleri.info
@@ -103482,6 +103488,7 @@ cicekhizmetleri.space
 cicekhizmetleri.xyz
 cicekkcilikdiyariist.com
 ciceklerimizozelveguzeldir.blogspot.com
+cicekmarket.life
 cicekmarket.site
 cicekmarket.vip
 cicekmarket.xyz
@@ -125297,6 +125304,7 @@ dijitalvkfonlinee.site
 dijitalweb-denizacik.com
 dijitalweb-girisdenizacik.com
 dijitalweb-ziraatbireysel.com
+dijitalweb-ziraatbireyselgiris.com
 dijitalweb-ziraatgiris.com
 dijitalweb-ziraatkampanya.com
 dijitalweb-ziraatkredi.com
@@ -189924,7 +189932,6 @@ hediyeler2019cekilisi.tk
 hediyeler2022.net
 hediyelerbizden.net
 hediyelerboxpari2022.com
-hediyelerburada.com
 hediyelerdeniz.net
 hediyelerdenizcepten.net
 hediyelerdenizde-com.tk
@@ -208264,6 +208271,7 @@ ilanguvenleodeme.com
 ilanguvenleodeme.online
 ilanguvenleodeme.xyz
 ilanguvenliiticaretim.com
+ilanguvenlik.com
 ilanhizmet.com.tr
 ilanhizmetlerim.com.tr
 ilaniburada.com
@@ -230653,6 +230661,7 @@ kankaygrills.com
 kankerinjeteten.ddns.net
 kanksmnasdkwe.net
 kanksssmnasdk.com
+kanlalindeindim.cfd
 kanlsu03.top
 kanmasakn.click
 kanmazuhtu.com
@@ -231379,6 +231388,7 @@ kapsla.com
 kaptaninseyirdefteri.cf
 kaptanlardeniz-denizbank.com
 kaptimaidati.com
+kaptimgitti.xyz
 kaptinyaz.com
 kaptireklas.site
 kaptirilmayacak-sepetteki-hizli.com.tr
@@ -270047,6 +270057,7 @@ nevajewels.net
 nevaleapi.online
 nevarneyok33.digital
 nevarsa-carfursa.online
+nevarsa-carrefuorsa.online
 nevarsaa-carfourssa.duckdns.org
 nevarsabizdevarr.com
 nevas-acaka.net
@@ -315777,6 +315788,7 @@ rowlased.duckdns.org
 rowpztd.duckdns.org
 rowskez.site
 rowsylu.top
+roxbntr.click
 roxbntr.xyz
 roxguefebr.talatental.ru
 roxjo3.ddns.net
@@ -338768,6 +338780,7 @@ son-firsat-101-devam-ediyor.online
 son-firsat-a101.net.tr
 son-firsat-basvuru-teb.com
 son-firsat-indirimlerin.com
+son-firsat-kacirma-hemen-siparis-ver.top
 son-firsatetkinlikleri-burada-bn.net
 son-firsatim-cark.net
 son-firsatlar-aralik-ozel.com
@@ -355153,6 +355166,7 @@ testebac.ro
 testechiny.duckdns.org
 testedaplications.ddns.net
 testeddf.lol
+testeddf.xyz
 testedelivery.ddns.net
 testedofelas.ddns.net
 testedwsedfc.ddns.net
