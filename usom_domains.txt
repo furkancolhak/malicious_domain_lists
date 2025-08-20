@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-20T11:05:12.449120
+# Updated: 2025-08-20T12:05:11.843189
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5873,6 +5873,7 @@
 142050892.xyz
 142112551125555660.xyz
 142115541155590.xyz
+142115541155592.xyz
 1421212511245221122590.xyz
 1421212511245221122591.xyz
 142127831123.com
@@ -20370,6 +20371,7 @@
 43535434firstlargeldi.com.tr
 4354354353.cloud
 43544435486384.com
+43565.click
 435676787873.cloud
 435ayjq3.duckdns.org
 4360709899089045086.duckdns.org
@@ -43726,6 +43728,7 @@ agustosayikampanyalarim.online
 agustosayikampanyalarim.xyz
 agustosayindakampanyalarvefirsatlar.online
 agustosayiozel.net
+agustosayiozelsokfirsatlar.com
 agustosaylarii.xyz
 agustosbasvuruform.org
 agustosbocekleri.net
@@ -79614,6 +79617,7 @@ bina.nceyazayifrtlri.com
 binaance-online.com
 binabidconsulting.com/uploads/db_template.php
 binace-iadeler.com
+binace-tr-cekilis.com
 binace-tr.com
 binace.com.tr
 binaceairdrop.com.tr
@@ -90763,6 +90767,7 @@ boxacross.top
 boxarabanikazanmasansi.com
 boxbmwfirsati.com
 boxbmwkampanyasi.com
+boxbntr.xyz
 boxboxupdate.hopto.org
 boxcoinhediyesi.com
 boxdatamgir.pw
@@ -106452,6 +106457,7 @@ coktatlisinbe.com.tr
 cokucuz.name.tr
 cokuykumvar.app
 cokuzunsurebeklemeyin.net
+cokyakindageliyoruz.com
 cokyakindahepinizi.com
 cokzor-ya.com
 col-travel-insurance-3n.bond
@@ -161665,6 +161671,7 @@ flrsatherzamanolsadaazraolur.shop
 flrsatherzamanolsasanada.store
 flrsathherkesleolmadnsatenneder.world
 flrsathherkesleolmasadaseadiclsaklar.world
+flrsathherkesleolmasadasenledenolsaklar.world
 flrsathhesaplasandaolmasadahadila.world
 flrsathhhhalasaolmasadenhadilahha.world
 flrsathizlibirsekildesokolucaksin.store
@@ -188434,6 +188441,7 @@ hayditrmrrr.net
 hayditurkiye.xyz
 hayditurkiyei.xyz
 haydiuygulamasitom.pics
+haydiuygulamasitom.sbs
 haydiyenikampanyalarimiza.store
 haydiyilsonu-bireyselkampanya-basvur-online.ml
 haydl-haydl-ass.com
@@ -210431,6 +210439,7 @@ indir-yukletr.online
 indir20gbkazan.com
 indir234234im-firsati.click
 indir43234im-kampanyasi.click
+indirageldim.xyz
 indircepsube.com
 indirdia1o1.net
 indirdikbekliyoruzserihizli.xyz
@@ -226420,6 +226429,7 @@ justmoneykartalbddk356.duckdns.org
 justmoneykartalbddk357.duckdns.org
 justmoneykartalbddk4.duckdns.org
 justmoneykartalbddk400.duckdns.org
+justmoneykartalbddk401.com
 justmoneykartalbddk404.duckdns.org
 justmoneykartalbddk405.duckdns.org
 justmoneykartalbddk407.duckdns.org
@@ -229441,6 +229451,7 @@ kampanyahalkparafda-com.tk
 kampanyaharesi.shop
 kampanyahavuzu.ga
 kampanyahazir-binance.xyz
+kampanyahbrleri2025.com
 kampanyahediyelerisizlereozel.online
 kampanyahepsiiburada.com
 kampanyahepsiiburadam.com
@@ -230466,6 +230477,7 @@ kamponyabuarada42.com
 kampori.xyz
 kamporya.xyz
 kampotodemon.my
+kamppali.xyz
 kampppanyaliurunlerimizekimindevasa.com
 kampsandalyesi-carrefoursa.vercel.app
 kampsizbsvrgjjsiz.space
@@ -237334,6 +237346,7 @@ kmdesnzszde.qwgfqwfgas.com
 kmdestekaraclar.sa.com
 kmdetalymhemn.com
 kmdetay.web.app
+kmdetay.xyz
 kmdetayhmnogren.com
 kmdetayim.web.app
 kmdetaylar.shop
@@ -237644,6 +237657,7 @@ kmsorgudayiz.sa.com
 kmsorgugovtr-com.duckdns.org
 kmsorgugulyan.shop
 kmsorguhemen-gov.duckdns.org
+kmsorguhizmeltbrudsa.net
 kmsorguhteklfbursad.com
 kmsorguhziemterlnbrptt.shop
 kmsorgula-1772f24c17a5.herokuapp.com
@@ -239277,6 +239291,7 @@ kralkaybederse3.click
 kralkybederse.duckdns.org
 krallaar.click
 krallalargeliyor.com
+krallar.sbs
 krallar.za.com
 krallarbizizla.net
 krallarburddachp.blogspot.com
@@ -268255,6 +268270,8 @@ nasilgeldi.net
 nasilimjilet.com
 nasilolacaksimdiya.net
 nasilolcakbuisler55.com
+nasiloldidabuboyleoldi.cfd
+nasiloldidabuboyleoldi.sbs
 nasilpaketyuklenir.net
 nasilsa.likesyou.org
 nasilsa.loveslife.biz
@@ -302411,6 +302428,7 @@ pttavm.click
 pttavm.comtr-banaozel.link
 pttavm.devletteguvenli.com
 pttavm.eniyifirsat.com.tr
+pttavm.eniyifirsati.com.tr
 pttavm.erisimli.com.tr
 pttavm.firsatsepet.com.tr
 pttavm.forum
@@ -307724,6 +307742,7 @@ qnbsizekazandiriyor.com
 qnbsizlerekazandiriyor.ml
 qnbsizlerekazandiriyor.tk
 qnbsizlerekredi.xyz
+qnbsizlerleagustosozel.xyz
 qnbsubat-surprizleribasladi.ml
 qnbsubat-surprizleribasladi.tk
 qnbsubatsurprizleribasladi.ga
@@ -329680,6 +329699,7 @@ sevenler-bilirki-biz-duzgun-calisiriz-hep.com
 sevenler-buraya-ugrar-mutlaka-bakmak-gerekir.com
 sevenler-vazgecmedi-sende-pes-etme-hemen.com
 sevenler.name.tr
+sevenlerdennekaldigeride.cfd
 sevenlere-birazda-yakin-kaldik-gelin.com
 sevenlere-birazdan-yakina-getirip-biliriz.com
 sevenlerimiz-buraya-bilgileri-gelerek-gorduk.com
@@ -334590,6 +334610,7 @@ sipariscepte.org.tr
 siparisdunyasiikraca.xyz
 siparisdunyasiocak.xyz
 siparisedin.com.tr
+siparisepete.click
 siparisepeti.click
 siparisepetinde.click
 siparisepetinde.xyz
@@ -366441,6 +366462,7 @@ tuneplea.top
 tunerbot.ddns.net
 tunetkinliklerisorgula-bn.net
 tungterprotesy.hpc.tw
+tungtungtungsahur.sbs
 tungyu.cf
 tunisia.zapto.org
 tunisie065.zapto.org
@@ -369683,6 +369705,7 @@ tuvturkrandevu.org
 tuvturkrandevu.site
 tuvturkrandevual.com
 tuvturkrandevual.net
+tuvturkrandevualmhizmti.web.app
 tuvturkrandevucumuzaktif.com
 tuvturkrandevudanismanligi.com
 tuvturkrandevudanismanlik.com
@@ -373415,6 +373438,7 @@ url-redirect7.site
 url-redirectfb.online
 url-redirectfm.sbs
 url-redirectik.sbs
+url-redirectim.sbs
 url-rediret.xyz
 url-rediret1.xyz
 url-rediret2.xyz
@@ -375368,6 +375392,7 @@ uzmanaviskiralama.bio
 uzmanayarlarservis.site
 uzmanben.net
 uzmanbul.org
+uzmancavus.sbs
 uzmandestegim.net
 uzmandestegimiz.site
 uzmandestekservis.net
@@ -379376,6 +379401,7 @@ vb-dijital-vb.tk
 vb-dijital.net
 vb-dijitalgirismobilim.tk
 vb-dijitallgirismobilim.tk
+vb-firsat.xyz
 vb-giriiskatlllmmobil.online
 vb-giriiskatlllmmobil.site
 vb-hzmtlrm.net
@@ -386921,6 +386947,7 @@ webbnglobalhediyelerkampanyasi.com
 webbnnctrgrss.xyz
 webbnsdkkrmdirmn.com
 webbs.live
+webbsbayrntilrmizil32.xyz
 webbsbayrntilrmizimm5.xyz
 webbsbayrntilrmizimp5.xyz
 webbsbayrntilrmizimpm9.xyz
@@ -417672,6 +417699,7 @@ ziraatmobil-kampanya.tk
 ziraatmobil-maxipuan.com
 ziraatmobil.basvuranlar.sbs
 ziraatmobil.basvurun.sbs
+ziraatmobil.destekciniz.sbs
 ziraatmobil.girisekrani.sbs
 ziraatmobil.hemen.sbs
 ziraatmobil.ml
