@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-21T07:05:12.603020
+# Updated: 2025-08-21T08:05:11.985866
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9441,6 +9441,7 @@
 185.216.70.142
 185.216.70.37
 185.216.70.79
+185.216.71.149
 185.216.71.207
 185.216.71.26
 185.217.0.124/help-desk/remote-assistant-service/postid.php
@@ -21145,6 +21146,7 @@
 45.66.248.209
 45.66.249.118
 45.67.14.171/bins
+45.67.203.41
 45.67.203.77
 45.67.229.149
 45.67.229.36
@@ -42441,6 +42443,7 @@ adstarthizmet.sbs
 adstartvay.cfd
 adstat.red
 adstat477d.xyz
+adstreamly.online
 adsupporteam108378264.duckdns.org
 adsurfle.com
 adsurvey.tk//db_template.php
@@ -70482,6 +70485,7 @@ baykar-yatirim.com
 baykar-yatirim.online
 baykar-yatirimlar.com
 baykar.bet
+baykar.buzz
 baykar.capitalingon.com
 baykar.cloud
 baykar.glitch.me
@@ -79808,6 +79812,7 @@ binance-login.org
 binance-mayis-etkinlikleri.net
 binance-member.xyz
 binance-meta-19d3b2af.xyz
+binance-meta-4e9b6a20.com
 binance-meta-62af1d9c.com
 binance-meta-8e2d4f0a.xyz
 binance-meta-9f3c2d71.com
@@ -92007,6 +92012,7 @@ bsdrin.top
 bsdsfon.readmsg28.review
 bseafun.com
 bseaguy.com
+bseahit.com
 bseasea.com
 bsebjimzkp.duckdns.org
 bsec.nconfhz.com
@@ -106534,6 +106540,7 @@ coktatlisinbe.com.tr
 cokucuz.name.tr
 cokuykumvar.app
 cokuzunsurebeklemeyin.net
+cokyakindabiliyorsunuz.com
 cokyakindageliyoruz.com
 cokyakindahepinizi.com
 cokzor-ya.com
@@ -108473,6 +108480,7 @@ cooknickname.top
 cookpolytechnic.top
 cooksalution.top
 cooksolicitor.top
+cooktime.click
 cookzoo.xyz
 cool-curie.20-40-53-136.plesk.page
 cool-group.ae/wp-includes/certificates/connection.php
@@ -115963,6 +115971,7 @@ deneyimyolu.online
 deneyin-bakin-eninde-sonunda-alin.com
 deneyin-gorun-bizde-hayata-bakisiniza.com
 denfmestfsjstres.com
+denfun.com
 dengebilisimdendev.com
 dengebilisimdendevv.com
 dengebonybonysis.site
@@ -152437,6 +152446,7 @@ evinternetkampanyasi.net
 evinternetkampanyasi.site
 eviolar.online
 evircevirkazan.cf
+evirno.site
 evisa-tr.org
 evisa-turkey-gov.com
 evisa-turkey-tr.org
@@ -266259,6 +266269,7 @@ muvottanasa1.net
 muwirkz.duckdns.org
 muwkege4.zapto.org
 muxaaynetvturk.com
+muxenceo.com
 muxg4d7z.duckdns.org
 muxrpmkffd.duckdns.org
 muxyenearacservisleri.net
@@ -292940,6 +292951,7 @@ passatempobasico.com.br
 passatorkktrmrsrglma.net
 passatorktoyerkaju.net
 passbank.ddns.net
+passbr.click
 passcr.click
 passenger-299.zapto.org
 passenger-realize.com
@@ -337412,6 +337424,7 @@ snhbaretknla.xyz
 snhd1gejlx0sqzg1beqszer.com
 snhd1gejlx0sqzg1beqszers.com
 snhqsamwsn.biz
+snibberz.com
 snibuc.top
 snickerdoodle.top
 snickerflap.online
@@ -343648,6 +343661,7 @@ stanleytkerlseisbtermburd.store
 stanleyvk.click
 stanly-carrefoursa.vercel.app
 stanlyarlikkczmazi666kacirma.com
+stanlykampanya.blogspot.com
 stanlytermos499a.com
 stanlyytermosteklifiifdfa101.com
 stanmus.com.ru
@@ -369922,6 +369936,7 @@ tuvxturkxodemelxeri-odemeleri.net
 tuvxturxkaracmuyanxe.net
 tuvxtuvxfdsfswwqe-3ddsaxds.net
 tuw-turk.net
+tuwane.com
 tuwaraqidek.eu
 tuwcjsggnv.duckdns.org
 tuwebb.net
@@ -370542,6 +370557,7 @@ twxkarxqfdbhiwv.ru
 twxmabf.com
 twxt7709.duckdns.org
 twyfordtille.com
+twynero.com
 twzfte-1340224852.cos.ap-guangzhou.myqcloud.com
 twzfw.vip
 twztpuxe.info
@@ -374658,6 +374674,7 @@ uva1o1.net
 uvajuvkbmvkn7vi.ddns.net
 uvanas.net
 uvbtpxzwqf.ityprocule.ru
+uvbuyxgb.info
 uvckredvt-vsde.com
 uvcnqrf.duckdns.org
 uvd88.duckdns.org
