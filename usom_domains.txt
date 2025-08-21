@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-21T16:05:13.303745
+# Updated: 2025-08-21T17:05:12.840143
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -20669,6 +20669,7 @@
 45.133.174.25
 45.133.216.15
 45.133.238.92
+45.133.74.240
 45.133.9.104
 45.133.9.175
 45.133.9.32
@@ -49208,6 +49209,7 @@ aktarimvesorgulama.store
 aktarimvesorgulamaprbtokenshiba-com.tk
 aktarimwebsiteonline.shop
 aktariniz-hesaplariniza-odemeleriniz.online
+aktarislemlerimlife.duckdns.org
 aktarlifeislemden.duckdns.org
 aktarma-ekrani-hizmeti.store
 aktarma-ekrani-martayi.cyou
@@ -60404,6 +60406,7 @@ asfnmfmbqwfsafisfawq.website
 asfnmfsanmfwqhjwfqb3033.icu
 asforum-bireysel-basvuru-sayfasi-online.ml
 asfqwfqf2qfqwf.com
+asfqwrqwqr.click
 asfsa-adbfa-aasfas.xyz
 asfsafasfag.click
 asfsafjnk21251.xyz
@@ -188597,6 +188600,7 @@ haydistanbul.net
 hayditrmrrr.net
 hayditurkiye.xyz
 hayditurkiyei.xyz
+haydiuygulamasitom.cfd
 haydiuygulamasitom.pics
 haydiuygulamasitom.sbs
 haydiyenikampanyalarimiza.store
@@ -283924,6 +283928,7 @@ operatordestekleriyuklemenoktasi.com
 operatordolumlari.xyz
 operatordolumlarimiz.xyz
 operatordunyasi.com
+operatordunyasi.net
 operatorhizliyuklemen.blogspot.com
 operatorhizmetleri.com
 operatorkampanyalarnet.site
@@ -301006,6 +301011,7 @@ prshhasdgsz.net
 prshqqnwnh.in
 prsllgmrgmll.com
 prslsrxglma.com.tr
+prsmbe-agstsindrm.com
 prsmbeveasdgrihzmertt.net
 prsmbevegrihzmertt.net
 prsmbfrstlrbykkmpn.shop
@@ -303660,6 +303666,7 @@ pttgov1.cc
 pttgov1.lol
 pttgov123.top
 pttgov24.icu
+pttgov24.xyz
 pttgova-tr.icu
 pttgova-tr.shop
 pttgova-tr.top
@@ -325041,6 +325048,7 @@ sdceonlneozlfrstlar.shop
 sdcexonlneozlkapindax.online
 sdcexonlnexozelxekstra.online
 sdcnefsalmamgrkl.com
+sdconlnkmp.duckdns.org
 sdcqeonline.duckdns.org
 sdctfvdb-aytrcxdagvb-ywatrd.sbs
 sdctfvdb-aytrcxdagvb-ywatrr.cyou
@@ -343709,6 +343717,7 @@ stanley666superindirimgelidibrddd.com
 stanley666superindirimgelirrrrr.com
 stanleyalidnkacrma666dann.com
 stanleyburdauygun.site
+stanleyclassicc.vip
 stanleyfrsattermosburda.com
 stanleyfrst666aldnadinsizden.com
 stanleygelsin.xyz
@@ -355116,6 +355125,7 @@ termos-carrefoursa.vercel.app
 termos.duckdns.org
 termosa1o1.sbs
 termosal.cfd
+termosal1.cfd
 termosaxscv.icu
 termosfrsstlrgunu.online
 termosindirimlerihemen.duckdns.org
@@ -364419,6 +364429,7 @@ trmarc.net
 trmardsama.blogspot.com
 trmarfsfgs.shop
 trmarsrgulamaa.com
+trmasakceza.org
 trmasmask.net
 trmasterenablekapakicin.tk
 trmayisbasvuruadresi.com
@@ -387980,6 +387991,7 @@ webinfo-sorguweb.com
 webinfo76.wixsite.com
 webinfokgm.com
 webinfors.com
+webing-ekranlartrgir.site
 webinistekler.cc
 webinsane-trylog2024.best
 webinsight.world
