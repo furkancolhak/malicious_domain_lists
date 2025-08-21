@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-21T08:05:11.985866
+# Updated: 2025-08-21T10:05:12.282691
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5886,6 +5886,7 @@
 142115541155590.xyz
 142115541155592.xyz
 142115541155594.xyz
+142115541155599.xyz
 1421212511245221122590.xyz
 1421212511245221122591.xyz
 142127831123.com
@@ -44057,6 +44058,7 @@ ahbeadamaxsaaam.site
 ahbeadamim.site
 ahbecendenesesis.site
 ahbegitmeniscarvanis.site
+ahbekader.gettrials.com
 ahbekel.online
 ahbencangemescides.site
 ahbeniezerazericemres.site
@@ -91953,6 +91955,7 @@ bryagdrekhytndgstrmelsn.sbs
 bryangeorgia.hopto.org
 bryaynlendkbzmrslerdensznz.shop
 bryaynlrdksnzburdabzvrd.shop
+bryaynlyrsnzbrdansn.icu
 brymndrlerigldi.com
 bryndnglmdn.xyz
 brysel-garanti.com
@@ -103504,6 +103507,7 @@ cicekdunyasndalar.online
 cicekdunyasndalar.xyz
 cicekella.xyz
 cicekevreni.com
+cicekhizmetleri.biz
 cicekhizmetleri.cloud
 cicekhizmetleri.club
 cicekhizmetleri.co
@@ -105335,6 +105339,7 @@ cloguprising.top
 clohomeslvdrdali.com
 cloisterliness.com
 clokdnr.com
+clokeringkisalink.xyz
 clolor.photoyellowclolor.com
 clon.collectfasttracks.com
 clonebntr.vercel.app
@@ -226585,6 +226590,8 @@ justmoneykartalbddk805.duckdns.org
 justmoneykartalbddk850.duckdns.org
 justmoneykartalbddk851.duckdns.org
 justmoneykartalbddk855.duckdns.org
+justmoneykartalbddk994.duckdns.org
+justmoneykartalbddk995.duckdns.org
 justmoneykartalbddkvip.com
 justmoneykartalbddkzirve.com
 justmoneykartalkredi.duckdns.org
@@ -240248,6 +240255,7 @@ kredimonaylii.xyz
 kredimonayvkf.co.vu
 kredimonlinede.site
 kredimonlinevakif.tk
+kredimqnbbassvuru.xyz
 kredimsubedenv2denizbank.co.vu
 kredimtebderler.duckdns.org
 kredimuygun.b-cdn.net
@@ -277004,6 +277012,7 @@ odemegunleri.online
 odemegunleri.xyz
 odemegunluk.net
 odemegunlukleri.com
+odemeguvencesi.com.tr
 odemeguvende.com
 odemeguvendeget.ml
 odemeguvendeget.tk
@@ -284376,6 +284385,7 @@ organmelody.top/trendyol-qf
 organsurveillance.top
 orgazatonwresting.top
 orgbanservi.ddns.net
+orgeneral.sbs
 orgindesinbizlerleguvenli.blogspot.com
 orglare.top
 orgnize.ddns.net
@@ -284525,6 +284535,7 @@ orrelatelawsui.top
 orrendevu.b-cdn.net
 orrereide.ru
 orrespondingarmo.top
+orrhaaan.sbs
 orrrtaktraffik.tk
 orrtaktrafik.tk
 orsalakamslaratalopatramaskalar.net
@@ -295697,6 +295708,7 @@ pinkwheels-rb.cloud
 pinkyardflamingos.com
 pinkypinky23pinky.top
 pinmow.top
+pinnacell.com
 pinnacleweld.co.za//db-config-ini.php
 pinnacleweld.co.za/db-config-ini.php
 pinnacleweld.co.za/wp-config-ini.php
@@ -403119,6 +403131,7 @@ xn--sonkezramazandandrm-u5c.shop
 xn--sonndrmbu-xpb.shop
 xn--sonndrml0erde-59b.shop
 xn--sonndrmler-zubcb.shop
+xn--sonyzfrtlsr-9zb.shop
 xn--sorgulasnaagiri-n6c.app
 xn--sorgulasnaagiri-n6c.dev
 xn--sorumluluktedbirdirsalk2021-2wd73c.com
