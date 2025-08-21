@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-21T10:05:12.282691
+# Updated: 2025-08-21T11:05:12.699620
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -36502,6 +36502,7 @@ aauth-sso-ku-kcoquiin.webflow.io
 aauth-ssso---kcoquiinin.webflow.io
 aauths.xyz
 aav61rrgw.duckdns.org
+aave-reward-notification.lovable.app
 aavishkaar-palampur.org
 aavmpttonlinee.online
 aawqkewwmkwesw.xyz
@@ -56432,6 +56433,7 @@ app-101-shop.online
 app-101.com
 app-101.com.tr
 app-101.shop
+app-54124296d32502.lovable.app
 app-a-101.shop
 app-a101.sezonsonuindirimi.com
 app-accnt-scrty.duckdns.org
@@ -98074,6 +98076,7 @@ captainterminate.top
 captainynfanw.shop
 captcha-bot.sa.com
 captcha-coinbase.com
+captcha-office-redirect.lovable.app
 captcha.grouphelp.top
 captcha.tgbot.it
 captcha2021.com
@@ -145520,8 +145523,10 @@ emlakkatilimbanking.com
 emlakkatilimdan.net
 emlakkonut.online
 emlakkonut.org
+emlakkonutgayrimenkul.online
 emlakkonutgayrimenkul.org
 emlakkonutonline.com
+emlakkonuttr.online
 emlakkonutvergisiborcututi.blogspot.com
 emlaklavlv.net
 emlaklimsnciyzz.net
@@ -244747,6 +244752,7 @@ lexorica.com
 lexpeyze.info
 lexpress.me
 lexrjel4.duckdns.org
+lexware-invoice-deutsch-popup.lovable.app
 lexxenizleeme.net
 lexxenspoor.net
 lexy.hopto.org
@@ -314255,6 +314261,7 @@ rew2248.ddns.net
 rewahyttjg.ddns.net
 rewal.ch
 rewaoffice.hopto.org
+reward-aave.us
 rewardingbuddhism.top
 rewardingstagger.top
 rewardishhuusqshbinancetr.vercel.app
@@ -373356,6 +373363,7 @@ uprqiuxkpnxlvgk.ru
 uprtf.com
 uprts.is-best.net
 uprzv8w5f.duckdns.org
+ups-flow-harvester.lovable.app
 ups0.ddns.net
 upsb16ctm.duckdns.org
 upsdestek.org
