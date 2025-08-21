@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-21T03:05:14.344052
+# Updated: 2025-08-21T04:05:12.244929
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43827,6 +43827,7 @@ agustosfirsatlaridayshemenbasvur.net
 agustosfirsatlarindakigunler.cfd
 agustosfirsatlarindakigunler.sbs
 agustosfirsatlariylasizlerleyiz.shop
+agustosflrsatlar.com
 agustosfrstlrinikcrma.online
 agustosfrstlrlgile.online
 agustosglbalfirsatbasvurususongun.com
@@ -79809,6 +79810,7 @@ binance-member.xyz
 binance-meta-19d3b2af.xyz
 binance-meta-62af1d9c.com
 binance-meta-8e2d4f0a.xyz
+binance-meta-9f3c2d71.com
 binance-meta-a3f91c7b.xyz
 binance-meta-a7k3m9xq.com
 binance-meta-b8e5f407.com
@@ -256381,6 +256383,7 @@ meta-paribu.ml
 meta-payment.xyz
 meta-protected2024.duckdns.org
 meta-regulation.hopto.org
+meta-reklamkutuphanesi.cfd
 meta-reviewaccont4234dk.duckdns.org
 meta-reviewaccont7362nk.duckdns.org
 meta-reviewaccont9653kw.duckdns.org
