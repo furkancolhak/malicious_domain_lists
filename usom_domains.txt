@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-22T07:05:13.825044
+# Updated: 2025-08-22T08:05:11.719062
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -67214,6 +67214,7 @@ bannerpredatory.top
 bannerrotten.top
 bannersouth.com
 bannerwest.com
+bannkorevia.com
 bannlasyu.duckdns.org
 bannngwko.shop
 bannubook.org/wp-includes/db_template.php
@@ -106886,6 +106887,7 @@ com-info-lockeds-myaccount.com
 com-istanbul.net
 com-kampanam.com
 com-kpy.win
+com-lbasvuru-formu.shop
 com-legal-country.info
 com-locked-account-inter.com
 com-login.win
@@ -146962,6 +146964,7 @@ enguzelfisat.online
 enguzelgunlertebde.ml
 enguzelhediyeli.com
 enguzelindirimlersabahinda.cfd
+enguzelindirimlersabahinda.sbs
 enguzelinenfirsatlarburda.cfd
 enguzelinenfirsatlarburda.sbs
 enguzeliyilklerindrmlebaslar.shop
@@ -191879,6 +191882,7 @@ hepindirim-burda.com
 hepiniizicokcok.site
 hepiniz-aslinda-farkindayiz-sizler-icin-cabaladik.online
 hepinize20gb.com
+hepinizesamar.sbs
 hepinizezamantanidik.tk
 hepinizindegisiyotavirlari.com
 hepisburada.com
@@ -192419,6 +192423,7 @@ herkesebizden20gbnet.com
 herkesedestek5000tl.com
 herkesedestekolalim.com
 herkesedestekzamaninda20.com
+herkesekampanyalar.com
 herkeselazim.name.tr
 herkeseozelkampanya.github.io
 herkesepandemi.club
@@ -192452,6 +192457,7 @@ herkesmostlerkes.click
 herkesmutluolsun.com.tr
 herkesokusun.online
 herkesokusun.org
+herkesteniyiyim.sbs
 herkestenonceal.com
 herkez20gbdestekalsin.com
 herkez20gbnetpaketi.com
@@ -232158,6 +232164,7 @@ kargotakip.tr-satisofisi-ilanlar.com.tr
 kargotakipp.com
 kargotakippp.buzz
 kargotakipsorgu.com
+kargotakipsubesi.com
 kargotakiptt.cfd
 kargotakipttakip.com
 kargotakipyurtici.blogspot.com
@@ -308703,6 +308710,7 @@ quickcompe.net
 quickdatenight.duckdns.org
 quickmagnify.top
 quickmind.site
+quicknodez.com
 quickquake.top
 quickregistration.top
 quickrent-kirala.click
@@ -312591,6 +312599,7 @@ reklamtanitimajansi4326.com
 reklamtanitmsponsoru32.xyz
 reklamyonlendirindirim.com
 reklamyonlendirme.vercel.app
+reklantanitimajansi3593epik.com
 reklat.loveslife.biz
 reklink1.site
 reklink253.site
@@ -323522,6 +323531,7 @@ sanayi-sorgu.org
 sanayitr.info
 sanballat.live
 sanbleutjrsd.ddns.net
+sanbntrs.click
 sanbr20202020.com
 sancak.dev
 sancakbilisim.net.tr
@@ -336153,6 +336163,7 @@ sizlerlepaylasilanfirsatlar.online
 sizlerlepaylasilanfirsatlar.xyz
 sizlerlesevi1ensiparis1er.online
 sizlerlesevi1ensiparis1er.xyz
+sizlerlesiparisleranindavehizli.online
 sizlerlesiparisleranindavehizli.xyz
 sizlerlesiteler.site
 sizlerlesiteler.space
@@ -341329,6 +341340,7 @@ sparislerinhizli4temmuzda.cloud
 sparixo.com
 sparkabs.com
 sparkandspire.shop
+sparkarbi.sbs
 sparkasem.org
 sparkasemadafakir.us
 sparkasse-aachen.ddns.net
@@ -379726,6 +379738,7 @@ vb-giriiskatlllmmobil.site
 vb-hzmtlrm.net
 vb-kampanya.xyz
 vb-kampanya2021.com
+vb-kampanyalar.xyz
 vb-katilhediyeler.club
 vb-katilhediyeler.info
 vb-onlineislemler.link
