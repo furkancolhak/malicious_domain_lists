@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-22T08:05:11.719062
+# Updated: 2025-08-22T09:05:12.018395
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4360,6 +4360,7 @@
 116.110.220.34
 116.114.95.176
 116.114.95.186
+116.176.19.199
 116.178.28.2
 116.193.154.107
 116.199.207.88
@@ -6275,6 +6276,7 @@
 1454545466990.xyz
 1455558899990.xyz
 1455558899992.xyz
+1455558899994.xyz
 14556380.xyz
 14556388.xyz
 145746738746829537842934.online
@@ -6413,6 +6415,7 @@
 147.135.244.43
 147.139.29.220
 147.182.194.197
+147.185.133.145
 147.185.238.49
 147.189.138.33
 147.189.161.184
@@ -7237,6 +7240,7 @@
 159.69.16.177
 159.69.20.131
 159.69.203.58
+159.69.3.151
 159.69.54.146
 159.69.87.239
 159.69.92.223
@@ -7934,6 +7938,7 @@
 171.227.250.249
 171.235.75.39
 171.235.78.216
+171.243.148.63
 171.25.193.20
 171.25.193.235
 171.25.193.25
@@ -9571,6 +9576,7 @@
 185.234.52.217
 185.234.52.46
 185.234.52.92
+185.234.72.186
 185.234.72.84
 185.234.73.125
 185.235.137.6
@@ -11662,6 +11668,7 @@
 198.23.229.162
 198.23.238.235
 198.23.57.8
+198.235.24.243
 198.24.166.222
 198.244.174.214
 198.244.216.49
@@ -14868,6 +14875,7 @@
 213.5.130.58
 213.58.163.225
 213.59.118.124
+213.6.203.226
 213.92.122.247
 21301001.cloud
 213050000545343.cloud
@@ -20330,6 +20338,7 @@
 43.240.125.195
 43.240.14.44
 43.242.203.115
+43.242.247.141
 43.242.35.16
 43.245.196.121
 43.245.196.122
@@ -21349,6 +21358,7 @@
 45.88.3.95
 45.88.3.98
 45.88.67.12
+45.88.8.186
 45.89.106.108
 45.89.106.147
 45.89.125.136
@@ -21419,6 +21429,7 @@
 45.93.9.133
 45.94.31.11
 45.94.31.170
+45.94.31.176
 45.94.31.224
 45.94.47.145
 45.94.47.146
@@ -22032,6 +22043,7 @@
 49.12.47.176
 49.12.77.13
 49.12.97.28
+49.124.155.174
 49.13.126.124
 49.13.15.66
 49.13.18.115
@@ -25124,6 +25136,7 @@
 627zzth.duckdns.org
 62814502525.online
 6286381639173.ebireysel.com
+628744.net
 628a.rsdapp.pw
 628etk.duckdns.org
 6292982299.com
@@ -37256,6 +37269,7 @@ access-meta.duckdns.org
 access-money.info
 access-navyfederal.ddns.net
 access-shupfify.com
+access-ssa-gov.es
 access.cedakitestrategies.sa.com
 access0ing.ddns.net
 accessability042.ddns.net
@@ -47926,6 +47940,7 @@ akbireyselesel.xyz
 akbireyselhizmetler.com
 akbireyselmobil50yilozel.online
 akbiryslkmpnya.com
+akbizmezbitemez.com
 akbjavtowg.duckdns.org
 akbkatilimtalebleriniz.com
 akbkonline.com
@@ -54580,6 +54595,7 @@ anborgad.web.app
 anbskr.info
 anc-bd.com
 anc-caixabank.ddns.net
+ancaizlersiniz.sbs
 ancaksa432.com
 ancaksks23232.com
 ancaksksdone52.com
@@ -80188,6 +80204,7 @@ binanceonlinesorgu.yeniyilsuprizkampanya-ozel.tk
 binanceougdultr.vercel.app
 binancep2p.exchange
 binancepartnerships.com
+binancepizza.info
 binancepizzagunu.dev
 binancequest.net
 binanceretrtheetpomp.vercel.app
@@ -98479,6 +98496,7 @@ carrefoursabursa.com
 carrefoursabursa.net
 carrefoursabursa.org
 carrefoursada.online
+carrefoursadan.online
 carrefoursafirsat.com
 carrefoursafirsat.shop
 carrefoursafirsatindirim.shop
@@ -105195,6 +105213,7 @@ clickthistogo.com
 clicktobtc.com
 clicktogethers.info
 clicmaislopla.zapto.org
+cliczor.com
 cliencustomerserv.duckdns.org
 cliensevpaylibtsgt.duckdns.org
 client-00cserivice.ddns.net
@@ -110022,6 +110041,7 @@ cqqmjgbvro.duckdns.org
 cqrtw.com
 cqrwe-cqdwe-qxde.space
 cqsczahojc.duckdns.org
+cqsf.live
 cqshgaat.duckdns.org
 cqshki.net
 cqsvxegvkm.duckdns.org
@@ -121420,6 +121440,7 @@ derivationcivic.top
 derivativerepel.top
 derivedaughter.top
 derkerlerteheve.online
+derko-meru.online
 derli-toplu-sergileyen-kacirmazda-sizlerde-yok.com
 derlikbirfirsat.com
 derlikbirfirsatlarimiz.com
@@ -126938,6 +126959,7 @@ dnshoswting.ga
 dnshoswting.gq
 dnshsdfskjasdns1423.com
 dnsinass.hopto.org
+dnsmicrosoftds-data.com
 dnsmicrosoftds-data.org
 dnsnkahsa-mladklasa-nmamska.cyou
 dnsnkahsa-mladklasa-nmamska.icu
@@ -169902,6 +169924,7 @@ geceleri-son-firsatlar-sizlerde-bizimle-kalin.com
 gecelerinderdixd.net
 gecelrle.app
 gecemdertlignm.xyz
+gecemezsinizbeni.sbs
 gecemtvmerkeznn.tk
 gecenin-indrmleri.com
 geceninkazananlari.com
@@ -178426,6 +178449,7 @@ guidelineregiment.top
 guidespharma.com
 guidetropic.top
 guildish.com
+guildmerger.co
 guiller.ddns.net
 guillotine.top
 guillotinist.com
@@ -230604,6 +230628,7 @@ kampayayakatilavantajlicik.pro
 kampayyanliurunlerimizonlineozel.com
 kampayyanliurunlerimizonlineozelii.com
 kampbuzdolabi.vip
+kampcadir-aldin-adlsinbb-burdas.com
 kampcadir.shop
 kampcadirsi.shop
 kampcdr.shop
@@ -232547,6 +232572,7 @@ kartal-915.com
 kartal-flexhome129.cloud
 kartalbix.net
 kartalescort.mobi
+kartalflexbddk12.duckdns.org
 kartalhomenesfleskpleskdsad.cloud
 kartallafirsatlarbitmez.com
 kartallafirsatlarimbitmez.duckdns.org
@@ -253465,6 +253491,7 @@ masak69.org
 masak69.pro
 masak88.com
 masak88.org
+masakbildiri.org
 masakblokesi.com
 masakcezabilgi.org
 masakcezasorgulama.org
@@ -255562,6 +255589,7 @@ mehzk66e9.duckdns.org
 meiboot.com
 meibubaker.3322.org
 meilleurmutuelle.hopto.org
+mein-lonos-cloude.de
 mein-paket.ddns.net
 meinbank99-at.ddns.net
 meine-banlk99.ddns.net
@@ -277843,6 +277871,7 @@ offpact.top
 offprize.xyz
 offramps78.xyz
 offrevengeful.top
+offrixa.xyz
 offrsnow.xyz
 offsale.store
 offsetautonomous.top
@@ -294257,6 +294286,7 @@ peerssmebbeikamnpya.xyz
 peesgreybhizligeciskgm.net
 peesgreycbhizligecis.net
 pefidesk.com
+pefuva.info
 peg4l480d.duckdns.org
 pegaarackiralama.com
 pegaes.suleqi1.website
@@ -300267,6 +300297,7 @@ progressionextinction.top
 progressioninmate.top
 progressionmute.top
 progressiq.net
+progressive24.top
 progressive453453.xyz
 progressiveinventory.top
 progressiveland.online
@@ -318200,6 +318231,7 @@ sadcconalna1.duckdns.org
 sadceozlonlnxfirsarxlar.com.tr
 sadceozlonlnxfirsarxlar.xyz
 sadchaira.top
+sadckampsd.duckdns.org
 sadcnonlinkmo.duckdns.org
 sadconlna1o1kamp.duckdns.org
 sadcta-client.co.za/shopping/db-config-ini.php
@@ -355330,6 +355362,7 @@ tesmail-var.ddns.net
 tesmino.zapto.org
 tesoverin.store
 tespy.duckdns.org
+tesra.shop
 tesrah.xyz
 tess-stmp.duckdns.org
 tessngabberrrr.duckdns.org
@@ -358821,6 +358854,7 @@ tombalikoyununrenkleri.xyz
 tombalikoyunvecocuk.xyz
 tombalikvedostlukhikayeleri.xyz
 tombalikvehayalinrenkleri.xyz
+tombankhaydi.pics
 tombracket.com
 tombstonedesigns.co.za/libraries/db-config-ini.php
 tomcat-1.to
@@ -371583,6 +371617,7 @@ ucuzlukapinizda.store
 ucuzlukdesenbyrada.com.tr
 ucuzlukdesenbyrada.online
 ucuzlukdesenbyrada.xyz
+ucuzlukfabrikasindayiz.web.tr
 ucuzlukgunleri.com.tr
 ucuzlukgunleri.info.tr
 ucuzlukgunleri.net.tr
@@ -379242,6 +379277,7 @@ varumuzyogumu.xyz
 varvaraisishyehek.club
 vary-latin-satisfy-affects.trycloudflare.com
 varyeldokeppedlereodledvaberozleopsedfafasednaydes.com
+varying-rentals-calgary-predict.trycloudflare.com
 varypeople.top
 vas.mc-conf.nth.ch
 vasaney.net
@@ -390478,6 +390514,7 @@ windows-gaming.ddns.net
 windows-india.in
 windows-kernel.in
 windows-microsoft.zapto.org
+windows-msg-as.live
 windows-patch.ml
 windows-patch.tk
 windows-rars.shop
@@ -408907,6 +408944,7 @@ yazfirsatlariburadaguncel.com.tr
 yazfirsatlariburda.shop
 yazfirsatlarigarantidir.com
 yazfirsatlarim.com
+yazfirsatlarimilesok.cfd
 yazfirsatlarinikacirmabn.net
 yazfirsatlaripttile.online
 yazfisatlariburadansorulur.sbs
@@ -411309,6 +411347,7 @@ yetkilibirimmerkezin.com
 yetkilidestek-merkezi.cf
 yetkilidesteknakdihibeleri.co.vu
 yetkilifaturaodeme.com
+yetkilifor.misecure.com
 yetkiligec.sg-host.com
 yetkiligecisyukle.sg-host.com
 yetkilihizmet.xyz
