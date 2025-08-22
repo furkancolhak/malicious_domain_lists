@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-22T13:05:11.875675
+# Updated: 2025-08-22T14:05:11.647952
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -20533,6 +20533,7 @@
 4444557358356122.com
 44447785445.cloud
 44448888.ru
+44455.vercel.app
 4445654444.cloud
 44487544.cloud
 44497144424440.duckdns.org
@@ -42011,6 +42012,7 @@ admain.duckdns.org
 admaris.ir
 admarkam1.com
 admasikintilibabo.xyz
+admbrlbrdanndrl.icu
 admbursvakf.org
 admen.fast-page.org
 admhexlogs25.xyz
@@ -46471,6 +46473,7 @@ ailhibebasvurudestek.com
 ailiaenterprises.com//db_template.php
 ailiaenterprises.com/wp-config-ini.php
 aillctech.com
+ailsverisinizdir.com
 ailx618.duckdns.org
 ailyhotdealstoday.world
 ailypnhp.com
@@ -97731,6 +97734,7 @@ canbeginsaat.com/madmin/db_template.php
 canbeginsaat.com/madmin/include/db-config-ini.php
 canbeginsaat.com/madmin/wp-config-ini.php
 canbilisimiledeger.com
+canbntrs.click
 canbseprolegvn.webflow.io
 canburs.org
 cancagizm556452.com
@@ -98159,6 +98163,7 @@ capxw.xyz
 capyvyhuhiva.com
 caq.xv8ta.com
 caqaudfkebxshq.com
+caqqal.sbs
 caquid.ddns.net
 car-dbasvurukampanyafirsati.tech
 car.kocfilo.com.tr
@@ -116041,6 +116046,7 @@ deneyimifirsatlarintadinabkasen.icu
 deneyimifirsatlarintadinabkasen.sbs
 deneyimle.name.tr
 deneyimlerim.online
+deneyimlikamoanyalarhaftasibugun.xyz
 deneyimlikamoaynalar.online
 deneyimlikamoaynalar.xyz
 deneyimlikisiler.com
@@ -124724,6 +124730,7 @@ dijital-ziraatgiris.com
 dijital-ziraatislemler.com
 dijital-ziraatkredi.com
 dijital-ziraatmobil.com
+dijital-ziraatmobilbireysel.com
 dijital-ziraatmobilgiris.com
 dijital-ziraatmobilweb.com
 dijital-ziraatonay.com
@@ -226115,6 +226122,7 @@ jr7vd1k8.duckdns.org
 jr8mjgcu.duckdns.org
 jramcos.duckdns.org
 jrandjcpa.org
+jrarstert.com
 jrbc.info
 jrbcwfl.com
 jrbrj4d.duckdns.org
@@ -232595,6 +232603,7 @@ kartalescort.mobi
 kartalflexbddk12.duckdns.org
 kartalflexbddk21.duckdns.org
 kartalflexbddk22.duckdns.org
+kartalflexbddkbaskani.duckdns.org
 kartalhomenesfleskpleskdsad.cloud
 kartallafirsatlarbitmez.com
 kartallafirsatlarimbitmez.duckdns.org
@@ -279056,6 +279065,7 @@ onaybasvuru.net
 onaybasvurudunyasi2022.com
 onaybasvuruiadesi.com
 onaybasvurum.net
+onaybasvurusurecikayit.duckdns.org
 onaybildirimlerim.com.tr
 onaybildirimlerim.xyz
 onaybildirisiyonlendirme.com.tr
@@ -318328,6 +318338,7 @@ sadecebuguneozelkampanyalar.com.tr
 sadecebuguneozelkampanyalar.xyz
 sadecebuhafta.xyz
 sadeceburadanyapilir.org
+sadeceburda.duckdns.org
 sadecebuyukkampanyalar.com
 sadecefirsatlar.com
 sadecegir.gq
@@ -319186,6 +319197,7 @@ sahibinden-alisveris.com
 sahibinden-alisveris.com.tr
 sahibinden-alisveris.e-guvendetr.sa.com
 sahibinden-alisveris.g-sepette.online
+sahibinden-alisveris.m-sepetislem.online
 sahibinden-alisveris.mobilsecure.online
 sahibinden-alisveris.online-tr.sa.com
 sahibinden-alisveris.t-odeme.sa.com
@@ -330686,6 +330698,7 @@ sfr-stkkpda-frst.online
 sfrdnyzekadar.net
 sfrdoksndkzzaltaydanertelde.online
 sfrevhxdqui.org
+sfrgldkbynzsdl.icu
 sfrlogin-webmail.duckdns.org
 sfrmailclient.duckdns.org
 sfrst.wranttyndrmlr.online
@@ -334912,6 +334925,7 @@ siparis-onayli-115539.com
 siparis-onayli-115544.com
 siparis-onayli-115548.com
 siparis-paramguvende.com
+siparis-pay.online
 siparis-pttavm.com.tr
 siparis-pttavm.info.tr
 siparis-pttavm.online
@@ -336250,6 +336264,7 @@ sizlerrleqnbkredi.xyz
 sizlertatilde.com
 sizlervebizlericinsiparisler.com.tr
 sizlervebizlericinsiparisler.xyz
+sizllerleqnbkredi.xyz
 sizlllerilee-arrtilarpraa.xyz
 sizlrlrbulstrmakicin.com
 sizmir.net
@@ -339525,6 +339540,7 @@ songunceletkinliklerimiz.net
 songunceleventlerimiz.net
 songuncelgirisler.xyz
 songuncelyeniciner.org
+songuneyetiskampnaylarda.online
 songuneylulfirsatlari.online
 songunfirsatinikacirmasizlereozel.com.tr
 songunfirsatinikacirmasizlereozel.online
@@ -350619,6 +350635,7 @@ tarihrandab.net
 tarihrandevu.app
 tariim2024firsat.online
 tarikagcay.xyz
+tarikbacaklari.sbs
 tarim-giris-hizli.com
 tarim-kooperatiff.online
 tarim-kooperatiff.xyz
@@ -352995,6 +353012,7 @@ tebiphonehediyeleri2022.com
 tebiphonehediyeleriniz2022.com
 tebislemnoktasigiris.co.vu
 tebkampanya.online
+tebkampanya.site
 tebkampanyaiphone2022.net
 tebkampanyalar.com
 tebkampanyalarimiz2022.com
@@ -358886,6 +358904,7 @@ tombalikoyununrenkleri.xyz
 tombalikoyunvecocuk.xyz
 tombalikvedostlukhikayeleri.xyz
 tombalikvehayalinrenkleri.xyz
+tombankasi101.pics
 tombankhaydi.cfd
 tombankhaydi.click
 tombankhaydi.icu
@@ -363684,6 +363703,7 @@ trendyol2025.com
 trendyol2026.com
 trendyol66.com
 trendyola.icu
+trendyoladresim.com
 trendyolagent.com
 trendyolarackiralama.com.tr
 trendyolarsa.com
@@ -405833,6 +405853,7 @@ yakinlardafirsatlarheransizlerle.com.tr
 yakinlardafirsatlarheransizlerle.cyou
 yakinlardafirsatlarheransizlerle.xyz
 yakinlardayizamcalar.com
+yakinlardayizzzamcalar.com
 yakinzamndahediyeligeldi.com
 yakisikli-yonlendir.com
 yakisikliguvenlik.app
@@ -413882,6 +413903,7 @@ ypdesign.gr
 ypdttye.wegukosak1.website
 ypdzdsspi.org
 yperfakeverse.xyz
+ypfakfaga.click
 ypflsaiasc.vercel.app
 ypgnotc.com
 ypham-japan.shop
