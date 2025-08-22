@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-22T14:05:11.647952
+# Updated: 2025-08-22T15:05:11.524993
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3656,6 +3656,7 @@
 108.233.83.51
 108.4.67.252
 108.56.213.219
+108.6.189.53
 108.60.213.141
 108.61.132.157
 108.61.142.190
@@ -6279,6 +6280,7 @@
 1455558899992.xyz
 1455558899993.xyz
 1455558899994.xyz
+1455558899996.xyz
 14556380.xyz
 14556388.xyz
 145746738746829537842934.online
@@ -7218,6 +7220,7 @@
 159.223.96.160
 159.224.101.52
 159.224.220.223
+159.242.42.20
 159.65.1.52
 159.65.11.106
 159.65.123.122
@@ -18094,6 +18097,7 @@
 33poqbmb.duckdns.org
 33tkco.duckdns.org
 33vys57j.duckdns.org
+33yhfvvy.com
 33z4j2qzu.duckdns.org
 34-tramer.org
 34.105.129.68
@@ -51266,6 +51270,7 @@ aldinaldinfirsatlari.site
 aldinaldinfirsatlari.store
 aldinaldinfirsatlari.xyz
 aldinaldinfirsatlari30mayis.com
+aldinaldinfirsatlarialdinaldin.online
 aldinaldinfirsatlarikacirma.icu
 aldinaldinfirsatlarikacirma.sbs
 aldinaldinfirsatlarim.shop
@@ -115671,6 +115676,7 @@ delidivaneindirimler.cfd
 delidivaneindirimler.icu
 delidivaneindirimler.sbs
 delidivanekampanyalar.sbs
+delidivaneolmusumfirsatlardan.xyz
 delidolu.b-cdn.net
 delight-business-online.site
 delight.mv
@@ -124726,6 +124732,7 @@ dijital-ziraatbank.com
 dijital-ziraatbankasi.ml
 dijital-ziraatbireysel.com
 dijital-ziraatbireyselgiris.com
+dijital-ziraatbireyselmobil.com
 dijital-ziraatgiris.com
 dijital-ziraatislemler.com
 dijital-ziraatkredi.com
@@ -130045,6 +130052,7 @@ dubaiexpo2020.cf
 dubaigip.com//db-config-ini.php
 dubaigip.com/db-config-ini.php
 dubaihelishow.com/tmp/db-config-ini.php
+dubaiiye.sbs
 dubailegaleagle.com
 dubaipoit.com
 dubaipoliauey.top
@@ -156704,6 +156712,7 @@ fearlesbensadersad.com
 fearlesbensenevocan.duckdns.org
 fearlescanasddas.com
 fearleskes.com.tr
+fearleskkaasdfg.com
 fearlesndandess.com
 fearlessbasvurusayfasi.duckdns.org
 fearlessdersecan.com
@@ -160466,6 +160475,7 @@ firsatlarkacmazki.com.tr
 firsatlarkacmazki.net.tr
 firsatlarkacmazki.org.tr
 firsatlarkacmazki.site
+firsatlarkampanyada.duckdns.org
 firsatlarkampanyasi-onlineozel-kampanya.com
 firsatlarkapida-online.shop
 firsatlarkapida2025.site
@@ -229714,6 +229724,7 @@ kampanyahizmetlermz.net
 kampanyai.online
 kampanyaicinbancemobildenbasvur.tech
 kampanyaicinbasvuruadresibance.tech
+kampanyailanlarimiz.com
 kampanyaindirim.net
 kampanyaindirimonline.com
 kampanyaisbak-800tl-basvur-online.ml
@@ -304962,6 +304973,7 @@ pttyapiyozgonderilertakip.info
 pttyeniavm.com
 pttyerliurunler.my
 pttygov-tr.top
+pttygov.cfd
 pttygovtr.top
 pttyiu.top
 pttym.ink
@@ -310253,6 +310265,7 @@ ranadevuhizmet.net
 ranadevuhizmeti.net
 ranadvu.net
 ranal.net
+ranbntrs.click
 ranchaugmentation.top
 ranchdiscourse.top
 ranchomit.top
@@ -312198,6 +312211,7 @@ redmideindirimdesongun.sbs
 redmifirsatlari.com.tr
 redmifirsatlari.xyz
 redmifirsatlarihizlicakapinizda.my
+redmilia1oo1de.duckdns.org
 redmininfirsatlariburada.cfd
 redmininfirsatlariniburadanalicaksin.cfd
 redmininfirsatlariniburadanalicaksin.sbs
@@ -324420,6 +324434,7 @@ saydik-gorduk-sende-katil-bizlere.xyz
 sayembarapolitikkuda.duckdns.org
 sayesodeme.tk
 sayfa-a101.xyz
+sayfa-carafoursa.vercel.app
 sayfa-carrefoursa.vercel.app
 sayfa-girisleri-basvuru-olustur-yeni-giris-iadeler.xyz
 sayfa-girisleri-basvuru-olustur-yeni-giris.xyz
@@ -328832,6 +328847,7 @@ sepetingunleri.com
 sepetinhazir.click
 sepetinhazir.online
 sepetinhazir.store
+sepetinhazire.click
 sepetini-tamamla.xyz
 sepetinindirimsezonsonu.xyz
 sepetiniz-tr.online
@@ -329009,6 +329025,7 @@ septtealisriskolay.net
 septtealisriskolay.org
 septtealisriskolay.store
 septtealisriskolay.xyz
+septtefrfsl.com
 septtekampanya.click
 septtekampnya.org
 sepufije.com
@@ -334508,6 +334525,7 @@ simditatilzamani.online
 simdivurmavaktidir.tk
 simdiyap.com
 simdiyenigeldik.net
+simdiyetisinkazanin.cfd
 simdiyukle.araba-fiyatlari.com
 simdiyukle.life
 simdiyuklee.com
@@ -334924,6 +334942,7 @@ siparis-onayli-115538.com
 siparis-onayli-115539.com
 siparis-onayli-115544.com
 siparis-onayli-115548.com
+siparis-onayli-115549.com
 siparis-paramguvende.com
 siparis-pay.online
 siparis-pttavm.com.tr
@@ -338396,6 +338415,7 @@ sokhizlialisverise.com.tr
 sokilbaharfirsatlari.online
 sokile-baharsendebasliyor.duckdns.org
 sokilebaharda-kapinda.duckdns.org
+sokileindrimliali.com
 sokiletisim.net.tr
 sokileyeniyilfirsatlar.info
 sokindiirimleer.com
@@ -340056,6 +340076,7 @@ soossyalknttbasvrr.online
 sootheendorse.top
 soothesubsidize.top
 sopbsvururcr.shop
+sopefodkn.click
 soperveket.com
 sopfldcni.com
 sopgez.net
@@ -341734,6 +341755,7 @@ spetinizicinvarizbizde.com
 spetlerburdasiznicin.com
 spetlerdeyizbrlardayiz.com
 spetlerinizcnburalardayiz.com
+spetlerinizdeyizbralardayiz.com
 spetlerinizdeyizbzde.com
 spetlerinizdeyzbzlerde.com
 spetlerinizicnbrdayiz.com
@@ -350343,6 +350365,7 @@ tanaidu.com
 tanakakanuyrat.club
 tanati.co.za/db-config-ini.php
 tanati.co.za/db_template.php
+tanbntrs.click
 tanc354.xyz
 tancarskiralama.com
 tancredis.com
@@ -358904,7 +358927,9 @@ tombalikoyununrenkleri.xyz
 tombalikoyunvecocuk.xyz
 tombalikvedostlukhikayeleri.xyz
 tombalikvehayalinrenkleri.xyz
+tombankasi101.cfd
 tombankasi101.pics
+tombankasi101.sbs
 tombankhaydi.cfd
 tombankhaydi.click
 tombankhaydi.icu
@@ -409002,6 +409027,7 @@ yazfirsatlaribnnglblde.net
 yazfirsatlariburadaguncel.com.tr
 yazfirsatlariburda.shop
 yazfirsatlarigarantidir.com
+yazfirsatlarim-sok.cfd
 yazfirsatlarim.com
 yazfirsatlarimilesok.cfd
 yazfirsatlarimsokmaarket.cfd
