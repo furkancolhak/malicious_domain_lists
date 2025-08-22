@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-22T19:05:12.741196
+# Updated: 2025-08-22T20:05:12.285388
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -29809,6 +29809,7 @@
 88.99.242.92
 88.99.66.31
 880lea.duckdns.org
+88115188815888.duckdns.org
 88145618e9d4.com
 881587818.com
 8816.hopto.org
@@ -63341,6 +63342,7 @@ avrbx7co.duckdns.org
 avrestauwinroas2.duckdns.org
 avrnlhgwso.duckdns.org
 avrobolgecuzdankayitsorgulama.line.pm
+avroragiftstore.com
 avrorcxzym.com
 avrupabaski.com/yillik/cmsal2017/connection.php
 avrupadestekfonlari.org
@@ -125082,6 +125084,7 @@ dijitalislemim.com
 dijitalislemler-denizacik.com
 dijitalislemler-ziraatbireysel.com
 dijitalislemler-ziraatbireyselgiris.com
+dijitalislemler-ziraatbireyselweb.com
 dijitalislemler-ziraatislemler.com
 dijitalislemler-ziraatkampanyaweb.site
 dijitalislemler.xyz
@@ -238069,6 +238072,7 @@ kmsrlgmasdjm.click
 kmsrogu.xyz
 kmsrogulamaefecakir.web.app
 kmsrogulamayaphemngovpttszssazq.com
+kmsrogulasdhizeptpt.store
 kmsrogulmayaphembgovtprtrzaa.com
 kmsrogusugovptthyaphmnsz.com
 kmsrogusuyapgovpttszsa.duckdns.org
@@ -263105,6 +263109,7 @@ motosonuc.ml
 motovzbiz.b-cdn.net
 motown-player.com
 motown-space.com
+motpack.com
 motrlutasitv3rgisi.org
 motrush.com
 motrvolt.net
@@ -295165,6 +295170,7 @@ petrolkar.com
 petroll-ofisiii-2024.online
 petroll-tr.com
 petroll.site
+petrollem.com
 petrolleri-growth.com
 petrolleri-invest.com
 petrolleri-investing.info
@@ -346190,6 +346196,7 @@ subesiz-giris.pw
 subesiz-giris.site
 subesiz-giris.website
 subesiz-girisler.com
+subesiz-girisler.vercel.app
 subesiz-girislerim.com
 subesiz-girisonay.xyz
 subesiz-iadem.xyz
