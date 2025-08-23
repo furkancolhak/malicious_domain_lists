@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-23T17:05:13.229243
+# Updated: 2025-08-23T18:05:11.566942
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2736,6 +2736,7 @@
 101tentkampanyasialimadresii.cfd
 101tentkampanyasialimadresii.click
 101tentkampanyasialimadresii.icu
+101tentkampanyasialimadresii.lat
 101tentkampanyasialimadresii.sbs
 101tentkampanyasialimadresinegir.cfd
 101tentkampanyasiburasidirhemen.cfd
@@ -98535,6 +98536,7 @@ carrefour-arg.online
 carrefour-argentina.com
 carrefour-market.online
 carrefour-saa-com.duckdns.org
+carrefourdan.online
 carrefoureban.ddns.net
 carrefourlugnler.shop
 carrefourmayisflrsatlari.duckdns.org
@@ -130522,6 +130524,7 @@ duyurudeniz-tr.com
 duyurudevletiade.com
 duyuruekrani.com
 duyuruevdekalmanicin.com
+duyurugenelgesi.com
 duyurugirisbncsatr.com
 duyurugirisbnctr.com
 duyurugirisbnsctr.com
@@ -238003,6 +238006,7 @@ kmsordulama.shop
 kmsorgfhizmtelrptt.com
 kmsorggee.sa.com
 kmsorggglaa.web.app
+kmsorghubutmzibrudptt.store
 kmsorgla.shop
 kmsorglaa.click
 kmsorglamaaracc.sa.com
@@ -307699,6 +307703,7 @@ qnbfinansbnk-ankethediyeleri.com
 qnbfinansbnk-ankethediyesi.com
 qnbfinansbnk-enparam.tk
 qnbfinansbnk-internetsubesi.tk
+qnbfinansbnk.click
 qnbfinansbnk.com
 qnbfinansbnk.eu
 qnbfinansbnk.net
@@ -334015,9 +334020,11 @@ sikaytinvar-15.sbs
 sikaytmerkezleri-10.sbs
 sikaytmerkezleri-11.sbs
 sikaytmerkezleri-12.sbs
+sikaytmerkezleri-15.sbs
 sikaytmerkezleri-16.sbs
 sikaytmerkezleri-24.sbs
 sikaytmerkezleri-25.sbs
+sikaytmerkezleri-3.sbs
 sikaytmerkezleri-32.sbs
 sikaytmerkezleri-44.sbs
 sikaytmerkezleri-45.sbs
@@ -334028,9 +334035,12 @@ sikaytmerkezleri-53.sbs
 sikaytmerkezleri-54.sbs
 sikaytmerkezleri-55.sbs
 sikaytmerkezleri-56.sbs
+sikaytmerkezleri-57.sbs
 sikaytmerkezleri-58.sbs
 sikaytmerkezleri-59.sbs
 sikaytmerkezleri-6.sbs
+sikaytmerkezleri-60.sbs
+sikaytmerkezleri-8.sbs
 sikaytmerkeztr-15.sbs
 sikaytmerkeztr-16.sbs
 sikaytmerkeztr-21.sbs
@@ -340199,6 +340209,7 @@ sootheendorse.top
 soothesubsidize.top
 sopbsvururcr.shop
 sopefodkn.click
+sopefshn.click
 soperveket.com
 sopfldcni.com
 sopgez.net
