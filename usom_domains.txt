@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-23T04:05:12.016654
+# Updated: 2025-08-23T05:05:12.827544
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -198734,6 +198734,7 @@ hizlitramersorgulama.blogspot.com
 hizlitrbnnrcgirsleri.com
 hizlitrmersrglma.net
 hizlitrmrr.net
+hizlitukenecek.xyz
 hizlitukenenaraclar.com
 hizlituketimaraclari.com
 hizlituketimfirsatlari.com
@@ -241411,6 +241412,7 @@ kureseicq5.com
 kurgecisleriodemesiavih.xyz
 kurgizgcsdokamen.net
 kurgu-haber.club
+kurgucuk.org
 kurguhaber.club
 kuriptoldrve.com
 kurjerserviss.com
