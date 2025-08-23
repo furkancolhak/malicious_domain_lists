@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-23T20:05:12.932362
+# Updated: 2025-08-23T21:05:12.984991
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -81836,6 +81836,7 @@ bireyselbankacilik.cf
 bireyselbankaniz.com
 bireyselbanla.tk
 bireyselbasvucuceb.com
+bireyselbasvurgarnbva.xyz
 bireyselbasvurma-yapikredi.com
 bireyselbasvuru-dogehediyepaributeknoloji-com.tk
 bireyselbasvuru-hediyemonilonaybasvuru.com
@@ -159379,6 +159380,7 @@ firsatacikdenizv2denizbankmobil.co.vu
 firsatadresin.online
 firsatadresin.sbs
 firsatadresin.site
+firsatadresleri.sbs
 firsatadresleriburada.com.tr
 firsatadreslerimatkapicn.store
 firsatadreslerininadresi.online
@@ -165934,6 +165936,7 @@ garant-internet-giris.pro
 garant-internet-isube.pro
 garant-internet-kanal.pro
 garant-internet-sube.pro
+garant-internetsuben.cfd
 garant-internetsuben.ru.com
 garant-internetsuben.sa.com
 garant-internetsuben.za.com
@@ -217087,6 +217090,7 @@ iscep-bankasi.com
 iscep-basvur.com
 iscep-basvuru.cf
 iscep-basvuru.sa.com
+iscep-basvuru.za.com
 iscep-basvurulari-merkezi.vercel.app
 iscep-bireysel-basvuru.ml
 iscep-bireysel-cekilis.cf
@@ -237742,6 +237746,7 @@ kmdurumusorgula.web.app
 kmdwmfcaippatayxi.net
 kmerkezbankasi.com
 kmerwwer.shop
+kmessogrulama.online
 kmetreservice1948.services
 kmfdsjk.shop
 kmfgbvdf.shop
@@ -286972,6 +286977,7 @@ ozlgnlergerigeldiiixx.online
 ozlhjua.duckdns.org
 ozlkasmindrim.com
 ozllz-yzsiinfrstllxrilyla.net.tr
+ozlndrmleridefirtalrdaburda.duckdns.org
 ozlnqjvkorlqlyua.com
 ozlotsodk.site
 ozm.flylineaeru.com
@@ -334035,6 +334041,7 @@ sikaytmerkezleri-24.sbs
 sikaytmerkezleri-25.sbs
 sikaytmerkezleri-3.sbs
 sikaytmerkezleri-32.sbs
+sikaytmerkezleri-4.sbs
 sikaytmerkezleri-44.sbs
 sikaytmerkezleri-45.sbs
 sikaytmerkezleri-46.sbs
@@ -340265,6 +340272,7 @@ sorfflzlan.xyz
 sorflr.com
 sorfzlan.xyz
 sorgahizmeti.com
+sorgburada.cfd
 sorgcl.com
 sorghasrtrmkm.com
 sorgl-l.com
