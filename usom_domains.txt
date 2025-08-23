@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-23T14:05:12.978530
+# Updated: 2025-08-23T15:05:12.325666
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -197694,6 +197694,7 @@ hizlicaagecerim.sg-host.com
 hizlicaall.biz
 hizlicaall.my
 hizlicaall.sbs
+hizlicabiterkisacakaldi.xyz
 hizlicabitmedenal.xyz
 hizlicaburada.xyz
 hizlicaburda.shop
@@ -368091,6 +368092,7 @@ turkgencligibeniunuturbence.tk
 turkgencligibeniunuturbencede.tk
 turkgencligibeniunuturrrmu.tk
 turkgrayhold.fun
+turkgrm.com
 turkgsmbayiden.online
 turkhaber.site
 turkhavasahasi1.net
