@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-24T21:05:11.186679
+# Updated: 2025-08-24T22:05:12.776234
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43900,6 +43900,7 @@ agustosdenizi.ml
 agustosdenizim.cf
 agustosduyuruaidat-tc.com
 agustosduyuruaidat-tr.com
+agustose-bitisid-tkelfierb.shop
 agustose-bitisid-tkelfierb.store
 agustosefsaneflrsatlarikapinda.store
 agustosefsaneflrstalari.store
@@ -160214,6 +160215,7 @@ firsatlar101leyilsonunda.com
 firsatlar101online.com
 firsatlar2019da.tk
 firsatlar2022.net
+firsatlar2232.com.tr
 firsatlara-basvur.online
 firsatlara.duckdns.org
 firsatlaradahilolunhemen.xyz
@@ -238075,6 +238077,7 @@ kmrmasdanfirsaktkiwi24sports.shop
 kms-win11-update.net
 kmsa1gncl.com
 kmsaaero.com
+kmsacfas.com
 kmsacfas.online
 kmsasograsnen.net
 kmsaza-nsmdas.net
@@ -300532,6 +300535,7 @@ profranco.hopto.org
 profrtgroupnaniio.duckdns.org
 profsjtasr.duckdns.org
 profsjtrars.duckdns.org
+profssseeddeenbensen.duckdns.org
 proftakipci.com
 profterstkest.click
 profvkfprof.duckdns.org
@@ -318600,6 +318604,7 @@ sadecebuguneozelkampanyalar.xyz
 sadecebuhafta.xyz
 sadeceburadanyapilir.org
 sadeceburda.duckdns.org
+sadeceburdafirsatgeldi.duckdns.org
 sadecebuyukkampanyalar.com
 sadecefirsatlar.com
 sadecegir.gq
@@ -335323,6 +335328,7 @@ siparislerin30temmuzda.cloud
 siparislerindehizlan25temmuzda.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
+siparislerindenagustostaaa24.cloud
 siparislerinhizlandi25temmuzda.cloud
 siparislerinhizlandiryarinda29.cloud
 siparislerinhizlanir20bucukda.cloud
@@ -342185,6 +342191,7 @@ spnden-accnnt-set2568pj.duckdns.org
 spnden-accnnt-set7154ba.duckdns.org
 spnden-accnnt-set7362pj.duckdns.org
 spnden-accnnt-set7854pj.duckdns.org
+spnnsrllrabascurugar.online
 spnosgltuvkgvkf.com
 spnoslrlubvkfrklam.com
 spnoslzrisronhemn.com
