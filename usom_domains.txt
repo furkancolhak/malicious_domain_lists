@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-24T14:05:13.903124
+# Updated: 2025-08-24T15:05:13.052421
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -23916,6 +23916,7 @@
 55500055.net
 55500255.cloud
 555050050500001.cloud
+55511253255.duckdns.org
 55515151641.cloud
 5552155885.cloud
 555235235233225.xyz
@@ -82074,6 +82075,7 @@ bireyselgirisler-mobil.com
 bireyselgirisler-yapikredi.com
 bireyselgirisler.com
 bireyselgirisler.net
+bireyselgirislergrnbva.xyz
 bireyselgirisleri-yapikredi.com
 bireyselgirismobildeniz.cf
 bireyselgirissler.com
@@ -98632,6 +98634,7 @@ carrentfilo.com
 carrentina.xyz
 carrentpegasus.comtr-tr.xyz
 carreyazaylari.online
+carreyazaylari.xyz
 carrfeourfirsat.shop
 carrfeourfirsatlari.shop
 carrfor-sa.com.tr
@@ -188149,6 +188152,7 @@ hatefulintermediary.top
 hater3395.zapto.org
 haterbabalarslejm.net
 hatexpedition.top
+hatfagbn.click
 hatgecis.com
 hatgutifi.com
 hathenketjohn.com
@@ -229682,6 +229686,7 @@ kampanyadiyarinahosgeldiniz.site
 kampanyadnzbnkduyuru.co.vu
 kampanyadnzbnkduyuru.com
 kampanyadnzmobilkredionay.net
+kampanyadogrula.com
 kampanyadonemi.com
 kampanyadoviz-acikdenizbank.com
 kampanyadresleriburada.xyz
@@ -279829,6 +279834,7 @@ onl1neb1mcelp4ketyukle.com
 onl1nemlgros.shop
 onl1nerandevualxd.net
 onlalnie-xmrkktfirstllrifyla.net.tr
+onlaozelreklamfirsatlari.ddnsgeek.com
 onlari-unutmayanlarin-sonunda-yine-gorusecegi.top
 onlarin-bildigi-buralara-kadarini-gorunen-alir.com
 onlay3islemleriniz.xyz
