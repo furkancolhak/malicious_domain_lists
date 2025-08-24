@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-24T15:05:13.052421
+# Updated: 2025-08-24T16:05:11.854152
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -68480,6 +68480,7 @@ basvurnrs.xyz
 basvurnrz.com.tr
 basvurnrz.cyou
 basvurnrz.xyz
+basvurnsm.com.tr
 basvurnsm.xyz
 basvurnsz.com.tr
 basvurnsz.cyou
@@ -88888,6 +88889,7 @@ bnncss5343-4634523-34bn.com
 bnncsstrwebgiris.com
 bnncstraccountstr.online
 bnncstrgrc.vercel.app
+bnncsxsdtrsf.vercel.app
 bnncsxtrk.vercel.app
 bnnct.r-54224905.com
 bnnctrkzznmla.com
@@ -98635,6 +98637,7 @@ carrentina.xyz
 carrentpegasus.comtr-tr.xyz
 carreyazaylari.online
 carreyazaylari.xyz
+carreyazfirsatgunleri.online
 carrfeourfirsat.shop
 carrfeourfirsatlari.shop
 carrfor-sa.com.tr
@@ -294131,6 +294134,7 @@ pazazta.com/app/icon.png
 pazmzllxww.duckdns.org
 pazovet.com
 pazrgnund.shop
+pazrlmktrlsrtrrrkm.online
 pazrtesialdinaldintestere.xyz
 pazrtsmrkt-864.com
 pazrtsmrktrs-675.com
@@ -338452,6 +338456,7 @@ sok-market-indirim.cfd
 sok-market-online.com
 sok-market-sepet.cfd
 sok-market-sihir.cfd
+sok-market-sokakta.cfd
 sok-market-yolda.cfd
 sok-market-zamani.cfd
 sok-market.com
