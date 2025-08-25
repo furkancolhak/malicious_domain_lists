@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-25T17:05:13.318201
+# Updated: 2025-08-25T18:05:12.455537
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -96578,6 +96578,7 @@ byservicesmm.xyz
 bysgrf74gfi486tguyk.com
 bysho.html-5.me
 bysoftware.services
+bysunucum.com
 bytbbvahemenislem.hopto.org
 byte-tech.sbs
 byte.inteleksys.com
@@ -147269,6 +147270,7 @@ enhizliislemler.net
 enhizliislemleritamamla.com
 enhizlikampanya.com
 enhizlikimben.com
+enhizlikmsorglarim.web.app
 enhizlikredibizimle.click
 enhizlipayfix.com
 enhizliraatgris.duckdns.org
@@ -147300,6 +147302,7 @@ enigmax.space
 enikieylulind.xyz
 enikos.news
 enimaterials.com
+enindirimgunler.com.tr
 eningeorg.ddns.net
 enionlinesistemler.com
 enis2.space
@@ -214270,6 +214273,7 @@ internetlyukle.net
 internetmailservice-tr.boxmode.io
 internetmarket.online
 internetmarketkampanyalari.cfd
+internetmarketkampanyalari.icu
 internetmarketkampanyalari.sbs
 internetmerkezi.seninsiten.art
 internetmobil--finans.com
@@ -221704,6 +221708,7 @@ iyi-ve-mutlu-bir-hayat-topraginda.top
 iyiaksamlartrmsorgu.net
 iyialisverisler-d-dileriz.lol
 iyibayramlarherkese.com
+iyibirhost.cloud
 iyibirsaglikicinsosyalmasafekoru.online
 iyiden-sevinirsin-seninle-bizi-sevindir.com
 iyiden-temiz-hissedip-tekrara-gelin.com
@@ -238203,6 +238208,7 @@ kmshssrxvr.net
 kmsizinleburada.net
 kmskanteonlinesrgu.xyz
 kmslerburdan.cfd
+kmslertamburda.cfd
 kmslkcmas.com
 kmslktmsnc.com
 kmsmakmkaask.net
@@ -238342,6 +238348,7 @@ kmsrglmaychp.web.app
 kmsrglmma.com
 kmsrglynzzz.com.tr
 kmsrgolamaypalaimgovtrd-d.com
+kmsrgolmayapgovvysza.duckdns.org
 kmsrgolmayapgovysza.duckdns.org
 kmsrgouglamyapgovhemenpttz.com
 kmsrgoulamyaplimhmgovptdswq.duckdns.org
@@ -387451,6 +387458,7 @@ web-interaktif-login.com
 web-internet-edevletdestek.com
 web-internet-online-digital.com
 web-intstallegiris-portal.tk
+web-is-ekrani-2025.site
 web-islem-basvuru-degerlendirme.life
 web-islem-sonucla.me
 web-islem-sonuclandirma.com
