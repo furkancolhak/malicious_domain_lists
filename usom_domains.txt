@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-25T09:05:14.824997
+# Updated: 2025-08-25T10:05:16.301524
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5956,6 +5956,7 @@
 142515541122545556991.xyz
 142515541122545556992.xyz
 142515541122545556993.xyz
+1425155559998891.xyz
 1425415588560.xyz
 1425462659652960.xyz
 1425516554564480.xyz
@@ -62689,6 +62690,7 @@ avantajmerkezleriniz.xyz
 avantajnoktasi.xyz
 avantajpazar.com.tr
 avantajsarayi.xyz
+avantajsenin.click
 avantajsitelerim.site
 avantajvefirsatzamanisimdi.com
 avantajykle.info
@@ -179165,6 +179167,7 @@ guncelsikayetimvar.com
 guncelsikayetin-13.sbs
 guncelsikayetin-20.sbs
 guncelsikayetin-25.sbs
+guncelsikayetin-4.sbs
 guncelsikayetincom.app
 guncelsikayetini.com
 guncelsikayetinizvar.app
@@ -234004,6 +234007,7 @@ kayserharikalardiyarinda.blogspot.com
 kayserikart38.net
 kayserili3d.xyz
 kayserimalazgirtantalya.tk
+kayserimantisi.cfd
 kayseriulasim-onlineislemler.de
 kaytacon.cf
 kaytenro.hopto.org
@@ -238157,6 +238161,7 @@ kmsorgula3-94f50d998d48.herokuapp.com
 kmsorgula4-e0a6de0728c2.herokuapp.com
 kmsorgula5-6dd586ac721f.herokuapp.com
 kmsorgulaamaonnnline.online
+kmsorgulabsrbdusd.com
 kmsorgulagulyan.com.tr
 kmsorgulagulyan.shop
 kmsorgulahemengov-tr.duckdns.org
@@ -334179,6 +334184,7 @@ sikaythizmetleri-58.sbs
 sikaythizmetleri-59.sbs
 sikaythizmetleri-6.sbs
 sikaythizmetleri-60.sbs
+sikaythizmetleri-7.sbs
 sikaythizmetleri-8.sbs
 sikaytinvar-15.sbs
 sikaytmerkezleri-1.sbs
@@ -339577,6 +339583,7 @@ sonbuyukfirsatlarveurunler.xyz
 sonbyramindrimleri1o1.shop
 soncarreayindirimleri.online
 soncarreayindirimleri.xyz
+soncarreayinurunleri.online
 soncarrefoursafirst.shop
 soncarreindirimi.xyz
 soncikanetkinliklerisorgulayin.net
