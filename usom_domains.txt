@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-25T04:05:12.750893
+# Updated: 2025-08-25T05:05:13.481258
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -143143,6 +143143,7 @@ egypt.basketball
 egypt.zapto.org
 egyptanimals.com
 egypthelp.online
+egypttpost.ink
 egyqaz.com
 egyvwwpcktsiojuk.com
 egzersizmerkezi.online
@@ -302044,6 +302045,7 @@ ptt-go-vs.top
 ptt-go.top
 ptt-go.xyz
 ptt-goa-tr.top
+ptt-goa.one
 ptt-goa.top
 ptt-goae.shop
 ptt-goat.top
@@ -304775,6 +304777,7 @@ pttlendkargso.net
 pttlerdeodemslibb.com
 pttlerhizli-odemelervizli.com
 pttleriblibb.com
+pttlesp.ink
 pttlgov.ink
 pttlgov.live
 pttlgov.one
@@ -370063,6 +370066,8 @@ turshopnowonlineee.online
 tursiteptts.help
 tursktelekomtlyukleme.net
 tursolution.pw
+tursptt-184.shop
+tursptt-184.top
 turspttagov.shop
 turspttagovt.shop
 turspttcgov.shop
