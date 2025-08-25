@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-25T16:05:12.080804
+# Updated: 2025-08-25T17:05:13.318201
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -910,6 +910,7 @@
 0ee4eoae8.duckdns.org
 0ee8sg0d.duckdns.org
 0ehih9.duckdns.org
+0ekr4pgy0fx1xl6.name
 0ekypnaji.duckdns.org
 0emqti1q.duckdns.org
 0emvi12i.duckdns.org
@@ -5962,6 +5963,7 @@
 1425155559998892.xyz
 1425155559998893.xyz
 1425155559998895.xyz
+1425155559998896.xyz
 1425415588560.xyz
 1425462659652960.xyz
 1425516554564480.xyz
@@ -7608,6 +7610,7 @@
 164.155.205.99
 164.215.103.143
 164.215.103.20
+164.215.103.55
 164.215.59.62
 164.52.24.164
 164.52.24.171
@@ -10988,6 +10991,7 @@
 194.195.86.249
 194.195.89.47
 194.195.90.179
+194.213.18.89
 194.213.3.25
 194.219.244.19
 194.233.65.92
@@ -11739,6 +11743,7 @@
 198.46.140.52
 198.46.158.172
 198.46.161.242
+198.46.178.135
 198.46.209.159
 198.49.75.130/bins
 198.50.135.105
@@ -21351,6 +21356,7 @@
 45.86.208.240
 45.86.230.20
 45.86.230.64
+45.86.230.77
 45.86.54.206
 45.86.86.60
 45.87.153.50
@@ -29476,6 +29482,7 @@
 85.239.33.149
 85.239.34.174
 85.239.52.96
+85.239.52.99
 85.239.53.219
 85.239.60.40
 85.239.61.60
@@ -98576,6 +98583,7 @@ carreefursazamni.com
 carreerfours.online
 carreeylulaylari.cfd
 carreeylulaylari.xyz
+carreeylulaylarikampanya.online
 carreeylulaylarikampanya.sbs
 carref0ur.sa.com
 carref0ursa.net
@@ -105601,6 +105609,8 @@ clothingrefuge.top
 clothislem.22web.org
 clotiahs.info
 cloubfiare.net
+cloud-233f9.firebaseapp.com
+cloud-233f9.web.app
 cloud-analyzer.com
 cloud-authorize.com
 cloud-cdn.org
@@ -105611,6 +105621,8 @@ cloud-documents.com
 cloud-drive.geo-news.tv
 cloud-drive.live
 cloud-drive.store
+cloud-ed980.firebaseapp.com
+cloud-ed980.web.app
 cloud-front-gateway.cc
 cloud-intuit.ddns.net
 cloud-jquery.com
@@ -153263,6 +153275,7 @@ evnvasad-dgdi.com
 evoasdjurm.duckdns.org
 evobabayetoasdas.duckdns.org
 evobasvurusayfasi.duckdns.org
+evocanbenselamcasss.duckdns.org
 evocancanasdsenmala.duckdns.org
 evocanfleskhomenesad.cloud
 evodofone-faturatodemenktasi.tk
@@ -176070,6 +176083,7 @@ googieaccount.top
 googiedrivers.com
 googiemanager.com
 googilala.ddns.net
+googl-165a0.web.app
 googl-6c11f.firebaseapp.com
 googl-6c11f.web.app
 googl-e.top
@@ -192480,6 +192494,7 @@ hepucuz-carsamba.top
 hepucuzcokucuzal.sbs
 hepucuzcokucuzindirimler.cfd
 hepucuzcokucuzindirimler.sbs
+hepucuzcokucuzindirimlercom.sbs
 hepucuzhepucuz.cfd
 hepucuzhepucuz.sbs
 hepvartekvarsenvar.tk
@@ -210822,6 +210837,7 @@ indiba-africa.co.za//db_template.php
 indiba-africa.co.za/db_template.php
 indiba-africa.co.za/includes/db-config-ini.php
 indiba-africa.co.za/wp-config-ini.php
+indibindidalabakaldi.sbs
 indibnden.store
 indicasativas.com
 indicateactress.top
@@ -214253,6 +214269,8 @@ internetloginjsp.com
 internetlyukle.net
 internetmailservice-tr.boxmode.io
 internetmarket.online
+internetmarketkampanyalari.cfd
+internetmarketkampanyalari.sbs
 internetmerkezi.seninsiten.art
 internetmobil--finans.com
 internetmobil-qnbfinans.com
@@ -218413,6 +218431,7 @@ isntr.com
 isnvnkart.blogspot.com
 isnx38r.duckdns.org
 isnxdlrmslxncmdlrixcmlrdmsl.com.tr
+isnxdlrmslxncmdlrixcmlrdmsl.xyz
 isnxdmrlsnmdmnrm.website
 isnxdrmlsrmbnldrm.space
 isnxldmrlsmnbmxnbdnmb-3lzlds3.online
@@ -246250,6 +246269,7 @@ listfoo.org
 listmerkez.xyz
 listospordi.duckdns.org
 lisxdbnrmdlmrnsmdlrms.com.tr
+lisxdbnrmdlmrnsmdlrms.online
 liszjnvz.info
 litby.us
 litchrlet.owlickelea.ru
@@ -267163,6 +267183,7 @@ my-redirect.online
 my-rise.cc
 my-scribdinc.online
 my-sercou.ddns.net
+my-sharepoint-inc.com
 my-shopsale.com
 my-sso----itrustcapital-login.webflow.io
 my-sso--itrustcapitall--com-auth--h.webflow.io
@@ -267189,6 +267210,7 @@ my1-members1stfcu.duckdns.org
 my10bwy.com
 my190.info
 my1anzlogin304.duckdns.org
+my1cloudlive.com
 my1drv.live
 my1drv.online
 my1empire.duckdns.org
@@ -267198,6 +267220,7 @@ my1story.xyz
 my1stpandorabox.website
 my1workforce.ddns.net
 my2apcianosefoc.hopto.org
+my2cloudlive.com
 my333bwy.com
 my365maujanivagoalsr.duckdns.org
 my53rdbank.hopto.org
@@ -327686,6 +327709,7 @@ seemingradiant.top
 seemruush.com
 seemsynthesise.top
 seemtimid.top
+seemysitelive.store
 seencobeata.duckdns.org
 seenga.com
 seenjaneax.live
@@ -334275,9 +334299,11 @@ sikaytmerkezleri-16.sbs
 sikaytmerkezleri-17.sbs
 sikaytmerkezleri-21.sbs
 sikaytmerkezleri-22.sbs
+sikaytmerkezleri-23.sbs
 sikaytmerkezleri-24.sbs
 sikaytmerkezleri-25.sbs
 sikaytmerkezleri-26.sbs
+sikaytmerkezleri-27.sbs
 sikaytmerkezleri-28.sbs
 sikaytmerkezleri-29.sbs
 sikaytmerkezleri-3.sbs
@@ -363744,6 +363770,7 @@ trcep-bn-tekno-giris2022cfa.ertenler.club
 trcepprbdestek-prbbx2022.com
 trcepte-tebde.com
 trceza.org
+trcezamasak.com
 trcgbest.is-best.net
 trchery.com.tr
 trcilingir.com
@@ -387182,6 +387209,7 @@ web--support---sso-ledger.webflow.io
 web--support--cryptcom.webflow.io
 web--support-c-crypto.webflow.io
 web--trezorvoul--web.webflow.io
+web-16fe.app
 web-20gbinternetbasvuru.com
 web-20gbinternetkazan.com
 web-3000tl-pandemi-destek.com
