@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-26T07:05:14.187645
+# Updated: 2025-08-26T08:05:13.764833
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -468,6 +468,7 @@
 044004400444.duckdns.org
 04441235044204.duckdns.org
 04442525-444999.com
+04445455458440.duckdns.org
 0458939-234903.net
 045nnztom.duckdns.org
 04788t.duckdns.org
@@ -2232,6 +2233,7 @@
 101decumaindirimibasladi.duckdns.org
 101dee.com
 101dee.org
+101defirsatyakala.com
 101degeldikampanyada.app
 101deki.com
 101deki.icu
@@ -25678,6 +25680,7 @@
 666123646324666.com
 666221666.cloud
 666253235235.xyz
+666264466656.duckdns.org
 66628918.com
 6663332226.cloud
 666333444555666.com
@@ -26934,6 +26937,7 @@
 7177465465464.site
 717765465.cloud
 717773554654.cloud
+717774455777.duckdns.org
 71777546.cloud
 717777.cloud
 7177787875445.cloud
@@ -51391,6 +51395,7 @@ aldinaldinizkampanyalar.online
 aldinaldinizkampanyalar.org
 aldinaldinizkampanyalar.site
 aldinaldinkacirma.net
+aldinaldinkacmazbunlar.sbs
 aldinaldinkampanya.com.tr
 aldinaldinkampanya.online
 aldinaldinkampanya.shop
@@ -67594,6 +67599,7 @@ basariinn.com
 basarikalitesi.online
 basarikokusu.space
 basarili-servis.com.tr
+basarilibiradim.online
 basarilibirsekildealinmistir.click
 basarilifirsat.online
 basariligenc.com
@@ -84261,6 +84267,7 @@ bizimle-guzel-anlari-burda-sizinle-gorecegiz.com
 bizimle-olan-hep-artida-deneyip-kesfet.online
 bizimle-olmadan-mantikli-hicbir-sey-bitmez.com
 bizimle.online
+bizimle1o1len.online
 bizimleberaberbakinnelervar.shop
 bizimleberaberbuhaftagelin.net
 bizimleberabergelmelisiniz.net
@@ -89431,6 +89438,7 @@ bntr2025bntr2025bntr2025bntr2025bntr2025.shop
 bntr549434235423215.tech
 bntr6yil.com
 bntr6yil.xyz
+bntrabbn.click
 bntrapp.com
 bntrappk.vercel.app
 bntrbasvuru.com
@@ -94483,6 +94491,7 @@ buradandevamm.net
 buradandurumogren.sa.com
 buradanfaydalan.net
 buradanfirsatlarialicaksin.cfd
+buradanfirsatlarialicaksin.sbs
 buradanfirsatlarintakensineulasirsiniz.com.tr
 buradangerceklestir.com
 buradangirsende.online
@@ -112966,6 +112975,7 @@ cyberturk.zapto.org
 cybertux354.ddns.net
 cyberwxw.ddns.net
 cyberzak.zapto.org
+cybratech.cfd
 cybridge.xyz
 cybuzbcupm.duckdns.org
 cybwpz1.duckdns.org
@@ -114009,6 +114019,7 @@ danismankaydim.online
 danismankayit.online
 danismankayitlarimiz.online
 danismanlikodemesistemi.com
+danismaofisi.com
 danito.rs
 danizabank.xyz
 danizbanlk.com
@@ -129775,6 +129786,7 @@ dropkaplani.com.tr
 dropostaptale.hopto.org
 dropoutepidemic.top
 droppedhack.ddns.net
+droppilo.com
 dropsausas.com
 dropsecure.ddns.net
 dropsober.top
@@ -164863,6 +164875,7 @@ futureprofocus.online
 futurequick.online
 futurerash.top
 futuresfurnitures.com
+futuresmart24.top
 futuresstep.com
 futuresteirs.com
 futurestream24.online
@@ -164873,6 +164886,7 @@ futuretrendsxyz.xyz
 futureuniform.ca
 futurevisionsite.site
 futurevisiontechnologies.site
+futureway24.online
 futurisehub.com
 futurist2.ddns.net
 futurist40.ddns.net
@@ -169899,6 +169913,7 @@ gcss-hwwx.net
 gcss-hwwy.net
 gcsslrvrghytmtv.com
 gctdhul.com
+gctju.site
 gctrnkiiwt.duckdns.org
 gcvuqxqlnw.duckdns.org
 gcxspkxuqn.duckdns.org
@@ -192519,6 +192534,7 @@ heptop12sis.site
 hepucuz-carsamba.top
 hepucuza101ekstrra.cfd
 hepucuza101ekstrra.click
+hepucuza101ekstrra.icu
 hepucuzcokucuzal.sbs
 hepucuzcokucuzindirimler.cfd
 hepucuzcokucuzindirimler.sbs
@@ -232920,6 +232936,7 @@ kartalflexbddk22.duckdns.org
 kartalflexbddk26.duckdns.org
 kartalflexbddk27.duckdns.org
 kartalflexbddk29.duckdns.org
+kartalflexbddk30.duckdns.org
 kartalflexbddkbaskani.duckdns.org
 kartalhomenesfleskpleskdsad.cloud
 kartallafirsatlarbitmez.com
@@ -252885,6 +252902,7 @@ manifestationantenna.top
 manifestationstatic.top
 manifestatnhardy.top
 manifestchronic.top
+manifestt.cfd
 manigiajabae32.com
 manigiajabae35.com
 manijethizlihaber.store
@@ -284797,6 +284815,7 @@ orau7fhb.duckdns.org
 oravan.net
 oravocacndex.duckdns.org
 oraxvabgkpkvvuo.ru
+orayq.cfd
 orbavia.com
 orbit.rchiskimo.com
 orbitalpulse.online
@@ -303724,6 +303743,7 @@ pttgoeuv.site
 pttgoigov.top
 pttgok.sbs
 pttgom.top
+pttgon.cfd
 pttgonderigov.com
 pttgonderitakip.ph
 pttgondertshuzky.org
@@ -313082,6 +313102,7 @@ reklamiletirsin.com
 reklamimdan.com.tr
 reklaminadresisponsor.xyz
 reklamitele.com
+reklamkaynagi.com
 reklamkutuphane.cfd
 reklamkutuphanem-tr.gotdns.ch
 reklamkutuphanesi.site
@@ -315543,6 +315564,7 @@ rivilegecti.top
 rivindu.ddns.net
 rivonpvypi.com
 rivyqup.com
+rixosbelekpremium.com
 rixospremiumspa.com
 rixosrugs.com
 riyadgo.com
@@ -325871,6 +325893,7 @@ seallysl.site
 sealmramazzn.com.tr
 sealmramazzn.online
 sealmramazzn.xyz
+seanexusx.com
 seanhenning-101.ddns.net
 seanowy.com
 seaorlakegaranti.buzz
@@ -326151,6 +326174,7 @@ section235.xyz
 section4helpdesk.hopto.org
 sectionclamp.top
 sectionporcelain.top
+sectionsphase.lat
 sectorecoo.live
 sectsk.com
 secu-acount.duckdns.org
@@ -344757,6 +344781,7 @@ staydentist.top
 stayduring.top
 stayfitphysio.ca/wp-content/file/cjcgnbjwibasce/
 stayfnle.com
+staylnfe.cfd
 staynumber.top
 staysavecovid19s.hopto.org
 staywicked99.ddns.net
@@ -409259,6 +409284,7 @@ yaseminsubesikasimruzgarlari.online
 yaseminsubesikasimruzgarlari.xyz
 yasensakamisin.com
 yaseryrdmkurumu.com
+yasgasgasfas.click
 yashakushkabamtalale.xyz
 yashka.ddns.net
 yasiklol.ddns.net
@@ -409646,6 +409672,7 @@ yazingelisisizlrlebulustu.info
 yazinglsinikutlyorz.shop
 yazinindirimfirsatienparada.com
 yazinkampanyalari.com
+yazinsonfirsatlariburada.cfd
 yazinsonkampanyalari.com
 yazintumiylklerisizibuldu.com
 yazioku.com
@@ -409740,6 +409767,7 @@ yazsonlari.online
 yazsonu-altus.com.tr
 yazsonu-baymak.com.tr
 yazsonubaymak-kapida.com
+yazsonufirsatlariburada.cfd
 yazsonufirsatlarigeldidostlar.eth3.me
 yazsonuozel.online
 yazsonuozel.site
