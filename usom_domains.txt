@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-26T22:05:12.431594
+# Updated: 2025-08-26T23:05:12.048651
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -100206,6 +100206,7 @@ cebimdeetebble.com
 cebimdeeteebbe.com
 cebimdefinans.club
 cebimdefirsttsok.com
+cebimdegarantibireyselhep.ooguy.com
 cebimdeislemim.sg-host.com
 cebimdeki-tebim.com
 cebimdekinakit.com
@@ -237392,6 +237393,7 @@ kjktetwe.net
 kjktf.com
 kjlerpbafmx.info
 kjlvo.ningeona.com
+kjmdynohgsmobil.duckdns.org
 kjmhwyx.com
 kjmnhfgbv.shop
 kjnbfdb.click
@@ -353142,6 +353144,7 @@ tctctrpandemiuygulamagirisi.com
 tctctrpandemiuygulamagirisitr.com
 tctctrpandemiuygulamagirisitr1.com
 tctctrpandemiuygulamagirisitr2.com
+tctoki.com
 tctrbm8.com
 tctrbmhazinegovisler373.com
 tctrbmhazinegovisler73.com
