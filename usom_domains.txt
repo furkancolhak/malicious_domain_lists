@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-26T18:05:12.726745
+# Updated: 2025-08-26T19:05:14.808717
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -33847,6 +33847,7 @@ a101-get.aldinaldinn.com.tr
 a101-guncelkampanya.online
 a101-guvenli-indirim.com
 a101-guvenli-sepetim.com
+a101-guvenlialisverisim.com
 a101-guvenlipay.com
 a101-guvenlipay.com.tr
 a101-guvenlipay.online
@@ -284998,6 +284999,7 @@ ordaburdasurdazartzurt.com
 ordai.quest
 ordan.surdangit.com
 ordanaracmsuw.xyz
+ordanbrdndlrmlerd.icu
 ordaneburdanehe.net
 ordangeciss.is-best.net
 ordangldkbrdayz.shop
