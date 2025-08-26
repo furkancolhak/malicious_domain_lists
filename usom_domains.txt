@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-26T11:05:11.880039
+# Updated: 2025-08-26T12:05:14.600249
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -324,6 +324,7 @@
 022123210212.duckdns.org
 022202120212021.mywire.org
 02220333teamaccount.com
+022222155222.duckdns.org
 02252-20244.net
 02348721340905821435.cloud
 023559.com
@@ -5921,6 +5922,7 @@
 142.93.88.16
 142050892.xyz
 142112551125555660.xyz
+14211512255445590.xyz
 142115541155590.xyz
 142115541155592.xyz
 142115541155594.xyz
@@ -7556,6 +7558,7 @@
 162.251.81.235
 162.251.95.209
 162.252.173.12
+162.252.173.37
 162.252.175.142
 162.252.175.207
 162.255.119.139
@@ -9489,6 +9492,7 @@
 185.213.208.245
 185.214.10.220
 185.215.113.105
+185.215.113.108
 185.215.113.109
 185.215.113.110
 185.215.113.114
@@ -14223,6 +14227,7 @@
 205836.cloud
 206.119.124.126
 206.123.128.81
+206.123.145.153
 206.166.251.114
 206.166.251.126
 206.166.251.146
@@ -35960,6 +35965,7 @@ a1o1onlinehizmetler.com
 a1o1onlineozelkampanyalar.com
 a1o1onlineozelkampanyalar.online
 a1o1onlineozelkampanyas.net
+a1o1onlnekazanclarburda.duckdns.org
 a1o1p.patliosss.click
 a1o1pe.net
 a1o1r.com
@@ -55174,6 +55180,7 @@ anindaekranonaydenizmobilde.duckdns.org
 anindaenguvenilirhizlialisveris.xyz
 anindafaizsizkredi.com
 anindafirsat.xyz
+anindafirsat101adresiagustos.com
 anindafirsatlar.net
 anindafirsatlarharikagunler.com.tr
 anindafirsatlarharikagunler.cyou
@@ -70326,6 +70333,7 @@ batchcoexistence.top
 batchdeductive.top
 batchlove.hopto.org
 bateria577.ddnsking.com
+batfagbn.click
 batflexmarka.duckdns.org
 batflore.com
 bathedoze.top
@@ -92534,6 +92542,7 @@ bsvrrkmpnyaaaprmsnyn.click
 bsvrrkmpnyaaaprmsyn.click
 bsvrrkmpnyaaaprmsynn.click
 bsvrrprmsynnnkmpnyaa.click
+bsvrrrkmpnyaaaqnbb.click
 bsvrrrkmpnyaaprmsynn.click
 bsvrrrprmsynnkatilimmm.click
 bsvrrrprmsynnnqnbbb.click
@@ -98608,12 +98617,14 @@ carreeylulaylari.cfd
 carreeylulaylari.xyz
 carreeylulaylarikampanya.online
 carreeylulaylarikampanya.sbs
+carreeylulkampanyalari.online
 carref0ur.sa.com
 carref0ursa.net
 carrefaursa.online
 carrefaursa.site
 carrefaursa.store
 carreffaursa.com
+carreffeursa.com
 carreffoueor-sa.online
 carreffoueoursa.com
 carreffouoursa.com
@@ -106320,6 +106331,7 @@ cobra123213s.ddns.net
 cobrancaempres.hopto.org
 cobusabobus.cam
 cobwakeaxe.live
+coc.asedkop.world
 cocahut.com
 cocainso.xyz
 cocarson123.com
@@ -115197,6 +115209,7 @@ dealspprt.com
 dealsprint.net
 dealsquare.top
 dealsurf.rest
+dealtraka.xyz
 dealuvo.xyz
 dealv-z.site
 dealwithus.ga
@@ -121603,6 +121616,7 @@ derikanbilisimdenfir.com
 derim-co.top
 derimallahindanbulla.com
 derimo.top
+derimocd.top
 derimod-online.top
 derimod-onlineshop.top
 derimod-sale.top
@@ -127700,6 +127714,7 @@ dog-training-technique.com
 doga-ile-huzur-kosesi.top
 dogada-huzur-bul-keyfini-sur.top
 dogada-kamp-keyfi-seni-bekliyor.top
+dogada-otur-keyfini-cikar.top
 dogada-ozgur-hisset.icu
 dogadakiguzelliklercanseverler.xyz
 dogadanderman.com//db_template.php
@@ -162096,6 +162111,7 @@ flrsathergunindirimoldusaol.store
 flrsatherkesgelsanaderamasenkac.store
 flrsatherkeslecumartrsidegelded.store
 flrsatherkesleguzelhemen.store
+flrsatherkesleolduilernebenmise.world
 flrsatherkesleoldushhabesenmen.world
 flrsatherkesleolsandaolmasadaherkesl.life
 flrsatherkesleolsapazartesigel.rip
@@ -229646,6 +229662,7 @@ kampanya3440.site
 kampanya3440.tech
 kampanya3441.site
 kampanya3442.site
+kampanya360.click
 kampanya6yilaozel.com
 kampanya6yilhemenbasvur.com
 kampanya800tl-bizde-var-basvur.ml
@@ -232945,6 +232962,8 @@ kartalflexbddk26.duckdns.org
 kartalflexbddk27.duckdns.org
 kartalflexbddk29.duckdns.org
 kartalflexbddk30.duckdns.org
+kartalflexbddk33.duckdns.org
+kartalflexbddk34.duckdns.org
 kartalflexbddkbaskani.duckdns.org
 kartalhomenesfleskpleskdsad.cloud
 kartallafirsatlarbitmez.com
@@ -233624,6 +233643,7 @@ katedesktop64.com
 katektriede.shop
 katemik.com
 katerek543245212.shop
+katfagbn.click
 kathaber.site
 katharinecamellia.net
 katharinecharnette.net
@@ -235414,6 +235434,7 @@ ketnkktartm.net
 ketnpree.online
 ketntkartm.net
 ketoanhaiphong.vn
+ketojenik.sbs
 ketometocetoe.xyz
 ketommetocetoe.xyz
 ketoyourdiet.com
@@ -237383,6 +237404,7 @@ kkdomainssss.space
 kkdomddom.space
 kkdomdomadac.space
 kkdomdomdomain.com
+kkdomodmdad.duckdns.org
 kkdomssdomain.com
 kkdur.ddns.net
 kkeenttmkartt.net
@@ -238192,6 +238214,7 @@ kmpny.2023araclar.xyz
 kmpnya-al-ucz-hmen.shop
 kmpnyaaaqnbbbkatilim.cloud
 kmpnyaakdayaz.name.tr
+kmpnyaaqnbbbsvrr.click
 kmpnyabnctrgiris.online
 kmpnyabsladibtctrkdagtyr.com
 kmpnyabsvronline.click
@@ -243928,6 +243951,7 @@ lanlulutingamalaka.club
 lanmalnalana.net
 lanmangraphics.com
 lanmodian.xyz
+lannister.cfd
 lanomi.ddns.net
 lanova9.zapto.org
 lanpatlatmayndomaini.xyz
@@ -278553,6 +278577,7 @@ ogubimcell.com
 ogugkp8o.duckdns.org
 ogulkokaanmenzilee.cyou
 ogunbugundur.xyz
+oguzalperoktem.cfd
 oguzkaanerdogdu.com.tr
 ogwcwi.top
 ogxhafpsj.com
@@ -279731,6 +279756,7 @@ onbasvurum.store
 onbasvurum.xyz
 onbasvurumobildynz.site
 onbcepte.digital
+onbcloacker.com
 onbeseylllulidnei.uk
 onbesinci.gq
 onbesodeme.tk
@@ -302103,6 +302129,7 @@ ptt-avm.e-sepetin.com.tr
 ptt-avm.e-tr-hizlisepet.online
 ptt-avm.elektronikalim.org
 ptt-avm.elektronikalimlarin.com.tr
+ptt-avm.elektronikservis.sa.com
 ptt-avm.g-islemler.online
 ptt-avm.g-secure.online
 ptt-avm.g-sepetim.com.tr
@@ -304245,6 +304272,7 @@ pttgovclink.help
 pttgovcnb.top
 pttgovco.top
 pttgovcom.top
+pttgovd.cc
 pttgovd.top
 pttgovdd.top
 pttgove.top
@@ -305187,6 +305215,7 @@ pttqi.top
 pttqi.xyz
 pttqmy.com
 pttqov.cc
+pttr-gorv.top
 pttr-tr.shop
 pttr-tr.top
 pttravm.com
@@ -305389,6 +305418,7 @@ pttvsd.cfd
 pttvt.cc
 pttvvo.top
 pttwamsdawsi.net
+pttweb.life
 pttwebalogov.com
 pttwebapp.com
 pttwebapp.weebly.com
@@ -323540,6 +323570,7 @@ salioglns36.com
 salionline-gun.com
 salionline-siparis.com
 salionlineislemler.com
+saliozel101yakala.com
 saliozelindrm.com
 saliramazangunu.com
 saliramazanozel.com
@@ -338675,6 +338706,7 @@ sohretbizdeeee.surf
 sohretflngecici.net
 soi6lyb.duckdns.org
 soicos.ddns.net
+soilbeam.com
 soilerupt.top
 soilinked.com
 soilstood.net
@@ -339057,6 +339089,7 @@ sokmarket.com-cpsk.com.tr
 sokmarket.com-e-eurun.com.tr
 sokmarket.duckdns.org
 sokmarket.firsatgunleri.net
+sokmarket.mywire.org
 sokmarket.net.tr
 sokmarket.org.tr
 sokmarket.shop
@@ -344925,6 +344958,7 @@ stenocephalia.com
 stenocranial.com
 stentorine.com
 stenu.duckdns.org
+stenyel.cfd
 step-part-farm.com
 stepbystepby.com
 stepcompementary.top
@@ -387756,6 +387790,7 @@ web-try-kaldirac.xyz
 web-try-kanal.pro
 web-try-likidite.xyz
 web-try-logining.click
+web-try-merkezlogin.fun
 web-turkiyegov.com
 web-turkiyegovtr.com
 web-turn.pw
@@ -392761,9 +392796,11 @@ ws-check.online
 ws-dot.com
 ws-global.online
 ws-gtg.com
+ws.asedkop.world
 ws.bnfhfd.icu
 ws.dsgsv.icu
 ws.folenspa.info
+ws.jonudeplin.shop
 ws.lookonstars.tech
 ws.muaway.net
 ws.my-local-weather.com
@@ -400185,6 +400222,7 @@ xeqt1z6ld.duckdns.org
 xer121.top
 xercjbdm.com
 xero-login.ddns.net
+xerobotany.com
 xeroburivin.com
 xerstaysja.click
 xerunu.info
