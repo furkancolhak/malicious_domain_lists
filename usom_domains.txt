@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-27T12:05:12.545446
+# Updated: 2025-08-27T13:05:18.949759
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4998,7 +4998,9 @@
 125.64.103.51
 125.65.109.106
 125.com
+1251155665599092.xyz
 1251255455589990.xyz
+1251255455589992.xyz
 125125klj21jk12.xyz
 1251310764.corolain.ru
 1251971548.corolain.ru
@@ -92221,6 +92223,7 @@ bryaynlrdksnzburdabzvrd.shop
 bryaynlyrsnzbrdansn.icu
 brymndrlerigldi.com
 bryndnglmdn.xyz
+brynlyrzbrdnasndrs.icu
 brysel-garanti.com
 brysel-ziraatbanksuprizleri.ml
 bryselgiris-akbnk.com
@@ -92291,6 +92294,7 @@ bsehuehfeirit.ru
 bses-sso.com
 bsfghgmkeskstraffh.digital
 bsfotodesign.com
+bsfrbrdandlrmerbs.icu
 bsfrynldryrsnzbrayaa.my
 bsglanstklask.space
 bsguvende.online
@@ -93667,6 +93671,7 @@ bufirstikacirmax101.online
 bufisratlarikairmamalisimdisendeal.online
 bufiyatabaskayerdeyok.com.tr
 bufiyatabaskayerdeyok.online
+buflrsatlarwsynxfirestrikemahserilekacmaz.com
 buflrsatlarwsynxilekacmaz.com
 bufrsatinizsizegeliyoruz.com
 bufrsstbncckcmzz.shop
@@ -197405,6 +197410,7 @@ hizlandir-islemi-hediyenihemenal.com
 hizlanir13agustostaan.net
 hizlanir6agustosta.net
 hizlanislem.22web.org
+hizlansiperiasleri21agust.net
 hizlanxileodemeler.org
 hizlaodemeyap.myvnc.com
 hizlasizde.com
@@ -200594,6 +200600,7 @@ hokkabazakjzdanisflesk.cloud
 hokkabazflexqnb222.duckdns.org
 hokkabazflexqnb666.duckdns.org
 hokkabazflexteb666.duckdns.org
+hokkabazflexyapi444.duckdns.org
 hokkakbryselfnansbsvuru.store
 hokkakbryselfnansbsvuru.xyz
 hokkobaz.host
@@ -202209,6 +202216,7 @@ hrmnkldkc.com
 hrmnkldkcac.com
 hrmpratatli.site
 hrms.social
+hrmtvz.com
 hrmtvzx.com
 hrmxaddobes.ddns.net
 hrnefjoy.com
@@ -207112,6 +207120,7 @@ id-orange-fr.info
 id-papara.com
 id-preview--24e94d39-7f79-4085-ade1-827a112a34dc.lovable.app
 id-unconfirmeduser.frge.io
+id.tc
 id.ttz5.cn
 id.viii.net.tr
 id11853502.date
@@ -231001,6 +231010,7 @@ kampanyasivoltan.sbs
 kampanyasiyazhemen.com
 kampanyasiyazhemen.online
 kampanyasiyazhemen.xyz
+kampanyasizgunyok.xyz
 kampanyasizinicinhemenbasvurunuyap.cloud
 kampanyasizlericinak2.cloud
 kampanyason.com
@@ -233111,6 +233121,7 @@ kartalflexbddk33.duckdns.org
 kartalflexbddk34.duckdns.org
 kartalflexbddk36.duckdns.org
 kartalflexbddk37.duckdns.org
+kartalflexbddk42.duckdns.org
 kartalflexbddkbaskani.duckdns.org
 kartalhomenesfleskpleskdsad.cloud
 kartallafirsatlarbitmez.com
@@ -339016,6 +339027,7 @@ sok-market-aninda.cfd
 sok-market-anindagel.cfd
 sok-market-bul.cfd
 sok-market-com-tr.top
+sok-market-firsatlar.cfd
 sok-market-gor.cfd
 sok-market-heryerde.cfd
 sok-market-hizli.cfd
@@ -354780,6 +354792,7 @@ telefonsuz-internetbasvurusu.com
 telefonsuzinternet-onlinebasvuru.com
 telefonsuzinternetbasvuru.com
 telefonsuzinternetbasvurusu.online
+telefonumacik.sbs
 telefonunuburadanalicaksin.cfd
 telefonunuburadanalicaksin.sbs
 telefx.net
@@ -359564,6 +359577,7 @@ tokibasvurlilerim.net
 tokibasvurr.com
 tokibasvurtoplukonut.com
 tokibasvuru-20f08.kxcdn.com
+tokibasvuru-adresim.xyz
 tokibasvuru.apathe.net
 tokibasvuru.net
 tokibasvuru.online
@@ -374697,6 +374711,7 @@ url-clickid.cfd
 url-explorer.cfd
 url-extension.cfd
 url-fbclick.online
+url-gkhafa.sbs
 url-gonderitanitim.cfd
 url-isbank.sbs
 url-kampanya.sbs
@@ -388268,6 +388283,7 @@ webbnsdkkrmdirmn.com
 webbs.live
 webbsbayrntilrmiziip25.xyz
 webbsbayrntilrmizil32.xyz
+webbsbayrntilrmizim356.xyz
 webbsbayrntilrmizimm5.xyz
 webbsbayrntilrmizimp5.xyz
 webbsbayrntilrmizimpm9.xyz
