@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-27T15:05:12.476261
+# Updated: 2025-08-27T16:05:14.280656
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -56037,6 +56037,7 @@ antony2ok.duckdns.org
 antonymambiguity.top
 antotehlant.theworkpc.com
 antoxakartoxa2.hopto.org
+antrikot.sbs
 antrismode.com/wp-includes/db_template.php
 antrochr.duckdns.org
 antrodulist.pro
@@ -110708,6 +110709,7 @@ crfffscdncrfdsyahmnal.com
 crffrsasbbtbrda.com
 crffrsdngelcklr.com
 crfnzaygnzda.com
+crfonlineozeller.online
 crfr-sa.com.tr
 crfr-sa.net.tr
 crfrikibinyirmibes.shop
@@ -213366,6 +213368,7 @@ instagramtakipciniz.cf
 instagramtakipciniz.ga
 instagramtakipcisatinal2021.blogspot.com
 instagramtechcenter.com
+instagramtelif-destek.com
 instagramtelif.gq
 instagramtelifhaklarii.gq
 instagramtelifmerkezi.net
@@ -214481,6 +214484,7 @@ internetlogin-yapikredi.com
 internetlogin-yapikredi.net
 internetloginjsp.com
 internetlyukle.net
+internetmagaza.sbs
 internetmailservice-tr.boxmode.io
 internetmarket.online
 internetmarketkampanyalari.cfd
@@ -235476,6 +235480,7 @@ kepimaktifhepsiburada.net
 kepimguncel.net
 kepimguncelleme-hepsi-burada.com
 kepimyeni.net
+kepimyenileme.net
 kepktvwdzlqogsj.io
 keple.pl
 kepoker.hopto.org
@@ -238963,6 +238968,7 @@ koctas.icu
 koctas.sbs
 koctasagidiyorum.com.tr
 koctasbursa.com.tr
+koctasindirim.cfd
 koctasonline.life
 koctass.com
 koctasss.com
@@ -296152,6 +296158,7 @@ phishing-tccb-rbpr6hd6la-uc.a.run.app
 phishnflips.ddns.net
 phkshlbt7z9.digital
 phla1o1.com
+phlipa1oc.cfd
 phlkahapsa.net
 phllpostgov.top
 phlppovd.top
@@ -307016,6 +307023,7 @@ qezxwouy.com
 qf-pttgov.top
 qf08q9hh6.duckdns.org
 qf2020.top
+qf2x3pe8andb.com
 qf349l.duckdns.org
 qf72503rijcxy0e25vo.ddns.net
 qf8w29rg.duckdns.org
@@ -311669,6 +311677,7 @@ ravikor.com
 ravioliravioli.zapto.org
 ravitelugutraveler.com
 ravitucker5325.xyz
+ravumo.com
 ravzagroup.online
 rawad.zapto.org
 rawamapaket.online
@@ -329346,6 +329355,7 @@ sensitivehumanitarian.top
 sensitivityidiotic.top
 sensiz-acilar-bittiginde-son-kez.com
 sensiz-kotuyuz.online
+sensiz-olma-bura.online
 sensiz-olmaz-buralar.online
 sensiz-olmaz-hicbir-sey.shop
 sensizbayramindamk.net
