@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-27T01:05:13.084286
+# Updated: 2025-08-27T02:05:12.730751
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -406946,6 +406946,7 @@ yapi-danhediyelerim.com
 yapi-destek-websubesi.com
 yapi-dijital-islemler.com
 yapi-ekredi-online.com
+yapi-firsatlar-tr.duckdns.org
 yapi-haziranfirsati.com
 yapi-hazirankampanyasi.com
 yapi-internetsubefirsatlari.com
