@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-27T06:05:12.622379
+# Updated: 2025-08-27T07:05:12.887059
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43719,6 +43719,7 @@ agroeconb.live
 agrogen.com.tr//db_template.php
 agrogen.com.tr/db_template.php
 agrogen.com.tr/stats/db_template.php
+agrolumina.com
 agropecuariavilarica.com.br/db_template.php
 agroselangor.com
 agrosputnik-bitrix.ddns.net
@@ -43855,6 +43856,7 @@ agustos-sabah-kampanyasi.com
 agustos-son-katalog-31.com
 agustos-sonu-kataologu.com
 agustos-sonuan-zoeloe-telfisdbur.shop
+agustos-sonuan-zoeloe-telfisdbur.store
 agustos-sonuna-zoerl-idnirim-teklfibruds.store
 agustos-tekflsibur-fsrslt-hrda.com
 agustos-tekflsibur-fsrslt-hrda.net
@@ -91555,6 +91557,7 @@ brdle.duckdns.org
 brdnalnbzbrdnalyrz.com
 brdnoryaglyrdkbr.icu
 brdnsnkzbrdoplr.icu
+brdnsnkzbryaybnl.icu
 brdnsnkzkldksznrd.icu
 brdoge--treozio.webflow.io
 brdrkydumtekydilabu.xyz
@@ -121301,6 +121304,7 @@ denouncedeplete.top
 denounceexemption.top
 denpanistanbul.site
 denrix4545rat.ddns.net
+densash.click
 denseelectoral.top
 densepatrol.top
 densepropagate.top
@@ -141820,6 +141824,7 @@ edewled-aidat-basla.com
 edewletiadesi.com
 edewletiadesim.com
 edewletiadesin.com
+edewlett-dava-sorgu.site
 edfdzsdfff.duckdns.org
 edfejhu8.duckdns.org
 edfghfdahj21.hopto.org
@@ -145853,6 +145858,7 @@ emlagimvergimodemex.tk
 emlahackerdungcogangtimkiemem.xyz
 emlak-bank.com
 emlak-himzetleri.blogspot.com
+emlak-konut.online
 emlak-srgu-91a69e160f83.herokuapp.com
 emlak-srgu-a36852f4e610.herokuapp.com
 emlak-srgu1-6ebb931b7cdb.herokuapp.com
@@ -145891,6 +145897,7 @@ emlakkatilim.goldenlig.com
 emlakkatilim96yil.net
 emlakkatilimbanking.com
 emlakkatilimdan.net
+emlakkonut-finans.com
 emlakkonut.online
 emlakkonut.org
 emlakkonutgayrimenkul.online
@@ -193793,6 +193800,7 @@ hgmgftf.com
 hgmhgsm.com
 hgmmmm.com
 hgmmonline.duckdns.org
+hgmobilborcdn.com
 hgmobilonline.net
 hgmodesiyeni.bond
 hgmonlinecom.com
@@ -200562,6 +200570,7 @@ hokieisy-acpasa38rwejisdbhveyg7y48tidk.duckdns.org
 hokitebflex2.duckdns.org
 hokitebflex3.duckdns.org
 hokkabazakjzdanisflesk.cloud
+hokkabazflexqnb666.duckdns.org
 hokkabazflexteb666.duckdns.org
 hokkakbryselfnansbsvuru.store
 hokkakbryselfnansbsvuru.xyz
@@ -202178,6 +202187,7 @@ hrmnkldkc.com
 hrmnkldkcac.com
 hrmpratatli.site
 hrms.social
+hrmtvzx.com
 hrmxaddobes.ddns.net
 hrnefjoy.com
 hrnews-adobefile.ddns.net
@@ -205797,6 +205807,7 @@ iadeportalin-tr.com
 iadeportaliniz.ml
 iadeportalionline.com
 iadeportalivakifsubesi2021cep.com
+iadeqnbdencepte.duckdns.org
 iadeqnbfinansbank.com
 iaderimiz2022.com
 iaderimizaidat.com
@@ -238254,6 +238265,7 @@ kmmsorguluzssamhemengovtptr.com
 kmmsorguszsyaphemengovvptt.web.app
 kmmsorguulamsmszhemenpttgov.com
 kmmsrglamalariptthizli.com
+kmmsrgolumaahmenburdagovvptt.com
 kmmsrogulaahmenburdagovpttttea.duckdns.org
 kmmsrogusgovpttlandshzhemne.web.app
 kmnbhnvghf.shop
@@ -254787,6 +254799,7 @@ maximusstafastoriesticks.info
 maxintrosec.com
 maxinxdrmlrxm.com.tr
 maxinxdrmlrxm.online
+maxipano.xyz
 maxipara5000.cloud
 maxipara5500.cloud
 maxipara6500.cloud
@@ -300407,6 +300420,7 @@ prmguvendesahipinden.store
 prmgvnde-onlinesatis.com
 prmooqnbbkmpnyaa.click
 prmopromo.com
+prmossssynbsvrrr.click
 prmosynnnbsvrrqnb.click
 prmosyonbasvr.click
 prmosyonbasvrlar.click
@@ -332080,6 +332094,7 @@ shileyfetwell.com
 shimmering-tiramisu-ee6de2.netlify.app
 shimpeg.net
 shine19.net
+shineblare.com
 shineclouds.com
 shineharvest.top
 shineindian.com
@@ -336536,6 +336551,7 @@ sizeozelyilbasiicin.top
 sizerkoko2.xyz
 sizesigorta.net
 sizestreamline.top
+sizhepinizbentekcanim.com
 sizi-en-cok-dsnen-nen-biziz.com
 sizi-mutlu-edecek-indirimler-burada.xyz
 sizi-mutlu-edecek-kampanya-budur.com
@@ -343213,6 +343229,7 @@ sporcununagahalkbabasi.vip
 sporcununbabasiaraba.com
 spordasikevar.com
 sporify.ddns.net
+sporligunlera.xyz
 sporligunlera54.com.tr
 sporpaketibasvuru.site
 sporseverlericinyeniharaketlerrehberi.xyz
@@ -349014,6 +349031,7 @@ sustainableinnovations.store
 sustainablenominal.top
 sustainablepler.top
 sustainablesquad.top
+sustainaform.com
 sustaindeduction.top
 sustainembed.top
 sustainse.top
@@ -364053,6 +364071,7 @@ trbxnancelim.com
 trbxnancxlip.com
 trbyd.com.tr
 trbydotomotiv.com
+trbydsiparis.com
 trc-cimer.com
 trc-ekonomi-baknligi-iade-basvuru-form.tk
 trc.webhop.net
@@ -385198,6 +385217,7 @@ vrbrke.click
 vrbtek.top
 vrcacqkghghnsjr.su
 vrchaterp.chat
+vrchatvibesync.com.tr
 vrcmelo.ddns.net
 vrdenizbank.com
 vreegjsghsdhss.net
@@ -386205,6 +386225,7 @@ vyihmefp.com
 vyjltz.top
 vyjniw.com
 vykxb8n9.duckdns.org
+vyllent.com
 vylnfimnhmka.duckdns.org
 vylon.pro
 vyluwjobp.com
