@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-27T11:05:15.740379
+# Updated: 2025-08-27T12:05:12.545446
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16183,6 +16183,7 @@
 25ard1.duckdns.org
 25arlksonfrst.shop
 25b79ccsp.duckdns.org
+25bucukagustostasiparislerin.net
 25c4m51j8.duckdns.org
 25cef1d53a41360-8rxmsr.csb.app
 25cekilisleri.cf
@@ -18312,6 +18313,7 @@
 3433434343.cloud
 343343434club.net
 3433555333.cloud
+343412.vercel.app
 34342323411.cloud
 343434343.cloud
 3434434fi.ga
@@ -54254,6 +54256,7 @@ amnesia-proxy.ddns.net
 amnestyinternationalantipegasus.com
 amnestyreports.com
 amnestyvspegasus.com
+amnezi.cfd
 amngk.com
 amnjeans.it/wp-admin/css/colors/bir
 amnnmasmasmnasnmdsd232.site
@@ -162203,6 +162206,7 @@ flrsatherkeslecumartrsidegelded.store
 flrsatherkesleguzelhemen.store
 flrsatherkesleolduilernebenmise.world
 flrsatherkesleoldushhabesenmen.world
+flrsatherkesleolsadahadisenledeolmazd.world
 flrsatherkesleolsandaolmasadaherkesl.life
 flrsatherkesleolsapazartesigel.rip
 flrsatherkesleolursasenolmalaan.shop
@@ -177514,6 +177518,7 @@ grattis-turkiye.dynuddns.com
 grattis.ddnsguru.com
 grattis.dynuddns.com
 grattis.myvnc.com
+grattis.ooguy.com
 grauhl.xyz
 grauhz.xyz
 grauiuiuy.top
@@ -200586,6 +200591,7 @@ hokieisy-acpasa38rwejisdbhveyg7y48tidk.duckdns.org
 hokitebflex2.duckdns.org
 hokitebflex3.duckdns.org
 hokkabazakjzdanisflesk.cloud
+hokkabazflexqnb222.duckdns.org
 hokkabazflexqnb666.duckdns.org
 hokkabazflexteb666.duckdns.org
 hokkakbryselfnansbsvuru.store
@@ -208669,6 +208675,7 @@ il-truffatore-di-instagram.com
 il2d1nvi.duckdns.org
 il527toy9.duckdns.org
 il69zsk.duckdns.org
+ilacc.cfd
 ilademisorgula.dev
 ilaguober.com
 ilahialisverisyahu.rest
@@ -212160,6 +212167,7 @@ indrmlerikacrmaa1o1de.duckdns.org
 indrmlersinrlistoka1o1de.duckdns.org
 indrmlicezaxode.net
 indrmliixmrktfrrstlari-onlniiee.net
+indrmlrdnenckstnlar.cfd
 indrmlrllexkampnylr.net
 indrmlrmbuaykixbnmbu.click
 indrmm-burda.com
@@ -228265,6 +228273,7 @@ kadadvt-dsvlt.com
 kadaheanteaa1.net
 kadakada.ddns.net
 kadastrotapnu.app
+kadavra.cfd
 kaddiinasddetehayiir.xyz
 kaddiinasiiddetehayiir.xyz
 kaddinasiddetehayirr.com
@@ -230481,6 +230490,7 @@ kampanyalarin.tr
 kampanyalarinadresi.com.tr
 kampanyalarinadresi.online
 kampanyalarinadresi.xyz
+kampanyalarinbaslangici.xyz
 kampanyalarinbitmesinesongunsatinal.online
 kampanyalarinbitmesinesongunsatinal.xyz
 kampanyalaringunubugun.sbs
@@ -230699,6 +230709,7 @@ kampanyaliurunlerimizicin.com
 kampanyaliurunlersizlerle.com.tr
 kampanyaliurunlersizlerle.online
 kampanyaliurunlersizlerle.xyz
+kampanyaliurunlerzamani.com
 kampanyaliyizbizim.site
 kampanyallinsigorta.xyz
 kampanyalllarekimayifirsatlariii.com
@@ -232056,6 +232067,7 @@ kapndaonlne-2023.online
 kapnidaxdsaeae.com
 kapnyaxfirstxindrmlrm.xyz
 kapodokyahaber.online
+kaponidahemengerldi101.xyz
 kaporaguvende.com.tr
 kaporfales.xyz
 kaporie.com
@@ -232150,6 +232162,7 @@ karaca-takimlar.free.site.pro
 karaca-takimlar.sbs
 karaca-tam-takim-com-tr.cfd
 karaca-tamim-das-com-tr.cfd
+karaca-tamzamani-com-tr.cfd
 karaca-yil-sonu-indirimleri.com
 karaca-yil-sonu-indirimleri.online
 karaca.live
@@ -290112,6 +290125,7 @@ parachuteelaborately.top
 parachutelinger.top
 paracom.tk
 paradaniyisi.com
+paradeisers.org
 paradise88.net
 paradiseadverts.ru
 paradisebungalov.com
@@ -305160,6 +305174,7 @@ pttkl.ink
 pttklnhmsnde.net
 pttkm.shop
 pttkmaraba.com
+pttkmsorgualmzn.com
 pttkmsorgula.shop
 pttkmsorgulama.sbs
 pttkmsorgulama.shop
@@ -335403,6 +335418,7 @@ sinai-new.com
 sinam.is-best.net
 sinamytrend.club
 sinan.click
+sinanengininkeli.sbs
 sinappal.top
 sinav-meb.com
 sinavabasvurutakip.com
@@ -372604,6 +372620,7 @@ ucuzun-da-ucuzu-yeniden-sizlerle-bu-ay.com
 ucuzunda-ucuzu-kalan-sure-bir-gun.com
 ucuzundaeniyisi.online
 ucuzundanyazindrmllri.com
+ucuzundaucuzua101.cfd
 ucuzundaucuzua101.icu
 ucuzundaucuzua101.sbs
 ucuzundaucuzufirsati.com.tr
@@ -374722,6 +374739,7 @@ url-rediret.xyz
 url-rediret1.xyz
 url-rediret2.xyz
 url-rediret4.xyz
+url-redizret.sbs
 url-reklamkutuphane.cfd
 url-sponsorlu.cfd
 url-sponsorlu.site
@@ -393137,6 +393155,7 @@ wsxazxsonlinekampanyalarxzadfx.com
 wsxjnqy.com
 wsxzaq18.pw
 wsyisq.duckdns.org
+wsynxyonlendirdifirestrikeninyanina.xyz
 wsysk4n.duckdns.org
 wsywnb.info
 wszaccchbe.duckdns.org
@@ -408768,6 +408787,7 @@ yapikxredibankasi.online.com
 yapilandirma.online
 yapilandirma07440-b06b0cfcfc8a.herokuapp.com
 yapilandirmaislem.org
+yapilar-ek.dynuddns.com
 yapilar-kampanyamiz.epizy.com
 yapilarbanlkaa.com.tr
 yapilarinkredisi.duckdns.org
