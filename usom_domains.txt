@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-08-28T06:05:11.555034
+# Updated: 2025-08-28T07:05:13.469970
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -59905,6 +59905,7 @@ artkom-apps.ddns.net
 artlifelondon.com
 artlimp.top
 artmagric.ddns.net
+artmbounded.lat
 artonisbueucrtic.top
 artpaketleme.com
 artqaxoovn.duckdns.org
@@ -98566,6 +98567,7 @@ carfrsnzdngldi.com
 carfrsnzdnyazngldii.com
 carfrssa.shop
 carfrstlaronline.xyz
+carfur-campaing.duckdns.org
 carfur-kampanyam.duckdns.org
 carfurdan-kampanya.duckdns.org
 carfursa-market.site
@@ -103909,6 +103911,8 @@ ciceksaatim.site
 ciceksaatim.store
 ciceksepeti.hicaku.com
 ciceksepeti.ml
+ciceksepetim.de
+ciceksepetim.info
 ciceksepetim.net.tr
 ciceksepetim.org.tr
 ciceksevdam.net
@@ -105720,6 +105724,7 @@ close-h.xyz
 closeconection.duckdns.org
 closed-link.com
 closed.theworkpc.com
+closedcream.cfd
 closefistedly.com
 closeislem.22web.org
 closelure.top
@@ -147512,6 +147517,8 @@ eniyifirsati.com.tr
 eniyifirsatindrmlrm.click
 eniyifirsatlarbuarada.online
 eniyifirsatlarbuarada.xyz
+eniyifirsatlarburadaalkacirma.cfd
+eniyifirsatlarburadakacirma.sbs
 eniyifirsatlarburadasakinkacirma.sbs
 eniyifirsatlarsizlerle.shop
 eniyifiyat.name.tr
@@ -162097,6 +162104,7 @@ floormush.top
 floppys.bit
 flopyberd.ddns.net
 flopyblogspot.com.tr
+floqubit.com
 flor.memerax.com
 floracrest.online
 florafck.com
@@ -220989,6 +220997,7 @@ itengineering.co.za/partners/db_template.php
 itensfree.ddns.net
 iteslawow.com
 itespusac.net
+itfayeadam.sbs
 itforwarding22.hopto.org
 itfuturisticspvt.zapto.org
 itfyfdstlsuikpseb.net
@@ -261750,6 +261759,7 @@ mobilgiris-4.misecure.com
 mobilgiris-64e00a7e.vercel.app
 mobilgiris-7a3c4466.vercel.app
 mobilgiris-d8dc46f9.vercel.app
+mobilgiris-e66b2be5.vercel.app
 mobilgiris-edevletbankahizmetler.tk
 mobilgiris-edevletbankahizmetleri.tk
 mobilgiris-edevletbankaodemelerim.tk
@@ -278421,6 +278431,7 @@ ofeproa1.net
 ofeqha.top
 oferkamer1.xyz
 ofertasmagalu.zapto.org
+ofertixy.xyz
 off-sale.shop
 off-sale.xyz
 off365.hopto.org
@@ -283360,6 +283371,7 @@ onlinemarketsepetleri.online
 onlinemarketsepetleri.xyz
 onlinemarketteindirimler.com
 onlinemarkettkapinda.com
+onlinemasakodemehizmetleri.com.tr
 onlinematkap.vip
 onlinemaximumkampanyakatilimformu.linkpc.net
 onlinemayisayinaozelfirsat.com.tr
@@ -313181,6 +313193,7 @@ refreshthrill.top
 refrigerationdweller.top
 refrigerationpathetic.top
 refrigeratoracupuncture.top
+refsnbn.click
 refuation.top
 refugedaye.fit
 refugeeconverse.top
@@ -314891,6 +314904,7 @@ restlesz.su
 restmantra.by
 restomerav.top
 restoranguliuyuli.ru
+restorationstwisted.lat
 restorationviable.top
 restore-cash.online
 restore-coinbase.com
@@ -347306,6 +347320,7 @@ subesizislemlerinbbvagarant.cfd
 subesizislemnoktasi.com
 subesizislemzamani.xyz
 subesizivakifbank.com
+subesizkampanyalar.vercel.app
 subesizkolaygiris.com
 subesizkredi.net
 subesizkredim.com
@@ -354088,6 +354103,7 @@ techagelog.com
 techaillcsystems.com
 techakym.pw
 techandyoungchildren.com
+techanoid.cfd
 techarnise.ru
 techbeaconz.com
 techcongregate.top
@@ -372745,6 +372761,7 @@ ucuzundaucuzumegacampanyy.xyz
 ucuzundaucuzumegafiirsat.xyz
 ucuzundaucuzumegamark.xyz
 ucuzundaucuzuotobuzdolabi.xyz
+ucuzundauzucuzstok49.icu
 ucuzurunalma.icu
 ucuzurunalmavakti.com
 ucuzurunkapinda.top
@@ -375103,6 +375120,7 @@ urunsatisi.com.tr
 urunsatislarim.com
 urunsatislariniz.com
 urunsatisonline.com.tr
+urunsepete.click
 urunsepetim.com.tr
 urunsiparisim.com.tr
 urunsiparislerim.com.tr
