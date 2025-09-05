@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-05T17:05:10.943072
+# Updated: 2025-09-05T18:05:14.136436
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -24731,6 +24731,7 @@
 5et563.duckdns.org
 5etp4s8.duckdns.org
 5ew305.duckdns.org
+5eylul-deonline.site
 5ez43b.duckdns.org
 5f0709987fd4.com
 5f0xp634.duckdns.org
@@ -51714,6 +51715,7 @@ aldinaldina101.online
 aldinaldina101.shop
 aldinaldina101firsati.site
 aldinaldinaktuelalimlariburada.cfd
+aldinaldinaktuelalimlariburada.sbs
 aldinaldinaktuelaralik.website
 aldinaldinaktuelaralikk.shop
 aldinaldinaktuels.online
@@ -149028,6 +149030,7 @@ ensohub.store
 ensonduyurularim.click
 ensonhaber.club
 ensonhaber.online
+ensonhaberiscp.com
 ensonhaberler-ekimde-kampanyafirsatlari.click
 ensonhaberler.club
 ensonhaberler.online
@@ -155421,6 +155424,7 @@ eylulayinafirsatkampnyasi.tech
 eylulayindakifirstlar.sbs
 eylulayindakifirstlar.xyz
 eylulayindayiz.sbs
+eylulayindayiz.xyz
 eylulayinindevfirsatlarim.com
 eylulayininsonsurprizleri1.com
 eylulayipersembe.com.tr
@@ -161335,6 +161339,7 @@ firsatlardenmobilde.xyz
 firsatlardestekliramazan.online
 firsatlardfsjdsfkd.hopto.org
 firsatlardiyari-eklmgunleri.store
+firsatlardnisftirat2.duckdns.org
 firsatlardunyam.com.tr
 firsatlardunyasi-aldin-aldin.com.tr
 firsatlardunyasi.com.tr
@@ -230749,6 +230754,7 @@ kampanya-zamani-tr.com
 kampanya-zamani-yine-geldi.shop
 kampanya-zamani-yinegeldi.shop
 kampanya-zamani.com
+kampanya-zamani.mooo.com
 kampanya-zamanii.com.tr
 kampanya-zamaniii.com.tr
 kampanya-zamaniiiim.com.tr
@@ -338727,6 +338733,7 @@ skillednft.com
 skilledtornado.top
 skillfulobsess.top
 skillissue.ddns.net
+skillmasteryhub.us
 skillpharmacy.top
 skillquestions.com
 skillsoumiealorixo.ddns.net
