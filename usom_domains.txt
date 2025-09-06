@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-06T14:05:13.000864
+# Updated: 2025-09-06T15:05:13.270567
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -70016,6 +70016,7 @@ basvuruislemlerigratis.net
 basvuruislemleriniz.com
 basvuruistanbul.com
 basvuruistihdam.com.tr
+basvuruistkart.xyz
 basvurujzdn.cfd
 basvurukabulekrani.com
 basvurukabulekrani.linkpc.net
@@ -89254,6 +89255,7 @@ bncttcrrservet.vercel.app
 bncturkiye-kampanya.vercel.app
 bncusertr.com
 bncwtzylzs.duckdns.org
+bncxsdcslergrstrcom.click
 bncxtr.com
 bncyduyurutr.com
 bncyeniyil.com
@@ -95300,6 +95302,7 @@ buralardafirsatlarbitmez.com.tr
 buralardafirsatlarbitmez.online
 buralardafirsatlarbitmez.xyz
 buralardahomestler.click
+buralardayim.click
 buralardayiz.com.tr
 buralardinrimlerbitemdi.online
 buralardndbnsjdjfuoksnm.website
@@ -137156,6 +137159,7 @@ e-pttavm.aradigin-hersey-burada.com
 e-pttavm.com
 e-pttavm.ml
 e-pttavm.net
+e-pttavm.org
 e-pttavm.shop
 e-pttavmarket.com
 e-pttavmhgsonline.com
@@ -161767,6 +161771,7 @@ firsatlarramazandabirbaska.online
 firsatlarrronline.me
 firsatlarsanagelsinsokmarket1.click
 firsatlarsanagelsinsokmarket2.click
+firsatlarsanagelsinsokmarket3.click
 firsatlarsende.com.tr
 firsatlarsenibekliyor.com.tr
 firsatlarseninle.com
@@ -162333,6 +162338,7 @@ fisledrop.ddns.net
 fislkukevni.net
 fisman.ddns.net
 fismicna.cfd
+fismicna.sbs
 fisofloleft.com
 fisrdteditionps.com
 fisrteditionps.com
@@ -310938,6 +310944,7 @@ quarex.online
 quarex.org
 quarex.team
 quarex.us
+quarix.info
 quarlox.pro
 quarrelepek.bond
 quarrelescalate.top
@@ -344395,6 +344402,7 @@ sponros22123.nicepage.io
 sponrsrlklu1o1temmzkapida.com
 sponrssklu1o1frsattlar.com
 spons0rlu-592519529595292.online
+sponsarp.info
 sponslrumedya2025.duckdns.org
 sponsor-0142379323.com
 sponsor-342347412.com
@@ -354785,6 +354793,8 @@ tcljwq.com
 tclliqrlqrmerpj.su
 tcmaliyebakanligi.org
 tcmaliyebakanligigovtr.com
+tcmasakdosya.org
+tcmasakportal.org
 tcmb-1123.com
 tcmb-assistantss.com
 tcmb-bddk.ml
@@ -401270,6 +401280,7 @@ wwwv-edevletiadenoktasi.com
 wwwvakfcekiliskatilimgiris.com
 wwwvakifaidatiademerkezigirisleri.com
 wwwvakifbank-hediyem2021.com
+wwwvakifbank.click
 wwwvakifbank.com
 wwwvakifbankcekilisiphone.com
 wwwvakifbankcekilisiphone13.com
@@ -404491,6 +404502,7 @@ xn--exceptionalugly-1r9h.top
 xn--expressdeme-xfb.com
 xn--eyardmlarmdestekgov-o5c.site
 xn--eyardmlarmgovtr-clce.site
+xn--eyllfirsatia10a1-lzb.icu
 xn--eyllfirsatlaribuayazel-dic1k.online
 xn--eylulfrsatm-4zbe.site
 xn--ezanvergisideme-jtb.net
@@ -410763,6 +410775,7 @@ yapimobilislemim.com
 yapimobilislemleri.com
 yapimobilislemlerim.com
 yapimobilkazandiriyor.com
+yapimobilkredinhazir.com
 yapimobiller.xyz
 yapimobilsube-destek.com
 yapimobilsube.shop
