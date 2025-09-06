@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-06T15:05:13.270567
+# Updated: 2025-09-06T16:05:13.578055
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -230,6 +230,7 @@
 0120301201.ddns.net
 0120340120.online
 012120212540.duckdns.org
+0121945104615g2ned.duckdns.org
 01230-03210.com
 01230-03210.live
 01230796125348888.cloud
@@ -50482,6 +50483,7 @@ aktuelfirsatlar.com.tr
 aktuelfirsatlar.info.tr
 aktuelfirsatlar.net.tr
 aktuelfirsatlar.org.tr
+aktuelfirsatlaralisverisredmi7.sbs
 aktuelfirsatlardunyasi.com.tr
 aktuelfirsatlardunyasi.online
 aktuelfirsatlardunyasi.xyz
@@ -51770,6 +51772,7 @@ aldinaldinalisverisleriaktuelyeri.cfd
 aldinaldinalisverisleriaktuelyeri.sbs
 aldinaldinalisverislerialimyeri.cfd
 aldinaldinalisverislerialimyeri.sbs
+aldinaldinalisverisleriredmialimyeri.sbs
 aldinaldinarefedevam.xyz
 aldinaldinbayramdayiz.xyz
 aldinaldinbayramfirsati.com.tr
@@ -226918,6 +226921,7 @@ jjigeurpnl.duckdns.org
 jjigevsqnl.duckdns.org
 jjiijiji.duckdns.org
 jjj33jjsssq1.online
+jjjjjjj4h3gewfsaf12fsadsaasdsga.sbs
 jjjjjjjqqqqq.top
 jjjkajja.zapto.org
 jjjldld.ddns.net
@@ -352211,6 +352215,7 @@ tadinda-kampanya-com-tr.cfd
 tadondihaz.xyz
 tadunorath.xyz
 tadvxf.duckdns.org
+tadwloo.icu
 taeeiogwsb.duckdns.org
 taego.ddns.net
 taemrjodf.duckdns.org
