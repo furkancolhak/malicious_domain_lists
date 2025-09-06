@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-05T21:05:12.614842
+# Updated: 2025-09-06T00:05:12.291915
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -536,6 +536,7 @@
 054bhu3.cn
 055212505555.duckdns.org
 0555054412505.duckdns.org
+055512585505.duckdns.org
 055hd.com//db_template.php
 055hd.com/db_template.php
 0564edcc6154.net
@@ -4779,6 +4780,8 @@
 1215412254112554499.xyz
 12155451555999890.xyz
 12155451555999891.xyz
+12155451555999892.xyz
+12155451555999895.xyz
 121637121.duckdns.org
 121991dec.ddns.net
 121milkyway.xyz
@@ -51758,6 +51761,7 @@ aldinaldinaktuelalimlariburada.sbs
 aldinaldinaktuelaralik.website
 aldinaldinaktuelaralikk.shop
 aldinaldinaktuels.online
+aldinaldinalisverisleriaktuelyeri.sbs
 aldinaldinalisverislerialimyeri.cfd
 aldinaldinalisverislerialimyeri.sbs
 aldinaldinarefedevam.xyz
@@ -86127,6 +86131,7 @@ bkkmceel.com
 bkldnjqx.com
 bkleme1e1.xyz
 bklemeee1.xyz
+bklermsnblmmamabnbklmm.sbs
 bklimcelliodeme.com
 bkllhgsyklemennyri.net
 bklmedenodebimcell.tk
@@ -91990,6 +91995,7 @@ brainy-example.auto.playit.gg
 brakalalrakds.xyz
 brakefortnight.top
 brakfastpaque.top
+bralardansnkzynlynrz.sbs
 bralntree.com
 bramloosveld.be/trainer/wp-config-ini.php
 brancertrgris.com.tr
@@ -106187,6 +106193,7 @@ clickthistogo.com
 clicktobtc.com
 clicktogethers.info
 clicmaislopla.zapto.org
+clicvaro.xyz
 cliczor.com
 cliencustomerserv.duckdns.org
 cliensevpaylibtsgt.duckdns.org
@@ -125966,6 +125973,7 @@ dijitalgiris-vakifbank.com
 dijitalgiris-webdenizacik.com
 dijitalgiris-ziraatbireysel.com
 dijitalgiris-ziraatdijital.com
+dijitalgiris-ziraatkampanya.com
 dijitalgiris-ziraatmobil.com
 dijitalgiris-ziraatmobilweb.com
 dijitalgiris-ziraatweb.com
@@ -156778,6 +156786,7 @@ fanumtax123.ddns.net
 fap2babes.com
 fapet.ipb.ac.id
 faplib.zapto.org
+fapman.click
 faprqtsd.com
 faprxyjlg.com
 faqs.haziranfirsaturunleri.shop
@@ -160139,6 +160148,7 @@ firfir.duckdns.org
 firfirrsatgarantimobilakillislemleri.shop
 firhgss.com
 firima.cfd
+firima.sbs
 firlama.name.tr
 firm.imageosis.com
 firm.tplinkupdates.space
@@ -161741,6 +161751,7 @@ firsatlarr20233.xyz
 firsatlarramazandabirbaska.online
 firsatlarrronline.me
 firsatlarsanagelsinsokmarket1.click
+firsatlarsanagelsinsokmarket2.click
 firsatlarsende.com.tr
 firsatlarsenibekliyor.com.tr
 firsatlarseninle.com
@@ -162306,6 +162317,7 @@ fisiuuiedesubdibesdu.info
 fisledrop.ddns.net
 fislkukevni.net
 fisman.ddns.net
+fismicna.cfd
 fisofloleft.com
 fisrdteditionps.com
 fisrteditionps.com
@@ -166380,6 +166392,7 @@ g4r4ntibbv4subaea.online
 g4tyhol.duckdns.org
 g4yen03r.duckdns.org
 g4zikrtykleme.net
+g5125ar51a142141.duckdns.org
 g51sdit.duckdns.org
 g543g53.great-site.net
 g54noe32z.duckdns.org
@@ -188438,6 +188451,7 @@ harcaharcabitmezsensizgecen.sbs
 harcaharcabitmezsesiniduymadan.com.tr
 harcaharcabitmezsonfirsatlar.online
 harcaharcabitmeztelefon.cfd
+harcaharcabitmeztelefon.sbs
 harcaharcabitmeztr.online
 harcaharcabitmeztr.shop
 harcaharcabitmezturkiye.icu
@@ -215995,6 +216009,7 @@ internetveznesi.xyz
 internetveznesii.com
 internetvnpttphcm.com
 internetwatchtower.com
+internetweb-online1.click
 internetwideband.com
 internetwivd.com
 internetworld-yapikredi.com
@@ -232052,6 +232067,7 @@ kampanyaramazan.online
 kampanyaramazan.xyz
 kampanyarehberi.xyz
 kampanyarentarackira.com.tr
+kampanyaresmiduyuru.com
 kampanyaresmiduyurubasvurunet.com
 kampanyasaati.shop
 kampanyasaatleri.store
@@ -245486,6 +245502,7 @@ laratikonajalodasa.top
 larbidousement.zapto.org
 larcausk.site
 lardairset.leauguantu.ru
+lardansandasdasd.icu
 laren.online
 larendeyapiinsaat.com
 larfj7g1vaz3y.net
@@ -246101,6 +246118,7 @@ leakcheck.pro
 leakekibi.com
 leakfinance.info
 leakingprivacy.tk
+leamen.click
 leanbin.net
 leanflattery.top
 leangoblinlol123.ddns.net
@@ -258599,6 +258617,7 @@ metafb-url.cfd
 metafbbrowser-urltr.cfd
 metafbbrowsersa-urltr.cfd
 metafbgarant-url.cfd
+metafbrowsercarreforsa-urltr.cfd
 metafbrowsersa-urltr.cfd
 metaflip.io
 metaflux.sbs
@@ -271828,6 +271847,7 @@ nese-evine-kadar-geliyor-burada.com
 nese-yagmuru-yeniden-burada.com
 nese-yagmuru-yeniden-sizinle-burada.com
 neselendiren-beraberlik-yenilikci-guzellik-yaninizda.com
+neselendirenherseyyaninda.cfd
 neseli-gunlerde-farkeden-umutlar-burada.com
 neseli-haberler-daima-yaninizda-simdi.com
 neseli-haberler-getirdik-sizlere-yeniden.com
@@ -295125,6 +295145,7 @@ pasajmarketler.com
 pasajmobil.shop
 pasajonline.com
 pasajonlinemagaza.com
+pasajonlinemagaza.store
 pasajonlinemarket.com
 pasajoutlet.com
 pasajp-ttceponline.com
@@ -337610,6 +337631,7 @@ sistem-online-ekrandan-sorgu.online
 sistem-randevu.org
 sistem-randevulariniz.net
 sistem-vakif-duyuru.click
+sistem-web.sa.com
 sistem.misecure.com
 sistem0deme.wuaze.com
 sistem24.shop
@@ -339901,6 +339923,7 @@ sndebuguneozelkatilhemen.tech
 sndefirsatkazankatil-buayaozel.cloud
 sndegeltrcmridaeal.app
 sndeglalsburda.com
+sndeglburyhmnckin.cyou
 sndekatlceklsesongn.duckdns.org
 sndekmuczl.com
 sndekmuczl.xyz
@@ -349658,6 +349681,7 @@ sunucumdemo.xyz
 sunulan.misecure.com
 sunulmus.misecure.com
 sunulur.misecure.com
+sunumum.misecure.com
 sunwindz.in.net
 suodemesi.net
 suogogurshodf.top
@@ -355041,6 +355065,7 @@ team.msteam.biz
 teamacc0unt-tr1.com
 teamaccount-managamenetamzon-updateinfo.duckdns.org
 teamadmin.duckdns.org
+teaman.click
 teamc00lkidd.ddns.net
 teamchat.hopto.org
 teamchuan.com
@@ -369825,6 +369850,7 @@ turkcellpasajin.com
 turkcellpasajmagaza.com
 turkcellpasajmagazalar.com
 turkcellpasajmagazalari.com
+turkcellpasajmagazam.com
 turkcellpasajmagazasi.com
 turkcellpasajmarket.com
 turkcellpasajmarketi.com
