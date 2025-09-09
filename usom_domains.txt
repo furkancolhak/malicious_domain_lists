@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-09T08:05:12.608686
+# Updated: 2025-09-09T09:06:26.680435
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -20993,6 +20993,7 @@
 45.125.34.126
 45.125.64.195
 45.125.66.129
+45.125.66.89
 45.125.66.90
 45.125.67.144
 45.125.67.172
@@ -41611,6 +41612,7 @@ acilv2denizbanka.com
 acilykleme.22web.org
 acilyolyardimturkiye.xyz
 acimapoolcok.site
+acimaz.cfd
 acinhalindenacanlar.online
 acity-lawfirm.com
 aciveriyoryenibastansevmesi.click
@@ -160586,6 +160588,7 @@ firsat-solenleri.sa.com
 firsat-subelermobildeniz.com
 firsat-subemobilgiris.com
 firsat-subende.com
+firsat-taksitle.duckdns.org
 firsat-teklifleri.net.tr
 firsat-tkelfibru-brasdsa.store
 firsat-tum-hafta-haftasi-boyunca-kampanya-a101-indirim-61.a1o1nlneee.ru.com
@@ -180287,6 +180290,7 @@ guncelbayramfirsatlaribasvuru.net
 guncelbayrmetkinlikleri.net
 guncelbelgemaktif.com
 guncelbetebet.net
+guncelbfinansla.com
 guncelbilgin.name.tr
 guncelbnnnrsac.online
 guncelbnnrcsatrgiris.online
@@ -193258,6 +193262,7 @@ hemenvergiode.net
 hemenversipsr.click
 hemenvexne.net
 hemenvezneler.net
+hemenvkfbeninle.com
 hemenvrndv.b-cdn.net
 hemenwebapp.weebly.com
 hemenyakala.xyz
@@ -237838,6 +237843,7 @@ kilometresorgulamaf.web.app
 kilometresorgulamaisinasil.web.app
 kilometresorgulamanoktasi.blogspot.com
 kilometresorgulamaonline.web.app
+kilometresorgulamapro.web.app
 kilometresorgulamaptt.shop
 kilometresorgulamayeri.web.app
 kilometresorgulaptt.shop
@@ -241324,6 +241330,7 @@ kosar.ac.ir
 kosava.xyz
 koscgbdevlet.net
 kosel.com.tr/for-check/
+kosendeagla.cfd
 kosfzv.com
 kosgebiskur.com
 kosgep-halkbank.com
@@ -250464,6 +250471,7 @@ lstanbulbreysell.online
 lstanbulbreysell.site
 lstanbulburda.com
 lstanbuldaodemelibb.net
+lstanbulhedefi.sa.com
 lstanbulkart.com
 lstanbulkart.istanbul
 lstanbulkartislem.net
@@ -288266,6 +288274,7 @@ ott2hgs-tr.org
 otta.ddns.net
 ottmekes.com
 ottocap.org
+ottoman-angle.live
 ottomanheritage.site
 ottomanorganic.online
 otu6wp7bkvqrgdm45n1.ddns.net
@@ -297676,6 +297685,7 @@ pettross.com
 petturk.info
 pettyheave.top
 pettyintercourse.top
+petunyabodrum.com
 peturnwss.ddns.net
 petwoofs.com
 petyx228.hopto.org
@@ -321024,6 +321034,7 @@ sadeceizle.online
 sadeceizle.zapto.org
 sadeceizlersiniz.cfd
 sadecekasimayifirsatlari.com.tr
+sadecekznfirslat.duckdns.org
 sadecem81bimyukle.ga
 sadecema1o1.net
 sadeceonlideyikgenela.duckdns.org
@@ -340246,6 +340257,7 @@ sndblardnhabernolmadimi.cfd
 sndbndensinglbaki.art
 sndbnlrdrpymcbkglgtt.cfd
 sndbnmgbiolmamlisin.cfd
+sndbrdasngeldnasd.icu
 sndbrdngmnkpmlsin.icu
 snde-basvurtakipkampanyasina.com
 snde-hemenbasvurbizekatilkmpanyasi.com
@@ -367238,6 +367250,7 @@ trinkburada.click
 trinkburada.digital
 trinkcebinde.digital
 trinketiket.xyz
+trinkgeldi.click
 trinkheryerde.click
 trinkinizisisiz.online
 trinkkolay.digital
@@ -386397,6 +386410,7 @@ vkfgiris.epizy.com
 vkfgirisonlinekrediweblogin.click
 vkfgirisonlineweblogin.click
 vkfgirispagesayfasikredi.click
+vkfgnlerden.click
 vkfhaber.club
 vkfhaber.site
 vkfhaber.website
@@ -387292,6 +387306,7 @@ vovylxnbeb.duckdns.org
 vowjw2ul.duckdns.org
 vowsk.com
 vowyrym.com
+voxdreamz.com
 voxglider.com
 voxly.top
 voyage-omra.com
