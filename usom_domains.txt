@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-10T21:05:12.118997
+# Updated: 2025-09-10T22:05:15.205543
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -52166,6 +52166,7 @@ aldnaldnnfirssxtllri-szllerleyni.net
 aldnaldnpzrts.store
 aldnfrlsatlariyaa1o1.duckdns.org
 aldngeliadi.art
+aldnkzcazkia1o1de.duckdns.org
 aldnn-aldnnxmrktindrmlleryle.xyz
 aldnnindrmll-firsttlrszllerle.net
 aldnxalin101pkahd.com
@@ -74012,6 +74013,7 @@ bensiskoyumqwewqe1.click
 bensizinbabanizim.net
 benslzukeer.xyz
 benson12.ddns.net
+bensonssonsadasd.duckdns.org
 bensosyalim.net
 benstoun.com
 bent3457.xyz
@@ -90959,6 +90961,7 @@ bonusagel.click
 bonusal-granti-web.com
 bonusal1.com
 bonusalparibu.com
+bonusavantaj.click
 bonusbakgir.b-cdn.net
 bonusbakiyeli.ml
 bonusbanka.com
@@ -161995,6 +161998,7 @@ firsatlarsanagelsinsokmarket3.click
 firsatlarsanagelsinsokmarket4.click
 firsatlarsanagelsinsokmarket5.click
 firsatlarsanagelsinsokmarket6.click
+firsatlarsanagelsinsokmarket7.click
 firsatlarsende.com.tr
 firsatlarsenibekliyor.com.tr
 firsatlarseninle.com
@@ -167420,6 +167424,7 @@ garant-kampanyaniz.za.com
 garant-kampanyasi.ru.com
 garant-kampanyasi.sa.com
 garant-kampanyasi.za.com
+garant-kampanyasube.pro
 garant-kamplar.sa.com
 garant-kamplari.pro
 garant-kamplari.sa.com
@@ -193602,6 +193607,7 @@ hepisiburda.online
 hepisiburda.xyz
 hepisleminiz.app
 hepisleml.app
+hepkazanvemutluol.cfd
 hepkek2.ru
 hepkwtyoucekcamp7.net
 hepmhizmetel.app
@@ -303344,6 +303350,7 @@ promosyonhaziran.click
 promosyonhipodrom.com
 promosyoniscep.site
 promosyonkampanyasi.duckdns.org
+promosyonkatil.com
 promosyonkayit.com
 promosyonkayitplatformu.online
 promosyonkullanin.com
@@ -390712,6 +390719,7 @@ webbsbayrntilrmizim33.xyz
 webbsbayrntilrmizim356.xyz
 webbsbayrntilrmizim456.xyz
 webbsbayrntilrmizimm5.xyz
+webbsbayrntilrmizimmo3.xyz
 webbsbayrntilrmizimp5.xyz
 webbsbayrntilrmizimpm9.xyz
 webbsbayrntilrmizims2.xyz
