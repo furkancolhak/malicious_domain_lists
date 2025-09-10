@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-10T04:05:12.516507
+# Updated: 2025-09-10T05:05:13.843377
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -362970,6 +362970,7 @@ tr-bilgi.ink
 tr-bilgisistem.com
 tr-billgi.com
 tr-bilnance.click
+tr-bilnnance.click
 tr-bimceel.com
 tr-bimceel.info
 tr-bimcel.de
@@ -363003,6 +363004,7 @@ tr-binancedestek.com
 tr-binancefirsat.net
 tr-binancekampanyalar.net
 tr-binancem.com
+tr-binances.click
 tr-binancesizeozel-hemenbasvur.cloud
 tr-bireysel-acikdenizv2denizbank.com
 tr-bireysel-cepsube-isbank.com
@@ -382605,6 +382607,7 @@ vatandas-uyap.b-cdn.net
 vatandas-uyap.cfd
 vatandas-uyap.com
 vatandas-uyapgiris.com.tr
+vatandas-uyapgov.online
 vatandas-uyappgov.cloud
 vatandas-uyapsorusturma.com
 vatandas-websorgu.b-cdn.net
