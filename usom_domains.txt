@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-10T09:05:12.467702
+# Updated: 2025-09-10T10:05:12.137757
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -82175,6 +82175,7 @@ bireysel-hizmetler.com
 bireysel-hizmetleri-s.com
 bireysel-home-envr.cfd
 bireysel-home-envr1.cfd
+bireysel-home-envr2.cfd
 bireysel-home-envr3.cfd
 bireysel-hsbc.com
 bireysel-iadat-basvurulari.tk
@@ -230767,6 +230768,7 @@ kamoanyalifirsarlar.xyz
 kamoanyaliindimler.com.tr
 kamoanyaliindimler.xyz
 kamodabkomebo.zapto.org
+kamotors.net
 kamoyu.bns-vio.space
 kamp-any-alar.com
 kamp-cadir-teklfsbr-brfuds.shop
@@ -234587,6 +234589,7 @@ kartalhaberleri.com
 kartalhomenesfleskpleskdsad.cloud
 kartallafirsatlarbitmez.com
 kartallafirsatlarimbitmez.duckdns.org
+kartalsondakikalar.com
 kartaltvhd.com
 kartaodemeal.com
 kartary.com
@@ -265163,6 +265166,7 @@ morcatimkadinasiddetvar.com
 morcatkadinasiddethayir.com
 morcatkadinasiddetvar.com
 morcicekevi.com
+morcicekevi.org
 morcizgi.co
 morcizgi.com
 morcizgi.info
@@ -344839,6 +344843,7 @@ sponsor781239girsisyap.com
 sponsorblackmail.top
 sponsorcunuz-844381.com
 sponsored-ate.gl.at.ply.gg
+sponsoredrklmvkkf.com
 sponsoredvklif.com
 sponsorgiris53920324.com
 sponsorilanvar.online
@@ -373150,6 +373155,7 @@ tuvturkaracmyne.net
 tuvturkaracrandevu.org
 tuvturkaracrandevuc.web.app
 tuvturkaracrandevular.web.app
+tuvturkaracrandevularimm.web.app
 tuvturkaracrandvuss.web.app
 tuvturkaracrndmuayene.web.app
 tuvturkdanismanlik.com
