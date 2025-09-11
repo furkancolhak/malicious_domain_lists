@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-11T12:05:13.221032
+# Updated: 2025-09-11T13:05:12.170883
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -21661,8 +21661,6 @@
 45.80.29.139
 45.80.37.152/bins
 45.80.39.242/31337
-45.81.113.107
-45.81.113.47
 45.81.226.17
 45.81.235.31
 45.81.39.175
@@ -24866,6 +24864,7 @@
 5h7ttood5.duckdns.org
 5h8kmro.duckdns.org
 5hbczpo.duckdns.org
+5hf3gdwg4ewrg4r56g.is-lost.org
 5hizliveguvenserviceds.com
 5hjjujc.duckdns.org
 5hoduxoap.duckdns.org
@@ -29403,6 +29402,7 @@
 81512323232.cloud
 81552.com
 816466917.dfgqdsd.ru
+81678115fan.com
 816805230700.duckdns.org
 81680523072000.duckdns.org
 8173828455.ddns.net
@@ -53097,6 +53097,7 @@ alkampanyada.cfd
 alkampanyadan.sbs
 alkampanyalari.online
 alkampanyatg.com
+alkampnya.online
 alkampnyalari.online
 alkan.egnyte.com
 alkanbeyreklam.com
@@ -104711,6 +104712,7 @@ cicekdunyasndalar.com.tr
 cicekdunyasndalar.online
 cicekdunyasndalar.xyz
 cicekella.xyz
+cicekevin.com
 cicekevin.net
 cicekevreni.com
 cicekhizmetleri.biz
@@ -146148,6 +146150,7 @@ eliots9390jarndos20.duckdns.org
 elips.duckdns.org
 elipticyatirim.com
 eliptikyazilim.cc
+eliptikyazilim.co
 eliptikyazilim.com.de
 elisabungalov.com
 elisasimonigermssupplier.com
@@ -165445,6 +165448,7 @@ frsatlarkarli.duckdns.org
 frsatlarladoluyaam.site
 frsatlarlasznleyzsatnaln.com
 frsatlarnizayaginiza.xyz
+frsatlarozeldeburdaa1o1de.blogspot.com
 frsatlarxmixndrmlerixm.com.tr
 frsatlarxmixndrmlerixm.online
 frsatlarxmixndrmlerixm.xyz
@@ -199095,6 +199099,7 @@ hizli.ultrakiralikarabam.com.tr
 hizli.uygunkiralikarachizmeti.xyz
 hizli1-traf.22web.org
 hizli101.online
+hizli11eyluldesss.cloud
 hizli150.com
 hizli17ocaksiparis.cloud
 hizli1cinbilgiler.com
@@ -243538,6 +243543,7 @@ kulgar-eventfreefire.duckdns.org
 kulis9876.blogspot.com
 kulisbilgisiyardimlari.com
 kulishaberi.com
+kulistenbilgi.com
 kulkoleolsandaa.xyz
 kullananlarbilir.name.tr
 kullanatrecetem.net
@@ -255693,6 +255699,7 @@ marketzincirleriturkiye.shop
 markham-travel.com
 marki.ddns.net
 markindejunojib.ddns.net
+markivex.xyz
 markjohnhvncpure.duckdns.org
 markktapp.com
 marklarinzeltasi.xyz
@@ -303381,6 +303388,7 @@ promosyon15bintl.pro
 promosyon2024-5000hemen.com
 promosyon2025.net.tr
 promosyon2025.xyz
+promosyonakatil.com
 promosyonaktif.com
 promosyonalin.com
 promosyonalmavaktin.com
@@ -350179,6 +350187,7 @@ summonadherence.top
 summonoppression.top
 summrisecuptat.top
 sumo.hopto.org
+sumo.misecure.com
 sumokeskod.click
 sumpyo.com
 sumqzdobv.com
@@ -379745,6 +379754,7 @@ v9qzamr.duckdns.org
 v9v45pz67le04p3cs315498wet18ugyri.oast.live
 v9zbzvn.duckdns.org
 va-ez.com
+va-kif-benkjkr.com
 va-kif-mobil.xyz
 va-kif-mobiliniz.xyz
 va-kifbireyselmobill.xyz
@@ -383239,6 +383249,7 @@ vbf8989.duckdns.org
 vbfdwdvt-scvt.com
 vbfoxi.top
 vbgiiriiskatllllm.com
+vbgnlrdnbnlarckgdiyor.digital
 vbhgty.com
 vbhrcelj.com
 vbif.cloud
@@ -396682,6 +396693,7 @@ wwvqnbfinans.click
 wwvsahibinden-secure.com
 wwvsahibinden-securem.com
 wwvsahibinden-securen.com
+wwvsahibinden-secures.com
 wwvsahibinden.com
 wwvsubegelalaktive.com
 wwvv-bimcell-yukleme-tl.com
