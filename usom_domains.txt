@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-11T09:05:13.023779
+# Updated: 2025-09-11T10:05:12.519007
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10106,6 +10106,7 @@
 185.68.93.122
 185.68.93.233
 185.7.214.54
+185.7.81.108
 185.70.105.33
 185.70.184.41
 185.70.184.44
@@ -86383,6 +86384,7 @@ bkppink.com
 bkqacshefn.duckdns.org
 bkrdfnlj.org
 bkresearch.org//db_template.php
+bkrsnbnadhaiyilrsnnolur.digital
 bkrsupport.com
 bkrzhc.top
 bksjrakubs.duckdns.org
@@ -188820,6 +188822,7 @@ harcaharcakampanyaliredmiyeri.cfd
 harcaharcakampanyaliredmiyeri.sbs
 harcaharcakampanyaliredmiyerleri.cfd
 harcaharcakampanyaliredmiyerleri.sbs
+harcaharcaredmialimlariburada.cfd
 harcaharcarharharcabitmez.com.tr
 harcaharcarharharcabitmez.online
 harcaharcasizlerle.net
@@ -193116,6 +193119,7 @@ hemenizleme.xyz
 hemenkampanyadanfaydalan.com
 hemenkampanyadanfaydalan.xyz
 hemenkampanyaedevlet.com
+hemenkampanyalar.com
 hemenkampanyalarlailgilen.com.tr
 hemenkapbaskasinabirakma.xyz
 hemenkapilaracilsin.com
@@ -211297,6 +211301,7 @@ imf130.duckdns.org
 imf61221.ddns.net
 imfertago.com
 imfpandemiyardimi2021.fit
+img-data-backup.b-cdn.net
 img-instagram.web.id
 img-picture-instagran.my.id
 img-sekerbank.mncdn.com
@@ -343164,6 +343169,7 @@ sorgubilgisistem.com
 sorgubirimi.com
 sorgubiz.com.tr
 sorgubiz.xyz
+sorguceza.net
 sorgucom.fun
 sorgucom.pw
 sorgucome.fun
@@ -347163,6 +347169,7 @@ static-cdn-349.net
 static-cdn1.com
 static-fonts.com
 static-graph.com
+static-mw-host.b-cdn.net
 static-ss.xvideos-cdn.com
 static.accelerator-introlab.ml
 static.apiforssl.com
@@ -350488,6 +350495,7 @@ superindirimhaftasi.online
 superindirimhaftasi.xyz
 superindirimleradresii.online
 superindirimlerburada.me
+superindirimmarket.click
 superindirimmarket.com
 superindirimnisan.com
 superindirimsepet101.xyz
@@ -381539,6 +381547,7 @@ vakifkredionlineebireysel.xyz
 vakifkredionlinekapnya.xyz
 vakifkredionlinekmpya.xyz
 vakifkredionlinemerkezi.click
+vakifkredisistemiwebbasvur.online
 vakifkredisistemonayekran.click
 vakifkreditalebi.xyz
 vakifkrxediler.duckdns.org
