@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-11T14:05:14.174104
+# Updated: 2025-09-11T15:05:14.785524
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6556,6 +6556,7 @@
 146.70.225.25
 146.70.24.144
 146.70.24.173
+146.70.29.229
 146.70.40.228
 146.70.40.230
 146.70.41.178
@@ -20578,6 +20579,7 @@
 41tfdsa.com
 41uaivyv.duckdns.org
 42.112.26.36
+42.112.26.45
 42.115.33.146
 42.119.111.97
 42.121.111.112
@@ -35293,6 +35295,7 @@ a101geceindirimi.online
 a101geceindirimin.online
 a101gel.online
 a101geldikkapi.com
+a101getticaret.shop
 a101girisonline.marktlerburada.com
 a101guncel.duckdns.org
 a101guncel.firsatlar.shop
@@ -239246,6 +239249,7 @@ kkdomddom.space
 kkdomdomadac.space
 kkdomdomdomain.com
 kkdomdomdomss.duckdns.org
+kkdomdomssdom.duckdns.org
 kkdomgeliyorlar.click
 kkdomodmdad.duckdns.org
 kkdomssdomain.com
@@ -309404,6 +309408,7 @@ qkhcdt.cyou
 qkjehf.com
 qklojedx.in
 qkmu7745b.duckdns.org
+qkostmn15.com
 qkqeesnptnjomqg.ru
 qkqz6um.duckdns.org
 qksbhxtui.com
@@ -337983,6 +337988,7 @@ siparislerindehizlan25temmuzda.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
 siparislerindenagustostaaa24.cloud
+siparislerindenhizlnir.cloud
 siparislerinhizlandi25temmuzda.cloud
 siparislerinhizlandiryarinda29.cloud
 siparislerinhizlanir20bucukda.cloud
