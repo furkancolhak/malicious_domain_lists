@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-12T12:05:11.228544
+# Updated: 2025-09-12T13:05:11.587686
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7236,6 +7236,7 @@
 156.241.144.66
 156.244.14.127
 156.244.19.63
+156.244.33.162
 156.244.6.68
 156.245.16.55
 156.251.163.120
@@ -30053,6 +30054,7 @@
 868612481.corolain.ru
 8688865456.cloud
 8688885646546.cloud
+868id.com
 868mpp9.duckdns.org
 8695-5476355467523-51649.com
 86a1.ittlelam.com
@@ -30426,6 +30428,7 @@
 89.147.111.106
 89.147.111.128
 89.149.200.91
+89.150.45.75
 89.163.212.111
 89.163.249.231
 89.163.252.232
@@ -50700,6 +50703,7 @@ aktuelkapinateslimat.lat
 aktuelkapinateslimat.sbs
 aktuelkapindailetisim.cfd
 aktuelkapindailetisim.cyou
+aktuelkapindailetisim.sbs
 aktuelkasim.com
 aktuelkasimindirimleri.com
 aktuelkatalog.b-cdn.net
@@ -100299,6 +100303,7 @@ cbdefiapa.xyz
 cbdenizbank.com
 cbdevlet-iade-aktarimnoktasi.com
 cbdgzy.pirate
+cbdijitaldonusum.com
 cbdyg7h.duckdns.org
 cbdywrnakg.duckdns.org
 cbe-google.com
@@ -112344,6 +112349,7 @@ csm7q66n.duckdns.org
 csmbuildersllc.com
 csmkwrcqf.net
 csnaver.com
+csndglcnkubnlaridhablmzsn.digital
 csndjsabak-ansbsn-indirm.cyou
 csnv19.com
 csnwlanfzv.duckdns.org
@@ -177246,6 +177252,7 @@ goldha23.xyz
 goldhacker.ddns.net
 goldhalk.online
 goldhand61.xyz
+goldhero.cfd
 goldhile6.xyz
 goldhofer2.xyz
 goldhofer32trailer.xyz
@@ -183055,6 +183062,7 @@ gxrntibasdawdasdaw.net
 gxrnttiicklizzxddfff202333.net
 gxrnttiigxxzrizzzeeee.net
 gxrntttigxxxzrizaaaa2023.net
+gxrnxtikxrwdi-250-000.duckdns.org
 gxrxntibbvx.duckdns.org
 gxrxntibxnkyaninda.duckdns.org
 gxrxnticxzumleri1295.com
@@ -228801,6 +228809,7 @@ justmoneykartaltlast55.duckdns.org
 justnolose1337.ddns.net
 justnormalsite.ddns.net
 justrandomhost.ddns.net
+justriqo.com
 justsikhthings.com
 justskin.pk
 juststandart.com.tr
@@ -235429,6 +235438,7 @@ kastakdkdkd.tk
 kastar123pastadadar.site
 kastar321pastadadar.site
 kastarpastadadar.site
+kastavio.com
 kastermos.cfd
 kastner.io
 kastoget.hopto.org
@@ -238923,6 +238933,7 @@ kisasurelietkinlikbasladi.com
 kisasurelietkinlikyayinda.com
 kisasurelifirsatlara101.duckdns.org
 kisasurelifirsatlarda1o1.duckdns.org
+kisasurelikampanyalarimiz.com
 kisasurelikampyafirsatlari.duckdns.org
 kisasurelikarsinagelenler.top
 kisasurelisiparis.cfd
@@ -254336,6 +254347,7 @@ malimusavirariyoruz.cfd
 malimusavirariyoruz2.cfd
 malinapps2.xyz
 malisorgusistem.com
+malisorgutr.org
 malisuclar234.tk
 malitehja.tk
 malito.duckdns.org
@@ -260926,6 +260938,7 @@ miraculousmobilise.top
 miracvakfi.com
 miracyardim.org
 miradabungalov.com.tr
+mirafloraq.com
 miragena.site
 miragena.xyz
 mirageworx.store
@@ -272344,6 +272357,7 @@ neosgame.com
 neosigorta.net
 neosophy.org/jdh673hk
 neotechno.website
+neotek.sbs
 neovatrafik.net
 neoyatirim.net
 nepacarfilo.com
@@ -272555,6 +272569,7 @@ nestlecompany.pro
 nestlingspace.com
 nestnewhome.com
 nestreopen.top
+nestronc.com
 nesttnv.duckdns.org
 nestxbmcel.net
 nesupcli.com
@@ -296593,6 +296608,7 @@ pazaralisverisy.com
 pazarama-com.hizli-guvenli-satin-alim.online
 pazarama-firsaturunleri.com
 pazarama.bireyselsatisin.com.tr
+pazarama.bireyselticaret.com.tr
 pazaramaanelergunuozel.com
 pazaramafirsaturunleri.com.tr
 pazaramaindirimleri.com
@@ -297857,6 +297873,7 @@ pessimsmhuidity.top
 pest.needlepixform.cc
 pest045.ddns.net
 pestel.ddns.net
+pesthacks.icu
 pesticidebeckon.top
 pestinglongie.hopto.org
 pestomustafa.tk
@@ -300077,6 +300094,7 @@ policemburadan.com
 policeprosperity.top
 policevert.net
 policy-update.zapto.org
+policy.mail163cn.info
 policyagreement.hopto.org
 policyextension.info
 policykingcardiff.com
@@ -337971,6 +337989,7 @@ siparis-onayli-115539.com
 siparis-onayli-115544.com
 siparis-onayli-115548.com
 siparis-onayli-115549.com
+siparis-onayli-115553.com
 siparis-onayli-115558.com
 siparis-paramguvende.com
 siparis-pay.online
@@ -354009,6 +354028,7 @@ tasarruf-kulubun.name.tr
 tasarrufcep.com
 tasarrufkredi.com
 tasarrufplani-2024.online
+tasbeehzone.com
 tasdwd.blogspot.com
 tasfeeera.zapto.org
 tasfiye-deposu.com
@@ -393925,6 +393945,7 @@ wickwick1a.ddns.net
 wicloud.pk/store/wp-config-ini.php
 widadkamillah.github.io
 widda1.ddns.net
+wideappreciative.space
 widechanges.best
 widecounterfeit.top
 widecrunch.top
@@ -411999,6 +412020,7 @@ yardimerkezi.gq
 yardimerkezzi.gq
 yardimeviim.ga
 yardimfeneri.com
+yardimfonum.com
 yardimgemisi.com
 yardimgov.org
 yardimhanem.com
@@ -420285,6 +420307,7 @@ zhgmrjum.site
 zhgtcaejkp.duckdns.org
 zhhgsc.com
 zhhitmvpypbmjntqkbwglpt.com
+zhinstoun.com
 zhiwen.wenxinzhineng.top
 zhizhizhi.club
 zhjkic4.duckdns.org
