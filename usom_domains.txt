@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-12T15:05:11.861210
+# Updated: 2025-09-12T16:05:11.216181
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4635,6 +4635,7 @@
 11htsxj.duckdns.org
 11ijib.duckdns.org
 11ink8aiw.duckdns.org
+11jvn.com
 11kasimdakfirsatim.online
 11kasmozelkampnya.com
 11l19secondpop.ddns.net
@@ -98303,6 +98304,7 @@ cagriisilani.com
 cagrikarsilama.com
 cagrimerkeziaile.ml
 cagrimerkeziden.net
+cagrimerkezievden.online
 cagrimerkezimiz.net
 cagrimerkeziniz.com
 cagrimerkeznet.com
@@ -162376,6 +162378,7 @@ firsattsigorta.site
 firsatttoyyy.com
 firsatttqr-lexacan.work
 firsattttheandkcampaing.xyz
+firsatubo.xyz
 firsatuelduyuru.net
 firsaturunhaftasi.com.tr
 firsaturunlerdepo.com.tr
@@ -298323,6 +298326,7 @@ philiso87162.ddns.net
 philkassa-spb.com
 philliesmgir.pw
 phillips679.xyz
+phillipys.com
 philosopherperplex.top
 philosophervibrate.top
 philosophicalevasive.top
@@ -338729,6 +338733,7 @@ siyahlit.online
 siyaterm.duckdns.org
 siyatermi.duckdns.org
 siyaysescarvaniscon.site
+siyenibercanites.com
 siyumiyuhiyu.site
 siz-bizi-burada-bekleyin-biz-hemen-gidip-geliyoruz-kacirma.com
 siz-bizi-ve-kendinizi-burada-birakin.top
@@ -411989,6 +411994,7 @@ yardimbirgun.com.tr
 yardimbirgun.xyz
 yardimbirligi.com
 yardimbirligi.site
+yardimci.sbs
 yardimcinizbiziz.com
 yardimciolmaliyiz.xyz
 yardimdayanisma.com
@@ -422308,6 +422314,7 @@ ziratdep.com
 ziratguncel.com
 ziratguncelim.com
 zirathaberler.app
+ziratib-tk.com
 ziratibankam.com
 ziratim-cebimde.com
 ziratimgeldi.duckdns.org
