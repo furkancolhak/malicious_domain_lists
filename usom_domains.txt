@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-15T16:05:14.489961
+# Updated: 2025-09-15T17:05:14.366848
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3040,6 +3040,7 @@
 103.195.236.140
 103.195.7.162/bins
 103.198.26.222
+103.199.101.3
 103.199.16.104
 103.199.16.92
 103.2.232.82
@@ -5578,6 +5579,7 @@
 137.184.67.33
 137.184.73.79
 137.186.193.226
+137.220.152.99
 137.220.176.165
 137.220.194.68
 137.220.48.214
@@ -7128,6 +7130,7 @@
 154.23.221.136
 154.246.32.93
 154.39.238.101
+154.44.30.27
 154.48.227.100
 154.48.227.89
 154.49.137.16
@@ -7257,6 +7260,7 @@
 156.236.76.90
 156.238.111.174
 156.238.225.44
+156.238.238.111
 156.240.157.226
 156.241.134.49
 156.241.144.66
@@ -13676,6 +13680,7 @@
 202.8.123.98
 202.82.82.2
 202.88.230.238
+202.95.8.47
 2020-aidat-sistemim.org
 2020-basvuru-hizmetim-sorgulama-merkezi-application.org
 2020-bigbang.cyou
@@ -16659,6 +16664,7 @@
 27.102.130.63
 27.102.70.196
 27.117.91.191
+27.124.13.32
 27.124.26.83
 27.124.26.86
 27.124.37.59
@@ -20759,6 +20765,7 @@
 43.248.136.215
 43.248.136.241
 43.248.15.89
+43.248.172.13
 43.248.201.209
 43.248.8.108
 43.249.11.188
@@ -47297,6 +47304,7 @@ aishield.shop
 aiside.shop
 aisimple.top
 aisirif-sfriaiis-sifieidi.lol
+aisizhushou.com
 aisksdjsijdsknshak.icu
 aisleosymn.com
 aisoraplus.com
@@ -94303,6 +94311,7 @@ bucheignaton.top
 buchgsyolcu.is-best.net
 buchnation.com/wp-config-ini.php
 buckar.ddns.net
+bucket00716.s3.ap-southeast-2.amazonaws.com
 bucket49.xyz
 bucketconcise.top
 bucketdissertation.top
@@ -98007,6 +98016,7 @@ c4h659.duckdns.org
 c4i29yf.duckdns.org
 c4ishere.ddns.net
 c4los1.xyz
+c4p11.shop
 c4r6ykg82.duckdns.org
 c4r84vd6.duckdns.org
 c4sd1pchctqfo430k0o4mp3.ddns.net
@@ -116634,6 +116644,7 @@ deepgraphics.co.za/db_template.php
 deepgraphics.co.za/wp-config-ini.php
 deephq.store
 deepislem.22web.org
+deepl-fanyi.com
 deeplearng-deep.com
 deeplemonc.zapto.org
 deeplyseak.top
@@ -237539,6 +237550,7 @@ kexntkrt.net
 kexntkrtuykleme.net
 key-office.ddns.net
 key-said.net
+key2025.oss-cn-hongkong.aliyuncs.com
 key88secu7.wordpress.com
 keya1o1.net
 keyauth.ddns.net
@@ -240229,6 +240241,7 @@ kmhgfgfh.shop
 kmhgfgfs.shop
 kmhgfvgbn.shop
 kmhhgfgh.shop
+kmhhla.top
 kmhizmett.shop
 kmhjythtyrfg.shop
 kmhk.kmsrglm-baskysorglma.click
@@ -342804,6 +342817,7 @@ sonfirsatlarbuguneozelkacirma.online
 sonfirsatlarbuguneozelkacirma.xyz
 sonfirsatlarburda.shop
 sonfirsatlareylul.net.tr
+sonfirsatlareylul.org.tr
 sonfirsatlarikacirma.duckdns.org
 sonfirsatlarikacirmaadansatinal.com.tr
 sonfirsatlarikacirmaadansatinal.online
@@ -357572,6 +357586,7 @@ telegrambackups.com
 telegrambots.me
 telegramco.org
 telegramdesktop.com
+telegramni.com
 telegramos.org
 telegramplus.com.tr
 telegramreport.me
@@ -403817,6 +403832,8 @@ xiaomiprojektor.shop
 xiatcowcao.duckdns.org
 xiaudpvmes.net
 xiazai.muzhiwan.com
+xiazai1.aisizhushou.io
+xiazai2.aisizhushou.io
 xibfkg.top
 xibql.com
 xibsgtusd-yklee.net
@@ -417761,6 +417778,7 @@ youcy2222.codns.com
 youdad.ru
 youdaoah.top
 youdaomjsyu.icu
+youdaoselw.icu
 youdontcare.com
 youdubashi.484100.cn
 youedao.com
@@ -423060,6 +423078,7 @@ znjpebeqb.org
 znjyyfapdz.duckdns.org
 znoy51.duckdns.org
 znqjdnqzdqzfqmfqmkfq.site
+znrce3z.oss-ap-southeast-1.aliyuncs.com
 znre8eisy.duckdns.org
 znrzblgg.duckdns.org
 znse4x.duckdns.org
