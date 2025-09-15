@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-15T13:05:12.352302
+# Updated: 2025-09-15T14:05:14.651445
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6310,6 +6310,7 @@
 14515579416.cloud
 145214515456589598099890.xyz
 145214515456589598099891.xyz
+145214515456589598099893.xyz
 145215554455887770.xyz
 145215554455887771.xyz
 145215554455887772.xyz
@@ -111904,6 +111905,7 @@ cringevtsd.site
 criniculture.com
 criogetikfenbut.org
 criper98.ddns.net
+cripito.sambal.web.id
 crippleappalling.top
 cripplemute.top
 crisispetrochemical.top
@@ -210534,6 +210536,7 @@ ilanguvenleodeme.online
 ilanguvenleodeme.xyz
 ilanguvenliiticaretim.com
 ilanguvenlik.com
+ilanguvenliksistemi.site
 ilanhizmet.com.tr
 ilanhizmetlerim.com.tr
 ilaniburada.com
@@ -256655,6 +256658,7 @@ matkapdevindirimassurrmatkapp5seet.xyz
 matkapdevindirimstok100.online
 matkapdevindirimstok50.online
 matkapdevirgucuinidirims.xyz
+matkapefsaneviindirimes.vip
 matkapevimmm.shop
 matkapguccluuhilti.xyz
 matkapguclusag.xyz
@@ -308931,6 +308935,7 @@ pzrdrstlrndybykndrm.shop
 pzrfrsatlarylbsozl.shop
 pzrfrsdtlrndsabzvrd.shop
 pzrfrstgc.shop
+pzrfrstikpindasmdsaldnaldnkpindat.tech
 pzrfrstmm.com
 pzrfrstmx.com
 pzrgnglvodikmr.net
@@ -332175,6 +332180,7 @@ sepeteattik.xyz
 sepetebakmadan.xyz
 sepeteekle.click
 sepeteeklealdin.sbs
+sepeteeklealdinal.sbs
 sepeteeklediginfirsatlarikacirmadansatinal.com.tr
 sepeteeklediginfirsatlarikacirmadansatinal.online
 sepeteeklediginfirsatlarikacirmadansatinal.xyz
@@ -358766,6 +358772,7 @@ teqfiaanre.duckdns.org
 teqqivivvi.duckdns.org
 teqswjyjkgkjjd.me
 ter3535sss.epizy.com
+ter4363634634.dpdns.org
 terab.retalonx.com
 terac-anexstry.ddns.net
 teracom.co.id
@@ -387240,6 +387247,7 @@ vkfkredisayfasibasvuruekrani.click
 vkfktlm.net
 vkfktlmfirsatlari.com
 vkfktlmhzmtcekilis.xyz
+vkfkyetyerasd.click
 vkfla-iaadenhazir.com
 vkflaiaddenburadahazir.net
 vkflaiaddenekhazir.com
@@ -412923,6 +412931,7 @@ yaz-sicaginda-rahat-konforlu-yasam.com
 yaz-try-loginweb.xyz
 yaz-web-himetlri.net
 yaza-sn-kmp.cfd
+yaza-sn-kmp.sbs
 yaza1o1.net
 yazaa-ozxellkampnylarr.com
 yazaceptengirin.com
