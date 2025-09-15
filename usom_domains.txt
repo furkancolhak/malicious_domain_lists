@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-15T06:05:12.509489
+# Updated: 2025-09-15T07:05:11.663363
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -42202,6 +42202,7 @@ adanzyefilo.online
 adapazarisubeleriindirim.online
 adapazarisubeleriindirim.xyz
 adapazarisubelerikampanya.xyz
+adapptersworld.com
 adaptiveclutch.top
 adaptivecss.org
 adasdasdadasdasfdsgfghghjgj.top
@@ -163505,6 +163506,7 @@ flrsatalarimhemendasali.shop
 flrsatalarimhemendasengel.shop
 flrsatbakin.com
 flrsatbayramgunlerindeherkesle.store
+flrsatbenisikaetmeolumsenkimswa.world
 flrsatbuflrsat.com
 flrsatbugfundemlaidsan.world
 flrsatbuguncumaherkeskos.store
@@ -175947,6 +175949,7 @@ gisedolumlari.xyz
 gisehizmetleri.xyz
 gisehizmetlerim.xyz
 giseislemleri.xyz
+giselleblea.com
 gisematik.xyz
 gisememur.2kool4u.net
 gisepremium.xyz
@@ -281098,6 +281101,7 @@ ohbtnuaekh.ddns.net
 ohcedceap.duckdns.org
 ohd9w1tw0.duckdns.org
 ohdkct.com
+ohegoo4.com
 ohegvnijdm.duckdns.org
 ohejk0wtcdcr12iduhuxa.ddns.net
 ohekelem4x4.hopto.org
@@ -286860,6 +286864,7 @@ opaeae201.zapto.org
 opaf5twxk23bqvu67n1l5ns.ddns.net
 opakmodeme.net
 opakvalican.com.tr
+opalescentbay.com
 opalsteamgrove.site
 opaquepesticide.top
 opaqueshrubbery.top
@@ -338207,6 +338212,7 @@ siparis-onayli-115544.com
 siparis-onayli-115548.com
 siparis-onayli-115549.com
 siparis-onayli-115553.com
+siparis-onayli-115554.com
 siparis-onayli-115558.com
 siparis-paramguvende.com
 siparis-pay.online
@@ -356695,6 +356701,7 @@ technetium.network
 technewages.com
 technewsblogapi.azurewebsites.net
 technewson.digital
+technexa.sbs
 technic-tickets.ru
 technica13.zapto.org
 technicalakin.top
@@ -403452,6 +403459,7 @@ xemlakimxodemem.net
 xemlakvergimxodmx.net
 xempt.ddns.net
 xenden231.zapto.org
+xenithix.com
 xenodochial-carson.31-220-75-59.plesk.page
 xenodochial-easley.31-210-39-124.plesk.page
 xenodochial-lovelace.194-233-69-188.plesk.page
@@ -416453,6 +416461,7 @@ yine-yeni-yeniden.online
 yineayakisleminicin.online
 yinebeklenenfirsatlarkapinda.online
 yinebetguncelgiris.blogspot.com
+yinecansiberites.com
 yinedeenguzellerbenimle.sbs
 yinedesanel.net
 yinegeldi-aralik-firsatlari.shop
