@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-16T11:05:13.424540
+# Updated: 2025-09-16T12:05:15.891413
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7598,6 +7598,7 @@
 16-01-vsuwb-nhsja-hshaj.cfd
 16-01-vsuwb-nhsja-hshaj.cyou
 16-01-vsuwb-nhsja-hshaj.icu
+16-09-2025.sbs
 16-11-asdasf-ygavfa-ausfas-adsfhf-adfsdg.com
 16-171-34-6.plesk.page
 16-171-61-234.plesk.page
@@ -37831,6 +37832,7 @@ acardernegi.com
 acarfilo.com
 acarfilo.com.tr
 acarfilo.net.tr
+acarglobalmarket.com
 acarionline.com
 acarislem.com
 acarkurulusu.org.tr
@@ -46745,10 +46747,12 @@ aidatturkiyegovtr.com
 aidatturkiyemm.tk
 aidaturkiye.com
 aidatvariadevarnebakiyon.net
+aidatvasvurularkredikart.xyz
 aidatvatandasportalda.com
 aidatvergi-iade.com
 aidatvergi-odeme.com
 aidatvergidestek.com
+aidatvergidrel.duckdns.org
 aidatvergidress.duckdns.org
 aidatvergidrss.duckdns.org
 aidatvergikapisi.com
@@ -68795,6 +68799,7 @@ basvru-destek-platformu-aidat-iadesi.xyz
 basvru-eiadesorguportal.com
 basvru-eiadesorguportl.com
 basvru-online.com.tr
+basvru-tr-tr-tr.shop
 basvru-tr-tr.shop
 basvru-trbnnrcn.com
 basvrubilgiedin-devleltigirisim.com
@@ -71538,6 +71543,7 @@ baykafunt.store
 baykar-ad.com
 baykar-b.glitch.me
 baykar-baykoin.icu
+baykar-baykoin.top
 baykar-baykoin.world
 baykar-fashion.ru
 baykar-fly.digital
@@ -93613,6 +93619,7 @@ bsvurucam.site
 bsvuruclk.net
 bsvurucom.site
 bsvurueviilkkredsi.link
+bsvurufirsatlar.xyz
 bsvurularda-grisedvletekrani.com
 bsvurum.site
 bsvurum0bilnoeygrntim.net
@@ -96453,6 +96460,7 @@ buyuksehri.net
 buyuksehrim.net
 buyuktakipci.com
 buyukturkiye2023.site
+buyukvergindirimleri101a.icu
 buyumendedestek.tk
 buyumuyuhuhudada.site
 buyvault.shop
@@ -104784,6 +104792,7 @@ chroonopostfrr.click
 chroperzen.xyz
 chrriom-metamskxtinson.webflow.io
 chrsstiansen.com
+chrtu.com
 chs-glbalservin.ddns.net
 chs-vertityidentglb.ddns.net
 chs1bkfa.hopto.org
@@ -107144,6 +107153,7 @@ cma1gl0dnxczs1btrd.com
 cma1o1dnrm.net
 cma988.duckdns.org
 cmacmafirsatlarikcmzindimlerlesindionline.com
+cmacpdeskpindafrstlrasalndaldnsmrskr.tech
 cmagndmd.com
 cmagndmd2.com
 cmahzmtsnryk.net
@@ -112174,6 +112184,7 @@ crrefoursaa.shop
 crrefouursaa.shop
 crrefursa.shop
 crrfrlindrmmlrnz.com
+crrfrlindrmmlrnzrrs.xyz
 crrfrrsddnalbildklrnz.com
 crrfrsaadnaldikklariniz.shop
 crrfrsdn-alablrsnz.shop
@@ -119175,6 +119186,7 @@ denizbankk-sube.com
 denizbankk-sube.net
 denizbankk.co.vu
 denizbankk.com
+denizbankk.net
 denizbankk.tk
 denizbankkampanya.com
 denizbankkampanyabasvuru.com
@@ -156146,6 +156158,7 @@ eylulpereakendekampanyalari.com
 eylulsonfirsatlar.shop
 eylulsonu.com.tr
 eylulsonu.net.tr
+eylulsonu.org.tr
 eylulsurprizleridevamediyor1.com
 eylulsurprizleridevamediyor10.com
 eylulsurprizleridevamediyor2018.com
@@ -157963,6 +157976,7 @@ fayssal36.zapto.org
 fayto.duckdns.org
 fayutrgcyw.duckdns.org
 fayysalllar.online
+fayzo.cyou
 faz-desteginabasvurus.com
 faz1hgs.com
 faz3hgs.com
@@ -163799,6 +163813,7 @@ flrsltkfldmsml.duckdns.org
 flrsltlt545855715218.duckdns.org
 flrsqtlarimizgelincokiyiyiz.com
 flrstatlarkapinda.shop
+flrsthemenkapinda.duckdns.org
 flrsthemenmiburadayoksa.click
 flrstkcmazhqzrlnr111.duckdns.org
 flrstlarkcrmamakuzere.duckdns.org
@@ -169411,6 +169426,7 @@ garantibvabnk.com
 garantibvaonline.com
 garantibvba.com
 garantibvba.com.tr
+garantibvba.misecure.com
 garantibvba.net
 garantibvbamobil.online
 garantibvbba.com
@@ -179093,6 +179109,7 @@ gratisturkiye.xyz
 gratisyazkampanyasi.ga
 gratitudegauge.top
 gratitudeinterrogation.top
+gratiz.ftp.sh
 gratizmhost.cfd
 gratls.co
 gratls.store
@@ -184110,6 +184127,7 @@ haber-nerde.life
 haber-net.website
 haber-o.site
 haber-okuru.site
+haber-sermayesitr.com.tr
 haber-show.club
 haber-tr.online
 haber-trend.online
@@ -210905,6 +210923,7 @@ ile-guvenilirodeme.com
 ile-guvenilirsatis.com
 ile-guvenle-islem-yap.com
 ile-guvenle-isleminiyap.com
+ile-guvenle-islemlerim.com
 ile-guvenle-islemyap.com
 ile-guvenle-odeme-yap.com
 ile-guvenle-odemeni-yap.com
@@ -219772,6 +219791,7 @@ isinguzelkampanyasi.com
 isinicebtebitir.com
 isiniceptebitir.com
 isiniceptebitir.ml
+isinikurasflfqwf.datatitan.sbs
 isinizcepte.net
 isinizmivar.com.tr.ht
 isinizolsun.godaddysites.com
@@ -237598,6 +237618,7 @@ ketcpmjb.com
 ketepenksa.icu
 keterritsup.com
 ketewoaekkadeanea.xyz
+ketewoaekkhadeanea.xyz
 kethadxxkg.duckdns.org
 ketilmkart.com
 ketinimkarts.net
@@ -239833,6 +239854,7 @@ kkxkxksmmll.net
 kkxntkxrtodmhmzet.net
 kkxx888666.com
 kkyoldalargeliyorlar.com
+kkyolllldalargeliyorlar.com
 kkyxpfcdtkmtyca.ru
 kkzgx1gc.duckdns.org
 kkzjtv9.duckdns.org
@@ -306936,6 +306958,7 @@ pttgov-trd.top
 pttgov-tre.top
 pttgov-trf.top
 pttgov-trg.top
+pttgov-trgova.cyou
 pttgov-trh.top
 pttgov-trhg.top
 pttgov-tri.top
@@ -325613,6 +325636,7 @@ sahibindenparam.eguvende-online.sa.com
 sahibindenparam.guvende-alisveris.sa.com
 sahibindenparam.guvende-ilan.sa.com
 sahibindenparam.guvende-ilantr.sa.com
+sahibindenparam.guvende-odeme-tr.sa.com
 sahibindenparam.guvende-odeme.sa.com
 sahibindenparam.guvende-online-tr.sa.com
 sahibindenparam.guvende-online.sa.com
@@ -343917,6 +343941,7 @@ sorgulamatrmr.net
 sorgulamaturkiye-apx.com
 sorgulamaturkiye.com
 sorgulamaturkiyede.com
+sorgulamave-aktrma.cyou
 sorgulamaveaktarim.com
 sorgulamaveaktarim2025.cyou
 sorgulamaveaktarma.com
@@ -366922,6 +366947,7 @@ trbinancehesaponayi.ml
 trbinancespot.blogspot.com
 trbinancetr.com
 trbinanceyardim.com
+trbinanse-girisler.vercel.app
 trbinarcen.com
 trbinase.com.tr
 trbininance.com
@@ -373568,6 +373594,7 @@ turposti.top
 turpptgoves.life
 turptt.icu
 turptt.top
+turpttagovt184.shop
 turpttegot184.shop
 turpttgotva184.shop
 turpttgotve184.shop
@@ -403322,6 +403349,7 @@ xanvirandeviksfl.net
 xanvirandevufsx.net
 xanzal.xyz
 xaoedayispiwrgr.su
+xaomi-tlf-tr.sbs
 xaontwnqxe.duckdns.org
 xap.ss.la
 xapalrmtpe.duckdns.org
@@ -412771,6 +412799,7 @@ yarinlaradestekvakfi.com
 yarinlaragulecegizbirlikte.net
 yarinlaramutluyasam.com
 yarinlaramutluzamanlarvakfi.com
+yarinlarasosyalyd.online
 yarinlarbizimdir.com
 yarinlardenizde.com
 yarinlarguzeldir.com
@@ -417601,6 +417630,7 @@ yollar-sirlarla-gezginler-hayalperest.com
 yollar-sirlarla-gezginler-uzaklarda.com
 yollarbilgilendirme.dev
 yollardanhizlihizli.online
+yollas.misecure.com
 yollcu360.com
 yollcu360.online
 yollcu360.store
@@ -418959,6 +418989,7 @@ yurticikargo-takip.cyou
 yurticikargo-takip.xyz
 yurticikargo-tr.com
 yurticikargo-tr.icu
+yurticikargo-ts.top
 yurticikargo.alisverisimsguvenli.com.tr
 yurticikargo.app
 yurticikargo.banaozel.org
