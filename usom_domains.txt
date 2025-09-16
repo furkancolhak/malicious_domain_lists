@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-16T15:05:11.637253
+# Updated: 2025-09-16T17:05:12.445691
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2182,6 +2182,7 @@
 101alisverisredmiburasi.sbs
 101alisverisredmiburasidir.sbs
 101anindakapinda-com-tr.cfd
+101anindakapinda-com-tr.sbs
 101anindakapinda-com.cfd
 101aonlinegiris.app
 101aonlinesatinal-shop.preview-domain.com
@@ -62235,6 +62236,7 @@ ataturkhavaalani.2kayipesya.xyz
 ataturkhavaalani1.2kayipesya.xyz
 ataturkolmediyasiyorwin.com
 ataturksorguvergi.net
+atatv44.alwaysdata.net
 atatv44check.net
 atavilla.com
 atavratherus.net
@@ -71008,6 +71010,7 @@ basvurusuyap.shop
 basvurusuyap.site
 basvurusuyap.xyz
 basvurusuyapailegenc.pro
+basvurutakip.org
 basvurutakipciniz.com
 basvurutakipsistem.tk
 basvurutalep-tradresi.com
@@ -109971,6 +109974,7 @@ cookpolytechnic.top
 cooksalution.top
 cooksolicitor.top
 cooktime.click
+cooktools.pro
 cookzoo.xyz
 cool-curie.20-40-53-136.plesk.page
 cool-group.ae/wp-includes/certificates/connection.php
@@ -110945,6 +110949,7 @@ cpanel.ekapitbbcmtrhazine77.ga
 cpanel.evdekalturkiye.gen.tr
 cpanel.evdekalturkiye.net
 cpanel.freekamporgyilsonuozel900tl.cf
+cpanel.g5nuhlqhg-hizlihgsyukle.is-best.net
 cpanel.garantibbva-kampanya-katilim-2024-1.duckdns.org
 cpanel.garantibbva-kampanya-katilim-2024-2.duckdns.org
 cpanel.guvenli-odemeget.com
@@ -119150,6 +119155,7 @@ denizbankinfirsatimi.tk
 denizbankiniz.com
 denizbankintenretsubesi.com
 denizbankinternet.com
+denizbankinternetbankaciligi.blogspot.com
 denizbankinternetbankaciligi.com
 denizbankinternetbankaciligi.website
 denizbankinternetbankaciligi2019.com
@@ -160036,6 +160042,7 @@ finans-bank-qnb.com
 finans-bank-tr.com
 finans-bankankethediyesi.com
 finans-bankonline.com
+finans-basvuru.cloud
 finans-basvuru.com
 finans-basvurugiris.com
 finans-beyni.online
@@ -185196,6 +185203,7 @@ haftaninyildizlarindasongunbugun.online
 haftaninyildizlarindasongunbugun.xyz
 haftaninyildizlarindebugunler.cfd
 haftaninyildizlarindebugunler.sbs
+haftaninyildizlarinideneyin.com
 haftaninyildizlarionlinede.duckdns.org
 haftaninyildizlerien.cfd
 haftaninyildizlerien.click
@@ -186116,6 +186124,7 @@ hakohako.ddns.net
 hakold.ru
 hakoorned34.net
 hakozye.com
+hakreklam.lol
 hakshaks.jumpingcrab.com
 haksikayetvar.com
 haksuara.com
@@ -210960,6 +210969,7 @@ ile-guvenli-odemem.com
 ile-guvenli-odemeniyap.com
 ile-guvenli-odemeyap.com
 ile-guvenli-siparis-ver.com
+ile-guvenli-siparisver.com
 ile-guvenlial.com
 ile-guvenlialisverisyap.com
 ile-guvenlice-islemini-yap.com
@@ -256514,6 +256524,7 @@ masalignler.xyz
 masallahbufaysbooka.org
 masallahbumetaya.org
 masallahizligecislerindirimfirsatlari.blogspot.com
+masallahreklam.lat
 masallahs.net
 masaltombalikhikayeleri.xyz
 masalyardimlasmavakfi.site
@@ -264906,6 +264917,7 @@ mobis.ddns.net
 mobisummer.com
 mobito.net
 mobitr-ilan.com.tr
+mobitr-ilanlar.com.tr
 mobius-group.com
 mobiuscategory.zapto.org
 mobjl-web.shop
@@ -322481,6 +322493,7 @@ saglikuygulamasi3.com
 saglikuygulamasi4.com
 saglikuygulamasi5.com
 saglikvedestekzamani.com
+sagolasin.help
 sagotravel.com.tr
 sagremote.ddns.net
 sagrko.tw
@@ -361203,6 +361216,7 @@ tiqqcdn.com
 tirafikcezalariniz34.formstack.com
 tiramisu.it/wp-content/plugins/wp-comment-form.php
 tiramoprio.net
+tirbinance.com.tr
 tircekici.com
 tirechinecarpet.pw
 tired43556.xyz
@@ -391083,6 +391097,7 @@ web-kapida.com.tr
 web-kapimizda.com.tr
 web-kapinizda.com.tr
 web-katilim.one
+web-katilim.online
 web-kayit-internet.site
 web-kayit-login.xyz
 web-klantportal.ddns.net
@@ -391595,6 +391610,7 @@ webden--sube--giris---tr.com
 webden-aidat-odemeleri.net
 webden-aidat-odemeleri.org
 webden-basvuru-3000tl-sosyaldestek.com
+webden-basvurun.online
 webden-edevlet-iadesi-govtr.com
 webden-giris-devlet-aidatt-iadesi-gov-tr.com
 webden-girisim-devlet-aidatt-iadesi-gov-tr.com
