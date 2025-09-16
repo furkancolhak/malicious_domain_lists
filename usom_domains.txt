@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-16T21:05:12.493488
+# Updated: 2025-09-16T22:05:14.082002
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -52067,6 +52067,7 @@ aldinaldinfirsatlariredmiyeri.sbs
 aldinaldinfirsatlariredmiyeridi.cyou
 aldinaldinfirsatlarisiredmiburada.sbs
 aldinaldinfirsatlarisiremdiburada.cfd
+aldinaldinfirsats.xyz
 aldinaldinfrsatgitttigdiyorrr.online
 aldinaldingunleri.cfd
 aldinaldingunleri.my
@@ -64863,6 +64864,7 @@ aybasivdodeme.net
 aybenimaykizim.cfd
 aybeyinsaat.blogspot.com
 aybfi4.ytyukai.cn
+aybitimi.sbs
 aybsicrrfrsazmni.com
 aycanlar.bid
 aycarskiralama.com
@@ -156184,6 +156186,7 @@ eylulpandemidestek.com
 eylulpereakendekampanyalari.com
 eylulsonfirsatlar.shop
 eylulsonu.com.tr
+eylulsonu.info.tr
 eylulsonu.net.tr
 eylulsonu.org.tr
 eylulsurprizleridevamediyor1.com
@@ -181206,6 +181209,7 @@ gunceltanitimlireklam.xyz
 gunceltarife.com
 gunceltasitvergisiodeme.com
 gunceltelefonindirm.online
+gunceltrendyoladres.com
 gunceltrendyoladresim.com
 gunceltrsikayet.net
 gunceltrsikayetler-157.sbs
@@ -185168,6 +185172,7 @@ haftaninyildizicampany.xyz
 haftaninyildizicryptermahserwsynx.me
 haftaninyildizimatkapaaldinaldin.xyz
 haftaninyildizindirime.sbs
+haftaninyildizindirimekle.sbs
 haftaninyildizionlinecampny.xyz
 haftaninyildizisadece.online
 haftaninyildizisinirlicampanyler.xyz
@@ -199027,6 +199032,7 @@ hissebono.com
 hissedalgasi.com
 hissekarturk.com
 hisseler-yatirim.com.tr
+hissen.sambal.web.id
 hissepetrol-tr.com
 hisseplatform-tr.com
 hissetmekten-otede-dahada-iyiler-var.com
@@ -213628,6 +213634,7 @@ indirimlialisverislerinadresi.xyz
 indirimlibaharurunleri.com.tr
 indirimlibavsok.com.tr
 indirimlibavulfirsat.com.tr
+indirimlicanli.duckdns.org
 indirimlicay.com.tr
 indirimliefsanagunler.sbs
 indirimliekpaket-turkcell.com
@@ -262838,6 +262845,7 @@ mobil-siparisleriniz.com
 mobil-siparislerle.com
 mobil-site.com.tr
 mobil-sitesi.com.tr
+mobil-sokteslimatsubesi.cfd
 mobil-sonuc-osym.com.tr
 mobil-sosyaldevletdestegi.com
 mobil-sparamguvende.online
@@ -371267,6 +371275,7 @@ turkcellsanalmagaza.xyz
 turkcellsanalmagazalari.com
 turkcellsanalmagazasi.com
 turkcellsanalmarket.com
+turkcellsanalmarket.xyz
 turkcellsanalmarketi.com
 turkcellservices.com
 turkcellservis.net
@@ -402143,6 +402152,7 @@ wwwbimcelliara.com
 wwwbimcelllsonhaber.net
 wwwbimtrcell.com
 wwwbinancecom.com
+wwwbinancetr.mom
 wwwbireyselpayfix.com
 wwwbireyselpayfix.com.tr
 wwwbitci.com
@@ -419861,6 +419871,7 @@ zaaf.org
 zaaf.pro
 zaaf.us
 zaafcheck.fun
+zaafcheck.info
 zaafcheck.online
 zaafchecker.xyz
 zaafsizol.online
