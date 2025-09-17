@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-17T14:05:12.736992
+# Updated: 2025-09-17T15:05:14.271534
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -48677,6 +48677,7 @@ akbizmezbitemez.com
 akbjavtowg.duckdns.org
 akbkatilimtalebleriniz.com
 akbknkk.xyz
+akbknnk.site
 akbkonline.com
 akbktr.com
 akbldnklsbs.hopto.org
@@ -235233,6 +235234,7 @@ kartallafirsatlarbitmez.com
 kartallafirsatlarimbitmez.duckdns.org
 kartalsondakikalar.com
 kartaltvhd.com
+kartalxbasvurular.cloud
 kartaodemeal.com
 kartary.com
 kartbakiye-yukle.tk
@@ -237664,6 +237666,7 @@ kesfet.name.tr
 keshumeb.com
 kesici.eu
 kesikelyaf.com
+kesildijaber.sbs
 kesilen-ucret-iade-aktarim-sayfasi-online-giris.xyz
 kesilen-ucret-online-guvenli-basvuru-yap-web-org.xyz
 kesilen-ucretler-aktarim-sayfasi-kart-giris-iade.xyz
@@ -240624,6 +240627,7 @@ kmpny.2023araclar.xyz
 kmpnya-al-ucz-hmen.shop
 kmpnyaaabsvrrrprmoo.click
 kmpnyaaaqnbbbkatilim.cloud
+kmpnyaabsvrrraafinnss.click
 kmpnyaakdayaz.name.tr
 kmpnyaaqnbbbsvrr.click
 kmpnyabnctrgiris.online
@@ -369296,6 +369300,7 @@ trpttgovf.cc
 trpttgovgv.cc
 trpttgovi.cc
 trpttgovk.cc
+trpttgovka.cc
 trpttgovkx.cc
 trpttgovl.cc
 trpttgovmv.cc
