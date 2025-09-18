@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-18T22:05:14.211544
+# Updated: 2025-09-18T23:05:12.889816
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -25920,6 +25920,7 @@
 6441056b613c32a9.dwnlld.info
 644359675.goloser.ru
 64512412412817355731.biz
+64512765.cloud
 64513.site
 64523-5346124354.com
 645237.cloud
@@ -68314,6 +68315,7 @@ baolresnacamits.duckdns.org
 baomoi.vnptnet.info
 baoshlda.com
 bap19w.duckdns.org
+bapbess.click
 bapfess.click
 bapi-binance.com
 bapkkau-amz2021.ddns.net
@@ -91439,6 +91441,7 @@ bonuslaryaninda.cf
 bonuslaryaninda.ml
 bonuslaryaninda.tk
 bonuslesbianboston.com
+bonuslu.click
 bonusludenizim.com
 bonuslugunler.digital
 bonuslular2022.buzz
@@ -157518,6 +157521,7 @@ far3on.zapto.org
 fara.thetupaus.com
 faraclarmuayeneli.net
 farah99.zapto.org
+farahcarfourindirimleri.duckdns.org
 faraj.zapto.org
 faramizdakalsinlersif.click
 faraway-lodge.co.za
@@ -337793,6 +337797,7 @@ sikayetvarisletme.ml
 sikayetvaritiraz.ml
 sikayetvaritirazz.tk
 sikayetvarmi.online
+sikayetvarmobil-19.sbs
 sikayetvarmobil-24.sbs
 sikayetvarmobil-27.sbs
 sikayetvarr-destek.cf
@@ -343301,6 +343306,7 @@ sondakika-haberler.tk
 sondakikaesenler.com
 sondakikafirsatin.com
 sondakikafirsatlaribitmez.online
+sondakikafirsatlaribitmez.xyz
 sondakikafirsatlariicinaciltikla.beauty
 sondakikahab-erler.com
 sondakikahaberler.cf
