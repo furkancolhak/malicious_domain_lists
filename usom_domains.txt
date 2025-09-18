@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-17T23:05:13.004457
+# Updated: 2025-09-18T00:05:12.740896
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -101635,6 +101635,7 @@ cekilis2020denizbank.com
 cekilis2020firsati.com
 cekilis2020firsatlari.com
 cekilis2024.xyz
+cekilis3.lat
 cekilisaciikdenizv2deniizbank.co.vu
 cekilisacikdenizmobil.online
 cekilisacikdenizv2denizbankhediye.co.vu
@@ -105848,6 +105849,7 @@ ciscovpn2.com
 ciscovpn3.com
 ciserdeude.top
 ciskotik.com
+cisnas.click
 cisremelakkjsljljijl.com
 cissaditodm.com
 cissco.net
@@ -246489,6 +246491,7 @@ lancolombia.org
 land-atlanta.net
 land-create.com
 land-giris-web.digital
+land-internet-web.click
 land-pipe-spray.com
 landaloneproperty.live
 landaristocrat.top
