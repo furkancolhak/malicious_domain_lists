@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-18T07:05:14.656259
+# Updated: 2025-09-18T08:05:10.836966
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2352,7 +2352,9 @@
 101frsatlararwq.live
 101frsatlararwq.za.com
 101frsatlargeldi.com
+101frsatlargeldi.online
 101frsatlargeldi.xyz
+101frsatlargeldi101.com
 101frsatlargeldi101.online
 101frsatlarinikacrinmangerekir.duckdns.org
 101gecmarket.com
@@ -37466,6 +37468,7 @@ abeonatravel.ge/wp-admin/db_template.php
 abeonatravel.ge/wp-includes/db_template.php
 aberdarehorticulture.com/wp-admin/db_template.php
 aberdeenestateagents.com
+aberdeenhomebuyers.com
 abert-online.de
 aberzing.com
 abesdonisgemyenec.site
@@ -63693,6 +63696,7 @@ aventixx.network
 aventura7538.duckdns.org
 avenueallusion.top
 avenuemgir.pw
+avenueyroom.news
 avenzzi.com
 avera.zapto.org
 averageaattractiionsl.shop
@@ -115759,6 +115763,7 @@ data.ondex.uk
 data.parafia-strumiany.pl
 data.prtcl.icu
 dataank.com
+dataapricot.shop
 database786.xyz
 databasegalore.com
 databasepenguin.top
@@ -160168,6 +160173,7 @@ finans-enpara.com
 finans-firsat-kampanyalari.com
 finans-gunlerim-cepte.com
 finans-hep-yanimda.vercel.app
+finans-hizli-basvuru.cloud
 finans-iadebasvuru.com
 finans-iadeislemleri.com
 finans-iadelerine-basladik.com
@@ -162833,6 +162839,7 @@ firsobufirsat.duckdns.org
 firsoloafa.duckdns.org
 firsot-bgnaninda.site
 firsotlara.duckdns.org
+firsotlaramarkaa.cfd
 firsotlarbgunozell.site
 firssatsigorta.site
 firsstklimamsokktan.com
@@ -177782,6 +177789,7 @@ gonder.ananla.online
 gonderbenienguzellere.sbs
 gonderi-takip.info
 gonderi-takip9.org
+gonderi-tanitim.xyz
 gonderi.name.tr
 gonderianliktakip.com
 gonderihizmettakbn.com
@@ -279713,6 +279721,7 @@ oasis67.net
 oasisdrinktracker.com
 oasisdrop.com
 oasisepin.com
+oasisgleam.com
 oasmavkjmcxctdkit.net
 oast.fun
 oasymbasvurun.net
@@ -341009,6 +341018,7 @@ smartedvlersevapp.com
 smartenergymodel.com
 smarterbaby.com
 smarterbaby.com/jdh673hk
+smartflow247.com
 smartfoodsglutenfree.kz
 smartfutureforbcforests.com
 smartgadgetpros.com
@@ -371313,6 +371323,7 @@ turkcell-cebimde-firsatlar.com
 turkcell-digital.online.basvuru-kampanya.ml
 turkcell-edevlet.demo-test.online
 turkcell-efatura.com
+turkcell-eksikbilgi.com
 turkcell-fatura.biz
 turkcell-fatura.org
 turkcell-guvenli-pasaj.com
@@ -381469,6 +381480,7 @@ vakifbank-portal-web.ga
 vakifbank-portal-web.gq
 vakifbank-portal-web.tk
 vakifbank-reklam-resmi.tk
+vakifbank-secure-kredi.cyou
 vakifbank-sube-com.cf
 vakifbank-sube-com.ga
 vakifbank-sube-com.gq
