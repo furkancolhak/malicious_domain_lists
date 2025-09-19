@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-19T19:05:12.447853
+# Updated: 2025-09-19T20:05:11.861689
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -283876,6 +283876,7 @@ online-girisvakifmobilbireysel.ml
 online-giriswebislemlergovtr.tk
 online-gov-tr-online-aidat-kontrol-sistemi-aspx.tk
 online-gov.org
+online-guvence-tr.online
 online-guvende-odeme.shop
 online-guvende.com.tr
 online-guvende.ru.com
@@ -289411,6 +289412,7 @@ otoyolsenin.net
 otoyolsorgula.xyz
 otoyolsorgulama.xyz
 otoyolunuzgecishgs.com
+otoyolunuzkgm.ddnsgeek.com
 otoyolveznem.xyz
 otoyolveznem2.xyz
 otoyolveznem3.xyz
@@ -334396,6 +334398,7 @@ sevindiren-mutlu-haberler-yaniniza-olacak.com
 sevindiren-sekilde-yaninda-hemen-burada.com
 sevindiren-sekilde-yaninda-olmaya-geldik.com
 sevindirendaha-dahahaberler-surekli-devamli-burada.com
+sevindirenetkinlikgeldi.top
 sevindirenhaberyaninda.top
 sevindirenmidaha-dahahaberler-surekli-devamli-burada.com
 sevindirenmidaha-dahhaberler-suurekli-devamli-burada.com
@@ -361470,6 +361473,7 @@ tilepeck.top
 tiletylerrwern.ddns.net
 tililsifov.duckdns.org
 tilingcraving.com
+tilki.online
 tilkimm.online
 till-contribute.com
 till-lindemann.ru
@@ -377110,6 +377114,7 @@ umutdivaniyardimvakfi.com
 umutdolu.org
 umuteli.org
 umutelim.com
+umutgunleri.sbs
 umutisigidernegi.com
 umutisigim.com
 umutisigivakfi.com
