@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-19T04:05:14.128700
+# Updated: 2025-09-19T05:05:13.054246
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6970,6 +6970,7 @@
 14zgz1l.duckdns.org
 15-11-ewasz-fdxgfcg-rtcvyv-ghjbkj-fhj-ddrtf.com
 15-2-6-7-8-9-9-1.com
+15-eyluldekacmaz.site
 15-ocak-aldinaldin.com
 15-subat-ramazan-indirim-zamani.duckdns.org
 15.188.83.38
@@ -112057,6 +112058,7 @@ crfsdnyklydklarinz.com
 crfsdnzhizlicagldiler.com
 crfsdnzhizlicagldiler.info
 crfsdyncrfsyagldmbncrfasa.com
+crfshiperkampgnbugn.sbs
 crfskfrsata.cfd
 crfskfrsata.sbs
 crfsmhmnal.shop
@@ -189454,6 +189456,7 @@ harcakazanyuzbirharca.online
 harcam.name.tr
 harcamadan-bitmez-a-101-ozel.online
 harcamagelkampanya1o1.net
+harcamalardaredmifirsatlariburada.cfd
 harcaman-bitmezweb.net
 harcamanbitmez.com.tr
 harcamancebinde101.com.tr
@@ -232614,6 +232617,7 @@ kampanyalardakisongunler.my
 kampanyalardakisongunler.sbs
 kampanyalardakisongunlerdekiindiirm.cfd
 kampanyalardakisongunlerdekiindiirm.sbs
+kampanyalardakisonragunlerburada.online
 kampanyalardamutlugunler.baby
 kampanyalardamutlugunler.club
 kampanyalardamutlugunler.sbs
@@ -304358,6 +304362,7 @@ promosyonpanosu.com
 promosyonpazarin.com
 promosyonramazanozel.xyz
 promosyonramazanozell.xyz
+promosyonresmi.com
 promosyonsayfasi.com
 promosyonsayfasi.online
 promosyonsefirleri.sbs
@@ -353879,6 +353884,7 @@ tadexchecker.0hi.me
 tadexxxx.0hi.me
 tadiaislemeriniz.com
 tadiaislemeriniz.xyz
+tadimizikaciramayacaklarburada.com.tr
 tadimyokbugunyine.net
 tadinda-kampanya-com-tr.cfd
 tadondihaz.xyz
