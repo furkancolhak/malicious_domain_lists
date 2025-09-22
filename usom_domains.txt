@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-22T17:05:13.057587
+# Updated: 2025-09-22T18:05:12.770914
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -194339,6 +194339,7 @@ hemenbasvurunuztamamlakazankazan.com.tr
 hemenbasvurunuzuyapin.blogspot.com
 hemenbasvuruyap.site
 hemenbasvuruyap.vercel.app
+hemenbasvuruyaps.blogspot.com
 hemenbasvurvekazanfirsati.tech
 hemenbasvuunuyapin.com
 hemenbayramfirsatlarisizlerlebirliktekacirmadanal.xyz
@@ -346321,6 +346322,7 @@ sosyalsyd.online
 sosyalsydv.com
 sosyaltarif.name.tr
 sosyaltegam.cfd
+sosyaltokiprojesi.shop
 sosyalumutlar.com
 sosyalvatandas.com
 sosyalyardiim.tk
@@ -394684,6 +394686,7 @@ websbaynrtilrm39.xyz
 websbaynrtilrmizn09.shop
 websbaynrtilrmizn20.shop
 websbaynrtilrmizn3.shop
+websbayrbnntilarimp3.xyz
 websbayrntilarim93.xyz
 websbayrntilarm4.com
 websbayrntilarni3.xyz
@@ -399460,6 +399463,8 @@ wvwv-halkbank.com
 wvwv-paribu.xyz
 wvwv-sanalmarket-10kapinda.com
 wvwv-yapikredi.com
+wvwvak7ifbank.click
+wvwvakif9bank.click
 wvwvakifaidatiadenoktasibasvuru.com
 wvwvakifb10ank.click
 wvwvakifbank.click
