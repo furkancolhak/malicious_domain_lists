@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-23T09:05:14.659258
+# Updated: 2025-09-23T10:05:13.057259
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -47367,6 +47367,7 @@ airarticlegenerate.com
 airbnb-payverification.com
 airbnb-reservation.cloud
 airbseeker.com
+airbus.careersworld.org
 airbusco.net
 airci.net
 airconditionersontop.com
@@ -58621,6 +58622,8 @@ arabeuropeancenter.com
 arabianbrother.com
 arabianos.ru
 arabica.podzone.net
+arabiccountriestalent.azurewebsites.net
+arabiccountriestalenthr.azurewebsites.net
 arabilgileri.sa.com
 arablarnzmuaynesorglma.xyz
 arablinker.com
@@ -82100,6 +82103,7 @@ bioinbox.ro
 bioinsight.icu
 biojvbhbeblsqgtm1o.com
 biokom.hu
+biolinksystems.azurewebsites.net
 biologicalbarge.top
 biologicalcomplement.top
 biologicalstumble.top
@@ -91377,6 +91381,7 @@ bonnightlifebusiness.com
 bonny-marvels-authentic.top
 bonofigliophotography.com/wp-admin/wp-config-ini.php
 bonottoweb.com.br
+bonoud.com
 bonpshgs-resmihgsyukle.is-best.net
 bonsflakampanya.shop
 bonskacmazfisatlari.shop
@@ -104580,6 +104585,8 @@ check-app-con.duckdns.org
 check-app-safty.duckdns.org
 check-app-standars.duckdns.org
 check-app-wrng.duckdns.org
+check-backup-service-179.azurewebsites.net
+check-backup-service-736.azurewebsites.net
 check-basvurucheck.net
 check-basvuruhemencheck.net
 check-browser.ddns.net
@@ -112366,6 +112373,7 @@ create-domain-mpiistore.duckdns.org
 create111.ddns.net
 createacarepack.com
 createch.solutions/wp-includes/wp-config-ini.php
+createformquestionshelper.com
 creategc.hopto.org
 createid.hopto.org
 createidiot.top
@@ -129679,6 +129687,7 @@ doctoralyn.xyz
 doctorappointment34.wixsite.com
 doctorateversatility.top
 doctorbrass.top
+doctorconsult-app.azurewebsites.net
 doctorcoup.top
 doctordentista.zapto.org
 doctorganador.duckdns.org
@@ -177588,6 +177597,7 @@ global-bn-firsatiyakala.site
 global-bn-firsatiyakala.tech
 global-buguneozelkampanya.com
 global-buyilaozelkampanyalar.com
+global-careers.com
 global-com.ga
 global-cuzdan-bnbc-onay.smtp-host.de
 global-deniz-webislem.net
@@ -180884,6 +180894,7 @@ growerautoliike.com
 growerlikerperffect.com
 growforest.pro
 growmemarketing.agency
+grownehealth.eastus.cloudapp.azure.com
 growth-galaxy.site
 growthacadmys.com
 growthcapsule.top
@@ -192823,6 +192834,7 @@ healthaidhub.org
 healthaidnetwork.org
 healthboxexample.com
 healthcaption.com
+healthcare-azureapi.azurewebsites.net
 healthcheckcanadzurimcdaniels.lookwhoscookingtv.com
 healthclubfun.com
 healthfulharmony.fun
@@ -247687,6 +247699,7 @@ landmerhzmetleri.store
 landmerkmhziemtleri.com
 landmerservishizmetleri.store
 landmersorguhizmetler.com
+landmerteklifleriburads.shop
 landmerteklifleriburads.store
 landmerxads.online
 landmerxads.xyz
@@ -254475,6 +254488,7 @@ maconnexoran.duckdns.org
 macooptwafkwchtpo.pw
 macostutorial.com
 macosxappstore.com
+macprograms-pro.com
 macriftan.rf.gd
 macrofocafify.org
 macromaxi.xyz
@@ -257654,6 +257668,7 @@ marshd.hopto.org
 marshequy.top
 marshgarlic.top
 marsigortam.site
+marsoxygen.azurewebsites.net
 marstonstyl247.ddns.net
 marsupiany.org
 mart-aktarimlar-ekrani.my
@@ -258017,6 +258032,7 @@ mastercocacolavb6.hopto.org
 mastercompu.com
 masterconsultas-secure.com
 masterdow.com
+masterflexiblecloud.azurewebsites.net
 masterfluence.com.br
 mastergick122.ddns.net
 mastergolding.com
@@ -259683,6 +259699,7 @@ medicineassorted.top
 medicinebuckerrysa.pw
 medicineratify.top
 medicineventilaion.top
+medicoreit.azurewebsites.net
 medicosta.linkpc.net
 medicoutpatient.com
 medicprognosis.com
@@ -272864,6 +272881,7 @@ nano8100.duckdns.org
 nanobabo.ddns.net
 nanobeard.men
 nanoboss.duckdns.org
+nanobreathe.azurewebsites.net
 nanocore-backup.crae-ck-or.xyz
 nanocore.crae-ck-or.xyz
 nanocore.myftp.biz
@@ -274238,6 +274256,7 @@ nerdesinpangoo.net
 nerdesizinabiler.blogspot.com
 nerdesssinn.net
 nerdeysenorda.net
+nerdeyusufordabur.blogspot.com
 nere-basvur-aidat-geri-iadesi-bireysel.com
 nere.basvurm-desdek-kampanyasi-bireysel.xyz
 nerede-boyle-sevdiren-biziz.top
@@ -274839,6 +274858,7 @@ neuritis33.xyz
 neuro-dreamcore.sbs
 neuro-elevation.online
 neuro-flow.online
+neurocloudhq.azurewebsites.net
 neurocraft.online
 neuroflux42.com
 neurogon.com
@@ -334020,6 +334040,7 @@ sepetaktif.com.tr
 sepetaktuel.biz.tr
 sepetaktuel.info.tr
 sepetaktuel.net.tr
+sepetaktuel.org.tr
 sepetaldin.xyz
 sepetandlsnm.com
 sepetavantaji.online
@@ -354585,6 +354606,7 @@ systeminfo.myftp.name
 systeminfor.com
 systemizeyd.live
 systemlocksecureappl3.duckdns.org
+systemmedicaleducation.azurewebsites.net
 systemmr.top
 systemnewguarcd.com
 systemofwin.duckdns.org
@@ -355210,6 +355232,7 @@ tacteed.top
 tactfulfraud.top
 tactfulregimental.top
 tactfulsovereign.top
+tacticalsnap.eastus.cloudapp.azure.com
 tacticcognition.top
 tadaamme.com.tr
 tadaronneeng.ddns.net
