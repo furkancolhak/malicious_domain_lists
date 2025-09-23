@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-23T12:05:13.577189
+# Updated: 2025-09-23T13:05:13.409451
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2361,6 +2361,7 @@
 101frsatlargeldi101.com
 101frsatlargeldi101.online
 101frsatlargeldignde.com
+101frsatlargeldignde.online
 101frsatlarinikacrinmangerekir.duckdns.org
 101gecmarket.com
 101geldi.online
@@ -3107,6 +3108,7 @@
 103.243.26.211
 103.244.88.125
 103.246.242.202
+103.248.20.197
 103.248.61.36
 103.25.9.245
 103.251.112.11
@@ -3178,6 +3180,8 @@
 103.56.53.120
 103.56.53.46
 103.59.166.106
+103.6.235.26
+103.6.235.78
 103.60.14.150/bins
 103.60.14.154
 103.60.14.155/bins
@@ -7673,6 +7677,7 @@
 160.25.232.62
 160.250.134.51
 160.250.180.208
+160.30.173.87
 1601iy6.duckdns.org
 1604.ddns.net
 160429748283.xyz
@@ -20625,6 +20630,12 @@
 403esg.duckdns.org
 403vrvlksbnklogin.ddns.net
 404-not-found.cfd
+404.008php.com
+404.300bt.com
+404.hao563.com
+404.hzyzn.com
+404.pyhycy.com
+404.yyphw.com
 40400400001.cloud
 40402.cloud
 404169.duckdns.org
@@ -42118,6 +42129,7 @@ activedebian.ru
 activedomain53.com
 activeelec.com
 activehdd.ru
+activehealthlab.azurewebsites.net
 activelymgir.pw
 activemedia.network/wp-admin/db_template.php
 activemobistore.ddns.net
@@ -42132,6 +42144,7 @@ activesnowlife.com//db_template.php
 activesnowlife.com/db_template.php
 activesnowlife.com/wp-admin/db_template.php
 activesnowlife.com/wp-includes/db_template.php
+activespiritluth.eastus.cloudapp.azure.com
 activessd.ru
 activessd6.ru
 activestool.top
@@ -42183,6 +42196,7 @@ acun.store
 acunilicali-212.xyz
 acunilicali.cfd
 acunt-securityalert.ddns.net
+acupuncturebentonville.com
 acupuncturecenterofaugusta-devis-signe-a.duckdns.org
 acupuncturestaffs.com/wp-admin/db_template.php
 acupuncturestaffs.com/wp-includes/db_template.php
@@ -43562,6 +43576,7 @@ aerithiacheck.online
 aerivoxpartners.com
 aermgaermgam.fit
 aerobicsfit.com
+aeroclinicit.azurewebsites.net
 aerocorpevionics.com
 aerofluidthermo.org
 aeroiayuroa.duckdns.org
@@ -47368,7 +47383,11 @@ airarticlegenerate.com
 airbnb-payverification.com
 airbnb-reservation.cloud
 airbseeker.com
+airbus.careers-portal.org
 airbus.careersworld.org
+airbus.germanywork.org
+airbus.global-careers.com
+airbus.usa-careers.com
 airbusco.net
 airci.net
 airconditionersontop.com
@@ -47413,6 +47432,7 @@ airlinesimulator.io
 airmail.cc
 airmanselectiontest.com
 airmaxplus.online
+airmdsolutions.azurewebsites.net
 airminumtiro.com//db_template.php
 airminumtiro.com/db_template.php
 airnetinfotech.com/wp-content/zpopejlgqizzdwq/
@@ -47450,6 +47470,7 @@ airtechbook.com
 airtechpurifier.com
 airtel.vpndns.net
 airtorportobtain.top
+airtravellog.com
 airtravels.us/wp-admin/includes/db_template.php
 airtronuae.com//db-config-ini.php
 airtronuae.com/db-config-ini.php
@@ -58626,7 +58647,10 @@ arabianbrother.com
 arabianos.ru
 arabica.podzone.net
 arabiccountriestalent.azurewebsites.net
+arabiccountriestalent.com
 arabiccountriestalenthr.azurewebsites.net
+arabiccountriestalents.azurewebsites.net
+arabiccountriestalentshr.azurewebsites.net
 arabilgileri.sa.com
 arablarnzmuaynesorglma.xyz
 arablinker.com
@@ -62282,6 +62306,7 @@ asyamylife.net
 asyd1.duckdns.org
 asyerrfd.kalputrafnograsinraktacsarfam.net
 asylconceited.top
+asylimed.azurewebsites.net
 asylumexpire.top
 asymbbasvvr.net
 asyn.anondns.net
@@ -67166,6 +67191,8 @@ backoffice-me.com/youtu.be/db_template.php
 backofiscagricenter.com
 backpassw.click
 backpassword.click
+backsrv66.azurewebsites.net
+backsrv74.azurewebsites.net
 backstabprotection.jamesx123.repl.co
 backstalil.shop
 backto54.duckdns.org
@@ -70096,6 +70123,7 @@ basvuru-sistemim-odeme.net
 basvuru-sistemim-odemen.net
 basvuru-sistemlerim.store
 basvuru-skh-toki-gov-tr.tech
+basvuru-son.sissed.com
 basvuru-sorguiadeportali.com
 basvuru-sorgula.ml
 basvuru-sorgulasonuc.com
@@ -91112,6 +91140,7 @@ bodyshoppechiropractic.com
 bodysvkmxczs.net
 bodywork-sf.net
 boe1o2a.duckdns.org
+boeing-careers.com
 boeing.servehttp.com
 boeisurveyapplications.azurewebsites.net
 boendaloop.store
@@ -99844,6 +99873,7 @@ cardiacpure.ru
 cardiffpower.com
 cardifydev.co
 cardings-national.duckdns.org
+cardiomedspecialists.azurewebsites.net
 cardkampguvenilir.shop
 cardkuys.com
 cardlad.asia
@@ -99852,6 +99882,7 @@ cardmarket.biz
 cardslump.top
 cardspectrum.top
 cardzstorezone.com
+carebytesolutions.azurewebsites.net
 careeffoursa.com
 careefour.sa.com
 careefourr.sa.com
@@ -99859,10 +99890,13 @@ careerfinder.ro
 careerhypocritical.top
 careeronestop.site
 careerquestion.com
+careers-hub.org
+careers-portal.org
 careers.bankofamerica.nyc
 careers.com.pk
 careers.tech9logy.com
 careers2find.com
+careersworld.org
 careervsjob.com
 careerwitch.top
 carefaoursa.com.tr
@@ -99914,6 +99948,7 @@ carfourindirim.shop
 carfourindirimligunler.duckdns.org
 carfourkapmanyalar.com
 carfourkapmanyalar.shop
+carfourrse.com
 carfoursa.site
 carfoussa.shop
 carfrnbzeyaptklari.com
@@ -104593,7 +104628,9 @@ check-app-safty.duckdns.org
 check-app-standars.duckdns.org
 check-app-wrng.duckdns.org
 check-backup-service-179.azurewebsites.net
+check-backup-service-288.azurewebsites.net
 check-backup-service-736.azurewebsites.net
+check-backup-service.azurewebsites.net
 check-basvurucheck.net
 check-basvuruhemencheck.net
 check-browser.ddns.net
@@ -107075,6 +107112,7 @@ clinicalwrench.top
 clinicaoxford.com.br
 clinicavitalite.com
 cliniccrouch.top
+clinichaven.azurewebsites.net
 clinichole.top
 clinicimperative.top
 cliniconce.top
@@ -107298,6 +107336,17 @@ cloud1one.comsonyeo19.com
 clouda.ghokswa.com
 cloudali.duckdns.org
 cloudarea-klant.ddns.net
+cloudaskingquestioning.azurewebsites.net
+cloudaskingquestioning.azurewebsites.net.net
+cloudaskingquestions.azurewebsites.net.net
+cloudaskingquestions.eastus.cloudapp.azure.com
+cloudaskingquestions.eastus.cloudapp.azure.com.net
+cloudaskquestionanswers.azurewebsites.net
+cloudaskquestionanswers.azurewebsites.net.net
+cloudaskquestionanswers.com
+cloudaskquestionanswers.com.net
+cloudaskquestioning.eastus.cloudapp.azure.com
+cloudaskquestioning.eastus.cloudapp.azure.com.net
 cloudat.ddns.net
 cloudbasvurunutamamla.cloud
 cloudboats.vip
@@ -108480,6 +108529,7 @@ collaborateturtle.top
 collaboratinstle.top
 collaborativechord.top
 collaborativescorn.top
+collaboromarketing.com
 collapimga.fun
 collapsecatastrophe.top
 collapsecoexist.top
@@ -112383,6 +112433,7 @@ create111.ddns.net
 createacarepack.com
 createch.solutions/wp-includes/wp-config-ini.php
 createformquestionshelper.com
+createformquestionshelper.com.net
 creategc.hopto.org
 createid.hopto.org
 createidiot.top
@@ -113116,6 +113167,7 @@ cs-registerwhite546.echohive.sbs
 cs-supportamzsignprime.duckdns.org
 cs-turkiye.tk
 cs.chromeinform.net
+cs.pyhycy.com
 cs.sslsngyl90.com
 cs2wqsmlc.duckdns.org
 cs3.zapto.org
@@ -115751,6 +115803,7 @@ daha-yeniler-basladi-onceden-de-burdayiz.com
 daha-zamdan-etkilenmeyen-bir-biziz.com
 dahabakimli.name.tr
 dahaberler.site
+dahacokbeklersinizacmayi.cfd
 dahacokkudurun.cfd
 dahadabuisebendenbeskuruscikmaz.tk
 dahaetkili.name.tr
@@ -116501,6 +116554,7 @@ datasend.linkpc.net
 datasepetim.com
 datasharefile.ddns.net
 datasheet.fun
+datasheet96.azurewebsites.net
 datashieldsecure.com
 datasirinstream.xyz
 datasoft-sa.com/wp-content/kcdxzz1rd02o6sj6y_9xiho-41106884826/
@@ -126376,6 +126430,7 @@ digicert.online
 digicert.space
 digicert.xyz
 digicertglobal.world
+digicura.azurewebsites.net
 digifincx.com
 digifind.click
 digifish3.com
@@ -126641,6 +126696,7 @@ digitalyenigirisdenizbankam.co.vu
 digitdsk.org
 digitechmedia.agency
 digitelcare.com
+digithealthplatform.azurewebsites.net
 digitil-web.net
 digitio.sambal.web.id
 digitlin-login.website
@@ -145485,6 +145541,7 @@ ehdmnf.com
 ehdybsvrakmi.com
 ehdybsvras.com
 ehdzqzniwl.duckdns.org
+ehealthpsuluth.com
 eheclick.xyz
 ehediye-acikdenizv2denizmobilbasvur.com
 ehediye-basvur-teb.com
@@ -155940,8 +155997,11 @@ exchangexe2021.ddns.net
 excheck.cc
 exchgsz.com
 exchserverdata.one
+exchtestchecking.azurewebsites.net
 exchtestcheckingapi.azurewebsites.net
 exchtestcheckingapihealth.azurewebsites.net
+exchtestcheckingapihealth.com
+exchtestcheckingapijson.azurewebsites.net
 excinfo.itemdb.com
 excitecoincide.top
 exciteduplicate.top
@@ -159024,6 +159084,7 @@ fb0000sponsor365ak.com
 fb0258169bd4.com
 fb0b1bdb.0.0.iy4uenbtinbdcmrsizbtirjtgu4dinrygezummbvim2tiojsg5asamjyhaxdknz.ogqzs4nbteaaqaiji4dse7egns4ha5cr76z4fmwtbh2t634f5xggxgek4qhrdek.xhdr4uqyfe2wolkfh6qptg6g2g6vtqhqhsuxaavhxagvj5lhh33zdx3vyqbfmaz.x7zfzxnv4yupsesr4tczx7ew.elbsxasefiredxf.ru
 fb3izu.duckdns.org
+fb88s.icu
 fb9d6j.duckdns.org
 fbaa-ktlm.online
 fbadmanage.info
@@ -159720,6 +159781,7 @@ feracamasdlesd.com
 ferahcagrimerkezi.com
 ferahsigorta.net
 feralenirmes.com
+ferankes.cfd
 ferautnex.xyz
 ferbsqlv28.club
 ferc273627826.online
@@ -164916,6 +164978,7 @@ flycars.online
 flycarsrent.com
 flycoconut.top
 flydown.hopto.org
+flydubaicareers.ae.org
 flyermobi.com
 flyhgsz.com
 flying-defog.ink
@@ -165100,6 +165163,7 @@ focused4life.online
 focusedweek.site
 focusforeyes.buzz
 focusframephoto.com
+focusfusion.eastus.cloudapp.azure.com
 focussilentpausekangaroo.com
 focustime24.online
 focusum.store
@@ -166129,6 +166193,7 @@ fralardnbirsylergctimihmn.bond
 frame3d.de
 frameclasp.top
 framecommonwealth.top
+frameforward.azurewebsites.net
 framegoal.com
 framegoalz.com
 frameloom.top
@@ -174307,6 +174372,7 @@ germanygang2.xyz
 germanymendersd.wiki
 germanyshop.club
 germanysupportspk.com
+germanywork.org
 germday.top
 germdisclose.top
 germeaor.top
@@ -178286,6 +178352,7 @@ gobr1on.top
 goc-eposta.services
 goc-erandevu.org
 goc-ikamet-randevu.com
+gocareers.org
 gocbasvurusu.online
 gocenstersite.info
 gocgovtr.site
@@ -186225,6 +186292,7 @@ haftaninyildizionlinecampny.xyz
 haftaninyildizisadece.online
 haftaninyildizisinirlicampanyler.xyz
 haftaninyildiziwsynxcryptermahser.me
+haftaninyildizlar.com.tr
 haftaninyildizlari-101.com
 haftaninyildizlari-101.com.tr
 haftaninyildizlari-101.online
@@ -192840,6 +192908,7 @@ headzees.com
 heaglap.info
 heagsmerkezi232.blogspot.com
 heal.lancebarkerwa.com
+healsanctum.azurewebsites.net
 health-and-beauty.pw
 health-check-today.com
 health-ray-id.com
@@ -192847,11 +192916,14 @@ health.aqlifecare.com
 health264.xyz
 healthaidhub.org
 healthaidnetwork.org
+healthbodymonitoring.azurewebsites.net
 healthboxexample.com
 healthcaption.com
 healthcare-azureapi.azurewebsites.net
+healthcarefluent.com
 healthcheckcanadzurimcdaniels.lookwhoscookingtv.com
 healthclubfun.com
+healthdataanalyticsrecord.azurewebsites.net
 healthfulharmony.fun
 healthfy.bio
 healthherofit.com
@@ -200193,6 +200265,7 @@ hiucvvlsxn.duckdns.org
 hiupsp1.duckdns.org
 hiv2.zapto.org
 hivekorea.com/jdboard/member/list.php
+hivemedtech.azurewebsites.net
 hivest.top
 hivlor.com
 hivnd.net
@@ -201838,6 +201911,7 @@ hizlisiparis9temmuzda.cloud
 hizlisiparisalhizli2temmuz.cloud
 hizlisiparisilerinden21temmuz.cloud
 hizlisiparisimvar.com
+hizlisipariskapinagelir.sbs
 hizlisiparisle2rindebasvuru.cloud
 hizlisiparisleinden20bucuk.cloud
 hizlisiparisler.link
@@ -202122,6 +202196,7 @@ hizlsid-indrdmler-burdas-aldin-aldsn.store
 hizlsiparis1agusotstts.cloud
 hizlslermin.net
 hizlsmlermlerimiz.com
+hizlteslmtlifrstlar1o1.xyz
 hizluodemeservisi.org
 hizlxgecisodemelernzmsldaode.blogspot.com
 hizlyuklemesistemleri.com
@@ -207423,6 +207498,7 @@ i-sube-bireysel.com
 i-sube-garanti.com
 i-sube-internet.click
 i-sube-internet.sa.com
+i-sube-islem.site
 i-sube-kuveytturk.chickenkiller.com
 i-sube-payfix.com
 i-sube-payfix.xyz
@@ -225292,6 +225368,7 @@ izell.org
 izeltasadresim.xyz
 izeltasaldinaldin.xyz
 izeltasalmak.xyz
+izeltascampnysal.sbs
 izeltasdolucantasi.vip
 izeltasfirsat.com.tr
 izeltasfirsat.online
@@ -236460,11 +236537,13 @@ kartalflexbddk61.duckdns.org
 kartalflexbddk63655.duckdns.org
 kartalflexbddkbaskani.duckdns.org
 kartalhaberleri.com
+kartalharikalardiyari.com
 kartalhavayollari.cloud
 kartalhomenesfleskpleskdsad.cloud
 kartalileiftarvakti.duckdns.org
 kartalilereklambitmez.com
 kartalilesahuradogru.com
+kartalkgm.com
 kartallafirsatlarbitmez.com
 kartallafirsatlarimbitmez.duckdns.org
 kartalonlines277.duckdns.org
@@ -240615,6 +240694,7 @@ kisaltiyoruz.link
 kisaltma.name.tr
 kisaltmaca.xyz
 kisaltmadahizli.online
+kisaltmadinizeltasx.sbs
 kisaltmalariniz.com
 kisaltmalin.com
 kisaltmazamani.com
@@ -248876,6 +248956,7 @@ lensofafrica.co.za/db_template.php
 lensofafrica.co.za/wp-config-ini.php
 lensofafrica.co.za/wpscripts/db-config-ini.php
 lenspull.top
+lensvisionary.azurewebsites.net
 lentheatre.com
 lentkartyuklee.net
 lentkartyukleme.net
@@ -255875,6 +255956,7 @@ mainnethub.web.app
 mainnetsoll.com
 mainpath.online
 mainredimands.hopto.org
+mainrepo10.azurewebsites.net
 mainsercheronlinehostingbot.com
 mainshop.org
 mainsolution.ddns.net
@@ -256772,6 +256854,7 @@ managermagnetcccccmango.duckdns.org
 managerreel.top
 manages-account2.hopto.org
 managesmgir.pw
+managetools-platform.azurewebsites.net
 manageudapte-clientsupport.duckdns.org
 manageviable.top
 manags.twilightparadox.com
@@ -258025,6 +258108,7 @@ massgrave.hopto.org
 massimoclearance.com
 massive346.xyz
 massiveevaporate.top
+massnetworks.org
 massqc.com
 mastelefonia.com
 mastelomwell.hopto.org
@@ -258723,6 +258807,7 @@ maycarfilo.com
 maycendonekom.site
 maycontemplate.top
 maydakookt.indepenmedia.nl
+maydaymed.azurewebsites.net
 maydeno252.com
 maydinosaur.top
 maydoo.xyz
@@ -259677,6 +259762,7 @@ mediaqlt.com
 mediareleaseupdates.com
 mediashare.cc
 mediasupport-centers.com
+mediasylum.azurewebsites.net
 mediateappalling.top
 mediatenavigate.top
 mediatepetrochemical.top
@@ -259694,6 +259780,7 @@ mediatrendsistem.com/oiheiryur92
 mediauploader.info
 mediauploader.me
 mediayearn.top
+medical-deepresearch.azurewebsites.net
 medical-h.click
 medical-pharmacy.cfd
 medicalacclaim.top
@@ -259701,6 +259788,7 @@ medicalcorp.ro
 medicalfarmitalia.it/themes/theme1197/modules/blockcurrencies/translations/files/
 medicalheroin.top
 medicalhomeportal.boo
+medicalit-imaging.azurewebsites.net
 medicallegendary.top
 medicalmarijuanamiamiflorida.com
 medicalminiature.top
@@ -259722,6 +259810,7 @@ medicineventilaion.top
 medicoreit.azurewebsites.net
 medicosta.linkpc.net
 medicoutpatient.com
+medicpathsolutions.azurewebsites.net
 medicprognosis.com
 medieczema.com
 mediemarkt.ignorelist.com
@@ -260410,6 +260499,7 @@ menshova.com
 mensjournal.day
 mensnfkms.com
 mentalfloss.live
+mentalhealth-support-portal.azurewebsites.net
 mentalhealthcheck.net/script/pde.js
 mentalhealthcheck.net/update/counter.js
 mentalite.cfd
@@ -260838,6 +260928,7 @@ mertltd.site
 mertrs.club
 merudlement.com
 merueni.pro
+meruytedrvctd.xyz
 merv33d4213dds33.wiki
 merv34i43i2ds.wiki
 mervd12-af.space
@@ -266687,6 +266778,7 @@ moitt-gov-pk.dwnlld.info
 moiw.kzstm.ru
 mojadoja.hopto.org
 mojang.hopto.org
+mojavemassageandwellness.com
 mojaverivervalleynews.com
 mojeskesterioderlervakif.duckdns.org
 mojfaturaode.com
@@ -268247,6 +268339,7 @@ msn-service.co
 msn-service.ddns.net
 msn-web.zapto.org
 msnhw.com
+msnotetask-insights.azurewebsites.net
 msnpassword.zapto.org
 msnrwrnnrn.in
 mso3hk.duckdns.org
@@ -268309,6 +268402,7 @@ mstfirsatim-aadhayshaganhs.online
 mstlj.ddns.net
 mstnac.com
 mstores.top
+mstrakcer-tools.azurewebsites.net
 mstralsvr.shop
 mstsc.publicvm.com
 msube-ziraat.website
@@ -275576,6 +275670,7 @@ nextgen-rollep.duckdns.org
 nextgen12.hopto.org
 nextgenerationdigitalautomationtool.top
 nextgenexp.com
+nextgenhealthtrack.azurewebsites.net
 nextgeninnovation.website
 nextgenmemorabilia.com
 nextgenoftech.world
@@ -283343,10 +283438,12 @@ oleggamer.hopto.org
 olegrn.com
 oleketec.store
 olekm0dbl.duckdns.org
+olemanage-dashboard.azurewebsites.net
 olenfex.com
 olenoj.com
 olepit.cn
 olesine1.duckdns.org
+oletask-tracker.azurewebsites.net
 oleum.gmbh
 olex.live
 olexco.ae/wp/db-config-ini.php
@@ -290592,6 +290689,7 @@ otpusmob.shop
 otpyukleme.sg-host.com
 otqmhxrmnj.duckdns.org
 otrazheniye.ru
+otrbinance.com.tr
 otrsolutons.com
 otrursadiz.net
 otsa1.net
@@ -298064,6 +298162,8 @@ paticinha.duckdns.org
 patienceerection.top
 patiencemonotony.top
 patienceoptimal.top
+patient-azureportal.azurewebsites.net
+patientcare-portal.azurewebsites.net
 patientevasion.top
 patientherb.top
 patientintricate.top
@@ -300215,6 +300315,7 @@ pharmacymurmur.top
 pharmacynod.com
 pharmacythem.club
 pharmacythem.site
+pharmainfo.azurewebsites.net
 pharmalone.hopto.org
 pharmaspan.com
 pharmzone.hopto.org
@@ -319833,6 +319934,12 @@ rhctiz9xijd4yc.com
 rhcu.zapto.org
 rhe-rhejntr-nte-gqe.store
 rhecakloza.xyz
+rheinmetall.careers-hub.org
+rheinmetall.careersworld.org
+rheinmetall.gocareers.org
+rheinmetall.theworldcareers.com
+rheinmetallcareer.com
+rheinmetallcareer.org
 rhejlq.lat
 rheksndqv.com
 rhel.opsecurity1.art
@@ -321318,6 +321425,7 @@ rpairitregtion-19820013.duckdns.org
 rpapprk.duckdns.org
 rparibu.com
 rpayfix.com
+rpcconnection.azurewebsites.net
 rpcnetconnect.com
 rpddlellci.duckdns.org
 rpdermacare.com
@@ -333211,6 +333319,10 @@ sencerdernegi.com
 senchar.biz
 sencmil.info
 send-c.online
+send-feedback-296.azurewebsites.net
+send-feedback-413.azurewebsites.net
+send-feedback-838.azurewebsites.net
+send-feedback.azurewebsites.net
 send-leader-onmicrosoft.com
 send-safe.com
 senda.sbs
@@ -334089,6 +334201,7 @@ sepeteeklehizl.sbs
 sepeteekleindirimkazan.com
 sepeteeklesinirli.sbs
 sepeteindirim.click
+sepetekampanya.click
 sepetekampanya.xyz
 sepetekle.cfd
 sepetekle.xyz
@@ -334999,6 +335112,7 @@ services-bourso.ddns.net
 services-glbdns2.com
 services-help.com.tr
 services-pc.hopto.org
+services-update-check.azurewebsites.net
 services.account.amazon.mantaplo.com
 services.confirm-identification.name
 services.dyndns.biz
@@ -340334,6 +340448,7 @@ siparislerimhizlim.cloud
 siparislerin.com
 siparislerin18in.cloud
 siparislerin20agustonsanta.net
+siparislerin23eylulden.cloud
 siparislerin30temmuzda.cloud
 siparislerin9bucukeylulden.cloud
 siparislerindehizlan25temmuzda.cloud
@@ -342075,6 +342190,7 @@ skyxd.tech
 skyxdx.com
 skzcm.com
 skzegugvy.info
+sl.008php.com
 sl.hgsyuklemeyerii.net
 sl.petrointurkey.com
 sl.szmr.org
@@ -342491,6 +342607,7 @@ smart869.xyz
 smartape.net
 smartapp2015.com
 smartappsfoursix.xyz
+smartapptools.azurewebsites.net
 smartbitboost05.com
 smartboardproposal.com
 smartcare.com.tr/smartcarecoaching/1zaaizglh/swift/personal/
@@ -342515,6 +342632,7 @@ smartlabor.it
 smartlira-tr.com
 smartmanualspdf.com
 smartmediasearcher.com
+smartmediq.azurewebsites.net
 smartmeg.com
 smartmoneyinvestments.homes
 smartnest.quest
@@ -350238,6 +350356,7 @@ storageswap.top
 storagesyndrome.top
 storagetruncservices.com
 storagewarden.com
+storagewiz.co.azurewebsites.net
 storagge-gets.hopto.org
 store-077864-live.com
 store-adidas.buzz
@@ -352567,6 +352686,7 @@ sulukulelijardel.xyz
 sulukutu.xyz
 sulumang.zapto.org
 sulumantoptas.zapto.org
+sulumorbusinessservices.com
 sulumundrenimreni.site
 suluosman3now.club
 sulvekesto.xyz
@@ -354432,6 +354552,7 @@ symphonydelusion.top
 symphonyturbulence.top
 symposiumfolklore.top
 symposiumsatirical.top
+symptom-recordchecker.azurewebsites.net
 symptommobilize.top
 symxyuklemee.sg-host.com
 symyuklemee.sg-host.com
@@ -355760,6 +355881,7 @@ talenteddwarf.top
 talentedslot.top
 talentedwhereby.top
 talentgiveaway.com
+talenthumanresourcestalent.com
 talentimpact.top
 talentsatisfya.top
 talentskim.top
@@ -359596,6 +359718,7 @@ telegramxe.net
 telegramzzindex.info
 telegraphist.cloudnestde.com.de
 telegraxm.net
+telehealthconnectpro.azurewebsites.net
 telehub.shop
 teleindirimgelin0810.com
 telekart.com
@@ -361689,6 +361812,7 @@ thechaibali.com
 thecheckupdater.com
 thechina1.ddns.net
 thechinastyle.com
+thecloudappbox.azurewebsites.net
 thecocopacific.com
 thecoinbasepro.com
 thecomeupone.ddns.net
@@ -362010,6 +362134,7 @@ therapeuticfriction.top
 therapist4536.xyz
 therapistleaflet.top
 therapyofsound.com
+therashelter.azurewebsites.net
 therazor.duckdns.org
 there-online.site
 thereadysystemscontentingprepared.trade
@@ -362091,6 +362216,7 @@ thesun.pw
 thesuperservice.com
 thesuspect.net
 theswd1gly0snyg1bzkr.com
+thetacticstore.com
 thetcneonle.icu
 thetcneonle.top
 thetcneonle.xyz
@@ -362139,6 +362265,7 @@ thewire.internetdocss.com
 thewomenagainsttrump.us
 thewoodcologne.com
 theworkofnature.co.uk
+theworldcareers.com
 theworldofgodispowerinc.duckdns.org
 thewowpownow3.com
 thewowpownow4.com
@@ -365135,6 +365262,7 @@ total-profit.site
 total-slovenia-news.net
 totalavprotection.shop
 totalbusinesnetworkforinternationalwordfiletransfer.ydns.eu
+totalcaremedcenter.azurewebsites.net
 totalfudpano.zapto.org
 totalgp.ddns.net
 totalh.net
@@ -368668,6 +368796,7 @@ travelportflio.top
 travelportprod-servicenow.com
 travelstore.name.tr
 traveltime.hopto.org
+traveltipspage.com
 travelturkey.info
 traversecityspringbreak.com
 travessantheria.lat
@@ -370347,6 +370476,7 @@ trmagazabimcell.com
 trmagazacepte.com.tr
 trmagazacepte.net.tr
 trmagazacepte.org.tr
+trmagazafirsat.com.tr
 trmaliye.org
 trmaliyeceza.org
 trmalmiadmx1.net
@@ -371052,6 +371182,7 @@ trpttgovf.cc
 trpttgovgv.cc
 trpttgovhelp.help
 trpttgovi.cc
+trpttgovje.cc
 trpttgovk.cc
 trpttgovka.cc
 trpttgovkx.cc
@@ -371639,6 +371770,7 @@ trustcdncloud.click
 trustcdncloud.shop
 trustcore.space
 trustd.biz
+trustedcarehub360.azurewebsites.net
 trustedsecurityav.net
 trustedtesisast.com
 trustedvpnconnection.anondns.net
@@ -372755,6 +372887,7 @@ turbozik.hopto.org
 turbulencebarren.top
 turbulencedepreciate.top
 turbulenceillicit.top
+turbulencemd.azurewebsites.net
 turbulencerap.top
 turbulenceturbulent.top
 turbulentconsecutive.top
@@ -380142,6 +380275,7 @@ us2.s3bucket-azure.online
 us21.list-manage.com
 us44-acc-1pr0tecion.duckdns.org
 us8wmko67.top
+usa-careers.com
 usa-moon.net
 usa-online-degree-29o.bond
 usa-services.ddns.net
@@ -386445,6 +386579,7 @@ ventat.store
 ventdiffusion.top
 vente-authlboncoin.duckdns.org
 venti71.com
+ventilateainest.azurewebsites.net
 ventilateimprison.top
 ventilatepreoccupied.top
 ventilationautonomy.top
@@ -388853,6 +388988,8 @@ virginitymagnitude.top
 virginmobile-billing-page.com
 virginreshuffle.top
 virgo.atomiclayer.com
+virgomarketingsolutions.com
+virgomarketingsolutions.comtions.com
 virilerpq.com
 viritrtlykxrnox.ru
 virjqs.com
@@ -388869,6 +389006,7 @@ virtual-pcb.com
 virtual.urban-orthodontics.com
 virtualakbank.com
 virtualappeasement.top
+virtualcliniczone.azurewebsites.net
 virtualcreations.click
 virtualdataserver.com
 virtualgarantibbva.com
@@ -389034,6 +389172,8 @@ vitaminn.life
 vitaminpropeller.top
 vitanovaretreats.com
 vitantgroup.com
+vitatechlink.azurewebsites.net
+vitatechlinks.azurewebsites.net
 vitclo.duckdns.org
 vitel.top
 viterkato.top
@@ -389791,6 +389931,7 @@ vn1oed7xl.duckdns.org
 vn1rml.cyou
 vn2sjlm.duckdns.org
 vn3po6.duckdns.org
+vn404.008php.com
 vn6.co
 vn9670229.duckdns.org
 vna8tqycf.duckdns.org
@@ -395529,6 +395670,8 @@ wellfocus-proneckle.site
 wellgreach.lat
 wellinto.net
 wellister.zapto.org
+wellnessfirstgroup.azurewebsites.net
+wellnessglowluth.azurewebsites.net
 wellnesssubsidyhub.org
 wellnesswarrior.lat
 wellnesszoneyour.top
@@ -405866,6 +406009,7 @@ x3u6ud92.duckdns.org
 x3vh8d.fkqrz.ru
 x3vozcxx1.duckdns.org
 x3x3ziih.duckdns.org
+x404.008php.com
 x47.in
 x473ee.tw
 x48chas9tt.ddns.net
@@ -420037,6 +420181,7 @@ yok1qr78h.duckdns.org
 yokarac.net
 yokartikdiyeceksiniz.com
 yokbkstava.net
+yokedenbomba.cfd
 yokederim.cfd
 yokediceiolbaba.xyz
 yokelemezdemeres.net
@@ -420747,6 +420892,7 @@ yourdownloadbest.com
 yourdownloadvid.com
 youredundant.top
 youregratmans.buzz
+yourfamilymdclinic.azurewebsites.net
 yourfbusiness.duckdns.org
 yourflyness.com
 yourglobal4updatebuddy.bid
@@ -423366,6 +423512,7 @@ zerofourseven.buzz
 zerogiris-turkeygovtri.com
 zerogirisi-turkeygovtri.com
 zerogloom.top
+zerogmed.azurewebsites.net
 zerogov.com
 zerogov.com/wp-content/plugins.deactivate/paypal-donations/src/paypaldonations/simplesubsribe.php
 zerogravsirinity.xyz
