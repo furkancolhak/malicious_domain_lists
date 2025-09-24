@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-24T05:05:14.122472
+# Updated: 2025-09-24T06:05:12.296684
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -157050,6 +157050,7 @@ eylulflrsatlariburada.me
 eylulflrsatlariburda.com
 eylulflrsatlariii.com
 eylulflrsatlariiii.com
+eylulflrsatlarikacmiyorwsynx.com
 eylulflrsatlariwsynxvakko.com
 eylulflrsatlaronlne.com
 eylulflrsatlarrinda.com
@@ -181967,6 +181968,7 @@ guncelfirsatgeldi.xyz
 guncelfirsatlar.com
 guncelfirsatlar.com.tr
 guncelfirsatlara-101.com
+guncelfirsatlarinizmobil.click
 guncelfirsatlarmarket.net.tr
 guncelfirsatlaronlineozel.com.tr
 guncelfirsatlarsizlerle.com.tr
@@ -241334,6 +241336,7 @@ kkxkxksmmll.net
 kkxntkxrtodmhmzet.net
 kkxx888666.com
 kkyoldalargeliyorlar.com
+kkyoldalargeliyorlarsssss.com
 kkyolllldalargeliyorlar.com
 kkyxpfcdtkmtyca.ru
 kkzgx1gc.duckdns.org
@@ -266054,6 +266057,7 @@ mobilsahibinden.com.tr
 mobilsahibindenparamguvende.com
 mobilsayfamislem.duckdns.org
 mobilsepet.online
+mobilsepetim-tr.online
 mobilservisler.online
 mobilservisler.xyz
 mobilservisyukle.com
@@ -328992,6 +328996,7 @@ sanaozelindirims.xyz
 sanaozelkampanya.click
 sanaozelkampanya846841.cfd
 sanaozelkampanyalar.duckdns.org
+sanaozelkampanyalkar.click
 sanaozell-getsahibinden-magazamm.com
 sanaozelmigros.com
 sanaozelsayfa.site
@@ -329855,7 +329860,9 @@ sayfadolusu.club
 sayfadolusu.online
 sayfadolusu.site
 sayfagdoglerdominezcoc.com
+sayfalar-webtry-in.za.com
 sayfalariniz-trwebby.za.com
+sayfalarweb-intranet-in.ru.com
 sayfam.click
 sayfam.top
 sayfamekranatlatma.cloud
@@ -339237,6 +339244,7 @@ sikayetmerkezi.xyz
 sikayetmerkezitr.ru.com
 sikayetmerkezleri.ru.com
 sikayetmvar.com
+sikayetr-21.sbs
 sikayetr-23.sbs
 sikayetsorgula.com
 sikayetstnesikayet.ml
@@ -339315,6 +339323,7 @@ sikayetvarisletme.ml
 sikayetvaritiraz.ml
 sikayetvaritirazz.tk
 sikayetvarmi.online
+sikayetvarmobil-14.sbs
 sikayetvarmobil-19.sbs
 sikayetvarmobil-24.sbs
 sikayetvarmobil-27.sbs
@@ -395010,6 +395019,7 @@ websbaynrtilrmizn20.shop
 websbaynrtilrmizn3.shop
 websbayrbnntilarimp3.xyz
 websbayrntilarim93.xyz
+websbayrntilarimizinl2.xyz
 websbayrntilarm4.com
 websbayrntilarni3.xyz
 websbayrntilasrm0.xyz
