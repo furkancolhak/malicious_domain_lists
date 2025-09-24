@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-24T08:05:15.184607
+# Updated: 2025-09-24T09:05:12.312200
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -13739,6 +13739,7 @@
 202.141.233.214
 202.142.151.190
 202.145.6.130
+202.162.108.48
 202.162.33.243
 202.169.234.5
 202.177.13.68
@@ -16485,6 +16486,7 @@
 2508005846103025-verification-acount2024.duckdns.org
 25080058462103025-verification-acount.duckdns.org
 250888com.com
+250bintokibasvurusu.com
 250ekpromosyon.ml
 250garantibbva-com-tr.tk
 250tlekpromosyon.ml
@@ -34133,6 +34135,7 @@ a.dianjoy.com
 a.doko.moe
 a.doulbeclick.org
 a.fertuferer.cfd
+a.googie.pw
 a.hahauahjsklalapskananzmanah.net
 a.idat.gov-tr.org
 a.ile.basuvurular.net
@@ -42849,6 +42852,7 @@ admin.tslafund.top
 admin.unicredit2.dancovision.ro
 admin.vakiftancekilis2022.com
 admin1.ddns.net
+admin1.tttseo.com
 admin1121.ddns.net
 admin1323.ddns.net
 admin96.hopto.org
@@ -54659,6 +54663,7 @@ amatuermatch.org
 amawitech2002.hopto.org
 amaxtravel.com
 amaycen.com
+amayinedeiyiilerledim.cfd
 amaysu.loveslife.biz
 amaz.hopto.org
 amaz0n-cloud.com
@@ -65777,6 +65782,7 @@ b.9-9-8.com
 b.appjiagu.com
 b.cortanazone.com
 b.discoverahuge.xyz
+b.googie.pw
 b.link/instagram879
 b.link/instagram881
 b.manage-api.pw
@@ -91641,6 +91647,7 @@ bonushizlibasvuru2024.com
 bonushizlibasvuru2024.online
 bonushusrani.com
 bonusiade.vercel.app
+bonuskafa.click
 bonuskafesi.b-cdn.net
 bonuskampanya.cf
 bonuskampanya.ga
@@ -117157,6 +117164,7 @@ ddnsssaa.ddns.net
 ddobnajanu.club
 ddoood.com
 ddos-cc.org
+ddos.tttseo.com
 ddosataack5.ddns.net
 ddoser.org
 ddosnoodle.ddns.net
@@ -128028,6 +128036,7 @@ dinamicmarket.com
 dinamico360.ddns.net
 dinamik.no-ip.org
 dinamikce.name.tr
+dinamikmenkuldegerler.net
 dinamikyatirimkiymetler.com
 dinamo-arena.com
 dinamo-hockey.ru
@@ -149791,6 +149800,7 @@ eniyisindendeiyiyz.com
 eniyisindrmlrmbusayki.click
 eniyisinibilirsinilefrst.com
 eniyisitr.live
+eniyisiyim.cfd
 eniyisndlxmdlsmr.click
 eniyisndrmlxrmbunlarbuayk.ru.com
 eniyisnxdlsmdlrmnmxdm.online
@@ -164701,6 +164711,7 @@ flrhadiindirgunsalimsal.store
 flrksltmarldfm.duckdns.org
 flrkstlarlar1948.duckdns.org
 flrlssathemengitsin.click
+flrlstattabiburdaolcak.click
 flrs4tlarburda30maylsgel.com
 flrsasatcumartesidenhemseno.store
 flrsat-buradageldi.shop
@@ -202553,6 +202564,7 @@ hizmetleriniz.com.tr
 hizmetleriniz.org
 hizmetleriniz.shop
 hizmetlerinizbasvuruedev.tk
+hizmetlerinizburads.store
 hizmetlerinizim.net
 hizmetleriniziz.net
 hizmetlerionline.graduatecommunications.com
@@ -217333,6 +217345,7 @@ internet-mobile-finans.com
 internet-mobile.com
 internet-mobilqnbfinans.com
 internet-mobilsube.com
+internet-money.site
 internet-odom.online
 internet-online-yapikredi-sube-tr.cf
 internet-onlinesubemiz.com
@@ -240812,6 +240825,7 @@ kisiselwarranty.xyz
 kisiselwarrantybb.com.tr
 kisiselwarrantybb.xyz
 kisisevgi.org
+kisisorgu.blogspot.com
 kisitkaldir.pro
 kisiye-ozel-kampanyalar.com
 kisiyeozel.site
@@ -381623,6 +381637,7 @@ uygunahmealllll.site
 uygunahmeeall.com
 uygunahmel.shop
 uygunahmell.com
+uygunaktar.xyz
 uygunal.club
 uygunal.site
 uygunalburada.biz.tr
@@ -393538,6 +393553,7 @@ web.flashplayerup.com
 web.foptimize.net
 web.garantibbvays.com
 web.garaxlogix.online
+web.googie.pw
 web.googlemehard.net
 web.hcmuafgh.com
 web.jsonpost.xyz
@@ -404343,6 +404359,7 @@ www.glamourstorepa.com.br
 www.gokhantemiz.com/wp-content/languages/plugins/db-config-ini.php
 www.gokhantemiz.com/wp-includes/widgets/wp-config-ini.php
 www.gokhanturizmvetemizlik.com/wp-includes/connection.php
+www.googie.pw
 www.gooline.net//db-config-ini.php
 www.gooline.net/wp-config-ini.php
 www.gooline.pk/bridge2cart/db-config-ini.php
@@ -404402,6 +404419,7 @@ www.icuberestobar.com
 www.icykw.com
 www.ieced.com.pk/wp-config-ini.php
 www.ieced.com.pk/wp-includes/db-config-ini.php
+www.ig26.com
 www.igo3.co.il/wp-includes/widgets/connection.php
 www.ihlosiqs-pm.co.za//db-config-ini.php
 www.ihlosiqs-pm.co.za/wp-config-ini.php
@@ -404848,6 +404866,7 @@ www.ynngon.ml
 www.yomka.ml
 www.youpilot.org
 www.yuktu.ml
+www.yx52.pw
 www.zamilindustrial.com/akib/db-config-ini.php
 www.zhwanjie.com
 www.ziraatonline-iade-sube.net
