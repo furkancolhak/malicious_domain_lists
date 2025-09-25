@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-24T23:05:14.000774
+# Updated: 2025-09-25T00:05:12.515822
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -65291,6 +65291,7 @@ ayitihnddgxdvms.com
 ayitwsqvkf.duckdns.org
 ayixu.duckdns.org
 ayjidcqmu.com
+aykarav.com
 aykte72s6.duckdns.org
 aykydrbsywvx.duckdns.org
 ayladivacdn.online
@@ -93535,6 +93536,7 @@ brunorekbirisse26.ddns.net
 brunotpgt.duckdns.org
 brushaftermath.top
 brushagitation.top
+brushcreation.click
 brushfragility.top
 brushgroup.top
 brushmotionart.click
@@ -131822,6 +131824,7 @@ dreamkonumateslimkirala.online
 dreamkonumateslimkiralama.online
 dreamkurumsalkirala.online
 dreammerchandise.top
+dreammillls.com
 dreamonlinekiralama.online
 dreamotofilokiralama.online
 dreamotofilosu.online
@@ -241379,6 +241382,7 @@ kkreslerstes.click
 kkrestkerktes.click
 kkriedimiihttiyaaccim.link
 kkrmgebetg.duckdns.org
+kkrncbkcjsjh.sbs
 kkrsmlsroyd.net
 kks80hyrpbmuz.life
 kksefesad.com
@@ -289891,6 +289895,7 @@ osfhbdsgs.com
 osgibys.com
 oshanantes.net
 oshe.zapto.org
+osheman45.sambal.web.id
 osheoufhusheoghuesd.ru
 osheoufhusheoghuesdl.com
 osheoufhusheoghuesdr.net
@@ -292514,6 +292519,7 @@ page-account-restricted68540.web.app
 page-authservice8.hopto.org
 page-credit-req.com
 page-info-confirm.com
+page-landmyweb-tr-in.sa.com
 page-rec0very6652100.duckdns.org
 page-standars-confrim.duckdns.org
 page-warring-203366.8698523.com
@@ -297680,6 +297686,7 @@ parishgraze.top
 parishgs.site
 parishgs.website
 parisiannova.com
+parisjetem.com
 parisnomic.com
 parisohediso1007.site
 parisohediso1008.site
@@ -329966,6 +329973,7 @@ sayfa-intranet-webtry-in.za.com
 sayfa-ist.blogspot.com
 sayfa-kamp-in.sa.com
 sayfa-kampanyalaribim.com
+sayfa-webbing-intranet-in.za.com
 sayfabasvuruiadeformgiris.ml
 sayfadolusu.club
 sayfadolusu.online
@@ -396321,6 +396329,7 @@ wexoprayyyy-62570.portmap.host
 wexznnplhyu.wcnv20.cn/instagram-me
 wey2e1dh.duckdns.org
 weysg.com.tr
+weystramz.com
 wezeriw.com
 weznedarbayi.ml
 wezzorra.com
