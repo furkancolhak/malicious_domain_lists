@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-25T07:05:14.659246
+# Updated: 2025-09-25T08:05:14.311615
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -67574,6 +67574,7 @@ baho3332.com
 bahrainssc.org/wp-includes/db_template.php
 bahrdevo.endoftheinternet.org
 bahreyn6.xyz
+bahrfirstlarikacrma.sbs
 bahri.site
 bahria-maritime-services.com/wp-includes/db_template.php
 bahriatownservices.com//db_template.php
@@ -102035,6 +102036,11 @@ cekilisbireyselileacikdenizv2denizbank.co.vu
 cekilisbitmez.sbs
 cekilisbitmez1.sbs
 cekilisbitmez10.sbs
+cekilisbitmez2.sbs
+cekilisbitmez3.sbs
+cekilisbitmez4.sbs
+cekilisbitmez5.sbs
+cekilisbitmez6.sbs
 cekilisbitmez7.sbs
 cekilisbitmez8.sbs
 cekilisbitmez9.sbs
@@ -116741,6 +116747,7 @@ davetsigorta.blogspot.com
 davetyaymak.com/sys/connection.php
 davewalshphoto.com
 davewang.ddns.net
+davewilsonharness.com
 daveychiken.ddns.net
 daveygriffith68.site
 davi2jasdfhmento.ddns.net
@@ -128775,6 +128782,7 @@ diyanetadak.com
 diyanetelleri.org
 diyanetguvenlikgiris.co.vu
 diyanethayateli.org
+diyanetisleribakanligi.vercel.app
 diyanetkurban.net
 diyanetmemnuniyet.com
 diyar-real.com
@@ -152740,6 +152748,7 @@ esnaf.e-devletmobil.net
 esnafbenim.com
 esnafdestek.ml
 esnafdestekpaketi.epizy.com
+esnafkefaletkredi.com
 esnafkrdibsvrhsnwz.net
 esnaflar-ciftci-webtr-giris.com
 esnek-hesap.com
@@ -157114,6 +157123,7 @@ eylulflrsatlariburda.com
 eylulflrsatlariii.com
 eylulflrsatlariiii.com
 eylulflrsatlarikacmiyorwsynx.com
+eylulflrsatlarionlinex.com
 eylulflrsatlariwsynxvakko.com
 eylulflrsatlaronlne.com
 eylulflrsatlarrinda.com
@@ -171588,6 +171598,7 @@ garantiyle-burda.com
 garantiylebbva250-com-tr.tk
 garantiylekazanmazamani.tk
 garantiyleyazahazirlik.ml
+garantiyonlendirme.fixip.org
 garantiz.com
 garantj.com
 garantjbbva.com
@@ -181614,6 +181625,7 @@ gucludelicimatkapka.xyz
 gucludevirmatkap.xyz
 guclugorurlerhepdustu089.com
 guclukal.name.tr
+guclumakina.cfd
 gucluturkiye1923.site
 gucluturkiyecuzdani.com
 gucluyardim.com
@@ -183142,6 +183154,7 @@ guvenilirkampcadir.shop
 guvenilirkatilmabaglantisindancekilisekatilleventitamamlaphp.net
 guvenilirkisaltma.cfd
 guvenilirodeme.com
+guvenilirodeme.com.tr
 guvenilirodeme.net
 guvenilirodemeyapgec.net
 guvenilironline.shop
@@ -222292,6 +222305,7 @@ istanblkartbasvur.org
 istanblkartbkkyeykuleexx.com
 istanblkartimaislem.net
 istanblkartimtl.com
+istanblkartl.blogspot.com
 istanblkartmastlxindir.net
 istanblkartmayuklemeyapalim.net
 istanblkartttyklees.com
@@ -267498,6 +267512,7 @@ morcatikadinasidetvar.com
 morcatimkadinasiddetvar.com
 morcatkadinasiddethayir.com
 morcatkadinasiddetvar.com
+morcicekevi.biz
 morcicekevi.com
 morcicekevi.de
 morcicekevi.org
@@ -267812,6 +267827,7 @@ motortrafiksigortasi.com
 motortutkunlariburada.com
 motorunu-kapmalisin.com
 motorvarious.top
+motorven.sbs
 motorwayperplexity.top
 motosindiriminikacirma.shop
 motosonuc.ml
@@ -288643,6 +288659,7 @@ onlythefamily.ddns.net
 onlyturkish.cc
 onlyturkish.online
 onlyturkish.xyz
+onlywsalmon.click
 onlyyahcts.com
 onlyymgc.com
 onmcrsft-workflow-mailcloudus17-web.com
@@ -329462,6 +329479,7 @@ sarisevgininkuvveti.xyz
 sarisevincindunyasi.xyz
 sarisin.sbs
 sarisinamaneyse.net
+sarisinlar.cfd
 sariskakdiwyyd.com.tr
 saritbida.com
 saritohum.com/stadmin/ckeditor/ckfinder/db_template.php
@@ -359195,6 +359213,7 @@ technoview.online
 technovortex.online
 technoworld.online
 techorbitrj5.click
+techoryx.online
 techpenopen.com
 techplaginapp.com
 techpowerup-gpu-z.com
