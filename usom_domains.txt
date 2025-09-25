@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-25T08:05:14.311615
+# Updated: 2025-09-25T09:06:13.115541
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5680,11 +5680,13 @@
 139.144.199.41
 139.144.79.152
 139.159.192.50
+139.162.106.23
 139.162.116.148
 139.162.124.27
 139.162.179.170
 139.162.242.206/clients
 139.162.242.206/clients/sc/
+139.162.80.114
 139.162.87.180
 139.177.146.152
 139.177.190.243
@@ -7076,6 +7078,7 @@
 152.32.228.19
 152.32.237.129
 152.36.128.18
+152.42.177.158
 152.42.202.137
 152.42.230.191
 152.44.44.68
@@ -7935,6 +7938,7 @@
 165.232.128.24
 165.232.154.116
 165.232.154.73
+165.232.163.192
 165.232.167.241
 165.232.73.237
 165.51.179.120
@@ -14678,6 +14682,7 @@
 207.174.31.215
 207.180.192.77
 207.180.202.208
+207.180.226.72
 207.180.230.218
 207.180.230.63
 207.231.109.252
@@ -26329,6 +26334,7 @@
 67.213.75.205
 67.217.228.14
 67.217.228.160
+67.219.103.250
 67.220.95.213
 67.229.175.226
 67.43.224.131
@@ -32463,6 +32469,7 @@
 95.183.49.10
 95.183.49.29
 95.211.104.253
+95.211.107.144
 95.211.140.221
 95.211.172.108
 95.211.172.109
@@ -49174,6 +49181,7 @@ akfaizsiz.live
 akfaizsiz.net
 akfaizsizbireysel.com
 akfaizsizekim.com
+akfaizsizfirsatlar.duckdns.org
 akfaizsizkampanya.online
 akfaizsizkre.com
 akfaizsizkredi.cloud
@@ -85541,6 +85549,7 @@ bizim-teklfierl-sizlerle.store
 bizim-yenii-bjvbncnm-girshnkjs.blogspot.com
 bizim-yerimize.net
 bizim-yukselenlerimiz.com
+bizim101cimizburdas.store
 bizimailedenumre150ailealmdk.online
 bizimaktuel.com
 bizimbag.com/8f/sep/business
@@ -157734,6 +157743,7 @@ f7c0sv.duckdns.org
 f7c64.vigp
 f7e3bnu7b.duckdns.org
 f7f41a34068709a340455d05f8316c3e.info
+f7fdf38cbca6be775e2ad8d9b7a3ac64.ap-northeast-1.resend-links.com
 f7fsksfkskfsfsafs.xyz
 f7ktqj.duckdns.org
 f7obya8l.duckdns.org
@@ -194838,6 +194848,7 @@ hemenkapilarinizagelsnz.com
 hemenkapilarinizda.ptt-kargogonderileriniz.org
 hemenkapinagelsin.com
 hemenkapinagelsinsiparssler.xyz
+hemenkapinda.xyz
 hemenkapindacom.com
 hemenkapindasizle.83782729262739272928274917.com
 hemenkapindsnn.click
@@ -223441,6 +223452,7 @@ istkarttertdfs.net
 istkarttlyukle.com
 istkarttt.com
 istkartttyklemee.net
+istkartw.online
 istkartwn.net
 istkartx.com
 istkartykelzx.net
@@ -277587,6 +277599,7 @@ nocodeform.io
 nocomplatiesandsamd.blogspot.com
 nocrynetworking.duckdns.org
 nocturn.fi
+nocturneook.com
 nod32.zapto.org
 nod32up.ddns.net
 nodab.ddns.net
@@ -303715,6 +303728,7 @@ pptredelivery.xyz
 pptsgovtr.click
 pptsgovtr.icu
 pptt-g0v.top
+pptt-gov.sbs
 pptt-govtr.top
 pptt-kargohizmtnz-takiple.com
 ppttavm-guvenli-odeme.cfd
@@ -347953,6 +347967,7 @@ sponsorlu-gonderim-8s.xyz
 sponsorlu-gonderim-9.xyz
 sponsorlu-gris1749235.com
 sponsorlu-hafta.xyz
+sponsorlu-hizmet.world
 sponsorlu-icerik-960912065.online
 sponsorlu-icerik.com
 sponsorlu-icerik.name.tr
