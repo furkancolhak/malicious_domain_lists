@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-25T21:05:12.680909
+# Updated: 2025-09-25T22:05:12.855711
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16364,6 +16364,8 @@
 2434088234-3247567234.site
 243767635356463.com
 243f01f25.info
+245-858-973-61.cfd
+245-858-973-62.cfd
 24512512.work
 24523512.xyz
 2452423423662.com
@@ -38915,6 +38917,7 @@ acik-mobildenizbasvurugiris.com
 acik-mobildenizbasvurusupriz.com
 acik-mobildenizfirsat.com
 acik-mobildenizhediye-basvuruonay.com
+acik-net.site
 acik-p-basvuruinuz.com
 acik-subedeniademobil.com
 acik-subemobildenizbasvuru.com
@@ -50494,6 +50497,7 @@ aktifportfoyyatirim.com
 aktifprbbasvurusu.com
 aktifprbmbasvurutr.com
 aktifprbmonline.com
+aktifpromosyonlar.com
 aktifresmiprbgiris.com
 aktifsayfa.net
 aktifsigortam.net
@@ -90890,6 +90894,7 @@ bntrintrrewardcenterreward.vercel.app
 bntriyge.vercel.app
 bntrkart.vercel.app
 bntrkavrt.vercel.app
+bntrkeygiris.com
 bntrkolaybasvuru-xrp.com
 bntrkolaybasvuru-xrp2.xyz
 bntrkolaybasvuru.com
@@ -90960,6 +90965,7 @@ bntsbasvuru-tr.com
 bntsbasvurutr.com
 bnturkey-giris.site
 bnturkey-giris.xyz
+bnturkey-redirect.com
 bnturkey-togg.com
 bnturkeykripto.xyz
 bnturkeykriptovarlikalimsatimplatformuas.com
@@ -138344,6 +138350,7 @@ e-onlineislemler.org
 e-onlineislemleri-yapikredi.com
 e-onlineislemlerim-kontroller.cf
 e-onlinekrdibasvrusu.biz
+e-onlinekrdibasvrusu.work
 e-onlinem.com
 e-onlinem.net
 e-onlinemagaza.com.tr
@@ -172505,6 +172512,7 @@ gayassnigga.ddns.net
 gaybgunesden.site
 gayemeneshaserenesdones.site
 gayetguzelkampanyalar.xyz
+gayetiyiyiz.shop
 gayfdagrk847878.xyz
 gayfo.host
 gaygenconisdos30.top
@@ -179393,6 +179401,7 @@ goponl.online
 gopremium.mooo.com
 goproders.com
 gopromotions.mx
+gor-ve-haberin-olsun-2025.sbs
 gorainbowzone.tk
 goraselmk.site
 goraselmk.website
@@ -184271,6 +184280,7 @@ guzel-saran-bizleri-pamukta-yarar-sarariz.com
 guzeladim.b-cdn.net
 guzelalisverishemen.xyz
 guzelalisverisler.xyz
+guzelaylar.sbs
 guzelaylisubelerindeinanilmazdeveller.com
 guzelbasliyorhersey.com
 guzelbayi.22web.org
@@ -209652,6 +209662,7 @@ ibbv3rgiod3mme9098.net
 ibbvergileriiodemee411.net
 ibbvrgxeeeodmee.net
 ibbvrgxeeodmee.net
+ibbw.cwdqdxq.cfd
 ibbwkart.net
 ibbwsxfrtdrgdrg34-yklee.net
 ibbx-ykleemxealxni.net
@@ -262986,6 +262997,7 @@ minihostig.ddns.net
 miniiosapps.xyz
 minikdost.name.tr
 minikekosistemler.pro
+minikhayatlar.online
 miniklanssstoezya.ru
 minikme.cyou
 minikpatiler.xyz
@@ -285808,6 +285820,7 @@ online-satis-islerimlerim.com
 online-satis.com.tr
 online-satis.ru.com
 online-satisa-ozel.com
+online-sayfalarland-webtr-in.sa.com
 online-secure-alim.com.tr
 online-secure-get.site
 online-secure-hizmetleri.com
@@ -305948,6 +305961,7 @@ promosyonda15bintl.click
 promosyonda15bintl.xyz
 promosyondegerlendirme.com
 promosyondeniz.online
+promosyondonemleri.com
 promosyondurumu.com
 promosyonduyurulari.com
 promosyonduyurusu.com
@@ -324211,6 +324225,7 @@ safetb-amazon.jp
 safetexoma.duckdns.org
 safetheworld.duckdns.org
 safetourismgoturkiye.com
+safeturndms.work
 safety-3930543708.duckdns.org
 safety-amazon.jp
 safety-instagram.com
@@ -346132,6 +346147,7 @@ sorgulama-tr.com
 sorgulama-tr.site
 sorgulama-ve-aktarma-ekrani.one
 sorgulama-ve-aktarma-hizmeti.website
+sorgulama-ve-aktarma-hizmetleri.sbs
 sorgulama.app
 sorgulama.hgsyukleme.tech
 sorgulama.online
@@ -356012,6 +356028,7 @@ takipdenizi.store
 takipedenetkinlikler.net
 takipedenetkinliklerimiz.net
 takipedenkampanyalar.net
+takipet.vip
 takipetburadan.com
 takipethizlica.shop
 takipetislemini.shop
@@ -357158,6 +357175,7 @@ tbcmuygulamasipandmeiyardim14.com
 tbcmuygulamasipandmeiyardim16.com
 tbcmuygulamasipandmeiyardim7.com
 tbcmuygulamasipandmeiyardim9.com
+tbcpteprom.click
 tbcrbnnrcgris.com
 tbcresiuygulamasi.com
 tbcserver.net
@@ -424154,6 +424172,7 @@ ziarataratatasisaffas.cyou
 ziarataratatasisaffas.icu
 ziarataratatasisaffas.sbs
 ziaratarsafkfsahsgdas.icu
+ziaratasdksfagasfkdsgsdas.icu
 ziaratasdksfagdfssd.cfd
 ziaratasdksfagdfssd.cyou
 ziaratasdksfagdfzslagdi.icu
