@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-27T11:05:14.690169
+# Updated: 2025-09-27T12:05:17.111260
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15179,6 +15179,7 @@
 211224.top
 211228.top
 211228bei.top
+21123132131321313213213213.xyz
 2112323232.cloud
 21132345.site
 211456776742.buzz
@@ -34896,6 +34897,7 @@ a101-ramazankampanyasinda.click
 a101-ramazankolileri.click
 a101-redicctare.online
 a101-sadece-online-firsat.rf.gd
+a101-sadeceonlineozel.sbs
 a101-sahane-indirimler.guvenli-odemeler.com
 a101-sahane.indirimlerin.xyz
 a101-sahaneyeniylindirimi.com
@@ -146944,6 +146946,7 @@ ekranaktarmasayasi.com
 ekranaktarsaysfmaqnb.com
 ekrandan-aktar-online.site
 ekrandan-sorgulama-aktarma.online
+ekrandan-sorgulamani-yap-eylul-ayi.cyou
 ekrandanalonaylarisimdi.duckdns.org
 ekrani-yonlendirme-hizli.online
 ekrani.net
@@ -222785,6 +222788,7 @@ istanbulkant.net
 istanbulkarat.net
 istanbulkard.org
 istanbulkardw.net
+istanbulkarl.lat
 istanbulkarrt.com
 istanbulkart-bakiye.org
 istanbulkart-bakiyeyukle.ml
@@ -328055,6 +328059,7 @@ sahibindenparamguvende.e-onlinetr.sa.com
 sahibindenparamguvende.e-trodeme.sa.com
 sahibindenparamguvende.ga
 sahibindenparamguvende.getodeme-tr.online
+sahibindenparamguvende.getsecure-tr.online
 sahibindenparamguvende.gov-tr.net
 sahibindenparamguvende.gq
 sahibindenparamguvende.guvenliodeme.sa.com
@@ -414185,6 +414190,7 @@ yapifirsatlari.com
 yapifirsatlaribasladi.duckdns.org
 yapifirsatlaribasladi1.duckdns.org
 yapifirsatlaribasladi2.duckdns.org
+yapifirsatlaribasladi3.duckdns.org
 yapifirsatlarimbitmezrioderler.duckdns.org
 yapifirsatlarimburdalarderlerio.duckdns.org
 yapifirsatlarimkestlerio.com
