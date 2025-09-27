@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-27T21:05:13.124541
+# Updated: 2025-09-27T22:05:13.857305
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -30901,6 +30901,7 @@
 89889687989.cloud
 8989237878129090343.cloud
 898932990-1279840.cloud
+898989898989898.duckdns.org
 8989978444.cloud
 898fg1gl.duckdns.org
 898ozelsayfatr.cloud
@@ -106890,6 +106891,7 @@ claim-mlbb47.hopto.org
 claim-phntm.com
 claim-serv.me
 claim-skinnew.new4claim.com
+claim-your-reward.cfd
 claim346.xyz
 claimdome.top
 claimeventff2024.ddns.net
@@ -301628,6 +301630,7 @@ pket-ykle-bxm.blogspot.com
 pkfyoawi.com
 pkfzh.com
 pkgtcrui.duckdns.org
+pkhabhgzww.disposablesubdomain.xyz
 pkhdspnlhe.duckdns.org
 pkhtnhdyau.duckdns.org
 pkhz.xyz
