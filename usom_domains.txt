@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-27T23:05:13.967889
+# Updated: 2025-09-28T00:05:13.584880
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -72491,6 +72491,7 @@ bazjdgiesjfcouwgza.click
 bazlamasurathanderecel.tk
 bazn.duckdns.org
 bazouka.zapto.org
+bazruum.com
 bazteriyle.site
 bazuca2022.ddns.net
 bazzhalkyapargrssube.xyz
@@ -266415,6 +266416,7 @@ mobilonayyapi.top
 mobilonayyilbasikazanci.cf
 mobilonbasvurugirisler.ml
 mobilonline-kampanyafirsatlari.tk
+mobilonline.cfd
 mobilonline3543454345.com
 mobilonlinebasvuruedvlt-2022.ml
 mobilonlinebasvurugiris.ml
