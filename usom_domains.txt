@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-29T11:05:12.252167
+# Updated: 2025-09-29T12:05:13.798734
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -646,6 +646,7 @@
 07532432423.cloud
 075585.cn
 07727077777.duckdns.org
+07776658847777.duckdns.org
 077p2l.duckdns.org
 078a3c8.duckdns.org
 078pmx027.duckdns.org
@@ -69822,6 +69823,7 @@ basvurmrz.com.tr
 basvurmrz.xyz
 basvurmsn.com.tr
 basvurmsn.xyz
+basvurmsr.com.tr
 basvurmsr.xyz
 basvurmsv.com.tr
 basvurmsv.cyou
@@ -82024,6 +82026,7 @@ binancrlogin.com.tr
 binancrypto.online
 binancs.5yilihediyesi.com
 binancteteetrboundsher.vercel.app
+binanctr-girisler.vercel.app
 binanctr-secure.blog
 binanctrtrmoontr.vercel.app
 binanctvaarmoontr.vercel.app
@@ -141547,6 +141550,7 @@ edevlet-3000tldestekbasvuru.com
 edevlet-a1dat-iadetbirimi.com
 edevlet-acikdenizbank.com
 edevlet-adiat.org
+edevlet-adli.org
 edevlet-aiade.com
 edevlet-aiadebasvurungovtr.com
 edevlet-aidat-basvur.com
@@ -159740,6 +159744,7 @@ fdssdgsgrntibbvbagssdasd.online
 fdsss.ddns.net
 fdswmb.top
 fdszmd.top
+fdtbqweqbwe.click
 fdtpmc.top
 fdtribe.top
 fdtxovfzuty.info
@@ -161742,6 +161747,7 @@ finanshaber3410.site
 finanshaberim.gtxlink.sa.com
 finanshediyeler.com
 finanshediyem.com
+finanshizli-basvuru.cloud
 finanshizliiadetalebi2021.com
 finanshizliiadetalebi2021.mermerfatihlerimde.com
 finanshizmetleri.cyou
@@ -165080,6 +165086,7 @@ flrsatcumartesiyhepgeldesonra.store
 flrsatcumartisndnedengeldi.store
 flrsatdedikgeldikgittiksonsuz.shop
 flrsatdolukampanyalardangeldik.art
+flrsaterenleberabervurmacahadi.world
 flrsaterkeslegulsendeoluriyok.world
 flrsatgelsinmisana.duckdns.org
 flrsatgunleri1o1.com
@@ -183135,6 +183142,7 @@ guttshost.ddns.net
 guuglekurumsal.cfd
 guusalqsfi.duckdns.org
 guuvvgsbiuludp.me
+guv-hizmet.cfd
 guv-sit-bgn.shop
 guv3nlihizliod3.net
 guvafe.com
@@ -222631,6 +222639,7 @@ istanblkaart.net
 istanblkarat.net
 istanblkarf.net
 istanblkart-724yuklemee.tk
+istanblkart-e.blogspot.com
 istanblkart.blogspot.com
 istanblkart.lat
 istanblkartbakiyem.net
@@ -222911,6 +222920,7 @@ istanbulkant.net
 istanbulkarat.net
 istanbulkard.org
 istanbulkardw.net
+istanbulkarl.digital
 istanbulkarl.lat
 istanbulkarll.lat
 istanbulkarrt.com
@@ -223969,6 +223979,7 @@ istnblstkanklsantas.online
 istnblstknlslns.online
 istnblstlslnstnst.net
 istnblstlsnltnansnt.net
+istnblstnlsntans.online
 istnbltlsnllmlsnat.online
 istnblukart.hmngiri.com
 istnblxkart.net
@@ -239522,6 +239533,7 @@ kesilenaiadeladelerionline.com
 kesinbilgi.club
 kesinbilgi.online
 kesinkampanysdaburda.online
+kesinmikesin.cfd
 kesinrand.blogspot.com
 kesintisiz-hizmet21.shop
 kesintisiz-hizmet22.shop
@@ -258117,6 +258129,7 @@ marketinkapida.com.tr
 marketinkapida.net.tr
 marketinkapida.org.tr
 marketinsidedata.com
+marketinsinirlistokbasarisi.cfd
 marketinternetsatis.com.tr
 marketinvolve.sbs
 marketiqhub.com
@@ -284050,6 +284063,7 @@ oldubiler.vip
 oldublbusfrgldkndlrms.cfd
 oldubuseferreess.cyou
 oldumanim.top
+oldumuoldu.cfd
 oldumusimdi.quest
 oldunification.top
 oldyghost.hopto.org
@@ -327423,6 +327437,7 @@ sahibinden.sepetimiz-tr.online
 sahibinden.sepetimizde.com
 sahibinden.sepetin-tamamla.com.tr
 sahibinden.sepetiniz-tr.online
+sahibinden.sepetisleminiz.com
 sahibinden.sepetonline.com.tr
 sahibinden.sepette-ode.com
 sahibinden.sepette-odeme.com
@@ -332850,6 +332865,7 @@ securefgsyiverify.ddns.net
 securefifththird-03.hopto.org
 securefifththird.zapto.org
 securefirsttechmob.zapto.org
+securefutureturkey.org
 secureg1sahibindenparamguvende.com
 secureg2sahibindenparamguvende.com
 secureg3sahibindenparamguvende.com
@@ -341201,6 +341217,7 @@ siparislerin.com
 siparislerin18in.cloud
 siparislerin20agustonsanta.net
 siparislerin23eylulden.cloud
+siparislerin28bucuk.cloud
 siparislerin28bucukda.cloud
 siparislerin28eyluldehazir.cloud
 siparislerin30temmuzda.cloud
@@ -406279,6 +406296,7 @@ wwwsaglikbakanligi.com
 wwwsahibinden-com.tk
 wwwsahibinden-ile-paramguvende.com
 wwwsahibinden-securen.com
+wwwsahibinden-secures.com
 wwwsahibinden.com
 wwwsahibinden.com-ilan.com.tr
 wwwsahibinden.com.tr
