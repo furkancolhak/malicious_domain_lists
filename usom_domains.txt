@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-29T22:05:13.660457
+# Updated: 2025-09-29T23:05:12.669668
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -81893,6 +81893,7 @@ binancetr-iade.com
 binancetr-ramazancekilis.online
 binancetr.cfd
 binancetr.mywire.org
+binancetr1.duckdns.org
 binancetr2yilfiirsatlari.ml
 binancetr2yilozel.ml
 binancetrahermen.vercel.app
@@ -96194,6 +96195,7 @@ buradanfaydalan.net
 buradanfirsatlarialicaksin.cfd
 buradanfirsatlarialicaksin.sbs
 buradanfirsatlarintakensineulasirsiniz.com.tr
+buradangel.com
 buradangerceklestir.com
 buradangirsende.online
 buradangirsenesende.com
@@ -129307,6 +129309,7 @@ dl6q95zf.top
 dlajvgbka.duckdns.org
 dlamure.com/klfhsyys
 dlasfgsadkf.line.pm
+dlasfo.click
 dlauten.bplaced.net
 dlaverser1o1.com
 dlawhxseeaoeitd.cn
@@ -190376,6 +190379,7 @@ hanantep.com
 hanantep.org
 hanaster.com
 hanauzl.cfd
+hanazula.net
 hanbntrs.click
 hancertemizlik.com//db_template.php
 hancockconsulting.com
@@ -221106,6 +221110,7 @@ isbonlinet-r.com
 isbqmjijwnafrsk.su
 isbrs.com
 isbryselbasvrular.online
+isbsanfksfafigdisnasdksaf.cyou
 isbturk.com
 isbturkey.com
 isbucepbank.com
@@ -235296,11 +235301,13 @@ kanako.cc
 kanal-7.net
 kanal-akbank.one
 kanal-my-landtr.info
+kanal-myweb-landtr.info
 kanal1-trthaber.com
 kanal1-trthaberbultenigovtr.ga
 kanal2024-web-login.pro
 kanalakbank.site
 kanalistanbul12.net
+kanallar-infoweb-tr.info
 kanalmuayne.net
 kanalsanati.blogspot.com
 kananelnamakmu.xyz
@@ -334641,6 +334648,7 @@ seninfirsatin.com.tr
 seninfirsatlarindenizde.tk
 seningibi.wuaze.com
 seningibisigelmedi.top
+seninhislerineozel.cfd
 seninhizmetlerin.xyz
 seninhojunagidenbizene.xyz
 seniniaden-devletportaligirisleri-2021cep.com
@@ -335106,6 +335114,7 @@ sepetinkolayda.click
 sepetisleminiz.com
 sepetkolay.click
 sepetler-tr.com
+sepetler.com.tr
 sepetlerim.com.tr
 sepetlerimiz.com.tr
 sepetlerinizeaksin.xyz
@@ -418387,6 +418396,7 @@ yenikampanyamm.tk
 yenikampanyamobilsube.net
 yenikampanyasayfasi.cloud
 yenikampayaformuozelkatilim.can.re
+yenikampnyalarim.b-cdn.net
 yenikararbasvurusu.com
 yenikararedevlet-online.com
 yenikariyeriniz.blog
