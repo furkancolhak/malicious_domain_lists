@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-28T23:05:14.812146
+# Updated: 2025-09-29T00:05:12.908498
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -70731,6 +70731,7 @@ basvuruhediyemdeday.net
 basvuruhediyenihemenal.com
 basvuruhemen.com
 basvuruhiizmetleri.buzz
+basvuruhislionayal.blogspot.com
 basvuruhizli-login.privatedns.org
 basvuruhizmeti.de
 basvuruhizmeti.site
@@ -91082,7 +91083,9 @@ bnturkey-togg.com
 bnturkeykripto.xyz
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.com
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.info
+bnturkeykriptovarlikalimsatimplatformuanonimsirketi.store
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.tech
+bnturkeykriptovarlikalimsatimplatformuanonimsirketi.xyz
 bnturkeykriptovarlikalimsatimplatformuas.com
 bnturkeykriptovarlikalimsatimplatformuas.shop
 bnturkeykriptovarlikalimsatimplatformuas.xyz
@@ -186299,6 +186302,7 @@ hadibaslayalimmi.site
 hadibb.cfd
 hadibenimlesen.com.tr
 hadibidenesenya.cyou
+hadibugundenbaslagrantiye.digital
 hadiburdanalsimdial.net
 hadicicek.co
 hadicicek.online
@@ -244004,6 +244008,7 @@ kosubandiurunu.store
 kosubandiyeni.space
 kosubandiyeni34.site
 kosubandiyeni34.store
+kosulweb-mylandtr-web-in.sa.com
 kosunixmreglin.net
 kot8mm.duckdns.org
 kotak.mycardcard.in
