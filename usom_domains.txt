@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-29T13:05:13.157478
+# Updated: 2025-09-29T15:05:14.613460
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7769,6 +7769,7 @@
 162.19.237.181
 162.208.2.182
 162.210.194.2
+162.210.196.101
 162.211.64.20
 162.213.255.176
 162.214.50.39
@@ -8256,6 +8257,7 @@
 170.130.165.112
 170.130.165.28
 170.130.165.37
+170.130.165.42
 170.130.172.44
 170.130.205.117
 170.130.55.130
@@ -14643,6 +14645,7 @@
 206.166.251.228
 206.166.251.61
 206.166.251.99
+206.168.190.143
 206.188.196.136
 206.188.196.194
 206.188.196.199
@@ -14866,6 +14869,7 @@
 209.189.232.134
 209.190.46.193
 209.197.176.40
+209.20.171.255
 209.20.191.152
 209.20.194.232
 209.200.246.173
@@ -15299,6 +15303,7 @@
 213.130.144.69
 213.134.184.167
 213.136.75.16
+213.136.81.64
 213.136.94.177
 213.139.205.131
 213.139.205.242
@@ -21979,6 +21984,7 @@
 45.88.180.54
 45.88.186.152
 45.88.186.32
+45.88.186.85
 45.88.3.114
 45.88.3.12
 45.88.3.122
@@ -28443,6 +28449,7 @@
 777traffget.site
 777uwj8mx7a.ru
 77832498089217738.cloud
+77839466.xyz
 77854223.cloud
 778592639472h.world
 7785jsg9.duckdns.org
@@ -41918,6 +41925,7 @@ acilbakiyemiz.net
 acilbasvur.firsatmobil.denizbank.18-237-71-217.plesk.page
 acilbasvur.firsatmobil.denizbank.l8-237-7l-2l7.plesk.page
 acilbasvuru.tk
+acilbonus.click
 acildeniz-denizbanlturkiye.com
 acildeniz-denizbanlturkiye.tk
 acildeniz-denizimobil.net
@@ -56048,6 +56056,7 @@ andscripts.duckdns.org
 andsdud-ansma-amsjs.icu
 andsigorta.net
 andtotallydanrenderaare.ru
+andu.uncody.site
 anduansury.com
 andvewouse.com
 andwor.online
@@ -69912,6 +69921,7 @@ basvurramazan.online
 basvurramazan.xyz
 basvurrhayatseninleguzel.xyz
 basvurrhayattseninleguzell.xyz
+basvurrmyk.xyz
 basvurrrruuackmobilbireyselackkk.com
 basvurru-aidatiadenizform.com
 basvurru-eiadeform.com
@@ -74325,6 +74335,7 @@ belediyeborc-sorgu.online
 belediyehizmet.net
 belediyeisibizim.com
 belediyeislemsvakit.net
+belegsorgulama-yee-iraq.com
 belemnitic.com
 belesfal.com
 belespanel.cloud
@@ -104491,6 +104502,7 @@ championshipcaptive.top
 championshipsmuggle.top
 championstraightforward.top
 championturkiyetr.com
+champp.cfd
 champthurks37.wixsite.com
 chamsi.ddns.net
 chan.web1337.net
@@ -153923,6 +153935,7 @@ etkinkampanyalar.net
 etkinlik-besinciyilozel-kampanya-hemenkatil.net
 etkinlik-besinciyilozel-kampanya-simdibasvur.net
 etkinlik-bnyenisorgula.net
+etkinlik-web-mytr-go.za.com
 etkinlikbasvuru.com
 etkinlikbasvurularimbn.net
 etkinlikbesinciyilozelsimdibasvur.net
@@ -178654,6 +178667,7 @@ gnnnqw.duckdns.org
 gnnthlmnbslr.duckdns.org
 gnntttttttttt.net
 gnoa.pw
+gnomes.aitask.me
 gnon.zapto.org
 gnonros.ddns.net
 gnoqovijds.klontrek.org
@@ -184469,6 +184483,7 @@ guvnli-odmehizmeti.com
 guvnli-odmehzmetii.com
 guvnlialdinaldin.xyz
 guvnlishlmerslmq.com
+guvnlisitler.com.tr
 guvnlislmerldfs.net
 guvnlismessi.net
 guvnlistnal.net
@@ -190342,6 +190357,7 @@ hanabank.xyz
 hanantep.com
 hanantep.org
 hanaster.com
+hanauzl.cfd
 hanbntrs.click
 hancertemizlik.com//db_template.php
 hancockconsulting.com
@@ -204949,6 +204965,7 @@ horizontas.xyz
 horizonzest.space
 horkessatis.gen.tr
 horlzonhub.com
+hormenesgtesls.com
 hormensdtrerr.com
 hormesterlelrsk.com
 hormestler.org.tr
@@ -222641,6 +222658,7 @@ istanbaksam.net
 istanbbluyuklem.net
 istanbbullkartbasvr.org
 istanbbullkartiyuklee.net
+istanbdlkart.blogspot.com
 istanbkkls.net
 istanbklfirsat.net
 istanbklum.net
@@ -222769,6 +222787,7 @@ istanbul-kart-dolum.com
 istanbul-kart-yukleme.net
 istanbul-kart.net
 istanbul-kartiim.net
+istanbul-kartim.digital
 istanbul-kartls.blogspot.com
 istanbul-kartt-dolum.net
 istanbul-kartt.net
@@ -239788,6 +239807,7 @@ kg266c2a.duckdns.org
 kg5u4xv6.duckdns.org
 kg9812klawskgfla.shop
 kgamgov.top
+kgamvog.cfd
 kgb963.duckdns.org
 kgbb7179.codns.com
 kgbhgsborcgecihlali.duckdns.org
@@ -275259,6 +275279,7 @@ net-noteb.top
 net-noteu.top
 net-online.site
 net-onlineqnbfinans.com
+net-only.site
 net-plugin.org
 net-poteg.top
 net-potel.top
@@ -401102,6 +401123,7 @@ wwvprobtcturk.com
 wwvptt-avm.com
 wwvpttavm-secure.com
 wwvpttavm-securem.com
+wwvpttavm-securen.com
 wwvpttavm-secures.com
 wwvpttavm-securess.com
 wwvpttavm.com
