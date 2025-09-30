@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-09-30T13:05:12.385215
+# Updated: 2025-09-30T14:05:13.975770
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -59399,6 +59399,7 @@ aracmuayeneerezervasyonu.com
 aracmuayeneflxyaqsvc.net
 aracmuayeneflyas.net
 aracmuayenehizmxtlxriturk.net
+aracmuayenehmzetmb.web.app
 aracmuayeneislemi.com
 aracmuayeneislemleri.com
 aracmuayeneistasyonlari.org
@@ -62490,6 +62491,7 @@ asyabutik.fun
 asyafatura.com
 asyahaber.club
 asyahaber.site
+asyaka.click
 asyamylife.net
 asyd1.duckdns.org
 asyerrfd.kalputrafnograsinraktacsarfam.net
@@ -97079,6 +97081,7 @@ buyukkampanyalar.store
 buyukkampanyalar.xyz
 buyukkindirimurunnlerii.com
 buyuklerkonus.online
+buyukmarketindirim.click
 buyukosmanlidevletim.site
 buyukotelabant.com
 buyukpatlama.net
@@ -169726,6 +169729,7 @@ garanti-katilim.sa.com
 garanti-katilim.site
 garanti-katilim.za.com
 garanti-kazandiriyor.tk
+garanti-kibris.com
 garanti-kredi-basvur-online.cloud
 garanti-kredi-basvur.cloud
 garanti-kredi-basvuru-findex.kayganlaryedekparca.com
@@ -223349,6 +223353,7 @@ istanbulskartsbasvuru.com
 istanbulsoguk.myshopify.com
 istanbulson.online
 istanbulstarbilisim.click
+istanbulsubesi.sbs
 istanbulsw.net
 istanbulsxadax.net
 istanbulsxbedia.net
@@ -240112,6 +240117,7 @@ kgmswebgcsodemees.com
 kgmtr.org
 kgmturkeytrodemelerim.net
 kgmtwebgecisodeee.duckdns.org
+kgmuild.cc
 kgmun.cc
 kgmurl.link
 kgmuylamal.net
@@ -304265,6 +304271,7 @@ pppt-alisvers.com
 ppptgov.fun
 pppttavmbasdvd.click
 pppvv.cloud
+pprgkmz.com
 pprimea101.fun
 pprmsynnggrnnxttiibbvvaa.com
 pprmsynnlarrklmlar2025.com
@@ -345709,6 +345716,7 @@ sonbhrdakrcaa.cfd
 sonbhrfirsatlarixx.com
 sonbhri-yakala.com
 sonbildirim.eu
+sonbildirimler.com
 sonbinancekampanyabilgi.net
 sonbirvakif.co.vu
 sonbisarkikardes.com
@@ -367619,6 +367627,7 @@ tr-m-e-devlet-subesi-iade-aidat.com
 tr-magaza.repl.co
 tr-magazamdysonbayi.com
 tr-magza.com.tr
+tr-manage.site
 tr-manuelplaka.com
 tr-manuelplks.com
 tr-maresgulama.net
@@ -379566,6 +379575,7 @@ umggv13h.duckdns.org
 umgmafwwqgnqety.ru
 umgrandemisterio.ddns.net
 umhedihalkkuvbiz-09sizehedi121.click
+umitcancicek.com
 umitetiket.blogspot.com
 umitligelecek.com
 umitsendevakfi.com
@@ -419900,6 +419910,7 @@ yikamazsiniz.cfd
 yikamsaurunleri.com
 yikilanhayallerim.xyz
 yikildiikti.xyz
+yikilmamulan.cfd
 yikilmayiz.sbs
 yiknzeqzb.duckdns.org
 yil-basi-kampanyasi.shop
@@ -420548,6 +420559,7 @@ yilmazlartekel63.online
 yilmazlartekelbayi.xyz
 yilmazutts.com
 yilmazvakfi.com
+yilmazyildiririm.cfd
 yilmzyeni-anlkkatillin.com
 yilmzyeni-tklgiril.com
 yilsanu-2022bireyselkampanya-online.ml
