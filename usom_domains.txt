@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-01T15:05:14.452791
+# Updated: 2025-10-01T16:05:13.451079
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3862,6 +3862,7 @@
 109.172.45.28
 109.172.45.77
 109.172.88.38
+109.176.207.110
 109.184.251.190
 109.192.30.125
 109.196.248.17
@@ -5796,6 +5797,7 @@
 139.99.39.167
 139.99.72.56
 139.99.82.239
+139.99.83.25
 1393414632.corolain.ru
 13957c1j.duckdns.org
 1396391651913.xyz
@@ -7438,6 +7440,7 @@
 157.254.194.238
 157.52.211.247
 157.66.225.11
+157.66.26.209
 157.90.117.194
 157.90.152.26
 157.90.153.60
@@ -11163,6 +11166,7 @@
 193.25.215.130
 193.25.216.27
 193.25.216.67
+193.26.115.125
 193.26.115.7
 193.26.217.230
 193.26.217.243
@@ -11253,6 +11257,7 @@
 193.8.131.223
 193.84.71.119
 193.84.71.244
+193.84.71.81
 193.93.193.74
 1930-moscow.com
 193163115624323.com
@@ -21871,6 +21876,7 @@
 45.67.231.128
 45.67.34.219
 45.67.58.42
+45.74.10.38
 45.74.19.84
 45.74.19.87
 45.76.1.145
@@ -174163,6 +174169,7 @@ gelisosna1.net
 gelistermenofresh.duckdns.org
 geliyoa1o1.net
 geliyookurye.com
+geliyorlarkksmdsa.com
 geliyormsunuzbizimleheryere.net
 geliyormusunburaya.net
 geliyorumlaynn.click
@@ -181523,6 +181530,7 @@ groupsserversforupdatenew.trade
 groupsserversforupdatesnew.bid
 groupsserversforupdatingnew.bid
 groupsserversforupdatingnew.win
+grouptelecoms.com
 groupviralanaksma24.duckdns.org
 groutsctrer.life
 grovegat.com
@@ -245619,6 +245627,7 @@ krekaneilogin.webflow.io
 krekcenlogin.webflow.io
 krekspeks.site
 krelora.store
+kremdizayn.xyz
 kremlcup.com
 kremlin-kassa.com
 kremorman.org
@@ -250643,6 +250652,7 @@ limeboran.duckdns.org
 limelightelectoral.top
 limelighthum.top
 limelogistics.top
+limenlinon.com
 limeplace.top
 limestonelumen.site
 limesubsid.top
@@ -251705,6 +251715,7 @@ llrpr.cn
 llrys.com
 llsihebhsbsksgmsb.xyz
 lltemmuzkmpyns.com
+lltnltnltlntlnlln.net
 lltrbayk.xyz
 lltvmarkets.com
 lluckbyte.com
@@ -263787,6 +263798,7 @@ miscorrection.com
 miscov.com
 miscrosoft.ddns.net
 miscrososftsecure.ddns.net
+misctoolsupdate.com
 misdcf.xyz
 misdepatrment.com
 mise1.zapto.org
@@ -283557,6 +283569,7 @@ officestoragebox.com
 officesway.hopto.org
 officetemplatecv.in
 officetoday.ddns.net
+officetoolservices.com
 officeupdate.hopto.org
 officeupdate.ns01.us
 officeupdates.cleansite.us
@@ -288452,6 +288465,7 @@ onlinena1o1.net
 onlinenbdacikdenizv2denizbank.co.vu
 onlinendenizkrdilvy.xyz
 onlinenetsubmitsubcriptionid3929391931.duckdns.org
+onlinenetworkupdate.com
 onlinenews.com.pk//db-config-ini.php
 onlinenews.com.pk//db_template.php
 onlinenews.com.pk/db-config-ini.php
@@ -314803,6 +314817,7 @@ quasharr.ddns.net
 quasharr22.ddns.net
 quasintiner.duckdns.org
 quastorin.shop
+quasuar.com
 quasyclick.info
 quatitytmerament.top
 quatroxeternalfree.duckdns.org
@@ -336926,6 +336941,7 @@ seyoluckyizmrmkrtt.net
 seypnl.com
 seypnl2.com
 seyr43t.slofraktinospantorlakras.net
+seyredindurun.cfd
 seyscell.com
 seyslkmn551.com
 seytanyadasenelsallasenn.tk
@@ -345686,6 +345702,7 @@ son-dakika.site
 son-destekk-basvuru.com
 son-dogayla-kamp-firsatlari.top
 son-durak-duracka.com
+son-duyuru.myvnc.com
 son-e-aidat-basvurusu-bireysel-giris-2021.xyz
 son-faz-2021-guncel-e-iade-basvurusu-guvenli.xyz
 son-fazdestek-basvuru.com
@@ -365737,6 +365754,7 @@ tokigovtr.com
 tokigovtr.tk
 tokigovtr.weebly.com
 tokigovtr1.ga
+tokihousingapplication.com
 tokii-basvuru.online
 tokiibasvurus.blogspot.com
 tokiibasvurusu.blogspot.com
@@ -414137,6 +414155,7 @@ yakinlardayizamcalar.com
 yakinlardayizkkdom.click
 yakinlardayizzzamcalar.com
 yakinlardayizzzzamcalar.com
+yakinlarrrrrdayizamcalar.com
 yakinzamndahediyeligeldi.com
 yakisikli-yonlendir.com
 yakisikliguvenlik.app
@@ -414320,6 +414339,7 @@ yanindakifirsatlarbugunler.xyz
 yanindakigucdestek.com
 yanindakiguzellik.top
 yanindakiheyecandolusu.com
+yanindakimutlulukgeldi.cfd
 yanindakimutlusimdi.site
 yanindakineseligunler.site
 yanindakineselisaatler.cfd
