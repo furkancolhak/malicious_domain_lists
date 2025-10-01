@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-01T16:05:13.451079
+# Updated: 2025-10-01T17:05:12.729994
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5976,7 +5976,9 @@
 141.98.11.210
 141.98.11.227
 141.98.11.67
+141.98.11.69
 141.98.11.79
+141.98.11.80
 141.98.11.97
 141.98.119.27
 141.98.212.55
@@ -19438,6 +19440,7 @@
 37.111.148.239
 37.114.37.184
 37.114.46.25
+37.114.50.174
 37.114.63.100
 37.120.140.184
 37.120.140.211
@@ -33388,6 +33391,7 @@
 9h2tqlyr.duckdns.org
 9h426im.duckdns.org
 9h4kj7.duckdns.org
+9h5hh4933r2-23-234315dsg23fds.sbs
 9h6vw65v.duckdns.org
 9h973m5.duckdns.org
 9haujn.duckdns.org
@@ -56459,6 +56463,7 @@ anindakredingelsin.com
 anindakredionayburdafirsati.site
 anindakytolalimm.com.tr
 anindamarketim.com
+anindamenuislm.com
 anindamerkez.b-cdn.net
 anindamerkezz.b-cdn.net
 anindamobilsizlerlekampanyafirsatbance.tech
@@ -70475,6 +70480,7 @@ basvuru.sorgula.site
 basvuru.talep.yardimlarinizicin-geldik2.org
 basvuru.tk
 basvuru.ucuzevinterneti.com
+basvuru.vkfmobil2025.net.tr
 basvuru.yapi-kredi.tr
 basvuru.yardiminizicingeldikk.org
 basvuru.ypk-22.click
@@ -122500,6 +122506,7 @@ denizlefirsatlarcepteonline.xyz
 denizlefirsatlarim100yil.online
 denizlefirsatlarinizin.online
 denizlegir.online
+denizlegirdimden.shop
 denizlegiris.online
 denizlegirisportali.online
 denizleguncelfirsat.online
@@ -162849,6 +162856,7 @@ firsatdiyari-bntr.com
 firsatdiyari.com.tr
 firsatdiyari.store
 firsatdiyarindan.site
+firsatdonemikapida.com
 firsatdunyalari.info
 firsatdunyalari.site
 firsatdunyalarim.com
@@ -174169,6 +174177,7 @@ gelisosna1.net
 gelistermenofresh.duckdns.org
 geliyoa1o1.net
 geliyookurye.com
+geliyorlarkampanya.com
 geliyorlarkksmdsa.com
 geliyormsunuzbizimleheryere.net
 geliyormusunburaya.net
@@ -182386,6 +182395,7 @@ guncel-slkayetler.com.pl
 guncel-sokcepte.com.tr
 guncel-sosyaldestekuygulamasi.tk
 guncel-sosylal-destek.tk
+guncel-tv-player-lnat.com
 guncel-vakif-bnk-giris.tk
 guncel-vakif-hediyellerim-com.cf
 guncel-vakif-hediyellerim-com.ga
@@ -183010,6 +183020,7 @@ gunesyolu.click
 guney01gecis.22web.org
 guney01islem.22web.org
 guneyardim.com
+guneydeseksuabakm.sbs
 guneydogusigorta.com.tr
 guneydogusigorta.net.tr
 guneydogusigorta.org.tr
@@ -221251,6 +221262,7 @@ isbrs.com
 isbryselbasvrular.online
 isbsanfksfafigdisdgihfsd.cyou
 isbsanfksfafigdisdgihsagdcu.cyou
+isbsanfksfafigdisdgsafkgkdshf.sbs
 isbsanfksfafigdisnasdksaf.cyou
 isbsanfksfafigdisnasdsagdsdh.cfd
 isbsanfksfafigdisnasdsagdsdh.cyou
@@ -229819,6 +229831,7 @@ jjdxkw.click
 jjdxwqdbdj.duckdns.org
 jjee.site
 jjelgf.duckdns.org
+jjetreg.env.pm
 jjfdfe.icu
 jjfdksfksdfjkfd.de
 jjggyvdww.ytyukai.cn
@@ -253464,6 +253477,7 @@ lstanbulbreysell.click
 lstanbulbreysell.online
 lstanbulbreysell.site
 lstanbulburda.com
+lstanbulcular.click
 lstanbuldaodemelibb.net
 lstanbulhedefi.sa.com
 lstanbulkart.com
@@ -286185,6 +286199,7 @@ online-islemler-platform-paribu-com.cf
 online-islemler-portali.site
 online-islemler-portali.store
 online-islemler-sorgulama-ekrani.site
+online-islemler-txki.cfd
 online-islemler-yapi-internet.tk
 online-islemler.cf
 online-islemler.com
