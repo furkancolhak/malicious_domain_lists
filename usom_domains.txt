@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-02T07:05:11.345984
+# Updated: 2025-10-02T08:05:14.245619
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -20955,6 +20955,7 @@
 43.129.233.99
 43.129.7.189
 43.130.1.222
+43.132.196.160
 43.132.212.111
 43.132.235.4
 43.138.176.5
@@ -146811,6 +146812,7 @@ ekim-katalog.shop
 ekim-krdi-firsat.site
 ekim-market.online
 ekim-ozel-basvuru.gryk-osti.click
+ekim-ozelsabahcabuk.com
 ekim-pandemibasvurusonuclari.com
 ekim-pandemisorgulama-tc.com
 ekim-pandemisorgulama-tr.net
@@ -321186,6 +321188,7 @@ ridon2.hopto.org
 ridonestore.shop
 ridousoulementres.zapto.org
 ridss.hopto.org
+ridvaninhaberixx.com
 rietumu.me
 rieturc.ru
 riewvt6h.duckdns.org
@@ -345764,6 +345767,7 @@ son-basvuru.tk
 son-basvuru.vercel.app
 son-basvurular-acildi.site
 son-basvurular-basladi.net
+son-basvurular.duckdns.org
 son-basvurular2026.myftp.org
 son-basvurular2026.myvnc.com
 son-basvurum-2021-e-aidat-iadesi-online-basvuru.xyz
@@ -376722,6 +376726,7 @@ turktelekm73.org
 turktelekom-5g.com
 turktelekom-abone.net
 turktelekom-ekpaketler.com
+turktelekom-evdeinternet.com
 turktelekom-evinterneti-basvurusu.site
 turktelekom-evinternetiabonelikkampanyalari.site
 turktelekom-evinternetine-basvur.com
