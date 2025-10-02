@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-02T11:05:12.945624
+# Updated: 2025-10-02T12:05:12.112607
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -22123,6 +22123,9 @@
 45.90.161.148
 45.90.162.66
 45.90.163.37
+45.90.185.107
+45.90.185.109
+45.90.185.115
 45.91.169.135
 45.91.169.180
 45.91.201.85
@@ -85089,6 +85092,7 @@ bitemonopolize.top
 bitemores.com
 biten-sezn-mutlu-hislere-daha-yakin.com
 biten-sezona-yaklastik-son-demlerinde-yetisen-gorur.com
+bitenerg.org
 bitenleringunlerison.xyz
 biter-kapilariniza-gelsin-hemen-kapilarda.com
 biter-kapilarinizza-gelsin-hemen-kapilarda.com
@@ -105332,6 +105336,7 @@ chinkseatblahajs.libre
 chinnyann.ddns.net
 chinnyann.duckdns.org
 chinomso.duckdns.org
+chinpro.store
 chinqwe.duckdns.org
 chinradioottawa.com
 chip-tuning.ddns.net
@@ -106468,6 +106473,7 @@ cinarmcneil04.top
 cinarodeme.22web.org
 cinarterlik.online
 cinaryrdmvkfi.org
+cindravel.shop
 cinemagic-creaciones.com
 cinemanitrogen.top
 cinemaroxy.online
@@ -106546,6 +106552,7 @@ circular-noon-farmhouse.glitch.me
 circularalignment.top
 circularammunition.top
 circulargiantfoodstore.com
+circularlifts.com
 circularstatutory.top
 circulatebureaucracy.top
 circulatecounterfeit.top
@@ -147132,6 +147139,7 @@ ekonomipaneli.click
 ekonomiportal.online
 ekonomist-turkey24.online
 ekonomitakibi.pro
+ekonomitime.online
 ekonomiyontemm.com
 ekonommax.com
 ekontor.org
@@ -149678,6 +149686,7 @@ energeticmolecular.top
 energeticnegligence.top
 energeticplateau.top
 energeticrevenge.top
+energgycenter.com
 energiaenequilibrio.com
 energiafatura-com-br.ga
 energiaorgonu.com
@@ -178983,6 +178992,7 @@ godbuntu.net
 godbyebaby.ddns.net
 godcheat.duckdns.org
 godconcise.top
+godcures.online
 goddess19.com
 goddygo.zapto.org
 godemeyap.com
@@ -196786,6 +196796,7 @@ hesap-yukselt.net
 hesap.bn05122024tr.com
 hesap.cf
 hesapalin.com
+hesapalinsiz.cfd
 hesapalmayadevam.cfd
 hesapaltin-denizbank.com
 hesapbakiye.online
@@ -216117,6 +216128,7 @@ infinitetrench.top
 infinitiveappease.top
 infinitivesnob.top
 infinitivesusceptible.top
+infinitumm.tr
 infinity-88.com
 infinity.ilyrovandw.com
 infinityagency.site
@@ -240294,6 +240306,7 @@ kgmswebgcsodemees.com
 kgmtr.org
 kgmturkeytrodemelerim.net
 kgmtwebgecisodeee.duckdns.org
+kgmugs.cc
 kgmuild.cc
 kgmun.cc
 kgmurl.link
@@ -259120,6 +259133,7 @@ masum-duygulari-hisseden-bizleriz.com
 masumhikmet.online
 masupoltd.pro
 masyasuo.duckdns.org
+masyawa.click
 masza-asdza.blogspot.com
 mat3ssa.fun
 matabbrevition.top
@@ -259292,6 +259306,7 @@ matrix123.ddns.net
 matrixane.com
 matrixhack9.ddns.net
 matrixpartners.theworkpc.com
+matrixpick.click
 matrixrecruits.com
 matrixxcloud.duckdns.org
 matrock.zapto.org
@@ -268541,6 +268556,7 @@ motionfamily.top
 motionhockey.top
 motionjockey.top
 motionritm.ru
+motivaro.click
 motivatedrhino.com
 motivateeaster.top
 motivateerection.top
@@ -271969,6 +271985,7 @@ mutlumutlukampanyaalrdabugunler.cfd
 mutlumutlukampanyaalrdabugunler.sbs
 mutlumutlukampanyalar.online
 mutlumutlukampanyalar.xyz
+mutluol.info
 mutluolmakistersenburayabak.cfd
 mutluolmakistersenburayabak.sbs
 mutluolmakistiyorsantikla.com.tr
@@ -303173,6 +303190,7 @@ polarevoke.top
 polarinvincible.top
 polaris-bios-editor.ru
 polarispulse.online
+polarnimbus.space
 polarof.koyhelp.top
 polarpeace.top
 polarsueillance.top
@@ -371503,6 +371521,7 @@ trioboldvner.com
 trioganic.com
 trion.com.ph
 trionsimon.sa.com
+trionsimon.za.com
 trionvex.live
 trioticprdat.top
 trip12345.top
@@ -378729,6 +378748,7 @@ ucakbiletetstur.com
 ucakbileti.website
 ucakbiletiresmi.website
 ucanadam.host
+ucanakacana.cfd
 ucanbe.tk
 ucarecdn.com/ef82f77a-4bb2-4546-9212-be8dbced806f/evdekal.apk
 ucaybasvural.com
@@ -410292,6 +410312,7 @@ xn--gunduzdendrmvar-flccb.shop
 xn--gunlerdenfrsatlarday-rbdk.shop
 xn--guvenliticaretn-llc.com.tr
 xn--guvenlk-sahibinden-j0c.com.tr
+xn--guzel-kampanyalar-son-gun-ihc.xyz
 xn--gvenbizeistanbul-jzb.net
 xn--gvendeparam-thb.com.tr
 xn--gvenleodetr-thb.com
@@ -423171,6 +423192,7 @@ yurt-ici-kargo.rest
 yurt-ici-takip-sorgulama.com.tr
 yurtasyardim.xyz
 yurtbirlik.org
+yurtcikar.sbs
 yurtdisi-yardim.vercel.app
 yurtdisibilgiavrupa.com
 yurtdisiharci.com
