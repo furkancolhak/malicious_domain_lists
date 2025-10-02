@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-02T19:05:12.468076
+# Updated: 2025-10-02T20:05:13.569301
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -372,6 +372,7 @@
 02bok5b.duckdns.org
 02e67686.yh764theb.com.cn
 02ekim-c.art
+02ekim-comtr.art
 02hgs.com
 02i58sa1.duckdns.org
 02iade-hizmetleriniz.com
@@ -221164,6 +221165,7 @@ isbankrioderlerrd.duckdns.org
 isbanks.club
 isbanks.fit
 isbanks.net
+isbanks.vercel.app
 isbanks.xyz
 isbanksasl.com
 isbankscepte.co.vu
@@ -265785,6 +265787,7 @@ mobildenhizli.sbs
 mobildenhizlikampanyabnancebasvurusu.tech
 mobildeniadebakiyeodemeleri.ml
 mobildeniadeformudoldur.ml
+mobildenislem.sbs
 mobildenixzbasvurummxv2.com
 mobildenixzcekilisbasvurv2.com
 mobildeniz-acikbasvurukampanya.com
@@ -283828,6 +283831,7 @@ ofkjihckckbj.pw
 ofkkgbhgsborcodeme.duckdns.org
 ofl.bridgetowncityphotos.org
 oflirafmrx.duckdns.org
+oflusansakawa.sbs
 oflybfv.biz
 ofmvnljrimuhnis.ru
 ofmzydqccu.info
@@ -371487,6 +371491,7 @@ trhjhj.is-best.net
 trhmrcshsad.shop
 trhr.online
 trhsrsrglmyap.com
+trhukuk.org
 trhzmetilekoyls.com
 tri-comma.com
 tri-sion.com
