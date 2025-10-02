@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-02T18:05:13.310302
+# Updated: 2025-10-02T19:05:12.468076
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -371,6 +371,7 @@
 02bdx1.duckdns.org
 02bok5b.duckdns.org
 02e67686.yh764theb.com.cn
+02ekim-c.art
 02hgs.com
 02i58sa1.duckdns.org
 02iade-hizmetleriniz.com
@@ -13806,6 +13807,7 @@
 202.141.233.214
 202.142.151.190
 202.145.6.130
+202.155.8.56
 202.162.108.48
 202.162.33.243
 202.169.234.5
@@ -49831,6 +49833,7 @@ aklistrsaveras.online
 akloteburasge.xyz
 aklsdgafafafdafdta.xyz
 aklsfrt-kmpnaya.online
+akluan2.click
 akm7.date
 akmarketakce.com
 akmasrafsizekim.com
@@ -50114,6 +50117,7 @@ aksdbwemaw12.ddns.net
 aksdffsrsrssafsaas.online
 aksec9321.online
 akselrkl.click
+akselrkl25.click
 akseninyaninda.xyz
 aksenlehep.xyz
 akserl.com
@@ -163874,6 +163878,7 @@ firsatlarkaciyo.com.tr
 firsatlarkaciyo.net.tr
 firsatlarkaciyo.org.tr
 firsatlarkaciyo.xyz
+firsatlarkaciyor.com
 firsatlarkacmasin.com
 firsatlarkacmaz.shop
 firsatlarkacmazaldinaldin.com.tr
@@ -195323,6 +195328,7 @@ hemengirisadresimma.shop
 hemengirismerkezi-kurumsalbasvuru.com
 hemengirpormosyonceb.xyz
 hemengitsinler.click
+hemengitsinlerhemen.click
 hemengrntarackirala.xyz
 hemengunlukalisveris.com.tr
 hemengunlukalisveris.xyz
