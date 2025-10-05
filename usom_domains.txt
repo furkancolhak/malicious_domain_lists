@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-05T15:05:14.816523
+# Updated: 2025-10-05T16:05:13.376377
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2207,6 +2207,7 @@
 101alisverisredmiburasi.cfd
 101alisverisredmiburasi.sbs
 101alisverisredmiburasidir.sbs
+101alisverissepeti.cfd
 101anindakapinda-com-tr.cfd
 101anindakapinda-com-tr.sbs
 101anindakapinda-com.cfd
@@ -66025,6 +66026,7 @@ b-b-vtr-ekran-web.za.com
 b-bconsult.com
 b-bmn.blogspot.com
 b-bnn.blogspot.com
+b-bwamenugirisllemonliinen.com
 b-cell-hizmetleriniz.gq
 b-cell-kampanyalar.gq
 b-cell-yukleyici.gq
@@ -267652,6 +267654,7 @@ mobilticaretp-ttsnaal.com
 mobiltlyukle.com
 mobiltlyukleme.com
 mobiltogbasvuru.duckdns.org
+mobiltr-ilan.com.tr
 mobiltr-islem.com.tr
 mobiltr-islemler.com.tr
 mobiltr-islemlerin.com.tr
@@ -309405,6 +309408,7 @@ pttavm.mobil-tr-ilanlarimiz.com.tr
 pttavm.mobil-tr-ilanlariniz.com.tr
 pttavm.mobil-urunler-tr.com.tr
 pttavm.mobil-urunlerim-tr.com.tr
+pttavm.mobiltr-ilan.com.tr
 pttavm.mobiltr-islemler.com.tr
 pttavm.mobiltr-islemlerim.com.tr
 pttavm.mobitr-ilanlarimiz.com.tr
@@ -366418,6 +366422,7 @@ tokiproje.com
 tokisatisedevlet-2137d.kxcdn.com
 tokisbasvuru9.blogspot.com
 tokisbasvurum.blogspot.com
+tokisbasvuruss.online
 tokisbasvurusunoktasiburada.blogspot.com
 tokishuzky.store
 tokisosyalbasvuru.net
