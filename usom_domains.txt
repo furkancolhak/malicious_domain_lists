@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-05T01:05:12.807298
+# Updated: 2025-10-05T02:05:12.613153
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -307200,6 +307200,7 @@ promsyonbasvru.click
 promsyondenizi.com
 promsyonlar.com.tr
 promsyonlar.cyou
+promsyonlarbasvr.click
 promtechnolak.ru
 promyzor.xyz
 promzeus.com
@@ -314812,6 +314813,7 @@ qojxytl.com
 qokynk.shop
 qoldenlines.net
 qolgngyvjc.duckdns.org
+qoloxo.click
 qom.fit
 qomkfurljn.duckdns.org
 qonacoonau.duckdns.org
