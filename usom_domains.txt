@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-05T19:05:12.606291
+# Updated: 2025-10-05T20:05:15.760480
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -25158,6 +25158,7 @@
 5edha12z1.duckdns.org
 5efa18bewerbungscb6698.duckdns.org
 5ejphs0rx.duckdns.org
+5ekim-firsatda.art
 5ekim-gunlukler.art
 5ensp9e4.duckdns.org
 5epdg9xm.duckdns.org
@@ -65246,6 +65247,7 @@ axes-size-ozel-arti.xyz
 axesbizim.click
 axesbonus.digital
 axesburda.click
+axesdijital.click
 axesegel.click
 axesevent.digital
 axesfirsat.com.tr
@@ -70984,6 +70986,7 @@ basvuruistkart.xyz
 basvurujzdn.cfd
 basvurukabulekrani.com
 basvurukabulekrani.linkpc.net
+basvurukabulleri.com
 basvurukabulmerkezimms.net
 basvurukampanya-acikmobil.com
 basvurukampanya.online
@@ -90433,6 +90436,7 @@ bnglobal.xyz
 bnglobalfirsat.net
 bnglobaling.sbs
 bngloballink.sbs
+bnglobalmax.sbs
 bnglobalone.sbs
 bnglobalpartners.sbs
 bnglobalpower.sbs
@@ -147004,6 +147008,7 @@ ekicirsdnevsstlemleri.net
 ekiimde-sasirtanlar.com.tr
 ekiimin-en-guzelii-burda.com
 ekilavedestek-edevlet.epizy.com
+ekim-ardasabahii.com
 ekim-ayi-boyunca-buradan-sorgulaveaktar.sbs
 ekim-ayi-destekleri-kararname.tk
 ekim-cumafrsti.com
@@ -147414,6 +147419,7 @@ ekrandan-sorgulama-aktarma.online
 ekrandan-sorgulama-ve-aktarma-hizmetiniz.sbs
 ekrandan-sorgulamani-yap-eylul-ayi.cyou
 ekrandan-sorgulayiniz-bir-cok-islem.sbs
+ekrandan-sorgulayip-aktariniz-aktif.sbs
 ekrandanalonaylarisimdi.duckdns.org
 ekrandansorgulaman-yapveaktariminiyap.cyou
 ekrani-yonlendirme-hizli.online
@@ -366135,6 +366141,7 @@ togetverifmtbuser.hopto.org
 togg-basvuru-katilim.komisyoniadesi.net
 togg-basvuru.online
 togg-cekilis.com
+togg-faizsiz-limitim.netlify.app
 togg-hazir-limitim.netlify.app
 togg-on-basvuru.blogspot.com
 togg-onbasvuru.com
