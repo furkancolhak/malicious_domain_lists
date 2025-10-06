@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-06T14:05:13.893537
+# Updated: 2025-10-06T15:05:14.235551
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3107,6 +3107,7 @@
 103.212.81.116
 103.213.245.95
 103.213.246.23
+103.214.4.135
 103.215.82.161
 103.216.221.19
 103.217.123.242
@@ -3629,6 +3630,7 @@
 107.151.194.197
 107.155.162.25
 107.158.128.105
+107.158.128.106
 107.158.128.45
 107.158.128.90
 107.158.154.121
@@ -7799,6 +7801,7 @@
 162.210.194.2
 162.210.196.101
 162.211.64.20
+162.213.194.186
 162.213.255.176
 162.214.50.39
 162.216.114.40/ab4g5
@@ -9976,6 +9979,7 @@
 185.224.3.219
 185.225.1.30
 185.225.1.53
+185.225.114.70
 185.225.17.104
 185.225.17.5
 185.225.19.187
@@ -10202,6 +10206,7 @@
 185.26.122.54
 185.26.122.68
 185.26.236.51
+185.27.134.222
 185.28.119.85
 185.29.10.13
 185.29.10.15
@@ -10295,6 +10300,7 @@
 185.68.93.122
 185.68.93.233
 185.7.214.54
+185.7.219.77
 185.7.81.108
 185.70.105.33
 185.70.184.41
@@ -12608,6 +12614,7 @@
 1eilqq7b.duckdns.org
 1ej1vuv5k.duckdns.org
 1ejuuzi1d.duckdns.org
+1ekimdeshizlisiparis.cloud
 1ekimdesiparisleirnden.cloud
 1ekimdesiparislerinden.cloud
 1ekimsiparislerinden.cloud
@@ -16618,6 +16625,7 @@
 250bintokikonutprojesibasvuruekrani.com
 250bintokiprojebasvuruekrani.com
 250bintokisprojeleribasvuruekrani.com
+250bintoplukonut.com
 250bintoplukonut.xyz
 250ekpromosyon.ml
 250garantibbva-com-tr.tk
@@ -23767,6 +23775,7 @@
 5.42.101.189
 5.42.103.11
 5.42.106.42
+5.42.221.106
 5.42.64.12
 5.42.64.13
 5.42.64.35
@@ -26376,6 +26385,7 @@
 66.154.127.38
 66.154.127.39
 66.154.98.108
+66.165.243.39
 66.175.212.25
 66.181.166.15
 66.196.61.218
@@ -32443,10 +32453,12 @@
 94.154.35.208
 94.154.37.213
 94.156.10.164
+94.156.128.159
 94.156.144.199
 94.156.144.231
 94.156.167.166
 94.156.167.237
+94.156.175.105
 94.156.177.14
 94.156.177.187
 94.156.177.244
@@ -46264,6 +46276,7 @@ aidat2024.space
 aidat701.vercel.app
 aidatafturkiye.ml
 aidatai-kkredi-iadem.com
+aidataidae.cyberpath.cfd
 aidataidat.com
 aidataideetsimdisorgulaa.com
 aidataidelerimiz.com
@@ -71031,6 +71044,7 @@ basvurukanalin.lat
 basvurukapisi-form-tr.org
 basvurukapisi.com
 basvurukaraoglu.org
+basvurukarsilama.com
 basvurukartiade.org
 basvurukartiademerkezi.com
 basvurukasim12.duckdns.org
@@ -90286,6 +90300,7 @@ bncmbasvuru-tr.com
 bncmduyurutr.com
 bncmesektifgirisler.com
 bncmncacx.b-cdn.net
+bncmobiltr2.duckdns.org
 bncmxnskfyben.net
 bncndn.joxe-network.click
 bncnduyurutr.com
@@ -147283,6 +147298,7 @@ ekimozelmarket.xyz
 ekimsonu-surprizleri2018.com
 ekimsurprizleridevamediyor1.com
 ekimtermosfrslatrl.com
+ekimtermosfrslsatiari.duckdns.org
 ekimurunlerionlineozelurun.com
 ekimurunlerionlineozelurunlerimiz.com
 ekimvakifkrdinizy.xyz
@@ -191391,6 +191407,7 @@ harcaharcakampanyaliredmiyeri.sbs
 harcaharcakampanyaliredmiyerleri.cfd
 harcaharcakampanyaliredmiyerleri.sbs
 harcaharcakeredmiyerisi.cfd
+harcaharcarbitemzkampanyasiburada.com.tr
 harcaharcarbitemzkampanyasiburada.online
 harcaharcarbitemzkampanyasiburada.xyz
 harcaharcaredmialimlariburada.cfd
@@ -246083,6 +246100,7 @@ kredinmobilde.cf
 kredinmobilde.gq
 kredinmobill.tk
 kredinngaranti.com
+kredinonayli.sbs
 kredinotsorgu.site
 kredinotsorgulama.com
 kredinziraatten.xyz
@@ -246513,6 +246531,7 @@ ksahosting.net
 ksaicynm.com
 ksajnahqa.com
 ksakjdkf.com.tr
+ksalotmrlk4.duckdns.org
 ksamtarihi.com
 ksaremdfngl.net
 ksarg.hopto.org
@@ -252586,6 +252605,7 @@ lnternet-vergidairesi.com
 lnternet-vergldairesi.com
 lnternetvergicezadairesi.com
 lnternetvergldairesi.com
+lntltnltnlntltnlll.net
 lntrvergdmee.net
 lnuor.com
 lnv3b68.xdk8ax.cn
@@ -254115,6 +254135,7 @@ ltltttrmbllonllineislllemmenugiris.net
 ltmblncetra.info
 ltmblncetrap.xyz
 ltmccor.duckdns.org
+ltmkklaslastk4l.duckdns.org
 ltmp.nonflets.pl
 ltnbpy.com
 ltnnowlc.com
@@ -271563,6 +271584,7 @@ muayenehizmetleri.xyz
 muayenehizmetlerisizlerle.net
 muayeneislemler.tech
 muayeneislemmerkezi.com
+muayeneistasyonu.xyz
 muayeneistiyasyonu.blogspot.com
 muayenekapindayiz.net
 muayenekayit.com
@@ -300389,6 +300411,7 @@ pazartesi-firsatayi.com
 pazartesi-firstindirim.com
 pazartesi-indirim.com
 pazartesi-indrmfirsati.com
+pazartesi-mekodlasfirs.com
 pazartesi-onlineislem74.com
 pazartesi-onlinesiparis.com
 pazartesi-onlnefirst.com
@@ -325415,6 +325438,7 @@ sadeceonlnkamp.duckdns.org
 sadeceonlnsdfirsatlarsa.duckdns.org
 sadeceonlnsfirsatlslarc.duckdns.org
 sadeceonlscffstrcv.blogspot.com
+sadeceonlscffstrcvgfcz.blogspot.com
 sadeceonlyandaalisvers.blogdns.org
 sadeceonlynfirstc.blogdns.org
 sadeceonmlinefrsatlasctr.blogspot.com
@@ -325423,6 +325447,7 @@ sadeceonshcvsline.blogspot.com
 sadeceonslnfirsusm.blogdns.org
 sadecepera.fun
 sadecesanaozelindirimler.com
+sadecesaonlirfsatlarozel.blogdns.org
 sadecesen.online
 sadecesevilenkampanyalar.com.tr
 sadecesevilenkampanyalar.online
@@ -366538,6 +366563,7 @@ tokibasvurum.online
 tokibasvurumerkez.store
 tokibasvurumm.net
 tokibasvurunuz.click
+tokibasvurunuzonline.click
 tokibasvuruonline.com
 tokibasvurusorgu.tk
 tokibasvurusu.online
