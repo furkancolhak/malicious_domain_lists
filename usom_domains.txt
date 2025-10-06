@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-06T10:05:13.704939
+# Updated: 2025-10-06T11:05:14.643545
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16603,6 +16603,7 @@
 250binkonutbasvuruislemi.com
 250binkonutbasvurusu.com
 250binkonutprojesibasvuru.com
+250bintokibasvuru.com
 250bintokibasvurusu.com
 250bintokikonutprojesibasvuruekrani.com
 250bintokiprojebasvuruekrani.com
@@ -105933,6 +105934,7 @@ cicekhizmetleri.digital
 cicekhizmetleri.email
 cicekhizmetleri.in
 cicekhizmetleri.info
+cicekhizmetleri.institute
 cicekhizmetleri.istanbul
 cicekhizmetleri.it.com
 cicekhizmetleri.life
@@ -215999,6 +216001,7 @@ indirimligunlerdenbugunler.icu
 indirimligunlerdenbugunler.sbs
 indirimligunlerdenbugunleri.cfd
 indirimligunlerdenbugunleri.sbs
+indirimligunlerdesendeelinicabuktut.click
 indirimligunlerdesendeelinicabuktut.icu
 indirimligunlerdesendeelinicabuktut.my
 indirimligunlerdesendeelinicabuktut.sbs
@@ -235730,6 +235733,7 @@ kampayaarburada.online
 kampayaarburada.xyz
 kampayabol2kathediye.com
 kampayadafirsatlar.click
+kampayadafirsatlar.my
 kampayadafirsatlar.pics
 kampayadafirsatlar.sbs
 kampayagunlri.store
@@ -366405,6 +366409,7 @@ toki-turkiye.duckdns.org
 toki.2024ocak-kampanyasi.vip
 toki.online
 toki.yapiyoruzbuisi.xyz
+tokial500binprojebasvuruekrani.com
 tokibasladi.com.tr
 tokibasquru.com
 tokibasvquru.com
@@ -366501,6 +366506,7 @@ tokikonutbasvurus.rf.gd
 tokikonutbasvurusu.com
 tokikonutbasvuruun.net
 tokikonutdan.com
+tokikonutlaribasvru.click
 tokikonutlaribasvuru.site
 tokikura.com
 tokikura.shop
@@ -366523,6 +366529,7 @@ tokionlineodeme.com.tr
 tokip-islemleri.click
 tokipislemleri.click
 tokiproje.com
+tokisahibiol.com
 tokisatisedevlet-2137d.kxcdn.com
 tokisbasvuru9.blogspot.com
 tokisbasvurum.blogspot.com
