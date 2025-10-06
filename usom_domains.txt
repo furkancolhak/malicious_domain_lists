@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-06T11:05:14.643545
+# Updated: 2025-10-06T12:05:14.571880
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3878,6 +3878,7 @@
 109.172.45.16
 109.172.45.28
 109.172.45.77
+109.172.85.95
 109.172.88.38
 109.176.207.110
 109.184.251.190
@@ -9706,6 +9707,7 @@
 185.172.66.203
 185.173.105.107
 185.173.235.134
+185.173.37.67
 185.173.38.57
 185.173.92.141
 185.173.93.167
@@ -10002,6 +10004,7 @@
 185.230.90.163
 185.231.154.154
 185.231.154.25
+185.231.155.111
 185.231.155.12
 185.231.155.124
 185.231.68.102
@@ -10082,6 +10085,7 @@
 185.244.149.202
 185.244.149.215
 185.244.150.143
+185.244.180.169
 185.244.25.107/bins
 185.244.25.109/bins
 185.244.25.113
@@ -10512,6 +10516,8 @@
 188.126.89.151
 188.127.224.114
 188.127.224.46
+188.127.225.191
+188.127.227.226
 188.127.230.6
 188.127.231.177
 188.127.237.27
@@ -25816,6 +25822,7 @@
 62.109.9.96
 62.112.11.57
 62.113.113.168
+62.113.114.209
 62.113.114.93
 62.113.117.9
 62.113.119.179
@@ -28581,6 +28588,7 @@
 78.110.78.163
 78.128.112.139
 78.128.112.207
+78.128.112.209
 78.128.112.220
 78.128.113.14
 78.128.114.66/d
@@ -31848,6 +31856,7 @@
 91.218.114.77
 91.218.114.79
 91.218.67.179
+91.219.148.93
 91.219.150.64
 91.219.151.47
 91.219.193.2
@@ -32491,6 +32500,7 @@
 94.198.50.147
 94.198.50.210
 94.198.51.202
+94.198.52.200
 94.198.53.17
 94.199.173.6
 94.200.181.154
@@ -32807,6 +32817,7 @@
 96.68.219.131
 96.80.68.193
 96.9.125.147
+96.9.125.168
 96.9.125.82
 96.9.211.157
 96.9.211.27
@@ -43249,6 +43260,7 @@ adobeweng.hopto.org
 adobexfile.ddns.net
 adobleespacio.com/wp-admin/db_template.php
 adobleespacio.com/wp-includes/db_template.php
+adoblesecuryt.com
 adobtxldnu.duckdns.org
 adobupdate.serveftp.com
 adobupdate.servehttp.com
@@ -49992,6 +50004,7 @@ aknekremii.bid
 aknenrkl.click
 aknenrkl25.click
 akneytl2.click
+akneytl25.click
 aknollasifirsatgirisim.com
 aknsynl.com
 aknukkaxtxpkipr.su
@@ -90213,6 +90226,7 @@ bnceglobalbiz.sbs
 bnceglobalglobal.sbs
 bnceglobalhub.sbs
 bnceglobalmarket.sbs
+bnceglobalnet.sbs
 bnceglobalsolutions.sbs
 bnceglobaltech.sbs
 bnceglobaltrade.sbs
@@ -94452,6 +94466,7 @@ bsvrugrs.bns-vio.site
 bsvrukrdyeciftciiemkli.duckdns.org
 bsvrumblyppkrrefssbe.duckdns.org
 bsvrumonlineisubemkuveytturk.net
+bsvrunuztoki.click
 bsvrutarihh.net
 bsvrutrx1.com.tr
 bsvrutrziraatbnkredi.fixip.org
@@ -147245,6 +147260,7 @@ ekimmsonu-buzzzden.shop
 ekimn-en-guzelii-burda.com
 ekimonlineozelindirimnm.com.tr
 ekimonlineozelindirimnm.online
+ekimozelflrsatlar.com
 ekimozelindirimnm.com.tr
 ekimozelindirimnm.online
 ekimozelkampanyalifiyatlarmm.com.tr
@@ -156971,6 +156987,7 @@ exowerbey.xyz
 exowerbeyss.com
 exowerpasha.web.app
 exp1o5ive.hopto.org
+expahnsiveuser.com
 expandelevator.top
 expandfilter.top
 expandiceberg.top
@@ -158862,6 +158879,7 @@ faithtrust.top
 faiurpreator.top
 faixsizskkrkefdi.com
 faixsxiz-krexedi-xakbxankx.com
+faizendipte.life
 faizolmadankrediservisionline.com
 faizsifirkredak.com.tr
 faizsiz-6-ay.xyz
@@ -181165,6 +181183,7 @@ grattis-tr.dynuddns.com
 grattis-turkiye.dynuddns.com
 grattis.ddnsguru.com
 grattis.dynuddns.com
+grattis.laviewddns.com
 grattis.myvnc.com
 grattis.ooguy.com
 gratuv.com
@@ -202063,6 +202082,7 @@ hizlicatrafiksigorta.net
 hizlicatrmrr.net
 hizlicatrmrrr.net
 hizlicaurunler-kargosizde-avantaj.com
+hizlicayonleniyorsunbaba.com
 hizlicayuklemem.sg-host.com
 hizlicayuklerimmm.sg-host.com
 hizlicayuklerimmm1.sg-host.com
@@ -205776,6 +205796,7 @@ hoststring-sandwich.com
 hostthrive.top
 hostttnine.hopto.org
 hostucc1.zapto.org
+hostulanpezo.click
 hosturkonline.cf
 hostvertice.hopto.org
 hostwheelpepperversion.com
@@ -207174,6 +207195,7 @@ hukukhgssorgula.com
 hukukhgssorgusu.com
 hukukicra.info
 hukukicraservis.in
+hukukiislemi.org
 hukukislemler.in
 hukukkarayollari.in
 hukukkarayollari.info
@@ -213050,6 +213072,7 @@ ilanlar-detay.com
 ilanlar-detayim.com
 ilanlar-detaylar.com
 ilanlar-dolap.com
+ilanlar-get-s.com
 ilanlar-get-tr.com
 ilanlar-get.com
 ilanlar-get.com.tr
@@ -220863,6 +220886,7 @@ isbaank-tr.com
 isbaank.com
 isbaankk-tr.com
 isbabaproasmoynbsvru.site
+isbabnsaflpdkogsldsgsdfswasdwf.xyz
 isbacep.com
 isbaharbasvuru.com
 isbahardabasvuru-tr.com
@@ -221910,6 +221934,7 @@ iscepgiris.bid
 iscepgiris.com
 iscepgiris.net
 iscepgiris.online
+iscepgiris.vercel.app
 iscepgirismobil.com
 iscepgirisyap.com
 iscephediyegb.tk
@@ -245072,6 +245097,7 @@ kraca-kcmz-frsttlarrxs.xyz
 kraca-kmpnya-yilbsi.site
 kracakampnya.site
 kracakampnyabuhfta.site
+kracannekmi.cfd
 kracylsonfrt.com
 kradimahaziraveriyoya.com
 kradivo.pro
@@ -248435,6 +248461,7 @@ kyabhai.duckdns.org
 kyarelx-63523.portmap.host
 kyasz.com
 kyawtun119.com
+kybwholyfxncnkhnqndmrghfwicgkybwholyfxncnkhnqndmrghfwicg.surge.sh
 kyc-metahelp.ddns.net
 kyc-metamask.ddns.net
 kyc-mtk.ddns.net
@@ -249690,6 +249717,7 @@ lcaein1.duckdns.org
 lcaft.com
 lcahc.duckdns.org
 lcalityyporitical.top
+lcampanyaburada.click
 lcannex.ddns.net
 lcatz.zapto.org
 lcayxlvmti.duckdns.org
@@ -285436,6 +285464,7 @@ onayli-aktif-ilan.com.tr
 onayli-aktifisceponlinebasvurular.vercel.app
 onayli-aktifisceponlineoffice.vercel.app
 onayli-alisveris-1501902.com
+onayli-alisveris-1501906.com
 onayli-alisveris-islemleri.com
 onayli-alisverisler.com
 onayli-basvur-sosyal.us
@@ -286955,6 +286984,7 @@ online-ozel-com-tr.sbs
 online-ozel-extra.online
 online-ozel-firsat.com.tr
 online-ozel-firsatlar-a1o1.net
+online-ozel-firsatlar.vercel.app
 online-ozel-indirim-kampanya.online
 online-ozel-islemler.com.tr
 online-ozel-kampanya.online
@@ -290845,6 +290875,7 @@ ordnbrdyhagldkns.icu
 ordnbrygldnzszndngldn.bond
 ordngldkbzbrdngldk.shop
 ordos.duckdns.org
+orducrrefour.sbs
 orebimcell.com
 orebolt.com
 oreccntric.top
@@ -300320,6 +300351,7 @@ pazarsuprizler.online
 pazartesi-aksamfirsati.com
 pazartesi-bugunonlineyiz.com
 pazartesi-cesmetatil.com
+pazartesi-ekimonlnecim.com
 pazartesi-firsatayi.com
 pazartesi-firstindirim.com
 pazartesi-indirim.com
@@ -325262,6 +325294,7 @@ sadecebuguneozelfirsatibance.tech
 sadecebuguneozelkampanya.online
 sadecebuguneozelkampanyalar.com.tr
 sadecebuguneozelkampanyalar.xyz
+sadecebugunindirimleri.click
 sadecebugunozel.xyz
 sadecebuhafta.xyz
 sadeceburadanyapilir.org
@@ -325345,6 +325378,7 @@ sadeceonlnkamp.duckdns.org
 sadeceonlnsdfirsatlarsa.duckdns.org
 sadeceonlnsfirsatlslarc.duckdns.org
 sadeceonlyandaalisvers.blogdns.org
+sadeceonlynfirstc.blogdns.org
 sadeceonmlinefrsatlasctr.blogspot.com
 sadeceonmlinefrsatlasctrcv.blogspot.com
 sadeceonshcvsline.blogspot.com
@@ -327642,6 +327676,7 @@ sahibinden.elektronikalisverisim.com.tr
 sahibinden.elektronikhizmet.com.tr
 sahibinden.elektronikhizmetleriniz.com.tr
 sahibinden.elektroniksatinalim.online
+sahibinden.elektroniksatinalimlar.sa.com
 sahibinden.elektronikservisim.sa.com
 sahibinden.elektronikservisler.sa.com
 sahibinden.elektroniksiparisim.net
@@ -330853,6 +330888,7 @@ sanzoner.com
 sanzumanigcsakn.net
 sanzumnvergdmrbs.net
 sao1iz.duckdns.org
+saogeraldoshoping.com
 saoirsedlsupposek.hopto.org
 saoldostmsd.net
 saonline.xyz
@@ -332771,6 +332807,7 @@ secretivepanoramic.top
 secretkampanyafirsatibance.tech
 secretkatilimbasvurukampanyasiicintikla.world
 secretmoneyforall.ddns.net
+secretofferdrop.website
 secretowner.top
 secretpath.xyz
 secretxcxcx.ddns.net
@@ -335975,6 +336012,7 @@ sepetimp-ttavm.com
 sepetimstanleyler.xyz
 sepetin-tamamla.com.tr
 sepetin-tr.com.tr
+sepetinburaada.click
 sepetinburada.click
 sepetinburada.com.tr
 sepetinburoda.click
@@ -347949,8 +347987,12 @@ sorusturmauyap-maliye.com
 sorusturmauyapgiris.com
 sorusturmauzlasmagiris.com
 sorusturmavatandasuyap.com.tr
+sorv.etenopote.com
 sorvetedelivery.com
+sorvetenoopote.com
 sorvetenopoate.com
+sorvetenopote.com
+sorvetenopotel.com
 soryre.mydiscussion.net
 soryytlic4.net
 sos-at-vie-1.exo.io
@@ -368171,6 +368213,7 @@ tr-gateio.com
 tr-gazhubtech.com
 tr-get-ilanlar.com
 tr-get-ilanlarim.com
+tr-get-secure.online
 tr-get.net
 tr-get.online
 tr-gets.online
@@ -394498,6 +394541,7 @@ wattpaddestekformu-com.ml
 wattsanitation.top
 wattseduction.top
 wattshepherd.top
+wattsons.laviewddns.com
 wattyauyx1.net
 watyanagr.nfe.go.th
 waunnlmckokrluy.ru
@@ -406249,6 +406293,7 @@ www.execwash.ae//db-config-ini.php
 www.execwash.ae/db-config-ini.php
 www.exomi.es/wp-admin/db-config-ini.php
 www.exomi.es/wp-admin/wp-config-ini.php
+www.expansiveuser.com
 www.exuberant-group.com/wp-includes/db-config-ini.php
 www.exuberant-group.com/wp-includes/wp-config-ini.php
 www.fanuc-eu.com
@@ -406657,6 +406702,7 @@ www.socialentertainments.store
 www.solarishub.xyz
 www.sorumvar.net//db-config-ini.php
 www.sorumvar.net/wp-config-ini.php
+www.sorvetenopote.com
 www.sosyalkampanyanet.cf
 www.sowetojive.co.za//db-config-ini.php
 www.spacesolo.com
@@ -414206,6 +414252,7 @@ xxclasflors-flore.com
 xxcshghsrptm.net
 xxd3kgz.duckdns.org
 xxdx.ddns.net
+xxfarrefour.sbs
 xxfaturacingeldiodee.com
 xxgegxegge.xyz
 xxgl.site
@@ -420572,6 +420619,7 @@ yetisebilirsenburadaherfirsatvar.shop
 yetisemengerekenindirimler.com.tr
 yetisemengerekenindirimler.xyz
 yetisemessinbize.space
+yetisemessiniz112.click
 yetisemezsiniz.com
 yetisen-aliyor-gel-sende-al-al-al.com.tr
 yetisen-aliyor-gel-sende-al-al-al.xyz
