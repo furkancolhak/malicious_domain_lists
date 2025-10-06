@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-06T18:05:13.756971
+# Updated: 2025-10-06T19:05:23.708598
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -145546,6 +145546,7 @@ efsaneeindirimleri.com.tr
 efsaneeindirimleri.online
 efsaneeindirimleri.xyz
 efsaneekimfiirsatlarinikacirma.sbs
+efsaneekimkampanyalariniikacirma.lat
 efsaneenisanindirimlleri.com
 efsaneeylulindirimleri.com
 efsanefirsatindirimleri.online
@@ -195847,6 +195848,7 @@ hemenkatilsendebufirsata.space
 hemenkatilsendefirsatlarsizinicin.cloud
 hemenkatlbasvuryakalafirsati.online
 hemenkazan-gecicikmpanyabasvursu.com
+hemenkgmsorgula.click
 hemenkilometresorgum.sa.com
 hemenkiraladim360.net
 hemenkiralagarenta.com
@@ -236520,6 +236522,7 @@ kapina-gelenler-birlikte-sevinenler-yeniden-basladi.com.tr
 kapina-gelince-mutlu-hissedersin-burada.online
 kapina-online-kampanyaurunleri.com
 kapinafirsat.com.tr
+kapinageldi.click
 kapinageldiflrsat.art
 kapinageldikampanyan.xyz
 kapinageldisiparisin.xyz
