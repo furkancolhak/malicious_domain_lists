@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-06T07:05:13.515238
+# Updated: 2025-10-06T08:05:15.711907
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7246,6 +7246,7 @@
 154.91.85.204
 154.92.19.139
 1540953694.online
+15416556556599991.duckdns.org
 154184863.istanbul
 15422655569990.xyz
 15422655569991.xyz
@@ -55561,6 +55562,7 @@ amrennsrk.xyz
 amrhack.ddns.net
 amrican-sport-live-stream.cc
 amrich1.zapto.org
+amritsarglow.com
 amrixasfirdr.ddns.net
 amrklerim-frstlarim.com
 amrover.com
@@ -63369,6 +63371,7 @@ aurora.is-best.net
 aurora.kemadrempa.com
 aurora.tionewayo.com
 auroragocoloforge.xyz
+auroralbion.com
 aurorapeak.online
 aurorasage.online
 aurorasparkle.com
@@ -72234,6 +72237,7 @@ baykar-baykoin.world
 baykar-fashion.ru
 baykar-fly.digital
 baykar-invest.com
+baykar-investmentopportunity.com
 baykar-news.info
 baykar-opt.com.ua
 baykar-teknolojiler.pro
@@ -72300,6 +72304,7 @@ baykarlanding.vicchk.com
 baykarnews.com
 baykarnow.com
 baykarorganizasyon.aegeanlaser.com
+baykarprime.com
 baykarprime.space
 baykarpro.com
 baykarproject.eu
@@ -90202,6 +90207,7 @@ bncebasvurutr.com
 bncedebrdanalmalsnz.shop
 bnceduyurutr.com
 bncegirisdogrulamasi.com
+bnceglobalmarket.sbs
 bnceinstgrmkampan.com
 bncekcrmyndrmbufrs.shop
 bncekilisfirsatlarimobiltr.pro
@@ -90438,6 +90444,7 @@ bnglo2024systemxcdm.com
 bnglobal-basvuru.com
 bnglobal.xyz
 bnglobalfirsat.net
+bnglobalfuture.sbs
 bnglobalinfo.sbs
 bnglobaling.sbs
 bngloballink.sbs
@@ -107587,6 +107594,7 @@ clickonthis.shop
 clickplaycentral.top
 clickpulsehub.site
 clickpush.biz
+clickqpon.com
 clickrelia.com
 clickryze.com
 clicks-track.info
@@ -108981,6 +108989,7 @@ cokbjgr.com
 cokbuyugum.cfd
 cokcabukucuzluk.cfd
 cokcagecis.is-best.net
+cokccdsyakindabiliyorsunuz.com
 cokcektikdumandumanduman.com
 cokcektin.online
 cokdahaguclu-904be062ea1b.herokuapp.com
@@ -110550,6 +110559,7 @@ confessiondefault.top
 confessionhound.top
 confessionpropagate.top
 confessshred.top
+conffidentsteps.com
 confhz.space
 confidebrood.top
 confidence-comment.com
@@ -147266,6 +147276,7 @@ eklimitler.com
 eklimitleriniz.net
 eklimozlflrsatlar.com
 ekllmflrsatlarl.com
+ekllmozellflrsatlar.com
 eklm-kampanyalari.com
 eklmaktuelkampanyalarl.store
 eklmalisverls.store
@@ -163783,6 +163794,7 @@ firsatlarburada.xyz
 firsatlarburada321.online
 firsatlarburadahemen.com
 firsatlarburadakacirma.com
+firsatlarburadakampanya.ct.ws
 firsatlarburadal.com
 firsatlarburadalarsin.xyz
 firsatlarburadasendehemenkatil.shop
@@ -178400,6 +178412,7 @@ glasterius.tk
 glasxvip.cfd
 glatev.com
 glav-club.ru
+glaverstone.shop
 glavkpalace.ru
 glavpojdfde.com
 glax1938kapinda.com
@@ -181074,6 +181087,7 @@ gratis-turk.duckdns.org
 gratis.ddnsguru.com
 gratis.fatibara.com
 gratis.hookextender.com
+gratis.laviewddns.com
 gratis.myvnc.com
 gratis.servebeer.com
 gratis.servehumour.com
@@ -190702,6 +190716,7 @@ haloadoxy.com
 haloalbatro.com
 halocantermes.com
 haloflescantek.com
+halorise.site
 haloskilar.com
 halper.site
 halq-lade.com
@@ -207376,6 +207391,7 @@ hurnis.ml
 hurr.zapto.org
 hurran.net
 hurremsultatsk.tk
+hurremz.com
 hurricane.myq-see.com
 hurricaneactivate.top
 hurricanecumulative.top
@@ -221654,6 +221670,7 @@ isbqmjijwnafrsk.su
 isbrs.com
 isbryselbasvrular.online
 isbsanfksfafigdisafkgdsmas.cfd
+isbsanfksfafigdisafkgdsmas.cyou
 isbsanfksfafigdisdgihfsd.cyou
 isbsanfksfafigdisdgihsagdcu.cyou
 isbsanfksfafigdisdgsafkgkdshf.cfd
@@ -234566,6 +234583,7 @@ kampanyaetkinlestir.com
 kampanyaetkinlik-bn.net
 kampanyaetkinlik-ramazan.net
 kampanyaevent.net
+kampanyafaizleri.life
 kampanyafamilia.net.tr
 kampanyafamilia.org.tr
 kampanyafestivali.online
@@ -240501,6 +240519,7 @@ kgm-gov-tr.ink
 kgm-gov-tr.one
 kgm-gov-tr.top
 kgm-gov.blog
+kgm-gov.club
 kgm-gov.co
 kgm-gov.com
 kgm-gov.cyou
@@ -246193,6 +246212,7 @@ kriptoparaveblockchainrehberiniz.xyz
 kriptoparaveblokzinciryatirimrehberi.xyz
 kriptoparayatirimvesanalpazar.xyz
 kriptoparibu.com
+kriptoplus.online
 kriptoradar.online
 kriptotakip.site
 kriptotransferyapkazan.xyz
@@ -251539,6 +251559,7 @@ lirayuklemenoktasi.com
 lirayuklet.com
 lirbmpigkd.duckdns.org
 liroxo3956-54004.portmap.host
+lirshine.com
 liryxhackedapo.ddns.net
 lis1034.hopto.org
 lisa22194141.duckdns.org
@@ -254301,6 +254322,7 @@ lumbers.top
 lumdukekiy.shop
 lumenarix.pro
 lumentsawfu.ru
+lumetrail.site
 lumewave.online
 lumeway.site
 lumfennzonmir.com
@@ -258738,6 +258760,7 @@ market.kimseler-duymasin-icmmmdesenvarsin.com
 market.newtrendmicro.com
 market.pazaragustos36.com
 market.pazaragustosmarketta.com
+market.pazartesi-ekimsabahic.com
 market.pazartesiagustos82.com
 market.pazartesiagustos823.com
 market.pazartesiagustosura.com
@@ -259073,6 +259096,7 @@ maroui.xyz
 marperplexity.top
 marpttket.xyz
 marquery.top
+marquiven.shop
 marrell.hopto.org
 marriageomit.top
 marriagetuition.top
@@ -259851,6 +259875,7 @@ mavsbdaaas.tk
 mavsmmmsd.tk
 mavspmiesp.duckdns.org
 mavviia.com
+mavvrik.tr
 mavvssmmmgz.tk
 mavvviiindriimmsepe-timmm.com
 maw4onn.duckdns.org
@@ -259931,6 +259956,7 @@ maximisehibernation.top
 maximiseoath.top
 maximitment.top
 maximizeallotment.top
+maximizesell.com
 maximizewharf.top
 maximkardesler.com.tr
 maximkardesler.xyz
@@ -275828,6 +275854,7 @@ nergynutrition.com
 nermesher.com
 nerminayda.buzz
 nermmslmmsk.net
+nermount.com
 nermtenvieerf.net
 nernerni.click
 neroarte.com
@@ -278131,6 +278158,7 @@ niwko1.duckdns.org
 niwooj.org
 nixa21.zapto.org
 nixakri.com
+nixanta.com
 nixhaixianganmadaoshi.top
 nixofei.homes
 nixorteze.store
@@ -284537,6 +284565,7 @@ ojaoja.zapto.org
 ojcfkfjsmm.net
 ojch.zapto.org
 ojclcj7fst7fipyjw0ytepe.ddns.net
+ojczenasz.org
 ojddr4f0.duckdns.org
 ojdlm.com
 ojdrttxcygamvljt.com
@@ -290147,6 +290176,7 @@ ooraogms.shop
 oorgans.com
 oortaktrafik.tk
 ootopyolgcsodssn.duckdns.org
+ootybloom.com
 ooue.1trbakar.com
 oouycandcvbe.net
 oovoo.zapto.org
@@ -290721,6 +290751,7 @@ orbit.rchiskimo.com
 orbitalpulse.online
 orbitalreherse.top
 orbitalunderlie.top
+orbitaran.com
 orbiter.pm
 orbitercodistancethe.com
 orbitforge.space
@@ -303640,6 +303671,7 @@ polarcompany.org
 polarevoke.top
 polarinvincible.top
 polaris-bios-editor.ru
+polarisan.com
 polarispulse.online
 polarnimbus.space
 polarof.koyhelp.top
@@ -316464,6 +316496,7 @@ rajjenu.cn
 rajkotbusiness.in/zimbra/zim.htm
 rajsavindia.hopto.org
 rajsima87.com
+rajstopy.net
 rak-lis.com
 rak4usupp0901234.tk
 rak4usupp0901234567890.tk
@@ -324905,6 +324938,7 @@ sabahgsverifeds.net
 sabahgunesimnt.net
 sabahgunleri.com
 sabahha.net
+sabahhagg.blogspot.com
 sabahhal.app
 sabahhin.net
 sabahicanerdes.com
@@ -346069,6 +346103,7 @@ sokyzfirsatlarikacirma.xyz
 sokzincirmarketler.com
 solaoscar-fibra.ddns.net
 solaraexec.cc
+solaraixcs.com
 solarbayz.com
 solarcitythat.click
 solarcomplexion.top
@@ -362570,6 +362605,7 @@ temple321.bar
 templeautonomous.top
 templecreative.store
 templepesticide.top
+templespire.com
 templevo.com
 tempobelt271.com
 tempobet2300.com
@@ -366099,6 +366135,7 @@ tobacobim.net
 tobacos.ddns.net
 tobanu.com
 tobi12345.hopto.org
+tobnewz.com
 tobubbvafi.tk
 tobupmi.com
 tocalrenhen.com
@@ -387324,6 +387361,7 @@ var-tr.net.tr
 var-tr.sa.com
 var.ru.com
 var.sa.com
+varanasidepth.com
 varasye.xyz
 varavas.net
 varaxe.info
@@ -387386,6 +387424,7 @@ vartolularkollukgeltoy.online
 vartopolicetayiokeg.store
 vartr.com.tr
 varumuzyogumu.xyz
+varunaflow.com
 varvaraisishyehek.club
 vary-latin-satisfy-affects.trycloudflare.com
 varyeldokeppedlereodledvaberozleopsedfafasednaydes.com
@@ -389895,6 +389934,7 @@ versione.ddns.net
 versionlist.top
 versionsenginen.ru
 versionwind.xyz
+versiparisinigelsin.click
 versist.site
 verslerjjjode.net
 verslersmersodm.net
@@ -390083,6 +390123,7 @@ vextradolin.store
 veyaf1.s3.eu-north-1.amazonaws.com
 veyarexcarsfilo.com
 veygzqdl.com
+veykstar.com
 veynstoun.com
 veyrouna.com
 veyselgeliyorumdiyarbakir.tk
@@ -399152,6 +399193,7 @@ wish-liststeallar-scutrity.online
 wishdegenerate.cn
 wishdistil.cn
 wishfrantically.top
+wishgrumble.com
 wishnwish.com
 wishwoodenfish.com
 wiskundebijles.nu
