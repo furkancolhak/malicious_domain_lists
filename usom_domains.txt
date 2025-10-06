@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-06T20:05:13.856336
+# Updated: 2025-10-06T21:05:14.312670
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1896,6 +1896,7 @@
 101-com-tr.shop
 101-com-trs.com
 101-com-trs1.com
+101-comdsl.art
 101-cumafirsat.com
 101-cumaksami.com
 101-cumartesiaksamx.com
@@ -50902,6 +50903,7 @@ aktuel-web.com
 aktuel-yuzbirmagaza.com.tr
 aktuel-yuzbirmagazalari.com.tr
 aktuel.101-15mayisaksam.com
+aktuel.101-comdsl.art
 aktuel.101-cumaksami.com
 aktuel.101-eylulurunleri.net
 aktuel.101-mayis25aksam.com
@@ -52824,8 +52826,10 @@ aldnaldnpzrts.store
 aldnaldnsadecesabahaozei.dyndns.org
 aldnbuseferkazan.blogdns.org
 aldnfirsatindadahaiyisi.blogdns.org
+aldnfirsatipos.blogdns.org
 aldnfrlsatlariyaa1o1.duckdns.org
 aldngeliadi.art
+aldnkacrmafirsatlari.blogdns.org
 aldnkazanhepkazan.duckdns.org
 aldnkialdnikazan.blogdns.org
 aldnkiyapcaza1o1de.ddnsgeek.com
@@ -97351,6 +97355,7 @@ buyukbankasi.com
 buyukcampanya.click
 buyukcekilis-enpara.com
 buyukcekmece.online
+buyukeylulindirimi.click
 buyukfirsataylarim.com.tr
 buyukfirsataylarim.online
 buyukfirsataylarim.xyz
@@ -99674,6 +99679,7 @@ callconverse.top
 callcumhe.hopto.org
 calldeprivation.top
 called-myweb-gir-in.sa.com
+called-sayfalar-info1.sa.com
 callejas2013.publicvm.com
 callh3re3181212.tk
 callhere31712123456789.tk
@@ -141269,6 +141275,7 @@ ec611453383ff83fd4f233d45f2dbc65.in
 ec8blhgy.duckdns.org
 ec8oqx.duckdns.org
 ec9ctmx.duckdns.org
+ecaa1o1firsat.blogspot.com
 ecaqmkhfdr.duckdns.org
 ecard.palmolina.in
 ecardfinans.com
@@ -217897,6 +217904,7 @@ insurance354756.xyz
 insurancecompanies-guide.site
 insurancepending.top
 insxldmrlsmas.click
+insxldmrlsncmsldnv.sbs
 insye.xyz
 int-acikdenizv2denizbankgirisi.com
 int-basvurumeiadeal.com
@@ -220904,6 +220912,7 @@ isabbuqfunvmzxhwqhf.cfd
 isabbuqfunvmzxhwqhf.sbs
 isabet.name.tr
 isabetsizatislar.net
+isabiasdibdisasihsafgdksawqgsd.cyou
 isabsabisa-iabsaabs.cfd
 isabsabisa-iabsaabs.icu
 isabuasfhwuqfwq-sagdshwiqgsaf.cfd
@@ -240681,6 +240690,7 @@ kgm-govv.help
 kgm-guv.com
 kgm-hgs.com
 kgm-kgs.com
+kgm-ogr.com
 kgm-ogs.com
 kgm-ogu.com
 kgm-onlineodeme.org
@@ -345128,6 +345138,7 @@ snnsdnsnnsdn.net
 snnsrnzszknmpylsykllar.com
 snnszglnlrrburdaki.com
 snnszglnlrrburdaki.info
+snnszglnlrrburdaki.online
 snnvkr.duckdns.org
 snnz-ayyfirsttllrixyniozll.net.tr
 snnzmnnsmdi.xyz
