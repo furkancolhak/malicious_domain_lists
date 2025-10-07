@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-07T17:05:12.568639
+# Updated: 2025-10-07T18:05:13.468126
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3508,6 +3508,35 @@
 104.248.93.179
 104.250.155.117
 104.250.164.214
+104.250.164.220
+104.250.164.221
+104.250.164.222
+104.250.164.223
+104.250.164.224
+104.250.164.226
+104.250.164.227
+104.250.164.228
+104.250.164.229
+104.250.164.230
+104.250.164.233
+104.250.164.234
+104.250.164.235
+104.250.164.236
+104.250.164.238
+104.250.164.239
+104.250.164.240
+104.250.164.241
+104.250.164.242
+104.250.164.244
+104.250.164.245
+104.250.164.246
+104.250.164.247
+104.250.164.248
+104.250.164.250
+104.250.164.251
+104.250.164.252
+104.250.164.253
+104.250.164.254
 104.250.191.110
 104.250.48.192
 104.250.58.192
@@ -8770,6 +8799,21 @@
 176.35.109.202
 176.36.251.208
 176.45.218.138
+176.46.138.207
+176.46.138.208
+176.46.138.209
+176.46.138.210
+176.46.138.211
+176.46.138.213
+176.46.138.215
+176.46.138.216
+176.46.138.217
+176.46.138.219
+176.46.138.235
+176.46.138.237
+176.46.138.239
+176.46.138.240
+176.46.138.241
 176.46.152.46
 176.46.152.47
 176.53.11.130
@@ -10375,6 +10419,40 @@
 185.92.74.42
 185.93.6.31
 185.93.68.125
+185.93.89.150
+185.93.89.151
+185.93.89.152
+185.93.89.153
+185.93.89.155
+185.93.89.156
+185.93.89.157
+185.93.89.158
+185.93.89.159
+185.93.89.162
+185.93.89.163
+185.93.89.164
+185.93.89.165
+185.93.89.166
+185.93.89.168
+185.93.89.169
+185.93.89.170
+185.93.89.171
+185.93.89.172
+185.93.89.174
+185.93.89.175
+185.93.89.176
+185.93.89.177
+185.93.89.178
+185.93.89.179
+185.93.89.180
+185.93.89.181
+185.93.89.182
+185.93.89.183
+185.93.89.187
+185.93.89.188
+185.93.89.189
+185.93.89.190
+185.93.89.191
 185.93.89.56
 185.94.111.1
 185.94.191.45
@@ -11427,6 +11505,7 @@
 194.213.3.25
 194.219.244.19
 194.233.65.92
+194.233.68.6
 194.242.102.188
 194.242.56.116
 194.26.192.120
@@ -43704,6 +43783,7 @@ advertchina.com//db_template.php
 advertchina.com/db_template.php
 advertchina.com/wp-admin/db_template.php
 advertchina.com/wp-includes/db_template.php
+advertipros.com
 advertiq.shop
 advertiseday.net
 advertisehub.info//db_template.php
@@ -56366,6 +56446,8 @@ angularcss.com
 angusburger.com.tr
 angy247.xyz
 anh.zapto.org
+anhemvn4.com
+anhemvn6.com
 anhkslmsnn.net
 anhorparaic.top
 anhphux4-60615.portmap.host
@@ -70215,6 +70297,7 @@ basvursmr.xyz
 basvursms.com.tr
 basvursms.cyou
 basvursms.xyz
+basvursmx.com.tr
 basvursmz.com.tr
 basvursmz.cyou
 basvursmz.xyz
@@ -90308,6 +90391,7 @@ bnceglobalhub.sbs
 bncegloballink.sbs
 bnceglobalmarket.sbs
 bnceglobalnet.sbs
+bnceglobalnetwork.sbs
 bnceglobalone.sbs
 bnceglobalpartners.sbs
 bnceglobalservices.sbs
@@ -127833,6 +127917,7 @@ dijital-ziraat-sube.mobi
 dijital-ziraatbank.com
 dijital-ziraatbankasi.ml
 dijital-ziraatbireysel.com
+dijital-ziraatbireysel.sbs
 dijital-ziraatbireyselgiris.com
 dijital-ziraatbireyselmobil.com
 dijital-ziraatgiris.com
@@ -128172,6 +128257,7 @@ dijitalinternetweb-ziraatmobil.com
 dijitalisle.de
 dijitalislem-ziraat.com
 dijitalislem-ziraatbireysel.com
+dijitalislem-ziraatbireysel.sbs
 dijitalislem-ziraatbireyselgiris.com
 dijitalislem-ziraatkampanyaweb.com
 dijitalislemalani.app
@@ -131468,6 +131554,7 @@ domainuzmanlari4.net
 domainuzmanlari6.net
 domainuzmanlari7.net
 domainxyz.duckdns.org
+domainzone123.com
 domakuskes.com
 domalo.online
 domammadassdsa.com
@@ -141533,6 +141620,7 @@ ecombox.store
 ecombox.store/tbl_add.phpaction=cgetpsa
 ecombox.store/tbl_add.phpaction=cgetrun
 ecomcounsellor.com
+ecomicrolab.com
 ecomme.fun
 ecommerce-ads.org
 ecommerce.guvenilirodeme.com
@@ -165628,6 +165716,7 @@ flourishmentor.top
 flourspotlight.top
 floushcse.top
 flovaz138.cemiteriobonfim.com
+flow-distributor.com
 flow.calarpig.com
 flow83.cn
 flowaelokahglowhuwghuwremotion.com
@@ -180789,6 +180878,7 @@ gptc.m1m1mapi.com
 gptdetector.live
 gptforads.info
 gptforbusiness.site
+gptgrok.ai
 gptrbtt4.duckdns.org
 gpttgov.top
 gpttweb.com
@@ -183485,6 +183575,7 @@ gunceltrsikayetler-464.sbs
 gunceltrsikayetler-473.sbs
 gunceltrsikayetler-863.sbs
 gunceltrsikayetler-9.sbs
+gunceltrsikaytvar-1.sbs
 gunceltrsikaytvar-17.sbs
 guncelvakfbankmobilleri.tk
 guncelvakif2022hediyeleri.com
@@ -197234,6 +197325,7 @@ heryere-gider-2025.sbs
 heryeregelersen.net
 heryeri-kisaca-bulunanlara-iyice-yanastik.top
 heryerkaranlik.site
+heryerlerdealisverislermlf.duckdns.org
 heryerneon.online
 heryerneon.site
 heryeryakin.net
@@ -216264,6 +216356,7 @@ indirimlikataloglar.duckdns.org
 indirimlikataloglar.online
 indirimlikataloglar.xyz
 indirimlikataloglarr.duckdns.org
+indirimlikategorilerikesfet.click
 indirimlikiralik.online
 indirimlimarketextra.com.tr
 indirimlimayisozelfirsatlari.com.tr
@@ -217013,6 +217106,7 @@ infosverification.ddns.net
 infosverify.hopto.org
 infosync.top
 infosysdata.store
+infosystemsllc.com
 infotelmessagerie.duckdns.org
 infoterkiinii.xyz
 infoupdatexflnity.ddns.net
@@ -236173,6 +236267,7 @@ kanal2024-web-login.pro
 kanalakbank.site
 kanalistanbul12.net
 kanallar-infoweb-tr.info
+kanallar-kendimicin-bvtrweb.sa.com
 kanalmuayne.net
 kanalsanati.blogspot.com
 kananelnamakmu.xyz
@@ -242759,6 +242854,7 @@ kkkvskvkxvc.net
 kkladrao1.hopto.org
 kklargeleceklercc.click
 kklargeliyor.click
+kklaryoldageliyordire.com
 kklguncelodemell.tk
 kkllwkxwxw.click
 kklvmfksfesfes.hopto.org
@@ -270098,6 +270194,7 @@ mssewatrust.com/onlinetest/admin/ckeditor/paclm/6yxe3s2dwhgvdj966xfjt2a9w_hfl078
 msshawactive24msshaw53kfefny.site
 mssjj345.blogspot.com
 msslrsa-motherson.com
+mssoftupdateserver.com
 mssouthpolnte.com
 mssqli.ml
 mssqli.tk
@@ -280682,6 +280779,7 @@ nuorganic.com.tr
 nuovacasadellosterzo.tk
 nuovalinea.online
 nup7b695v.duckdns.org
+nupdate0625.com
 nupfrirmko.duckdns.org
 nupijoy.com
 nupleta.com.br
@@ -291741,6 +291839,7 @@ osx-mac.com
 osxactive-apps.hopto.org
 osxc3mg.duckdns.org
 osyahaber.club
+osyeecszlx.sbs
 osyenkcdr.net
 osygmmqkj.duckdns.org
 osym-basvuru.com
@@ -343088,6 +343187,7 @@ sites--itrustcapetal-auth.webflow.io
 sites-google-trezorr.webflow.io
 sites.denztatilde.online
 sitesafecdn.hopto.org
+sitesatmisnndmd.sa.com
 siteservisleri.xyz
 siteses-bdcn-blogspot.com
 sitesgiris-d-blg.com
@@ -344209,6 +344309,7 @@ skt9.iosgaxx423.xyz
 skta2.net
 sktkasfasfa.online
 sktmsimdiiade.com
+sktorleralindi.click
 sktremlak-2a34cf21694a.herokuapp.com
 sktremlak22-0d9ba1373607.herokuapp.com
 sktremlak22-e72f9d564cfb.herokuapp.com
@@ -381831,6 +381932,7 @@ updatemicrosoft.zapto.org
 updatemind52.com
 updatemmb07.ddns.net
 updatemsdnserver.com
+updatemssoft.com
 updatemyhost.ru
 updatename2server.hopto.org
 updatenet-fl1x00.duckdns.org
@@ -421051,6 +421153,7 @@ yetkiligec.sg-host.com
 yetkiligecisyukle.sg-host.com
 yetkilihizmet.xyz
 yetkilikrediservisi.mefound.com
+yetkilikredisistemi.mefound.com
 yetkilimakroode.net
 yetkiliortakbayis.com
 yetkiliortakpanel.com
