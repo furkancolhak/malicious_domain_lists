@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-08T22:05:17.088473
+# Updated: 2025-10-08T23:05:18.184273
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -96861,6 +96861,7 @@ burda-mutlulluk.online
 burda-mutlusun.com
 burda-olucaksiniz.net
 burda-sizleyiz.site
+burda-uzakta-arama.sbs
 burda-yenidendeniz-iadeleri.shop
 burdabarindirmam.cfd
 burdadevamet.com
@@ -100911,6 +100912,7 @@ carreefaursa.online
 carreeffouer-sa.online
 carreeffoursa.site
 carreefourmarketekim2025.cfd
+carreefourmarketekimkampanylar.com
 carreefourmarketekimkampanylari.cfd
 carreefourmarketim.cfd
 carreefourmarketimekim.cfd
@@ -118981,6 +118983,7 @@ demiseaffair.top
 demisemass.top
 demiurgus2023.ddns.net
 demlafka.org
+demlik-kampanyasi.world
 demmazondem.duckdns.org
 demmokarda.surf
 demmonkampanya.xyz
@@ -166063,6 +166066,7 @@ flrstlargelsinsana.duckdns.org
 flrstlarkcrmamakuzere.duckdns.org
 flrstlmdslmflf.duckdns.org
 flrstlr-ozel-bvtr-in.me
+flrstlr-ozl-vtr-in.me
 flrstlrikmczskktrms.com
 flrstlrkacirmayi1temmuz.xyz
 flrstlrkacirmayi30hzrn.xyz
@@ -194348,6 +194352,7 @@ hearkesfarleasdresdad.duckdns.org
 hearkesfearlescanis.duckdns.org
 hearleresfearlesdcinosadss.duckdns.org
 hearlescanimbensasd.click
+hearlescanimseanleat.com
 hearlesfaerlesadasd.com
 hearlesfarlesevovigo.click
 hearleskeferanslsbans.duckdns.org
@@ -223070,6 +223075,7 @@ islemler-yapikredi.net
 islemler-yapikredibankasi.com
 islemler.bgturadahyipz.me
 islemler.name.tr
+islemler.sorgulayin.workers.dev
 islemler.store
 islemler.xyz
 islemler1.b-cdn.net
@@ -259325,6 +259331,7 @@ marketcinburadam.com
 marketcinizfirsatlarcim.com
 marketcinizimbr.com
 marketde.enyenifirsaturunu.com.tr
+marketekimkampcarreefour.cfd
 marketever326.weebly.com
 marketexpert.site
 marketextrafirsatlari.com.tr
@@ -348349,6 +348356,7 @@ sorgulavtr.info/yukle
 sorgulavtr.net
 sorgulaweb-tr.com
 sorgulayan-bunlara-ileriyi-getirdikten-hemeni.com
+sorgulayin.workers.dev
 sorgulchizli.net
 sorgullamabbdkaidat.com
 sorgultr.com
@@ -368112,6 +368120,7 @@ tprsnsanns.net
 tprsondakika.com
 tprsonsadu.store
 tps141.duckdns.org
+tpsgfasnwfqkgsdadgasifgds.icu
 tpshop.xyz
 tpskoc.com
 tpsrg.dev
@@ -420200,6 +420209,7 @@ yenikepimguncel.net
 yenikgssgecislerim.duckdns.org
 yenikiralikaracbirimi.online
 yenikitaplar-mobilden-sendeoku.shop
+yenikonut.store
 yenikrallik.click
 yenikredi-basvurusu.com
 yenikredievlilikbasvur.tech
