@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-08T19:05:18.912313
+# Updated: 2025-10-08T20:05:21.065800
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -73006,6 +73006,7 @@ bbba.trprote.com
 bbbafirsatlar.com
 bbbaykarr.noil.top
 bbbb.mcdir.ru
+bbbbb-b-b-b-b-q211-ds.sbs
 bbbbbbbbbbbnnnnnnnnnnn.cfd
 bbbbbbbz.xyz
 bbbbbnm1.cf
@@ -90414,6 +90415,7 @@ bnceglobalcenter.sbs
 bnceglobalco.sbs
 bnceglobalconsulting.sbs
 bnceglobalcorp.sbs
+bnceglobalflow.sbs
 bnceglobalfuture.sbs
 bnceglobalglobal.sbs
 bnceglobalgroup.sbs
@@ -92392,6 +92394,7 @@ bonuslakampanyalar.gq
 bonuslakampanyalar.ml
 bonuslakampanyalar.tk
 bonuslakazan.click
+bonuslandin.click
 bonuslar-kampanya-tr.space
 bonuslar2022.buzz
 bonuslaradenizde.com
@@ -100907,6 +100910,7 @@ carreefaursa.online
 carreeffouer-sa.online
 carreeffoursa.site
 carreefourmarketekim2025.cfd
+carreefourmarketekimkampanylari.cfd
 carreefourmarketim.cfd
 carreefourmarketimekim.cfd
 carreefursazamni.com
@@ -124199,6 +124203,7 @@ denizzzzessubeem.net
 denizzzzkrrrrttrrdedgiris.net
 denjzbank.com
 denjzde.site
+denjzfirsatzamani.my-homeip.com
 denjzstate.com
 denkalibank.gq
 denkampanya-edevle-bireybasvuru-online.ml
@@ -128466,6 +128471,7 @@ dijitalmerkez-denizacik.com
 dijitalmerkezgiris-denizacik.com
 dijitalmerkezi-denizacik.com
 dijitalmerkezimobil-denizacik.com
+dijitalmevduat-ziraatbireysel.sbs
 dijitalmevduatkredi-ziraatbireysel.com
 dijitalmobil-firsatlarim.online
 dijitalmobil-yeni.online
@@ -147352,6 +147358,7 @@ ekim20firsatlarii.duckdns.org
 ekimakbasvuruyolu.cloud
 ekimaktuelfirsatlarl.com
 ekimaktuelfrsatlari.com
+ekimayi-guzellikleriyle-geldi.cyou
 ekimayifirsat1001.com
 ekimayifirsatkampanyasi.online
 ekimayifirsatkampanyasibnance.tech
@@ -147428,6 +147435,7 @@ ekimflrsatlari.store
 ekimflrsatlarikacmazwsynx.com
 ekimflrsatlarikacmiyo.com
 ekimflrsatlarikacmiyorwsynxile.sbs
+ekimflrsatlarikapldawsynx.sbs
 ekimflyati.store
 ekimglrgdr-snnrdns.com
 ekimhizlitstnbd.store
@@ -149808,6 +149816,7 @@ en-guzel-anilar-beraber-siz-kuvvet-bulunan.com
 en-guzel-anilarinizi-bizimle-hep-burada-gitmeden-donmeyin.com
 en-guzel-anilarinizi-bizimle-saklayin-burada-gitmeden.com
 en-guzel-hatiralar-hep-bizimle-yasayin.com
+en-guzel-kampanyalar.world
 en-guzeli-en-iyisi.shop
 en-guzelinden-yaz-teklifleri-sizler-icin-yaninzda-hissedin.com
 en-guzell-hatiralarinizi-sizler-saklayin.com
@@ -195729,6 +195738,7 @@ hemenalisverisyap.click
 hemenalisverisyapmalisin.com.tr
 hemenalisverisyapmalisin.online
 hemenalisverisyapmalisin.xyz
+hemenalisverloktlttttn.duckdns.org
 hemenalisvrismagaza.online
 hemenalkacindirimli.wuaze.com
 hemenalkacirmafirsati.com
@@ -237401,6 +237411,7 @@ karajuzdan.com
 karakalpakustalarinakil.xyz
 karakaraaklakaracikaristemeydanaa.net
 karakaraksa.jumpingcrab.com
+karakartalwsynx.sbs
 karakascit.com
 karakayagcsgecei.net
 karakediytimx.blogspot.com
@@ -273350,6 +273361,7 @@ my-browse-log.cfd
 my-commbank.ddns.net
 my-commbanksupport.ddns.net
 my-commbannk-au.digital-online-login-opportunity.com
+my-den-iz.my-homeip.com
 my-drive365.pub
 my-dyson.com.tr
 my-ent-antin.cfd
@@ -420491,6 +420503,7 @@ yeniucuzulukka.com.tr
 yeniucuzulukka.online
 yeniucuzulukka.xyz
 yeniumutgunleri.sbs
+yeniumutlardayiz.sbs
 yeniumutlarindayiz.sbs
 yeniumutvakfi.com
 yeniurunkapinageldi.com.tr
