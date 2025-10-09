@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-09T15:05:13.907629
+# Updated: 2025-10-09T16:05:14.830300
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -66187,6 +66187,7 @@ azulviagens.online
 azumo.xyz
 azums.2kool4u.net
 azurafree.xyz
+azure-app.store
 azure-cloud1.co.za
 azure-cloud1.web.za
 azure-cloud2.co.za
@@ -102000,6 +102001,7 @@ cdn-06564.dl-icloud.com
 cdn-74908.dl-icloud.com
 cdn-ampproject.com
 cdn-analytics.co
+cdn-apple.info
 cdn-casper.com
 cdn-chrome.com
 cdn-code-jquery.info
@@ -205590,6 +205592,7 @@ homesizz.xyz
 homesjaxsizle.online
 homesjokerflexvakif.com
 homesjterkedfr.com
+homeskartalbddk.com
 homesker.xyz
 homeskerdasdacahsflesk.cloud
 homeskerdasdahokkaflesk.cloud
@@ -228245,6 +228248,7 @@ izmirzzers.net
 izmiskart-yukle.net
 izmiskartla-yklee.net
 izmitindirim.com
+izmitliler.cfd
 izmixbakiyeyuklee.net
 izmixrcant.net
 izmixrkartodeme.net
@@ -241692,6 +241696,7 @@ kilometre3.shop
 kilometreaffedermi.cfd
 kilometreb.web.app
 kilometrebilgisi.xyz
+kilometredebarinamazsin.web.app
 kilometredetaylari.web.app
 kilometredetekimheptekim.web.app
 kilometredevlet.blogspot.com
@@ -327905,6 +327910,7 @@ sahibinden-paramguvende.tk
 sahibinden-paramguvende.tr-alisveris.net
 sahibinden-paramguvende.tr-alisverisler.net
 sahibinden-paramguvende.tr-alisverislerin.net
+sahibinden-paramguvende.tr-get-siparis.online
 sahibinden-paramguvende.tr-guvenliodeme.sa.com
 sahibinden-paramguvende.tr-hizmet.com.tr
 sahibinden-paramguvende.tr-onlineodeme.sa.com
@@ -328447,6 +328453,7 @@ sahibinden.getlinkpayment.com
 sahibinden.getmobilodeme.com.tr
 sahibinden.gets-alisverisin.com.tr
 sahibinden.gets-alisverisiniz.com.tr
+sahibinden.gets-islemler-siparis-tr.online
 sahibinden.gets-satisim.com.tr
 sahibinden.gets-ticaretim.com.tr
 sahibinden.gets.alisveris-ilanim.com.tr
@@ -369024,6 +369031,7 @@ tr-gazhubtech.com
 tr-get-ilanlar.com
 tr-get-ilanlarim.com
 tr-get-secure.online
+tr-get-siparis.online
 tr-get.net
 tr-get.online
 tr-gets.online
