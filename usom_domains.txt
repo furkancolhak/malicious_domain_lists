@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-10T12:05:13.280392
+# Updated: 2025-10-10T13:05:16.248083
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1961,6 +1961,7 @@
 101-magaza.com.tr
 101-magaza.net
 101-magazalari.com.tr
+101-mamocdolar.com
 101-market-online.com
 101-marketim-haftasonukampanyalari.vercel.app
 101-marketleri-haftasonukampanyalari.vercel.app
@@ -44017,6 +44018,7 @@ aerospire.site
 aerosunelectric.com
 aerotecisag.com
 aerotransfer.cl
+aerovater.com
 aersix.ddns.net
 aerusfirs.xyz
 aesbimcell.com
@@ -44760,6 +44762,7 @@ agitated-kapitsa.37-247-108-248.plesk.page
 agitated-keller.31-210-39-124.plesk.page
 agitatesovereign.top
 agitsolutions.com.pk/img/team/db_template.php
+agizsulandiran.cfd
 agjgkbwlbqcwmjq.ru
 agjhjhjhgjjj.s3.eu-central-1.amazonaws.com
 agjjfnpms.duckdns.org
@@ -62303,6 +62306,7 @@ asjjvlimuud.wcnv20.cn/instagram-me
 asjkdahjsdnxzc.net
 asjkdjsjssss.com
 ask-parts.ru
+askainancimazaliyor.cfd
 askalamaslaspas.buzz
 askarisecurities.com.pk//db-config-ini.php
 askarisecurities.com.pk//db_template.php
@@ -90763,6 +90767,7 @@ bngliadeler.net
 bnglo2024systemxcdm.com
 bnglobal-basvuru.com
 bnglobal.xyz
+bnglobalcapital.sbs
 bnglobalcenter.sbs
 bnglobaledge.sbs
 bnglobalfirsat.net
@@ -93029,6 +93034,7 @@ bota-invest.top
 bota-turinv.site
 botahiss.com
 botakozjewelry.com
+botanflower.online
 botanicalaboratories.com//db_template.php
 botanicalmetaphor.top
 botanicalreconciliation.top
@@ -100790,6 +100796,7 @@ carebytesolutions.azurewebsites.net
 careeffoursa.com
 careefour.sa.com
 careefourr.sa.com
+careefoursa.art
 career-tesla.com
 careerfinder.ro
 careerhypocritical.top
@@ -128539,6 +128546,7 @@ dijitalkobivarliklar-ziraatbireysel.com
 dijitalkobiwebnet-ziraatbireysel.com
 dijitalkontrol.app
 dijitalkontrolyap.life
+dijitalkonutbasvurusu.com
 dijitalkredi-akbireysel.com
 dijitalkredi-ziraat.com
 dijitalkredi-ziraatbireysel.com
@@ -138957,6 +138965,7 @@ e-kolayodeme.net
 e-kontrol-ladelslemlerim-portal2021.tk
 e-kontrol-turkiye-gov-tr.org
 e-kontrolet.org
+e-konutprojesi.com
 e-krdverbasvur.net
 e-kredi-aidat-iadelerinizalin.net
 e-kredi-aidati-adeleriniz.net
@@ -165236,6 +165245,7 @@ firts2level4.site
 firtzxp.com
 firusbulasmisfirus.com
 firvolta1o1.net
+firwourz.com
 firxstlarrmm-sizxllereozll.com
 firxttlrmm-mayyissonu.com
 firyama.com
@@ -262402,6 +262412,7 @@ melisileberat.love
 melitbn-ir.pw
 melitemia.com
 melitravel.ru
+melkouz.com
 mellat-bnk.online
 mellatapp2.click
 mellisdal23x.digital
@@ -277601,6 +277612,7 @@ newmetdestekatellfihaklari.xyz
 newmexicos.fit
 newmlbb97.duckdns.org
 newmms.ru
+newmodernrunner.info
 newmoderns.online
 newmoviedb.zapto.org
 newmunchman.pro
@@ -296713,6 +296725,7 @@ parachutelinger.top
 paracom.tk
 paradaniyisi.com
 paradeisers.org
+paradestegi.com
 paradise88.net
 paradiseadverts.ru
 paradisebungalov.com
@@ -302492,6 +302505,7 @@ petrolplatform.org
 petrolplatformu.com
 petrolpoint.top
 petrolsa-tr.com
+petrolstart.com
 petrolstr.com
 petroltr-kar.com
 petroltr.co
@@ -309254,6 +309268,7 @@ ptt-g0v.cyou
 ptt-g0v.icu
 ptt-g0v.qpon
 ptt-g0v.top
+ptt-g0vtr.cfd
 ptt-g0vtur.top
 ptt-gaao.cc
 ptt-gacx.top
@@ -312754,6 +312769,8 @@ pubmanoeuvre.top
 pubmgir.pw
 pubniadedeler.ml
 pubs.infinityfreeapp.com
+pubstorm.com
+pubstorm.net
 pubsuppressive.top
 pubupu.quest
 pudaskdsin.net
@@ -318242,6 +318259,7 @@ rangerovervogue.one
 rangerrhino23.ddns.net
 rangers3.xyz
 rangohh.hopto.org
+rangolart.com
 ranilemi.store
 raniodeme.net
 ranionjgot5cud3p.onion.link/dash/85bbd720ed3e2f4daa06db4c44e6c68b.php
@@ -344460,6 +344478,7 @@ sizlervebizlericinsiparisler.xyz
 sizllerleqnbkredi.xyz
 sizlllerilee-arrtilarpraa.xyz
 sizlrlrbulstrmakicin.com
+sizlrlrbulstrmakicin.info
 sizlrlrbulstrmakicin.online
 sizmir.net
 sizmutluoluncabizdemutluoluruz101.com
@@ -357122,6 +357141,7 @@ swiftcode.work
 swiftglo.com
 swiftjinx.com
 swiftleadsolutions.com
+swiftlinesolutionsltd.com
 swiftprivateserver.com
 swiftquasar.com
 swiftrecruiters.slack.com
@@ -357476,6 +357496,7 @@ syntheticdeadlock.top
 synthexxus.com
 synthnet.ai
 synthnet.m1m1mapi.com
+synthsyncpro.com
 synyuklemee.sg-host.com
 synyuklemee1.sg-host.com
 synzx2.duckdns.org
@@ -372553,6 +372574,7 @@ trendyol.ilanpaylas.net
 trendyol.ile-alimin.com
 trendyol.in
 trendyol.iranshik.com
+trendyol.islem-hizmetlerim-mobil.com.tr
 trendyol.jeabynews.com
 trendyol.korayturk.com
 trendyol.lat
@@ -375802,6 +375824,7 @@ tumkullanicilarasuzukiceklisidenzv6basvuru.net
 tumkullanicilaratrockaznmafirsatisimdibasvur.net
 tumkullanicilaratrockaznmafrsatisimdibasvur.net
 tumkullanicilarimizaq3audikazanmafirsati.net
+tummerata.com
 tummuz-katalogcusu-com.site
 tummyloft.com.tr
 tumodemeler.dev
@@ -381053,6 +381076,7 @@ uftuplhomw.duckdns.org
 uftwuqydwilzyx.com
 ufufuf.ddns.net
 ufukbilim.online
+ufuklugilreist.cfd
 ufukoykusu.space
 ufuktadenizz.xyz
 ufvglt.com
