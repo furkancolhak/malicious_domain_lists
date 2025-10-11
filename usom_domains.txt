@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-11T06:05:13.460474
+# Updated: 2025-10-11T07:05:14.687570
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -90531,6 +90531,7 @@ bnceglobalbiz.sbs
 bnceglobalcenter.sbs
 bnceglobalcloud.sbs
 bnceglobalco.sbs
+bnceglobalconnect.sbs
 bnceglobalconsulting.sbs
 bnceglobalcorp.sbs
 bnceglobaledge.sbs
@@ -90793,6 +90794,7 @@ bngliadeler.net
 bnglo2024systemxcdm.com
 bnglobal-basvuru.com
 bnglobal.xyz
+bnglobalbiz.sbs
 bnglobalcapital.sbs
 bnglobalcenter.sbs
 bnglobaledge.sbs
@@ -119271,6 +119273,7 @@ den-paramguvende.22web.org
 den-photomaster.kz
 den-sa.online
 den-ter.online
+den.my-homeip.com
 denack2trgiris.tk
 denackv2bnkgiris.cf
 denackv2bnkgiris.denzklooys.xyz
@@ -147670,6 +147673,7 @@ ekimineozelkampanyalifiyatlarmm.com.tr
 ekimineozelkampanyalifiyatlarmm.online
 ekimineozelkampanyalifiyatlarmm.xyz
 ekiminfistalarinikacirma.com
+ekiminflrsatlaribitmiyorwsynxpurna.shop
 ekimingunleriindiriiminizis.com
 ekiminharikalisindirimligunleri.com
 ekiminharikalisindirimligunlersaasi.com
@@ -196007,6 +196011,7 @@ hemenalisverisebasla.com.tr
 hemenalisverisebasla.online
 hemenalisverisebasla.xyz
 hemenalisveriseyap.xyz
+hemenalisverislerleburadalafmtmm.com
 hemenalisverisnoktam.store
 hemenalisverisyap.click
 hemenalisverisyapmalisin.com.tr
@@ -266157,6 +266162,7 @@ moaoraafa.duckdns.org
 moaperadasfs.online
 mob-deniz1.my-homeip.com
 mob-deniz2.my-homeip.com
+mob-deniz3.my-homeip.com
 mob-deniz4.my-homeip.com
 mob-deniz5.my-homeip.com
 mob-dnz.my-homeip.com
@@ -424032,6 +424038,7 @@ yonlendiriliyorsunuz.shop
 yonlendirilmekicintiklayin.shop
 yonlendirilmeler.online
 yonlendirimveraktarimekrani.cfd
+yonlendiriyorum-bekle-o-c-wsynxmorbid.shop
 yonlendirler.click
 yonlendirme-2025.cfd
 yonlendirme-5192591290590125.shop
