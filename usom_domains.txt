@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-13T19:05:16.580691
+# Updated: 2025-10-13T20:05:13.358996
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -18812,6 +18812,7 @@
 3330253330255.duckdns.org
 3331111333.cloud
 3332145885333.duckdns.org
+33323.vercel.app
 33323332533.cloud
 333252633.cloud
 3332552533332250.duckdns.org
@@ -32347,6 +32348,7 @@
 921253831538316611.com
 92188189091.cloud
 921hapudyqwdvy.com
+921ubg49327872b38.fun
 92223304444.cloud
 922815362.dfgqdsd.ru
 9230c9aeaaef65735d518e48eac52200.com
@@ -72213,6 +72215,7 @@ basvurvrz.xyz
 basvurvsm.com.tr
 basvurxcv20lsx.duckdns.org
 basvurxcv23s-4h1.duckdns.org
+basvurxsn.com.tr
 basvuryaapikredi.com
 basvuryapi-kredi.com
 basvuryapi.com
@@ -124638,6 +124641,7 @@ denzceptkgiris.cf
 denzden-kredi.bio
 denzden-kredi.live
 denzden-kredi.xyz
+denzdengirislerburda.my-homeip.com
 denzdeyiz.xyz
 denzfinastk.com
 denzfinazcu.com
@@ -129028,6 +129032,7 @@ dijitalweb-ziraatkredi.com
 dijitalweb-ziraatmobil.com
 dijitalweb-ziraatmobilden.com
 dijitalweb-ziraatmobilgiris.com
+dijitalweb-ziraatonay.sbs
 dijitalweb.online
 dijitalweb.shop
 dijitalwebadres-denizacik.com
@@ -162396,6 +162401,7 @@ filmschoolsforum.com
 filmsshoots.com
 filmvideoizlemesitesi48553.xyz
 filmvideoizlemesitesi55379.xyz
+filo-kendimicin-my.sa.com
 filo-rentacar.com
 filo-rentcar.com
 filo.axiscars.com.tr
@@ -165662,6 +165668,7 @@ fixwap.in
 fiyat-teklifi.com.tr
 fiyatfestivali.online
 fiyati-dusen-urunler-seninle-burada.top
+fiyaticokdustu.cfd
 fiyatikap.com.tr
 fiyatinabakmadanalacagintekyer.sbs
 fiyatinidusun.com.tr
@@ -175180,6 +175187,7 @@ gelhemenbasvursende.com
 gelhgsb.com
 gelhizlalburdanal.com.tr
 gelhizlalburdanal.xyz
+gelhlyn.cfd
 gelibolusubeleri.online
 gelibolusubeleri.xyz
 gelibolusubelerinde.online
@@ -196315,6 +196323,7 @@ hemenbasvuru.online
 hemenbasvuru.xyz
 hemenbasvurubnns.online
 hemenbasvuruforumlarim.com
+hemenbasvuruhizmetlerburds.store
 hemenbasvurum.online
 hemenbasvurunugonderonlinesube.xyz
 hemenbasvurunuyap.site
@@ -216323,6 +216332,7 @@ indirim-sokagi.club
 indirim-sokagi.website
 indirim-sokmarket.com
 indirim-soleni.sa.com
+indirim-tekflislre-bruasd.store
 indirim-teknosa.com
 indirim-teknosa.com.tr
 indirim-teknosa.net
@@ -226472,6 +226482,7 @@ itsemma.io
 itsemsakesam.net
 itsgfoohff.duckdns.org
 itskhaled076.ddns.net
+itsltlnlsltnars.online
 itsm-heractivation.ddns.net
 itsmaterial.us/nhfys52
 itsmdshahin.github.io
@@ -390132,6 +390143,7 @@ velsweebsodeme.net
 velthara.store
 veltrixxy.com
 veltrona.site
+veltru.click
 velttrixora.com
 velupra.pro
 velvest.xyz
@@ -425574,6 +425586,7 @@ yunuscum.icu
 yunuscumyapmapls.website
 yunusemre.yeni.elygiveaway.com
 yunusemrehalicilarcarsidan.site
+yunuslukl.cfd
 yunusmarka.org
 yunuso.com
 yunuso.com/btt
