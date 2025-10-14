@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-14T08:05:13.050105
+# Updated: 2025-10-14T09:05:15.283483
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -94106,6 +94106,7 @@ brilliantroad.top
 briloza.org
 brimvakfbankmobil.tk
 brinchil.xyz
+brindlethorn.shop
 brinematriscript.com
 brinestoum.com
 brinestoun.com
@@ -114323,6 +114324,7 @@ crystaltidings.co.za/db-config-ini.php
 crystaltidings.co.za/db_template.php
 crystaltidings.co.za/wp-config-ini.php
 crystaltreasures.shop
+crystalwindmark.site
 cryster.xyz
 crysus-h.info
 crysus-p.info
@@ -142001,6 +142003,7 @@ ecoenergiesplus.org
 ecofloraholland.nl
 ecofluxa.com
 ecogreenag.org
+ecogreenallday.org
 ecoherba.com
 ecoinpairbunetwaleett.com
 ecole-saint-simon.net
@@ -148058,6 +148061,7 @@ ekonomikoru.online
 ekonomikriter.org
 ekonomikritik.online
 ekonomiksubem-teb.com
+ekonomiktrend.org
 ekonomikulubu.info
 ekonomikveri.net
 ekonomilive.online
@@ -165726,6 +165730,7 @@ fjh03l.duckdns.org
 fjhgdjhfdhffdf.net
 fjhpjqbpmf.duckdns.org
 fji673mfa09zhvs.freemyip.com
+fjiright.info
 fjlkvo.bond
 fjmkfwsoom.duckdns.org
 fjobiwouldli.biz
@@ -176728,6 +176733,7 @@ getsilansatsahbinden-com.gq
 getsilansatsahbinden-com.ml
 getsilansattsahbinden-com.ml
 getsileparamguvende.tk
+getsiparis.com
 getsize.shop
 getsmartpdf.com
 getsolicitor.top
@@ -189145,6 +189151,7 @@ halbankinternetsube.com
 halbankinternetsubesi.com
 halbanktr.site
 halbankyilbasibasvurulari.com
+halbanu.site
 halberanreklam.com
 halbkonline.com
 halbnkr.site
@@ -227328,6 +227335,7 @@ iyi-hissetmek-bu-kadar-basit-olmamistir.com
 iyi-hissetmenin-tam-zamani.top
 iyi-ilerleme.info
 iyi-ilerleme.online
+iyi-ilerleme.sbs
 iyi-olan-isleri-guzel-severiz-yetisin.com
 iyi-olan-kisileri-guzel-severiz-surekli.com
 iyi-ve-mutlu-bir-hayat-topraginda.top
@@ -244694,6 +244702,7 @@ kmtzh.zyns.com
 kmu29jzw.duckdns.org
 kmumfh8z.duckdns.org
 kmuynaslna.one
+kmuzmani.cfd
 kmvbnbvn.shop
 kmveailem.com
 kmvehasar.net
@@ -247218,6 +247227,7 @@ krek.vercel.app
 krekaneilogin.webflow.io
 krekcenlogin.webflow.io
 krekspeks.site
+krellix.com
 krelora.store
 kremdizayn.xyz
 kremlcup.com
@@ -283483,6 +283493,7 @@ nzladsyq.com
 nzm.one
 nznznodeverginznz.b-cdn.net
 nzobaku.ddns.net
+nzolusmd.icu
 nzpegnrz.com
 nzposst-co.top
 nzpost-co.ink
@@ -332231,6 +332242,7 @@ sanslimusteriler.com
 sansliyildizim.online
 sansnamk.b-cdn.net
 sanss.site
+sansyfin.com
 santa98123.ddns.net
 santaclaraparis.icu
 santadtupdate.zapto.org
@@ -348582,6 +348594,7 @@ sonindirimaktueller.online
 sonindirimaktueller.xyz
 sonindirimfirsatgunumk.com
 sonindirimgunleri.com
+sonindirimgunu.cfd
 sonindirimler18araliki.com.tr
 sonindirimler18araliki.xyz
 sonindirimleriinennyeniibaslangiclari.shop
@@ -353355,6 +353368,7 @@ stephydark.duckdns.org
 steppyplantnw.shop
 stepsintrofuture.online
 stepsyndicate.top
+steptofuture.online
 steptriphg.pro
 stepuptosuccess.info
 stereiods.ddns.net
@@ -372167,6 +372181,7 @@ transfer-ekrani.store
 transfer-google.tk
 transfer-hizmet-iadesi-portal-guvenli-devlet2021.xyz
 transfer-hizmet-iadesi-portal-guvenli-e-devlet2021.xyz
+transfer-intranet.ru.com
 transfer-online.xyz
 transferbonushediyelerinisendekap.online
 transferbonusuhediyesibu.online
@@ -392794,6 +392809,7 @@ visiongta.online
 visionja.ch
 visionlink.online
 visionstep.cfd
+visioonarylife.com
 visit.news/bddkaide
 visit2013.in.ua
 visitaustriaislands.com
