@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-14T15:05:13.604901
+# Updated: 2025-10-14T16:05:21.743510
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -232,6 +232,7 @@
 0116254teamacc.com
 0116i2612i013.duckdns.org
 0116l2612i013.duckdns.org
+0116l2612li013.duckdns.org
 0120212021201.duckdns.org
 0120301201.ddns.net
 0120340120.online
@@ -54689,6 +54690,7 @@ alphadock.online
 alphahelixconsulting.com
 alphainvestors.com.au/db_template.php
 alphamike.com.mv/housing
+alphamodel.cyou
 alphaobring.com//db_template.php
 alphaobring.com/db_template.php
 alphaobring.com/wp-config-ini.php
@@ -66415,6 +66417,7 @@ b-bconsult.com
 b-bmn.blogspot.com
 b-bnn.blogspot.com
 b-bwamenugirisilmonelinen.com
+b-bwamenugirislermoblilnen.com
 b-bwamenugirislermobnliinen.com
 b-bwamenugirisllemonliinen.com
 b-bwamenugirislmonliinen.com
@@ -71879,6 +71882,7 @@ basvurunodemeler-portal.tk
 basvurunoktalari.com
 basvurunoktan-online.top
 basvurunoktaniz.com
+basvurunoktasi.cfd
 basvurunoktasi.tk
 basvurunonaylandidevamet.com
 basvurunonaylandihem.run
@@ -128605,6 +128609,7 @@ dijitalgiriswebtr-denizacik.com
 dijitalgiseler.xyz
 dijitalgrntbnkmobilonaysube.line.pm
 dijitalhediyelerde.com
+dijitalhemen-ziraatweb.sbs
 dijitalhesap-acikdenizbank.com
 dijitalhesap-denizacik.com
 dijitalhesap-ziraat.com
@@ -128615,6 +128620,7 @@ dijitalhizli-denizacik.com
 dijitalhizli-ziraatmobil.com
 dijitalhizligiris-denizacik.com
 dijitalhizligiris-ziraatmobil.com
+dijitalhizligiris-ziraatweb.sbs
 dijitalhizliislemler-denizacik.com
 dijitalhizliislemler.com
 dijitalhizliislemleriniz-denizacik.com
@@ -187032,6 +187038,7 @@ h97ekbg9.duckdns.org
 h9a55p9e.duckdns.org
 h9d4sf2.netivagator.com
 h9g0q8a1hat3s.net
+h9h9hrt9htr9t24eg3ej3t23g2k23edms.sbs
 h9iybn.duckdns.org
 h9kmj6635.duckdns.org
 h9m7si.duckdns.org
@@ -202003,6 +202010,7 @@ hilf4qc.duckdns.org
 hilfecenter-direkt.info
 hilfegv.com
 hilfulfudulvakfi.org
+hilifetimes.xyz
 hilipizie.hopto.org
 hilkatturizm.com
 hillalala.com
@@ -224409,6 +224417,7 @@ istanbqrkart.net
 istanbu-l-karntiz.duckdns.org
 istanbu1l.click
 istanbu2l.click
+istanbu3l.click
 istanbudlaeglen.com.tr
 istanbuikart.com
 istanbuikart.net
@@ -241705,6 +241714,7 @@ kgm.otoyollarlz.online
 kgm.otoyollla.online
 kgm2023plakam.blogspot.com
 kgm2023plakams.blogspot.com
+kgmagvo.sbs
 kgmajans2023.com
 kgmajs2022.net
 kgmavbilgihgsbrcodeislemler.duckdns.org
@@ -288126,6 +288136,7 @@ online-jobs-42681.bond
 online-jp-morgan-logon.cc
 online-kampanya-basvuru-ozel900tl.ml
 online-kampanya-cekilis-platform-com.tk
+online-kampanya-com.cfd
 online-kampanya-katilim-binance.ml
 online-kampanya-sube.click
 online-kampanya.site
@@ -321903,6 +321914,7 @@ reproart.ddns.net
 reproduce346768.xyz
 reproducetoil.top
 reproductionexotic.top
+reproductionsreload.shop
 reproductivelogistic.top
 reproduoid.top
 repsecure81.ddns.net
@@ -337459,6 +337471,7 @@ sepete-takimlara-tr.buzz
 sepeteattik.xyz
 sepetebakmadan.xyz
 sepetecampanya.click
+sepetedoldur.cfd
 sepeteekle.click
 sepeteeklealdin.sbs
 sepeteeklealdinal.sbs
@@ -337931,6 +337944,7 @@ serks215435.cloud
 serlyuklemeler.sg-host.com
 sermarketin.com
 sermayehaber.info
+sermayehaber.org
 sermayehaberleri.org
 sermayelive.online
 sermayeplan.online
@@ -345588,6 +345602,7 @@ slashelastic.top
 slasher.ddns.net
 slasherist.zapto.org
 slashprosper.top
+slashtheprice.com
 slashv.epizy.com
 slate.bz
 slategray-curlew-961602.builder-preview.com
@@ -374934,6 +374949,7 @@ trpttgovtuur.shop
 trpttgovtuv.shop
 trpttgovtuy.shop
 trpttgovtv.shop
+trpttgovty.cc
 trpttgovv.cc
 trpttgovy.cc
 trpttgovys.cc
@@ -408814,6 +408830,7 @@ wwwcimer-tr.com
 wwwcimer.com
 wwwcitibankcreditcard.com
 wwwcumhurbaskanligimerkezi.com
+wwwcural.click
 wwwdenisbanks.gq
 wwwdeniz-iade.com
 wwwdeniz-login.com/login
