@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-14T13:05:15.491830
+# Updated: 2025-10-14T14:05:14.255324
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -53887,6 +53887,7 @@ alisverisptt-avm.com
 alisverispttavm.com
 alisverispttcep.com
 alisveriss.lol
+alisverissaati.cfd
 alisverissahibinden.com
 alisverissepet.click
 alisverissepetim.ml
@@ -66370,6 +66371,7 @@ azzam.ddns.net
 azzamrat.ddns.net
 azzer.ddns.net
 azzmtool.com
+b-105-kntmkr.site
 b-1icimcellllll.com
 b-1imceelltarifeleri.com
 b-1imocellsss.com
@@ -128327,6 +128329,7 @@ dijital-ziraatonay.com
 dijital-ziraatonay.sbs
 dijital-ziraatonayweb.site
 dijital-ziraatweb.com
+dijital-ziraatweb.sbs
 dijital-ziraatwebmobil.com
 dijital.detaylari.site
 dijital.emlakasdqwe.com
@@ -173839,6 +173842,7 @@ garrentta.shop
 garrentttaacarr.com
 garrisonsloan.com
 garrntmblsubexkmpnylr.chickenkiller.com
+garrr-aanttikrdibvsru.sbs
 garrraaaannaaak.app
 garrraaaanntttiiii.link
 garrranttmobilsubeeonays.chickenkiller.com
@@ -214667,6 +214671,7 @@ ilkevimprojesi.com
 ilkevimprojesidanismanligi.com
 ilkevimprojesidanismanlik.com
 ilkevimsosyalkonutprojesi.net
+ilkevimtoki.sa.com
 ilkevkonultlkapi.com
 ilkevlerisattik.cfd
 ilkevm.com
@@ -242208,6 +242213,7 @@ kilometre.autos
 kilometre.sa.com
 kilometre3.shop
 kilometreaffedermi.cfd
+kilometreaglatan.cfd
 kilometrearacsorgulari.web.app
 kilometreb.web.app
 kilometrebilgisi.xyz
@@ -242980,6 +242986,7 @@ kirxmziczdn2.com
 kirxmziczdn3.com
 kis-fiyatlari-yilbasi-zamani.com
 kis-gelirse-evinize-neseyle-gelir.com
+kis-gratis.dvrlists.com
 kis-gunu-icinizi-isitiriz-hep-iyiyiz.com
 kis-kampanyasi-size-ait.com
 kisa-link.website
@@ -267251,6 +267258,7 @@ mobilbasvuruedvltportalgiris.ml
 mobilbasvuruesubeteb.co.vu
 mobilbasvuruformu.cfd
 mobilbasvuruformubireyselsubecilik.ml
+mobilbasvuruhizmeti.mefound.com
 mobilbasvurukampanyafirsatinaozel.online
 mobilbasvurukampanyasi-online.cf
 mobilbasvurukampanyasi-online.ga
@@ -268235,6 +268243,7 @@ mobilgarantibbvaniz.duckdns.org
 mobilgarantiiisubeonaytektik.com
 mobilgarantim.tk
 mobilgarntigirisekim.cfd
+mobilgarntigirisekim2025.cfd
 mobilgarrantiibnksubegiriss.line.pm
 mobilgeranti.click
 mobilgib.com
@@ -326616,6 +326625,7 @@ sadcconalna1.duckdns.org
 sadcconlliefrsatlarsdac.blogdns.org
 sadccynlnyeozalfrsatlar.blogdns.org
 sadcecopnlninfirsatglar.duckdns.org
+sadceonlanalaraozelfrsatlar.blogspot.com
 sadceonnlliefrssalrrsdcc.blogdns.org
 sadceozlonlnxfirsarxlar.com.tr
 sadceozlonlnxfirsarxlar.xyz
@@ -326790,6 +326800,7 @@ sadeceonlnsfirsatladsa.duckdns.org
 sadeceonlnsfirsatlslarc.duckdns.org
 sadeceonlscffstrcv.blogspot.com
 sadeceonlscffstrcvgfcz.blogspot.com
+sadeceonlsfirstlarfstr.blogdns.org
 sadeceonlyandaalisvers.blogdns.org
 sadeceonlynfirstc.blogdns.org
 sadeceonmlinefrsatlasctr.blogspot.com
@@ -352867,6 +352878,7 @@ stanleyburdagel.xyz
 stanleyburdauygun.site
 stanleyclassicc.vip
 stanleydunyasi.xyz
+stanleyevriliyor.xyz
 stanleyfrsattermosburda.com
 stanleyfrst666aldnadinsizden.com
 stanleygelhemen.xyz
@@ -365833,6 +365845,7 @@ thingunaware.top
 thinhvuongmedia.com
 thinindignation.top
 thinkallot.top
+thinkenium.xyz
 thinker452.xyz
 thinkforce.com.br
 thinkingenuity.top
@@ -387808,6 +387821,7 @@ vakiffkurumsall.cfd
 vakiffsurprizcekilis.cf
 vakifgenelgeler.com
 vakifgiris-ceptenkazan2021.com
+vakifgiris-guvenlik.vercel.app
 vakifgiris-yaptr.com
 vakifgiris.co.vu
 vakifgiris.com
@@ -418648,6 +418662,7 @@ yapikredisubesii.com
 yapikredisubesine-giris.com
 yapikredisubex.online
 yapikredit.com
+yapikrediticarikartlar.com.tr
 yapikreditoken.com
 yapikreditr.com
 yapikreditrtpayi.com
@@ -424166,6 +424181,7 @@ yolcu-kirala.com
 yolcu-kiralama.com
 yolcu-rezervasyon.com
 yolcu-turizm.com
+yolcu.360-cepte-tr.com
 yolcu.360-go.com.tr
 yolcu.360-kirala.com.tr
 yolcu.360-online.com.tr
@@ -428051,6 +428067,7 @@ ziraat-banktr.com
 ziraat-basvur-online.vercel.app
 ziraat-basvur.top
 ziraat-basvuru-com-tr.cfd
+ziraat-basvuru-com.cfd
 ziraat-basvuruekranim.com
 ziraat-basvuruonline.vercel.app
 ziraat-bayram-hediyesi.net
