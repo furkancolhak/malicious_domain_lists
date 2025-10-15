@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-15T13:05:13.697437
+# Updated: 2025-10-15T14:05:14.180274
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3040,6 +3040,7 @@
 103.141.138.247
 103.142.10.177
 103.143.8.71
+103.144.2.73
 103.144.29.123
 103.144.29.211
 103.145.190.43
@@ -24720,6 +24721,7 @@
 53xd3oxcfg655tw4.onion.link/8909eab066299249b7127bcc46c202c2/index.php
 54-grattis.dynamic-dns.net
 54-iadehizmetleri.com
+54-kampanyalar.cfd
 54.145.99.108
 54.149.205.221
 54.176.108.174
@@ -52907,6 +52909,7 @@ aldinaldinklimakampanyasi.nicepage.io
 aldinaldinkmpnay.hopto.org
 aldinaldinn-a101.sbs
 aldinaldinn.com.tr
+aldinaldinn15ekimozel.com
 aldinaldinnisan.com.tr
 aldinaldinnisan.info.tr
 aldinaldinnisan.net.tr
@@ -66515,6 +66518,7 @@ b-ncesasaa.ertenler.club
 b-nisankarcahome.shop
 b-o-s-c-h-c-l-i-m-a-t-e.net.tr
 b-o-s-c-h-c-l-i-m-a-t-e.website
+b-onlineyatirimmenkul.com
 b-pakt.blogspot.com
 b-paribu.com
 b-payfix.com
@@ -71491,6 +71495,7 @@ basvurukredi.link
 basvurukredim.com
 basvurukredim.net
 basvurukredisidenizbank.co.vu
+basvurukreditmpay.online
 basvurukullanimekrani.com
 basvurukullannilabilirlikekrani.com
 basvurukuveytonlinesube.connectdijital.com.tr
@@ -294701,6 +294706,7 @@ ozkaya.store
 ozkayacolak.cfd
 ozkgptyhi.com
 ozkurtlerholding.net
+ozl-flrstlr-lrrkm.com
 ozl-flrstlr-rar-ri.com
 ozl-flrstlr-rar-ri.me
 ozl-flrstlr-rr-in.me
@@ -330064,6 +330070,7 @@ sahibinden.siparis-app.net
 sahibinden.siparis-dogrula.com
 sahibinden.siparis-kayit.com.tr
 sahibinden.siparis-onayim-176203.com
+sahibinden.siparis-onayim-176207.com
 sahibinden.siparis-onayla.net
 sahibinden.siparis-onaylama.website
 sahibinden.siparis-onayli-115522.com
@@ -333915,6 +333922,7 @@ sdceonlindekazan.duckdns.org
 sdceonlneozlfrstlar.shop
 sdcexonlneozlkapindax.online
 sdcexonlnexozelxekstra.online
+sdceyeonlnalarozelfrst.blogdns.org
 sdcnefsalmamgrkl.com
 sdconlnkmp.duckdns.org
 sdconlyanas.blogdns.org
@@ -350042,6 +350050,7 @@ sosyalkonutbasvuru.net
 sosyalkonutbasvuru2026.vercel.app
 sosyalkonutbasvurusu.net
 sosyalkonutbasvurusu.vercel.app
+sosyalkonutbasvurusum.vercel.app
 sosyalkonutilkevimilkisyerim.net
 sosyalkonutlar.net
 sosyalkonutlarabasvur.net
@@ -368319,6 +368328,7 @@ tokibsvrqlari.com
 tokibsvuru.com.tr
 tokibsvuru.online
 tokibsvuru.xyz
+tokiden.org
 tokiden0faiz.mooo.com
 tokiedevlet-20f08.kxcdn.com
 tokiedevletbasvur-20f08.kxcdn.com
@@ -409306,6 +409316,7 @@ wwwihalkbank.com
 wwwihtiyatgovcttr.club
 wwwiisbank.com
 wwwikuveytturk.com
+wwwilil.click
 wwwinternet-subemizvakifbank2021.com
 wwwinternet-subemizvakifbankgiris2021.com
 wwwinternetsubemiz-vakifbank2021.com
