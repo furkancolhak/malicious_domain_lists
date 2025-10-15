@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-15T06:05:13.334291
+# Updated: 2025-10-15T07:05:13.135626
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -91866,6 +91866,7 @@ bnturkeygiris.shop
 bnturkeygiris1.com
 bnturkeygiris2.com
 bnturkeykripto.xyz
+bnturkeykriptoparaaalimsatimplatformuanonimsirketi.com
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.com
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.info
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.store
@@ -126980,6 +126981,7 @@ devprojebizden.com
 devps.net
 devramadankanpanya.com
 devransalgnler.com
+devreai.com
 devrekars.com
 devreye-girdik-bu-zamlara-ragmen-gitmedik.com
 devrildigittigencligim.com
@@ -177109,6 +177111,7 @@ ggfetfsdfsdfsdddf.shop
 ggfsfasfasfvvv.duckdns.org
 ggg-ds-dh-hds-5-25-21----521-251-rwfs-aeh-dss.com.tr
 ggg1234ghjk.ddns.net
+ggg8g383g23g2-sdgda12fs-r3feg2g3fs.sbs
 gggaaaaaaa.top
 gggaarraannttiiioonnaayy.site
 gggarantibbbvvaada.com
@@ -179598,6 +179601,7 @@ globaldunya-hemenfirsatkampanyayakatil.globalislemlerehemensimdibasvurun.com
 globaldunyaprb-hediyedagitiyor.com
 globaldunyaprb-prbhediyeleri.com
 globalduyurubntr.com
+globalecogreens.org
 globalecza.club
 globalecza.info
 globalecza.xyz
@@ -217225,6 +217229,7 @@ indirimvolta.com
 indirimworld-tr.com
 indirimx-firsatllari.com
 indirimxoami.xyz
+indirimyeri.cfd
 indirimyeri.site
 indirimzamani-turkcell.com
 indirimzamani.space
@@ -242365,6 +242370,7 @@ kilometresorgu.fun
 kilometresorgu.shop
 kilometresorgu.web.app
 kilometresorgucunuz.web.app
+kilometresorguekibi.cfd
 kilometresorguhizmet.web.app
 kilometresorguhizmetimiz.web.app
 kilometresorguhizmetle.web.app
@@ -331704,6 +331710,7 @@ sallamadamarmy100.xyz
 sallasallas.live
 sallatkdfer.us
 sallatutsundedikgirme.site
+salleit.com
 sallhhgodmhmxxy.net
 sallieaguilar74.xyz
 salliemae-com-login.aenys.com
@@ -364363,6 +364370,7 @@ template-openxml.com
 template.majestic-corporation.com
 templates.hopto.org
 templatesmanagersync.info
+templatespir.shop
 temple321.bar
 templeautonomous.top
 templecreative.store
@@ -368307,6 +368315,7 @@ tokishuzky.store
 tokisosyalbasvuru.net
 tokisosyalkonutbasvuru.net
 tokisosyalkonutlar.sa.com
+tokisosyalkonutlar.vercel.app
 tokissbasvurulardagel.blogspot.com
 tokissleregela.com
 tokiszamaniyeniden.blogspot.com
@@ -379348,6 +379357,7 @@ turktelokomcekilis.online
 turktenekli.org
 turkth.com
 turkticaretbank.com
+turkticaretbank.org
 turkticarethub.space
 turktlekomiletlykleme.net
 turktlkm.oppsratorserivslerin.org
@@ -398948,6 +398958,7 @@ website6262552.nicepage.io
 website6313040.nicepage.io
 website6495249.nicepage.io
 website6563297.nicepage.io
+website6565099.nicepage.io
 website6565812.nicepage.io
 website6568695.nicepage.io
 website6569024.nicepage.io
@@ -419874,6 +419885,7 @@ yatirimekim-mobildenizbank.com
 yatirimfirsariziraatte.com
 yatirimfirsati.top
 yatirimfirsatlari.org
+yatirimforum.online
 yatirimgazete.online
 yatirimgazetesi.net
 yatirimgazetesi.org
