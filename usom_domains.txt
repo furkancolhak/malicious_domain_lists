@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-15T08:05:14.797984
+# Updated: 2025-10-15T09:05:14.331274
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -102,6 +102,7 @@
 001241lj51135.duckdns.org
 00197703483.duckdns.org
 00199328989h9388219.cyou
+001l241f51135.duckdns.org
 001sv.ddns.net
 0020020002-kk-002002.store
 0021548742.duckdns.org
@@ -131286,6 +131287,7 @@ dogalyardiminiz.com
 dogalyasamvedijitaldonanimtavsiyeleri.xyz
 dogalzade.name.tr
 dogamelekleri.org
+dogamiras.org
 dogan-dernegi.org
 dogandernegi.org
 doganhaberajanssiii.com
@@ -142102,6 +142104,7 @@ ecofloraholland.nl
 ecofluxa.com
 ecogreenag.org
 ecogreenallday.org
+ecogreenarea.org
 ecoherba.com
 ecoinpairbunetwaleett.com
 ecole-saint-simon.net
@@ -148133,6 +148136,7 @@ ekonomigundem.best
 ekonomigundem.co
 ekonomigundem.today
 ekonomigundemi.org
+ekonomigundemi.site
 ekonomihaberleri.click
 ekonomihabersiz.dev
 ekonomik-20gb-turkcell.com
@@ -148144,6 +148148,7 @@ ekonomik-paketim20gb-turkcell.com
 ekonomik-paketler20-turkcell.com
 ekonomik-paketlerim-turkcell.com
 ekonomik20gb-paketim-turkcell.com
+ekonomikapi.com
 ekonomikaynak.online
 ekonomikaynak.org
 ekonomikaynak.world
@@ -148155,6 +148160,7 @@ ekonomikgiseniz.xyz
 ekonomikguclen.world
 ekonomikguven.org
 ekonomikilerleme.online
+ekonomikokusu.online
 ekonomikontrol.online
 ekonomikoru.online
 ekonomikriter.org
@@ -148167,6 +148173,7 @@ ekonomilive.online
 ekonominikfirsatlar.site
 ekonomipaneli.click
 ekonomiportal.online
+ekonomiportali.com
 ekonomiportali.online
 ekonomiportali.org
 ekonomipulse.com
@@ -148177,6 +148184,7 @@ ekonomitakibi.pro
 ekonomitime.online
 ekonomitrend.live
 ekonomix.online
+ekonomix.world
 ekonomiyontemm.com
 ekonommax.com
 ekontor.org
@@ -166296,6 +166304,7 @@ florakap.com
 floral.ynastyqrique.net
 floralithic.com
 floratend.com/bg8v/
+floravor.cfd
 floree-xqwsclo.com
 florentinm.sg-host.com
 florenzfenerbahce.online
@@ -242455,6 +242464,7 @@ kilometresorrgularim.web.app
 kilometresorugustovpttav.com
 kilometresotgu.duckdns.org
 kilometresrglmayochi.web.app
+kilometretapusubende.cfd
 kilometreteknik.web.app
 kilometretenure.top
 kilometreuzmanblgisstem.web.app
@@ -247475,6 +247485,7 @@ kriptokartallar.com
 kriptokisitikaldirkazan.com
 kriptokoin.vip
 kriptolive.online
+kriptomarket.online
 kriptomasakblokesi.com
 kriptoparaveblockchainrehberiniz.xyz
 kriptoparaveblokzinciryatirimrehberi.xyz
@@ -298334,6 +298345,7 @@ paraslkgas.vercel.app
 paraspot.online
 paratakacamlan.club
 paratpao.com
+paratrendleri.online
 paraveisimdegucumdeyim.online
 paravizyon.org
 parayapakdedik.cyou
@@ -304038,6 +304050,7 @@ pixtreev.run
 piy.wjzmzp.com
 piyasa-sayfalar-web-in.ru.com
 piyasabasassa.xyz
+piyasaekspres.online
 piyasahabercisi.com
 piyasakaanatesogluuu.net
 piyasalar.club
@@ -305855,6 +305868,7 @@ portfoward.ddns.net
 portfoy.1000yatirim.org
 portfoy.anadolumenkuldegerler.com
 portfoyhaber.org
+portfoytrend.online
 portfoytrend.world
 portgame.bazar
 portgame.website
@@ -307622,6 +307636,7 @@ primierewoodmanufactur.com
 priminvestmarket.com
 primitivebuffalo.top
 primkontrol.com
+primmegoal.com
 primo1.hopto.org
 primobolon.sbs
 primodeme-cim.com
@@ -322402,6 +322417,7 @@ resolvedaccount.ddns.net
 resolvefeas.top
 resolvehose.top
 resolveissue-i.cloud
+resolvemodern.online
 resolvesecurity-help.duckdns.org
 resolvesissues.ddns.net
 resonsilestngle.top
@@ -343073,6 +343089,7 @@ silkargranit.online
 silkarstone.gr
 silkarstone.uk
 silkayyetvar.ml
+silkglobe.com
 silkhumiliate.top
 silkrepress.top
 silktennis.top
@@ -354072,6 +354089,7 @@ strapdrawback.top
 strappystyio.shop
 strapslaughter.top
 strataisan.com
+strataora.com
 strategiccapitalalliance.com
 strategicmosquito.top
 strategicoverride.top
@@ -392791,6 +392809,7 @@ vip.axery.art
 vip.axery.store
 vip.dildochecker.fun
 vip.dildochecker.xyz
+vip.ekonomikzone.com
 vip.forpremium.cloud
 vip.kedicik.club
 vip.lap567.com
@@ -419909,10 +419928,12 @@ yatirimfirsati.top
 yatirimfirsatlari.org
 yatirimforum.online
 yatirimgazete.online
+yatirimgazetesi.info
 yatirimgazetesi.net
 yatirimgazetesi.org
 yatirimgazetesi.top
 yatirimgoz.world
+yatirimgundemi.org
 yatirimguru.online
 yatirimhaberim.online
 yatirimhaberleri.net
@@ -419927,6 +419948,7 @@ yatirimizacikmobildenizbank.com
 yatirimjet.com
 yatirimkampanya-acikdenizbankkatil.com
 yatirimkredi.com.tr
+yatirimkulisi.online
 yatirimlinki-payfixdeposit.com
 yatirimlinki.site
 yatirimmadresin.net
@@ -419948,10 +419970,12 @@ yatirimspot.online
 yatirimtavsiyesi.net
 yatirimtr.online
 yatirimtrend.info
+yatirimtrend.live
 yatirimtrend.org
 yatirimuzmani.info
 yatirimvakifim.shop
 yatirimvizyon.space
+yatirimwave.online
 yatirimyolcusu.blogspot.com
 yatirimzaman.info
 yatirimzaman.world
