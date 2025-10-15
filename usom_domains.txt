@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-15T07:05:13.135626
+# Updated: 2025-10-15T08:05:14.797984
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3723,6 +3723,7 @@
 107.173.176.100
 107.173.176.101
 107.173.181.139
+107.173.196.124
 107.173.2.136
 107.173.21.146
 107.173.21.239
@@ -58419,6 +58420,7 @@ appcloud.appmdb.com
 appcloudy.shop
 appcom.com.tr
 appcombilisim.net
+appcrafto.sbs
 appczdan1.click
 appczdan10.click
 appczdan12.click
@@ -75093,6 +75095,7 @@ belvasports.com//db_template.php
 belyardim.online
 belzonnfenmir.com
 bemaxalcm.online
+bembury.com
 bemcel.com
 bemcellyukle.blogspot.com
 bemcellzamaniniz.blogspot.com
@@ -106613,6 +106616,7 @@ cicekvakti.xyz
 cicekvaktim.com
 cicekyuvam.com
 cicekzadem.com
+cicekzamani.online
 cicensnyt0201.site
 cicero-dropbox.tk
 cicero.zzz.com.ua
@@ -116304,6 +116308,7 @@ cyfajvwm.com
 cyfievengtont.com
 cygfbsapt.com
 cyggbs.cn
+cygnisan.com
 cygvka.shop
 cyhesnohers.com
 cyhire.cechire.com
@@ -130035,6 +130040,7 @@ divisionislem.22web.org
 divisionplausible.top
 divisiveaesthetic.top
 divisivealignment.top
+divisshare.cyou
 divnasax.ddns.net
 divorceattorneysalbuquerque.com
 divorcechalk.top
@@ -135416,6 +135422,7 @@ e-basvurusu.builder-preview.com
 e-basvurusu.online
 e-basvurusu.website
 e-basvurutebonlinebasvur.site
+e-basvurutoki.com
 e-basvuruyap.net
 e-basvuruzamani.com
 e-basvurv2denizhediyeler.com
@@ -157256,6 +157263,7 @@ evorecesen.duckdns.org
 evorendtert.click
 evoria.ddns.net
 evoriax.ddns.net
+evorinth.com
 evosfagkaweqs.xyz
 evoskflopsvb.xyz
 evosphere.space
@@ -163018,6 +163026,7 @@ finansdestekhizmetim.click
 finansdestekonline.com
 finansdunya.online
 finansdunyasi.click
+finansdunyasi.info
 finansduyurularimlasiz.click
 finansduyurum.com
 finansfaizsizbasvurum.com
@@ -166172,8 +166181,10 @@ flexyval03.hopto.org
 flexyval04.hopto.org
 flexyval05.hopto.org
 flexyval06.hopto.org
+fleykton.com
 flflfkfldsmsd.xyz
 flfncxebjw.duckdns.org
+flftley.com
 flgjhwixg.duckdns.org
 flgvywnoycgz.duckdns.org
 flibberwump.top
@@ -223989,6 +224000,7 @@ ismaximum-ebireysel.com
 ismaximum.com
 ismaxionlinetr.com
 isme-md.ddns.net
+ismel30.blob.core.windows.net
 ismenugirislemllerinizz.online
 ismetinonu.tk
 ismgovtr.org
@@ -224095,6 +224107,7 @@ ispywithmylittleeye.ddns.net
 isqkvs9ht.duckdns.org
 isqlhezuth.duckdns.org
 isqpeydiqi.io
+isquara.com
 isr-aelpost.sbs
 israanews.zz.com.ve
 israel5319.ddns.net
@@ -253132,6 +253145,7 @@ liyarhodes435.xyz
 liycqpzvsf.duckdns.org
 lizacorner.com
 lizarddust.top
+lizarebenok.online
 lizasweetsky.ddns.net
 lizdamonayy.com
 lizhengying.com
@@ -255684,6 +255698,7 @@ lupopro.top
 lupymmtonqps.info
 luraka-game.github.io
 lurdinha.psc.br
+lurnavex.com
 lurningbuff.com
 luscaseila.duckdns.org
 lush.verifyartical.com
@@ -280516,6 +280531,7 @@ nonstoprat.duckdns.org
 nonton-yuk.duckdns.org
 nonunderstandingly.com
 nonvillager.com
+nonxrare.sbs
 nonyunzfgiac.wcnv20.cn/instagram-me
 noob112.zapto.org
 noodlecage.top
@@ -303056,6 +303072,7 @@ petrolkar.com
 petroll-ofisiii-2024.online
 petroll-tr.com
 petroll.site
+petrollcapital.com
 petrollem.com
 petrolleri-growth.com
 petrolleri-invest.com
@@ -309631,6 +309648,7 @@ ptrl-inv.com
 ptrl-tpao.com
 ptrlbrs.com
 ptrleumsupport.com
+ptrlkazanc.com
 ptrlkmpnya.com
 ptrlpao.com
 ptrlsupport.com
@@ -323122,6 +323140,7 @@ rhs66ayv.duckdns.org
 rhsbig.tw
 rhsdnevularinla.net
 rhskdahsksaaa.com
+rhtchie.com
 rhtirkiziw.duckdns.org
 rhtrht-help.duckdns.org
 rhuangtw.com
@@ -324476,6 +324495,7 @@ routetogroowth.com
 routinecoop453.xyz
 routinehowl.top
 routstreetcars.com
+rovanstouk.com
 roveecomsdosllc.com
 rovercrc.com
 rovley.10001mb.com
@@ -324667,6 +324687,7 @@ rr63y4u8n1cv39.ddns.net
 rr6uis6.cn
 rragano.com
 rragano.com.tr
+rrajcik.com
 rrandevunutkp.online
 rrannck34238.ddns.net
 rransevylall.com
@@ -376727,6 +376748,7 @@ turikye.org
 turikyeisbancasi.cf
 turinabolyukle.net
 turinvest.click
+turira.org
 turish-cargo.com
 turishisbankasi.com
 turismoelsalto.cl
@@ -392576,6 +392598,7 @@ vikingrat.zapto.org
 vikingsofnorth.top
 vikoler.space
 vikolifer.top
+vikpod.com
 vikppsod.com
 vikram1292-37417.portmap.io
 viktare.com
@@ -418788,7 +418811,6 @@ yapikredisubesii.com
 yapikredisubesine-giris.com
 yapikredisubex.online
 yapikredit.com
-yapikrediticarikartlar.com.tr
 yapikreditoken.com
 yapikreditr.com
 yapikreditrtpayi.com
