@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-16T05:05:17.160691
+# Updated: 2025-10-16T06:05:14.291387
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -70599,6 +70599,7 @@ basvursnm.xyz
 basvursnr.com.tr
 basvursnr.cyou
 basvursnr.xyz
+basvursns.xyz
 basvursnx.com.tr
 basvursnx.xyz
 basvursnz.com.tr
@@ -333950,6 +333951,7 @@ sdcdsdfdvvvvvvvvvvvvvvv.cfd
 sdcegceglkcmanlrkacrma.online
 sdceonlindekazan.duckdns.org
 sdceonlneozlfrstlar.shop
+sdceonlsfrsatlarda.blogdns.com
 sdcexonlneozlkapindax.online
 sdcexonlnexozelxekstra.online
 sdceyeonlnalarozelfrst.blogdns.org
