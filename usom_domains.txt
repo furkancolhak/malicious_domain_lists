@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-17T06:05:13.868439
+# Updated: 2025-10-17T07:05:12.391495
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -94851,6 +94851,7 @@ bsviyjbjoxyj.com
 bsvlymoxsc.duckdns.org
 bsvr-acikdenizv2denizonay.com
 bsvr-evlk.net
+bsvr-taki.online
 bsvr.denizligunlerfirsatlar.site
 bsvr.fun
 bsvr.ozelbasvurufirsatlari-aralikkampanyasi10yil.com
@@ -106664,6 +106665,7 @@ cicekhizmetleri.xyz
 cicekkapinda.info
 cicekkapinda.net
 cicekkcilikdiyariist.com
+cicekkutusu.vip
 ciceklerimizozelveguzeldir.blogspot.com
 cicekmarket.life
 cicekmarket.site
@@ -109440,6 +109442,7 @@ coec.club
 coeetrttgroup.cfd
 coeinssmartelogin.webflow.io
 coejlawmj.net
+coekery.com
 coelloemai.com
 coenbaseixtenseon.webflow.io
 coenduregs.shop
@@ -110629,6 +110632,7 @@ comedyglider.top
 comedytrashisfun.ddns.net
 comefromsmoke.ddns.net
 comehomelesteat.ddns.net
+comeimp.icu
 comeleg.top
 comelimb.top
 comelogistic.top
@@ -135478,6 +135482,7 @@ e-basvuru.hopto.org
 e-basvuru.icu
 e-basvuru.online
 e-basvuru.org
+e-basvuru.top
 e-basvuru2021-ebatablet.com
 e-basvuruaidatgeriodemeleri.com
 e-basvurucimer.org
@@ -165543,6 +165548,7 @@ firsatzamani.xyz
 firsatzamani9gb.site
 firsatzamaniaktuel.net
 firsatzamaniaktuel.online
+firsatzamanianinda.site
 firsatzamanibancebugunkampanyasi.tech
 firsatzamanibugunkampanyasi.online
 firsatzamanifinnsli.vercel.app
@@ -248261,6 +248267,7 @@ kulis9876.blogspot.com
 kulisbilgisiyardimlari.com
 kulishaberi.com
 kulistenbilgi.com
+kuliukviktoriia.online
 kulkoleolsandaa.xyz
 kullananlarbilir.name.tr
 kullanatrecetem.net
@@ -255697,6 +255704,7 @@ luckyadidas.xyz
 luckyareawin38.art
 luckyblank.info
 luckybuymarket.com
+luckycaptain.online
 luckycharm.website
 luckyclear.info
 luckyfavour2022.ddns.net
@@ -273958,6 +273966,7 @@ mutluedecekkampanyalar.pics
 mutluedecekkampanyalar.sbs
 mutluedecekyarinlarburada.online
 mutluedecekyarinlarburada.xyz
+mutluemeklilik.com
 mutlugelecek.xyz
 mutlugonuller.com
 mutlugonulluler.com
@@ -340739,6 +340748,7 @@ shopbasvurukampanyasi-ozel.ml
 shopcauxamsv7.ddns.net
 shopcelularmx.com
 shopcloths.ddns.net
+shopcraftz.com
 shopcvvvalid.biz
 shopdata.org
 shopdesny.top
@@ -368486,6 +368496,7 @@ toki-gov-tr.ml
 toki-gov-tr.tk
 toki-konutlar.sbs
 toki-konutlari.sbs
+toki-projeleri.com
 toki-turkiye.com
 toki-turkiye.duckdns.org
 toki.2024ocak-kampanyasi.vip
@@ -368627,6 +368638,7 @@ tokimshuzkyy.online
 tokiodeme.com
 tokiomarbuzki.com
 tokiomarklpc.com
+tokionline.net
 tokionlinebasvuru.com
 tokionlinebasvuru.org
 tokionlinebasvuru.vercel.app
@@ -368684,6 +368696,7 @@ tokyo-new.icu
 tokyoghoulysseynn.ddns.net
 tokyogrub.duckdns.org
 tol5evwm.duckdns.org
+tolago.click
 tolatilbu.hopto.org
 told709providepopulate.live
 toldhisundhem.com
@@ -409258,6 +409271,7 @@ wwwcimer-iadeleriniz.com
 wwwcimer-tr.com
 wwwcimer.com
 wwwcitibankcreditcard.com
+wwwclicl.click
 wwwclilm.click
 wwwcumhurbaskanligimerkezi.com
 wwwcural.click
@@ -409751,6 +409765,7 @@ wwwqodddady.hopto.org
 wwwramazanetkinlikdo.com
 wwwramazanetkinlikkatilimp.com
 wwwramazanetkinliklerisendekatil.com
+wwwredirecb.click
 wwws-bincell-tl-yusleme-anlik.com
 wwwsaglikbakanligi.com
 wwwsahibinden-com.tk
@@ -427884,6 +427899,7 @@ zendom.ddns.net
 zeneditor.tech
 zenform.online
 zengin-gelenler-bizi-bulurlar-burada.com
+zenginemekli.com
 zengingunlerekimay.com.tr
 zengingunlerekimay.online
 zengingunlerekimay.xyz
