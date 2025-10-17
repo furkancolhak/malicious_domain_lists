@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-17T07:05:12.391495
+# Updated: 2025-10-17T08:05:13.532451
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -71894,6 +71894,7 @@ basvurumtrbnncrs.online
 basvurumturkiyeiade.org
 basvurumunuzlarbbva.com
 basvurumusteriacikdenizv2denizbank.co.vu
+basvurumuyapiyorumsorguluyorum.biz
 basvurumuyapiyorumsorguluyorum.com
 basvurumuz-aidat-geri-iadesi-platformu.xyz
 basvurumuz-aidat-geri-iadesi.com
@@ -90470,6 +90471,7 @@ bnance500udtgiris.com
 bnanceaacountmustang-kazan.net
 bnanceagency.sbs
 bnancecoinhediyedunyasi2023.net
+bnanceconnect.sbs
 bnanceddestek.com
 bnanceden2yilozelfirsatlari.ml
 bnancedestek.com
@@ -114188,6 +114190,7 @@ crm0o2a.duckdns.org
 crmdesk.org
 crmdo.com
 crmforretailers.com
+crmtastic.com
 crna-macka.com/d8743fgh
 cro9re78.duckdns.org
 crocodiledetain.top
@@ -117738,6 +117741,7 @@ darlingpreceding.top
 darlingtondc.hopto.org
 darlingtwo.ddns.net
 darlox.zapto.org
+darnelis.com
 darnovexium.shop
 daronop.info
 darraarat.com
@@ -134274,6 +134278,7 @@ dusgorurkendustumasaya.com
 dush847472837.duckdns.org
 duskcomplimentary.top
 duskensatonal.top
+duskhollowcircle.site
 duskunderlying.top
 duskybloomshade.site
 duskylight.pro
@@ -148312,6 +148317,7 @@ ekonomipulse.com
 ekonomipulse.world
 ekonomipusulasi.online
 ekonomist-turkey24.online
+ekonomistrend.pro
 ekonomitakibi.pro
 ekonomitime.online
 ekonomitrend.live
@@ -163304,6 +163310,7 @@ finansubemiz.net
 finansv4hesaplidogrulama.online
 finansvizyonu.org
 finansza.com
+finanszone.online
 finanzas-inteligentes.org
 finanzen-netto.de
 finas-atelier.nl
@@ -175408,6 +175415,7 @@ gelecekvakfi.org
 gelecekvedunyasii.com
 gelecekvezaman.online
 gelecekyatirim.tk
+gelecekyatirimi.org
 gelecekzaman.online
 gelekernekelerme.online
 gelekeyeterfegevebene.online
@@ -182515,6 +182523,7 @@ grencardbavuru.com
 grencrdbasvu.pw
 grendcrbasvur.pw
 grenlar-paret23.duckdns.org
+grenthira.com
 grentrepostorh.com
 grepopm6o63tepg0ar3.ddns.net
 greportre-juilop.ddns.net
@@ -240447,6 +240456,7 @@ kazancdunyasi.online
 kazancdunyasi.shop
 kazancekilisl.workers.dev
 kazancfikri.org
+kazancgundem.online
 kazancgunleri.com
 kazanchaber.com
 kazancimnetsigortam.net
@@ -244213,6 +244223,7 @@ klimayi-burdanal.site
 klimaylabekle.xyz
 klimayuzbirfisrati.com
 klimayuzbirsonfirsat.com
+klimboli.com
 klimm-alltustan.com
 klimmalltuss.com
 klimmalltuus.com
@@ -262135,6 +262146,7 @@ mc.royalefree.xyz
 mc.zeldy.online
 mc0b21rm5.duckdns.org
 mc1r7qf8r.duckdns.org
+mc2audio.net
 mc6cxl.duckdns.org
 mc7h8u.duckdns.org
 mc8evxpa.duckdns.org
@@ -278283,6 +278295,7 @@ newdesk.top
 newdevelopstart.online
 newdeveloptech.online
 newdi.weebly.com
+newdiv.sbs
 newdnq1xnl9.life
 newdnstwinks.duckdns.org
 newdomainfortesteenestle.com
@@ -278427,6 +278440,7 @@ newmexicos.fit
 newmlbb97.duckdns.org
 newmms.ru
 newmodernrunner.info
+newmodernrunner.online
 newmoderns.online
 newmoviedb.zapto.org
 newmunchman.pro
@@ -297583,6 +297597,7 @@ paradoxicalconvict.top
 paradoxpartition.top
 paradoxstagger.top
 paradunyasi.online
+paradurum.world
 paraevreni.world
 paraf-e-mobil.club
 paraf-e-mobil.com
@@ -297744,6 +297759,7 @@ paraguvendesahibindenget.com
 paraguvenlisahibinden.com
 paraguvensahibinden.com
 paraguwende.net
+parahaber.info
 parahaber.online
 parahaber.world
 parahaberleri.online
@@ -298604,6 +298620,7 @@ parayuz-ced21225241f.herokuapp.com
 parayuz2-0798fd66890e.herokuapp.com
 parayuzs2-5a683a8578de.herokuapp.com
 parazaman.online
+parazamani.world
 parazone.online
 parb-firsatlari.com
 parb-girisfirsatiniz.com
@@ -317144,6 +317161,7 @@ quantumcheck.shop
 quantumcorps.online
 quantumdimensions.website
 quantumdynamics.top
+quantumfllare.com
 quantumglide.org
 quantumhalo.website
 quantumleapinnovate.com
@@ -323782,6 +323800,7 @@ riverhasus.com
 riveridge.zapto.org
 riverlogic.top
 riveroakbank.online
+riverstonefield.site
 riverwalktrader.co.za
 riverwoodhomes.org
 riviararwa.xyz
@@ -338497,6 +338516,7 @@ serverxlogs21.xyz
 serveryonetimpanelimetin2.xyz
 servesgeneral.ddns.net
 serveshrubbery.top
+servetaraf.world
 servetaydemir369.wixsite.com
 servetler-server1.arkon1.online
 servetler.win
@@ -342882,6 +342902,7 @@ sikayetmerkezleri.ru.com
 sikayetmvar.com
 sikayetr-21.sbs
 sikayetr-23.sbs
+sikayetr-32.sbs
 sikayetsorgula.com
 sikayetstnesikayet.ml
 sikayett-var.com
@@ -350910,6 +350931,7 @@ specforce.space
 special-campaign-sixth-years.net
 special-ode.tech
 special-online-deals-k.click
+special.services
 special1.ddns.net
 special4375.xyz
 specialadventurousw.shop
@@ -360388,6 +360410,7 @@ tasarimustasi.org
 tasarlann.com
 tasarruf-edevlet.com
 tasarruf-kulubun.name.tr
+tasarrufakli.org
 tasarrufcep.com
 tasarrufkredi.com
 tasarrufplani-2024.online
@@ -366582,6 +366605,7 @@ ticaretbakanligi.com
 ticaretbakanligi.fit
 ticaretbakanligi.xyz
 ticaretbakanligigovtr.fit
+ticaretbankasi.org
 ticaretburada.online
 ticaretdeguven-lialisverisanindasiparis.shop
 ticaretguvende.com
@@ -369255,6 +369279,7 @@ torslingtoftof.com
 tortillabuilder.xyz
 tortoiseshell-peppermint-goose.glitch.me
 tortonamica.buzz
+tortorzzentor.com
 tortunas.ru
 torturecozy.top
 torturehysterical.top
@@ -375693,6 +375718,7 @@ trthaberinternettenbasvuru.org
 trthaberleriniz-online.com
 trthaberleriniz-tr.com
 trthaberpandemidestekleri.com
+trthabersitesi.com
 trthabertr.digital
 trthaberweb-tr.com
 trthalkadestek.com
@@ -378205,6 +378231,7 @@ turkishbank.cc
 turkishbankas.org
 turkishbankasi.com
 turkishbankonline.com
+turkishbaykar.world
 turkishbreaking.today
 turkishcarg.org
 turkishcargo-tr.com
@@ -383298,6 +383325,7 @@ unsj6df.duckdns.org
 unsjyvwrqelxdvobpo.pw
 unsottgbblyi.rent
 unstowsd.com
+unstylizeddif.com
 unsual-wellsfargo-bank.duckdns.org
 unsur-trafik.blogspot.com
 unsustaining.com
@@ -383791,6 +383819,7 @@ upladuusevmia.ddns.net
 uplandpro.com
 uplayground.online
 uplearn.top
+uplendra.com
 uplgcxtfef.duckdns.org
 upliftpropertysolutions.com
 uplinkraft.site
@@ -390698,6 +390727,7 @@ vekuna.store
 vel2iasdl2ol.site
 vel2iasdl3ol.site
 vel32vest.xyz
+velaran.com
 velarcads.top
 velarfdzs.top
 velarions.com
@@ -390870,6 +390900,7 @@ veonllinekatallogirisisi.com
 veoorookkoahm.tk
 veplilosiolk.click
 veprex.hopto.org
+veqag.com
 veqkjgyiz.duckdns.org
 ver-bakalim-bonus-kampanyasi-ozel.ml
 ver-fleed.net
@@ -393485,6 +393516,7 @@ vivalingard.ml
 vivalisme.fr
 vivaripple.com
 vivasorgum.com
+vivaymoul.com
 vivelaprovince.com
 vivemoi14.zapto.org
 vivgirislemenule.com
@@ -415979,6 +416011,7 @@ xqsgo.com
 xqu3nv.duckdns.org
 xquantum.com.tr
 xquantum.online
+xques.shop
 xquoifgtci.duckdns.org
 xqvocjuaqmvhmqgx.com
 xqxwlxwx.site
@@ -420273,6 +420306,7 @@ yatirimgazetesi.top
 yatirimgoz.world
 yatirimgundemi.org
 yatirimguru.online
+yatirimhaber.net
 yatirimhaberim.online
 yatirimhaberleri.net
 yatirimhat.com
