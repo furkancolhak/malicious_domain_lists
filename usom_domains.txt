@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-18T17:05:12.385375
+# Updated: 2025-10-18T18:05:13.521987
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -355,6 +355,7 @@
 022202120212021.mywire.org
 02220333teamaccount.com
 0222115451222.duckdns.org
+02221203252120.duckdns.org
 0222154542200.duckdns.org
 02222120212021.online
 0222212522202.duckdns.org
@@ -88961,6 +88962,7 @@ blooper.today
 bloorco.com/vendor/jquery/connection.php
 blopsadmvdrl.com
 blopsdmvdrl.com
+bloravin.com
 blorehost.in
 blork-ajansbayi.com
 blort.html-5.me
@@ -146979,6 +146981,7 @@ egmkarar.net
 egmkbg.info
 egmmlbul.net
 egmmm.online
+egmportal.com
 egmsikayetvar.tk
 egmsistemi.website
 egmsorgu.net
@@ -182367,6 +182370,7 @@ gratis-serius.duckdns.org
 gratis-tr.com
 gratis-tr.ddnsfree.com
 gratis-tr.dynuddns.com
+gratis-tr.wikaba.com
 gratis-turk.duckdns.org
 gratis.ddnsguru.com
 gratis.fatibara.com
@@ -188382,6 +188386,7 @@ haftalikbize.com
 haftalikfirsatgunu.baby
 haftalikfirsatlarimiz.com
 haftalikindirim.online
+haftalikindirimler-markettebasladi.cfd
 haftalikindirimlerbasladiifirsatlarikacirmayin.online
 haftalikkataloglarimiz.duckdns.org
 haftaliklarindirimler.com
@@ -192097,6 +192102,7 @@ hamamamamamamamam9834.com
 hamamamamamamamamamam2341.com
 hamamamamamamamamamama1738.com
 hamamamamamamma8232.com
+hamamamamamammama02691.com
 hamamamamammama0941.com
 hamamamammama2341.com
 hamamamammamama9924.com
@@ -215098,6 +215104,7 @@ ilizxoxlvz.duckdns.org
 ilk-atanlar-hep-bir-kez-daha-gorurler-bunlari.com
 ilk-e-aidat-basvurusu-bireysel-giris.xyz
 ilk-evim.com
+ilk-evini-aldin.sbs
 ilk-kart-iade-basvurusu-2021-karar.xyz
 ilk-kart-iade-basvurusu-2021.xyz
 ilk-konut2026.sbs
@@ -281312,6 +281319,7 @@ nortonfja.info
 nortonservice.net
 norturbulent.top
 norulless.com
+norvianis.com
 norwaylandhost.info
 norwayy.co
 nosaf42o3332.click
@@ -309170,6 +309178,7 @@ projexplorer.com
 projgoal.com
 projinvtal-barakb.online
 projmate.com
+projo-40promosyon-burda.cfd
 projobfirst.com
 prokabamdy.xyz
 prokampanyam.xyz
@@ -369013,6 +369022,7 @@ toki-projeleri.com
 toki-turkiye.com
 toki-turkiye.duckdns.org
 toki-yonlendirme.online
+toki-yuvam.click
 toki.2024ocak-kampanyasi.vip
 toki.ilkevim-basvuru.com
 toki.online
@@ -369190,6 +369200,7 @@ tokisosyalkonutlar.vercel.app
 tokissbasvurulardagel.blogspot.com
 tokissleregela.com
 tokisube.vercel.app
+tokisubesi.vercel.app
 tokiszamaniyeniden.blogspot.com
 tokitalep.online
 tokitapubasvurusuaninda.blogdns.com
@@ -376935,6 +376946,7 @@ tstores.store
 tstpag127.duckdns.org
 tststs.ddns.net
 tstsv.xyz
+tsturals1.dynamic-dns.net
 tstwadxa.click
 tstwatcheshk.com
 tstwfwad.click
@@ -384688,6 +384700,7 @@ url-redirect0.site
 url-redirect1.site
 url-redirect1.xyz
 url-redirect2.site
+url-redirect25.cfd
 url-redirect3.site
 url-redirect4.site
 url-redirect5.site
@@ -427579,6 +427592,7 @@ z1raat.sbs
 z1raatgiris.cfd
 z1raatkampanyalari.cfd
 z1raattemuzfirsati.com
+z1raatyaninda.cfd
 z1rat-aninda-onay.cfd
 z1ratba3vuru.sbs
 z1spphm.duckdns.org
