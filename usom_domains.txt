@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-18T14:05:13.148087
+# Updated: 2025-10-18T15:05:18.685264
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -37889,6 +37889,7 @@ aassmcncnnc.com
 aaswwqaaqadaad.com
 aatextiles.com
 aathmakosam.duckdns.org
+aatinemeklilik.com
 aatlzkw2a.duckdns.org
 aatravelexperts.com/wp-admin/db_template.php
 aatsny.com
@@ -57332,6 +57333,7 @@ anlikbufrstlardanfaydalanirsin.shop
 anlikderscalisma.com
 anlikeiadodeme.page.gd
 anlikfaizsizkredi.com
+anlikfirsat.cfd
 anlikfirsatkacirmasende.com
 anlikfirsatlarkred.com.tr
 anlikgelisimn.net
@@ -61244,6 +61246,7 @@ aritakgcseklime.net
 arithmeticcognition.top
 ariturkklima.com/wp-includes/connection.php
 ariturkticaret.com
+arivantax.com
 arivegreen.net
 ariveheat.net
 ariyorum.sigortacinnet.com.tr
@@ -67691,6 +67694,7 @@ baasuvurlar.net
 baaykar.com
 baayramfirsatlari.online
 baayykar.com
+baayykaren.com
 bab24242424boboo125.com
 baba-asle-behtarin100.buzz
 baba-asle-behtarin20.buzz
@@ -69983,6 +69987,7 @@ basvru-online.com.tr
 basvru-tr-tr-tr.shop
 basvru-tr-tr.shop
 basvru-trbnnrcn.com
+basvru.sa.com
 basvrubilgiedin-devleltigirisim.com
 basvrubnancekampanyaa-frsatkmpanyaa.com
 basvrufirsatlari.xyz
@@ -76426,6 +76431,7 @@ bgltnkmpnykatla.space
 bgltrxtfwe.duckdns.org
 bgm.flylineaeru.com
 bgmcell.com
+bgmlgo.life
 bgmwell.me
 bgmwell.site
 bgmxiae.icu
@@ -85116,6 +85122,7 @@ birgorus.name.tr
 birgundegkargo1011.com
 birgundegkargo1011.online
 birgundekapinagelmezseiade.shop
+birgundeyiz.cfd
 birguneldebetodels.net
 birgunhuzur.com
 birgunsatis.site
@@ -90553,6 +90560,7 @@ bnancehediyelerzamani.net
 bnanceloginearnmobil-com.ml
 bnancenetwork.sbs
 bnanceonlinedestekhizmeti.vercel.app
+bnanceplus.sbs
 bnancepro.sbs
 bnancesizinicinvar2022cepsubesi.com
 bnancesolutions.sbs
@@ -118199,6 +118207,7 @@ daviscoleman899.ddns.net
 davislandscape.company
 daviswc.zapto.org
 davizshadow.duckdns.org
+davmoris.com
 davomavo47.com
 davoport.org
 davranhizlicax.xyz
@@ -132620,6 +132629,7 @@ doril.site
 dorinel.ddns.net
 dorjenmar.com/8irkimu/payroll/business
 dorkn.ddns.net
+dornithis.com
 doromontioootoolsdfr.info
 dorontalka.com
 dorrixnt.com
@@ -148191,6 +148201,7 @@ ekiminozelkampanyalifiyatlarmm.online
 ekiminozelkampanyalifiyatlarmm.xyz
 ekiminsicakligiburadawsynx.shop
 ekiminsongunindirimis.online
+ekiminsonkampanlararikapindaa.cfd
 ekiminsurprizleridevamediyor7.com
 ekiminyldizlariwsynxmorbid.shop
 ekimisismkapmayalsai.com
@@ -184549,6 +184560,7 @@ gunceltrsikayetler-362.sbs
 gunceltrsikayetler-364.sbs
 gunceltrsikayetler-371.sbs
 gunceltrsikayetler-373.sbs
+gunceltrsikayetler-385.sbs
 gunceltrsikayetler-453.sbs
 gunceltrsikayetler-463.sbs
 gunceltrsikayetler-464.sbs
@@ -186725,10 +186737,12 @@ gxrnxtikxrwdi-250-000.duckdns.org
 gxrxnntxibbvx.space
 gxrxntibbvx.duckdns.org
 gxrxntibbvxfir.duckdns.org
+gxrxntibvxvi.duckdns.org
 gxrxntibxnkyaninda.duckdns.org
 gxrxnticxzumleri1295.com
 gxrxntifirxsxtlxrri.duckdns.org
 gxrxntiifirsatlari.space
+gxrxntixxbbvxix.duckdns.org
 gxrxntiyaninda.duckdns.org
 gxrxxntiibbvxx.duckdns.org
 gxscv.com
@@ -196794,6 +196808,7 @@ hemenbasvuruforumlarim.com
 hemenbasvuruhizmetlerburds.store
 hemenbasvurum.online
 hemenbasvurunugonderonlinesube.xyz
+hemenbasvurunuyap.com
 hemenbasvurunuyap.site
 hemenbasvurunuyapcekilisekatil.com
 hemenbasvurunuyapcekiliskatil.com
@@ -215118,11 +215133,13 @@ ilkevim-basvuru.com
 ilkevim-online-basvuru.blogdns.com
 ilkevim-online-basvuru.cfd
 ilkevim-online-islem.blogdns.com
+ilkevim-portal-giris.com
 ilkevim.com.pl
 ilkevim.konutbasvurulari.cloud
 ilkevim250binbasvurusu.com
 ilkevimbasvuru.com
 ilkevimbasvuru.online
+ilkevimbasvuruekrani.com
 ilkevimbasvurusuicintiklayiniz.blogspot.com
 ilkevimdanismanlik.com
 ilkevimkonutbasvuru.com
@@ -218441,6 +218458,7 @@ ingonline2019.com
 ingonlineinternet.com
 ingonlinesube.com
 ingonlinesubeniz.com
+ingov-trx.click
 ingozelbireyselinternetsubesi.com
 ingpevwrcdav.com
 ingredientpeck.top
@@ -232460,6 +232478,7 @@ joyolog.com
 joyoreus.ddns.net
 joyousglare.top
 joyousmerge.top
+joytoun.com
 joyyce.ddns.net
 jozefmim-dz.zapto.org
 jozipainters.co.za/isbank.com.tr/two-way%20verification/index.html
@@ -246276,6 +246295,7 @@ konutislemlerihizlica.com
 konutkapisi.org
 konutkredisihesaplamalari.blogspot.com
 konutlarsite.com
+konutonbasvuru.com
 konutresmibasvuru-21.com
 konutsalisiniz.com
 konutsalprojeler.app
@@ -250673,6 +250693,7 @@ laesperanza.duckdns.org
 laestoyhaciendoboja.duckdns.org
 laexi.com
 lafamiliaestermose.com
+lafamiliaestermosi.com
 lafely-23488.portmap.host
 lafetbetin.pro
 lafimilaestermose.com
@@ -279004,6 +279025,7 @@ newyoudayskhrtys.net
 newzeto.xyz
 newzgroup.xyz
 newzyhaswesad.net
+nexalior.com
 nexarcho.com
 nexarvoo.com
 nexaustin.ddns.net
@@ -301280,6 +301302,7 @@ parrtnmal.click
 parrz.com
 parsalllarlionz.online
 parsbu.com
+parsdoktorwebs.xyz
 parsdtb.cn
 parsefilm.com
 parsel6498902302000.blogspot.com
@@ -315098,6 +315121,7 @@ qenisanies.ddns.net
 qenjw68xlx4kikafuc.com
 qenmanepnh.info
 qenshine.com
+qentrom.com
 qeogowuy.com
 qepjkd.com
 qepqqmprnr.info
@@ -340944,6 +340968,7 @@ shinestars-lifestyle.com
 shinestars-lifestyle.com/old_shinstar/includes/old/front_footer.old.php
 shinestorn.com
 shinetoday.site
+shineyolgecishgshizmeti.com
 shinhan-vina.com.vn
 shiningrstars.help
 shinji.my-style.in
@@ -344401,6 +344426,8 @@ siparis-olustur-223038.com
 siparis-olustur-223039.com
 siparis-olustur.online
 siparis-onayim-176204.com
+siparis-onayim-176209.com
+siparis-onayim-176211.com
 siparis-onayim-176299.com
 siparis-onayin.net
 siparis-onayla.net
@@ -367755,6 +367782,7 @@ tkgmislemler.net
 tkgmrandevu.blogspot.com
 tkgmsystem.net
 tki-basvuru.blogspot.com
+tki-online-bsvr.cyou
 tkibsvbrda.site
 tkibsvurlarim.club
 tkibsvurlarim.com
@@ -368978,10 +369006,12 @@ tokibasvurum.net
 tokibasvurum.online
 tokibasvurumerkez.store
 tokibasvurumm.net
+tokibasvurumuyapiyorum.b-cdn.net
 tokibasvurunuz.click
 tokibasvurunuzonline.click
 tokibasvuruonline.com
 tokibasvurusorgu.tk
+tokibasvurusu.info
 tokibasvurusu.online
 tokibasvurusubizimleancak.blogspot.com
 tokibasvurusuedevlet-2137d.kxcdn.com
@@ -369041,6 +369071,7 @@ tokikonutbasvurularim.vercel.app
 tokikonutbasvurum.com
 tokikonutbasvurun.com
 tokikonutbasvurus.rf.gd
+tokikonutbasvurusu.blogspot.com
 tokikonutbasvurusu.com
 tokikonutbasvuruun.net
 tokikonutdan.com
@@ -369090,7 +369121,9 @@ tokisosyalkonutlar.sa.com
 tokisosyalkonutlar.vercel.app
 tokissbasvurulardagel.blogspot.com
 tokissleregela.com
+tokisube.vercel.app
 tokiszamaniyeniden.blogspot.com
+tokitalep.online
 tokitapubasvurusuaninda.blogdns.com
 tokitoplukntlri.com
 tokiturkiyebasvuru.com
@@ -374511,6 +374544,7 @@ trgrsmrkzbsvrprtal.com
 trgrsonline-trbrnnc.com
 trgrstr.redirectme.net
 trgslk.blogspot.com
+trgsul.sa.com
 trguncelbnnresa.online
 trguncelgirisibnccer.online
 trguncelhaberlist.xyz
@@ -427473,6 +427507,7 @@ z1fqby0n.duckdns.org
 z1o1comtr.online
 z1q4cusb.duckdns.org
 z1raat.sbs
+z1raatgiris.cfd
 z1raatkampanyalari.cfd
 z1raattemuzfirsati.com
 z1rat-aninda-onay.cfd
