@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-18T07:05:11.686286
+# Updated: 2025-10-18T08:05:13.826133
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -51873,6 +51873,7 @@ aktueltemuzifirsatlarim.com.tr
 aktueltemuzifirsatlarim.online
 aktueltemuzifirsatlarim.xyz
 aktuelurnlr2024.com
+aktuelurun.cfd
 aktuelurunfirsat.net
 aktuelurunfirsatlari.com.tr
 aktuelurunfirsatlari.online
@@ -76976,6 +76977,7 @@ bignixware.ddns.net
 bignlykleme.22web.org
 bigoof2121.ddns.net
 bigpara-hissealsat.com
+bigparamilliyethabercom.b-cdn.net
 bigpdbkhnayab.hopto.org
 bigred-tours.com
 bigrocks918.com
@@ -92487,6 +92489,7 @@ boltecosystem.top
 boltencyclopaedia.top
 bolterbunny.com
 bolthaven.cfd
+boltrax.info
 boludao157.ddns.net
 boludeniztakibihaliyikamaca.site
 bolukartyukle.net
@@ -97990,6 +97993,7 @@ buyinge2.sg-host.com
 buyingrove.is-best.net
 buyiyukleme.22web.org
 buykkmamka0342.shop
+buykmrke-frsaltr.sbs
 buymagicmushies.com
 buymak.html-5.me
 buymart.top
@@ -119822,6 +119826,7 @@ deneyimlimusterilerinyeri.cfd
 deneyimlioperatorler.com
 deneyimlipersoneller.com
 deneyimsizalma.com.tr
+deneyimvegelecek.com
 deneyimvegelecek.info
 deneyimvegelecek.online
 deneyimyolu.online
@@ -125854,6 +125859,7 @@ destekelim.com
 destekelleri.com
 destekelli.com
 destekfaizsizmbl.gtxcdn-nsclk.pw
+destekfinansmenkul.com
 destekform-hibeleri-tr.com
 destekform.tk
 destekformhibeleri-tr.com
@@ -169244,6 +169250,7 @@ fuarexpotag.xyz
 fuarpalas.com
 fuathocafitness.net
 fuawhyfgauwhfyuwa.ddns.net
+fubane.com
 fubitgol.com
 fubsdgd.com
 fubyy9n.duckdns.org
@@ -175453,6 +175460,7 @@ gelecegidusunmayin.com
 gelecegimdunyasibasvurulariniz.com
 gelecegimerandevual.net
 gelecegimiz24.online
+geleceginagi.info
 gelecegindunaysibasvuru.com
 gelecegindunaysibasvurulari.com
 gelecegindunyasiburada.com
@@ -178877,6 +178885,7 @@ girisinizyapiliyor.it.com
 girisintr-onlinebntrnnnrc.com
 girisintrbnnrtc.online
 girisisbankhemen.fun
+girisiskem.vercel.app
 girisislelerim.com
 girisislem.com
 girisislem1.onrender.com
@@ -250159,6 +250168,7 @@ kyle2fredoblange.site
 kylgmbrcodehizlibilgiav.duckdns.org
 kylian.is-great.org
 kyllborena.com
+kylvenor.net
 kymetnzane.org
 kymgiyodtm.ddns.net
 kymhsrx.net
@@ -250627,6 +250637,7 @@ laexi.com
 lafely-23488.portmap.host
 lafetbetin.pro
 lafimilaestermose.com
+lafimiliaestermose.com
 lafret.com
 lafsyu.com
 lafuritte.ru
@@ -278471,6 +278482,7 @@ newarasdcxx.net
 newarticles23.com
 newasdpwqpleasd.net
 newasync2424.duckdns.org
+newattendmodern.online
 newaugustcampanys-trtoggsixthing.net
 newauthurdomain.duckdns.org
 newbasdwqesad.net
@@ -278669,6 +278681,7 @@ newmlbb97.duckdns.org
 newmms.ru
 newmodernrunner.info
 newmodernrunner.online
+newmodernrunner24.info
 newmoderns.online
 newmoviedb.zapto.org
 newmunchman.pro
@@ -291500,6 +291513,7 @@ onlinetlyuklemeyap.com
 onlinetlyuklex.com
 onlinetlyukleyicim.com
 onlinetokenid.com
+onlinetokibasvurusu.com
 onlinetr-bbnrclogin.com
 onlinetr-bnlogin.xyz
 onlinetr-bnnrgirisi.com
@@ -360499,6 +360513,7 @@ tapu7.shop
 tapu8.shop
 tapu9.shop
 tapubasvuru.online
+tapubasvurukonutlari.duckdns.org
 tapubilgialan.firebaseapp.com
 tapubilgialan.web.app
 tapucugeldi.xyz
@@ -368996,6 +369011,7 @@ tokilerisbasvuru.blogspot.com
 tokilerleshuzkyy.com
 tokilibasvurularim.net
 tokim.bounceme.net
+tokimobil.vercel.app
 tokimobilbasvuru.shop
 tokimshuzkyy.online
 tokiodeme.com
@@ -379888,6 +379904,7 @@ turkiyyegov325.ga
 turkiyyeyardim.com
 turkiz9.org
 turkizbiz.org
+turkizo.org
 turkizpro.org
 turkjye.site
 turkkan.online
