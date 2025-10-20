@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-20T08:05:14.032728
+# Updated: 2025-10-20T09:05:12.742631
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -12025,6 +12025,7 @@
 195.74.86.37
 195.81.54.192
 195.82.146.236
+195.82.147.38
 195.85.114.78
 195.85.115.195
 195.85.201.158
@@ -30113,6 +30114,7 @@
 81.7.7.159
 81.70.35.249
 81.71.1.107
+81.88.18.108
 81.91.177.54
 81.92.202.137
 81.93.205.251
@@ -32595,6 +32597,7 @@
 93.127.200.211
 93.147.157.195
 93.147.212.206
+93.152.230.79
 93.157.248.108
 93.170.105.144
 93.171.202.188
@@ -90993,6 +90996,7 @@ bncrtr.xyz
 bncrtr1.xyz
 bncrtr2.xyz
 bncrtr3.xyz
+bncrtr4.xyz
 bncs.1dnserver.com
 bncs2024-roll-20241252-202412.com
 bncs2024-roll-3523582-202421.com
@@ -104150,6 +104154,7 @@ cepsifre-girisonay.xyz
 cepsifre-vakonay.xyz
 cepsifrebazyukle.com
 cepsifreonayvakifbank.co.vu
+cepsiparisi.cfd
 cepsube-akbank.com
 cepsube-basvuru.click
 cepsube-bddk.com
@@ -151525,6 +151530,7 @@ eningeorg.ddns.net
 enionlinesistemler.com
 enis2.space
 enisemol.click
+enisinxsdlsmxlmfimatic.qpon
 enisiyansxallrlslxrllxlrmsrm.site
 enisndmslxm.site
 enistenbr65.com
@@ -162879,6 +162885,7 @@ filmbimcxll.com
 filmbounce.at
 filmemario.at
 filmhhots.com
+filmoraus.com
 filmsanitary.top
 filmschoolsforum.com
 filmsshoots.com
@@ -166808,6 +166815,7 @@ flrsathadiolmazolsundaolmadandad.store
 flrsathadiolsahemenlerolsanmada.world
 flrsathadisemnolmazdanashw.world
 flrsathadisenbeniettinyasenkazanma.world
+flrsathadisendegelsennasilol.shop
 flrsathadisendeolsadaolmasadanah.world
 flrsathadisendevametbakalimnasilolcak.shop
 flrsathadisengelsenolsahadiben.shop
@@ -179339,6 +179347,7 @@ girisyapkatilsubesizislemler.click
 girisyapkazan-kampanyasi.com
 girisyapkazan.com
 girisyapmasi.online
+girisyapmobil.mefound.com
 girisyapmobildenbnb.net
 girisyapsorgulabasvuru.online
 girisyapsponsorlu.com
@@ -197849,6 +197858,7 @@ hepsiburadaak.com
 hepsiburadaan.com
 hepsiburadaanindakapinda.com.tr
 hepsiburadaap.com
+hepsiburadaapp.shop
 hepsiburadaat.com
 hepsiburadabasics.com
 hepsiburadabasvuruformu.com
@@ -206269,7 +206279,11 @@ homebasvurusayfasi.com
 homebeastpromotion.xyz
 homebet.totalh.net
 homebone.top
+homebrewclubs.org
+homebrewfaq.org
+homebrewonline.org
 homebrewrp.com
+homebrewupdate.org
 homebutik.online
 homecalloficecenter.com
 homecameras1.zapto.org
@@ -234437,6 +234451,7 @@ kacriacndirmini.shop
 kacrimaindirinizi.shop
 kacrimsaindirimini.store
 kacsirsammisezonu.shop
+kacyirilmayacakmarketindiriminiveriyoruz.cfd
 kad532emnd.store
 kadada.xyz
 kadadvt-dsvlt.com
@@ -242303,6 +242318,7 @@ kgm-ogtt.com
 kgm-ogu.com
 kgm-onlineodeme.org
 kgm-oqm.com
+kgm-oqv.com
 kgm-poc.novadsa.com
 kgm-sorgu-com.tk
 kgm-sorgula.org
@@ -255063,8 +255079,10 @@ loglnsoutlookonline.ddns.net
 loglnsoutlookport.ddns.net
 loglnsoutlooks.ddns.net
 loglnsoutlooks.hopto.org
+logmeeine.com
 logmein-cloud.com
 logmekvk.duckdns.org
+logmeln.com
 logn-micrsftonine-con.ml
 logn-trzor-org.webflow.io
 logn-trzor-secure-app.webflow.io
@@ -345280,6 +345298,7 @@ siterkaserimdani.uno
 siterkaserimdanii.cyou
 sites--itrustcapetal-auth.webflow.io
 sites-google-trezorr.webflow.io
+sites-phantom.com
 sites.denztatilde.online
 sitesafecdn.hopto.org
 sitesatmisnndmd.sa.com
@@ -353939,6 +353958,7 @@ stanleykampanyam.store
 stanleymarket.biz.tr
 stanleymarket.info.tr
 stanleymarket.net.tr
+stanleyrevive.xyz
 stanleysepetleri.xyz
 stanleysoktafirsat.net.tr
 stanleysoktayeni.duckdns.org
@@ -362572,6 +362592,7 @@ tcmasakdosya.org
 tcmasakportal.org
 tcmb-1123.com
 tcmb-assistantss.com
+tcmb-basvuru-online.blogdns.net
 tcmb-bddk.ml
 tcmb-bddk.tk
 tcmb-bddkiadeonay.com
@@ -369170,6 +369191,7 @@ tokibasvqurutoplukonut.com
 tokibasvrss.cfd
 tokibasvrulariii.com
 tokibasvur.com
+tokibasvur.net
 tokibasvur.online
 tokibasvur.org
 tokibasvur.site
