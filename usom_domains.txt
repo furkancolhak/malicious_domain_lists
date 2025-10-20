@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-20T03:05:14.216787
+# Updated: 2025-10-20T04:05:13.148246
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -24172,6 +24172,7 @@
 500binkonutbasvuru.sbs
 500binkonutbasvuruekrani.com
 500binkonutbasvurularionline.webredirect.org
+500binkonutonlinebasvuru.webhop.org
 500binkonutprojembasvuruekrani.com
 500binkonutprojesi.com
 500binkonutprojesi.org
@@ -235385,6 +235386,7 @@ kaliteligirislerimm.pw
 kaliteligirislerimtek.pw
 kaliteligirislerimtekim.pw
 kaliteligirisslerimm.online
+kaliteligunlerdebugunler.xyz
 kalitelihaber.fun
 kalitelihiizliadresimm.space
 kalitelihizliadresimm.space
@@ -390553,6 +390555,7 @@ vatandas-uyap-gov.eu
 vatandas-uyap.b-cdn.net
 vatandas-uyap.cfd
 vatandas-uyap.com
+vatandas-uyap.net
 vatandas-uyapgiris.com.tr
 vatandas-uyapgov.online
 vatandas-uyappgov.cloud
