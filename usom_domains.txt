@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-20T18:05:13.997990
+# Updated: 2025-10-20T19:05:13.854428
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -571,6 +571,7 @@
 0536d340.hwqwwrh.com.cn
 054bhu3.cn
 055212505555.duckdns.org
+0555012021202.duckdns.org
 0555054412505.duckdns.org
 055512585505.duckdns.org
 055hd.com//db_template.php
@@ -153998,6 +153999,7 @@ erisimim.site
 erisimin.online
 erisimin.website
 erisimonlin.my-homeip.com
+erism-onl2.my-homeip.com
 eritol.store
 erizli.top
 erj5ki8i.duckdns.org
@@ -184123,6 +184125,7 @@ guncel-alim.online
 guncel-alimin.online
 guncel-alimlar.online
 guncel-basvuru-sayfasi.org
+guncel-basvurular-2025.blogdns.net
 guncel-basvurular.org
 guncel-basvurularburda.org
 guncel-bilgi.site
@@ -187632,6 +187635,7 @@ haalktenvyerivar.cf
 haalktenvyerivar.ga
 haalktenvyerivar.gq
 haalktenvyerivar.tk
+haammamamammamam8273.com
 haang.ddns.net
 haangg.ddns.net
 haanggg.ddns.net
@@ -269906,6 +269910,7 @@ mobiltr-islem.com.tr
 mobiltr-islemler.com.tr
 mobiltr-islemlerin.com.tr
 mobiltr-islemlerle.com.tr
+mobiltr-siparis.com.tr
 mobiltrafikveznesi.ml
 mobiltrbasvuruportali-besinciyilaozel-tr.tk
 mobiltrbn2022-tekno-2022gunlerimusterilerimizle.com
@@ -288227,6 +288232,7 @@ onl1ne-verif1cat1on.zapto.org
 onl1neb1mcelp4ketyukle.com
 onl1nemlgros.shop
 onl1nerandevualxd.net
+onl2.my-homeip.com
 onlalnie-xmrkktfirstllrifyla.net.tr
 onlanykazanaldin.blogspot.com
 onlaozelreklamfirsatlari.ddnsgeek.com
