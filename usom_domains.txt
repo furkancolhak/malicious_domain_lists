@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-20T12:05:14.205609
+# Updated: 2025-10-20T13:05:12.799602
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -44193,6 +44193,7 @@ aejva.ddns.net
 aek267.duckdns.org
 aek8gnr.cn
 aeketgbjyunxvbc.su
+aelmarix.com
 aemo6vnxv.duckdns.org
 aemoruhsl.com
 aempesqnrh.com
@@ -56924,6 +56925,7 @@ anindabudsgetkirala.online
 anindaburadabizsizonline.top
 anindabzlrlebsvrnzszde.com.tr
 anindacebinde.online
+anindacicekcilik.com
 anindadeniz.xyz
 anindadenizbankacilik.duckdns.org
 anindadenizjetlimit.duckdns.org
@@ -91009,6 +91011,7 @@ bncrtr2.xyz
 bncrtr3.xyz
 bncrtr4.xyz
 bncrtr7.xyz
+bncrtr8.xyz
 bncs.1dnserver.com
 bncs2024-roll-20241252-202412.com
 bncs2024-roll-3523582-202421.com
@@ -92098,6 +92101,7 @@ bnturkeygiris2.com
 bnturkeygiris4.com
 bnturkeygiris4.site
 bnturkeykolaygiristr.com
+bnturkeykolaygiristr.site
 bnturkeykolaygiristr.xyz
 bnturkeykripto.xyz
 bnturkeykriptoparaaalimsatimplatformuanonimsirketi.com
@@ -94818,6 +94822,7 @@ brymndrlerigldi.com
 bryndnglmdn.xyz
 brynlnrdwvrasd.bond
 brynlrsnzbrndsn.ignorelist.com
+brynlyrssnkzbrdsas.ignorelist.com
 brynlyrzbrdnasndrs.icu
 brysel-garanti.com
 brysel-onlne.site
@@ -99335,6 +99340,7 @@ bykmaxsdkacmzz.com
 bykmazxsaew.com
 bykndrlmrdszvrd.shop
 bykrbsvr.online
+bykrhelp.com
 bykrush.com
 byks1.xyz
 byksehirbldyesi.click
@@ -128712,6 +128718,7 @@ dijital-ziraatonayweb.site
 dijital-ziraatweb.com
 dijital-ziraatweb.sbs
 dijital-ziraatwebgiris.sbs
+dijital-ziraatwebhizli.sbs
 dijital-ziraatwebmobil.com
 dijital.detaylari.site
 dijital.emlakasdqwe.com
@@ -153967,6 +153974,7 @@ erisim.website
 erisimim.site
 erisimin.online
 erisimin.website
+erisimonlin.my-homeip.com
 eritol.store
 erizli.top
 erj5ki8i.duckdns.org
@@ -160665,6 +160673,7 @@ fasttmarket.com
 fasttsigortaa.com.tr
 fasttsigortaa.name.tr
 fasttsigortaa.net.tr
+fastttalent.com
 fastupdatemanager.top
 fastuploads.xyz
 fastvemilemertty.net
@@ -162776,6 +162785,7 @@ file-cloud.company
 file-connection-all-ez.com
 file-docu.duckdns.org
 file-enter-web.com
+file-epq.pages.dev
 file-host4.com
 file-link-all-easy.com
 file-link-all-simpleshop.com
@@ -163897,6 +163907,7 @@ firsan.org
 firsarara.sbs
 firsararara.cfd
 firsasainews.com
+firsasanewss.webredirect.org
 firsasisanews.webredirect.org
 firsat--tr--bbav.xyz
 firsat-1-0-1.com.tr
@@ -206316,6 +206327,8 @@ homebet.totalh.net
 homebone.top
 homebrewclubs.org
 homebrewfaq.org
+homebrewfaq.us
+homebrewlub.us
 homebrewonline.org
 homebrewrp.com
 homebrewupdate.org
@@ -224409,6 +224422,7 @@ islemleriyonet.de
 islemlerkm.org
 islemlerkolaydirnface.net
 islemlerle-tr.com
+islemlerle-webde.com
 islemlerleyonlenme.blogspot.com
 islemlerlifeaktar.duckdns.org
 islemlermenusu.blogspot.com.tr
@@ -242963,6 +242977,7 @@ kilometredurumusimdiihizli.web.app
 kilometreessorugzgorvptt.duckdns.org
 kilometreessorugzgovptt.duckdns.org
 kilometreessorugzzgorvptt.duckdns.org
+kilometrefcker.cfd
 kilometregecmisi.cfd
 kilometregovsorgulama.org
 kilometregulyan.shop
@@ -268261,6 +268276,7 @@ mobildenbuayaozelfirsati.online
 mobildende.com
 mobildendenizbannk.com
 mobildenformdolduriadeal.ml
+mobildengir.mefound.com
 mobildengiris.mefound.com
 mobildenhizli.sbs
 mobildenhizlikampanyabnancebasvurusu.tech
@@ -322157,6 +322173,7 @@ remittancebnk.com
 remittunit-tr.com
 remiwantnun.com
 remixspot.com
+remjoks.com
 remkoboupdated.duckdns.org
 remnantproblem.top
 remnantsalutation.top
@@ -330559,6 +330576,7 @@ sahibinden.info
 sahibinden.islem-alisveris-hizmet.online
 sahibinden.islemler-webde.com
 sahibinden.islemlerim-online.com.tr
+sahibinden.islemlerle-webde.com
 sahibinden.iyzico-get-safe.com
 sahibinden.joepanel.com
 sahibinden.kolay-alimsatim.com.tr
@@ -341195,6 +341213,7 @@ shibndenparamguvendee.ml
 shibndxen-com.org
 shibopariibox.com
 shibsizlere.xyz
+shiehds.com
 shield-checker.com
 shieldaffixation.fun
 shielditlabel.com
@@ -344850,6 +344869,7 @@ siparislergelir.org
 siparislerguven1iklidir.xyz
 siparisleri12agustosta.net
 siparislerim-banaozel.com
+siparislerim-onayli-127451.com
 siparislerim.net
 siparislerimhizlim.cloud
 siparislerin.com
@@ -346846,6 +346866,7 @@ slmbzbrdvrdksz.shop
 slmbzdenbrdasznrds.shop
 slmdikiflrsatisteburasi.xyz
 slmelernizanndaxc.xyz
+slmgr.win
 slmlererernizsgrelss.xyz
 slmndicd.de
 slmp1vkxajc0e0g.ddns.net
@@ -348932,6 +348953,7 @@ solublehover.top
 solucanziraat.com
 soluciondeahora.duckdns.org
 solucionesgeofisicas.slack.com
+soluflora.com
 solus.today
 solustar-ppc.com
 solustar-seo.com
@@ -372433,6 +372455,7 @@ tradingview-software.org
 tradingview.connect-app.us.com
 tradingviewdev.com
 tradingviewen.com
+tradingvieweu.com
 tradingviewindicator.dev
 tradingviews-software.com
 tradingviews-software.net
