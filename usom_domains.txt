@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-21T02:05:13.874948
+# Updated: 2025-10-21T03:05:14.215048
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -67747,6 +67747,7 @@ baaykar.com
 baayramfirsatlari.online
 baayykar.com
 baayykaren.com
+baayykarr.com
 bab24242424boboo125.com
 baba-asle-behtarin100.buzz
 baba-asle-behtarin20.buzz
@@ -134492,6 +134493,7 @@ durmasendekadinlaradestekol.tk
 durmayankapmayaklar.com.tr
 durmayankapmayaklar.online
 durmayukle.22web.org
+durnelis.com
 durrantitiy.site
 dursunocak.cfd
 durubey.com
