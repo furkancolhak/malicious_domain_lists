@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-24T11:05:13.973948
+# Updated: 2025-10-24T12:05:13.433320
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -11524,6 +11524,7 @@
 194.11.226.9
 194.110.247.39
 194.110.247.46
+194.110.247.97
 194.113.107.124/bins
 194.116.217.39
 194.120.230.115
@@ -24236,6 +24237,7 @@
 500dolarbinancehediyegirisleri.ml
 500ed27c.top
 500konut-bsrv.click
+500konut-bsrv.lol
 500konut-bsrv.sbs
 500prbhediye.taplink.ws
 500tl-pandemi-destek.com
@@ -54868,6 +54870,7 @@ alovergim.net
 alowaxyxx.net
 alox.my-style.in
 aloxwpfhwhtcgiq.su
+aloyogaoutlet.com.tr
 alozgrhizmet.com
 alp2-3projects.com
 alpafn.html-5.me
@@ -66589,6 +66592,7 @@ azq1h4k.duckdns.org
 azqyoumwge.duckdns.org
 azracateringme.ae/connection.php
 azracicek.net
+azracicek.org
 azramcicek.com
 azrom.duckdns.org
 azrr.blob.core.windows.net
@@ -83098,6 +83102,7 @@ binbircesit.site
 binbiryorum.xyz
 binbiryukleme.22web.org
 binblunt.top
+binc6.sbs
 bincande88297831244.online
 binccoco.com
 bincell-odemenoktams.gq
@@ -117705,6 +117710,7 @@ damar.hopto.org
 damardamar.ddns.net
 damarket.online
 damatgitti.xyz
+damatmacunu.cfd
 damatmacunu.xyz
 damatmacunus.xyz
 damavand-hr.me
@@ -166458,6 +166464,7 @@ fiyatinidusun.com.tr
 fiyatiniduydumaldim.xyz
 fiyatkarsilastir.cfd
 fiyatlar-dusunce-bizim-aklimiz-da-gitti.com
+fiyatlarinyalaninisoylemedigitekadres.cfd
 fiyatsokunuyasayacaginizalisveris.cfd
 fiyaxper.com
 fiyfecphfygvexq.su
@@ -208269,6 +208276,7 @@ hsbc-secure-verify.com
 hsbc-turkey.com
 hsbc-verification.com
 hsbc-verify4me.ddns.net
+hsbc.campaign-5.biz.id
 hsbc.securelogin-paymentscheckalert.com
 hsbc1secureonline.com
 hsbc2323.com
@@ -242719,6 +242727,7 @@ kgm-gov.xyz
 kgm-govc.sbs
 kgm-govc.top
 kgm-govc.xyz
+kgm-gove.top
 kgm-govm.top
 kgm-govm.xyz
 kgm-govn.life
@@ -242738,6 +242747,7 @@ kgm-govz-tr.cfd
 kgm-guv.com
 kgm-hgs.com
 kgm-kgs.com
+kgm-oga.com
 kgm-ogc.com
 kgm-ogd.com
 kgm-ogi.com
@@ -243348,6 +243358,7 @@ kilometrecozutan.cfd
 kilometredebarinamazsin.web.app
 kilometredeheptekim.cfd
 kilometredelirten.cfd
+kilometredelisi.cfd
 kilometredenuzayin.cfd
 kilometredetaylari.web.app
 kilometredetekimheptekim.web.app
@@ -254627,6 +254638,7 @@ lllparlbu.com
 lllpttlavmlislemlerl.click
 lllpttllavmllkilometrell.click
 lllrbgpc.xyz
+lllstanbnnllkxrtmmbasvlrrr.giize.com
 llltttrmbllonllineisllemmenugiris.net
 lllxmrdavss.net
 lllyyy.adsoft.name
@@ -317630,6 +317642,7 @@ qnbkazaniyor.com
 qnbkisatlicim.com
 qnbkmpnaaprsmynn.click
 qnbkmpnsyr.vercel.app
+qnbkmpnyaaa.click
 qnbkmpnyir.vercel.app
 qnbkmpnyrrr.vercel.app
 qnbkredikampanyalari.com
@@ -348185,6 +348198,7 @@ snkrcylsn.com
 snkzalyrmbrdan.mooo.com
 snkzalyrmbsfer.bond
 snkzbrasdnadandaysad.shop
+snkzbrdanbryaya.mooo.com
 snkzbrdangeldasdqwe.bond
 snkzbrdangldkbasdg.bond
 snkzbrdangldksz.bond
@@ -369877,6 +369891,7 @@ tokgebyron.duckdns.org
 toki-2025.com
 toki-adresi.xyz
 toki-bas-vur.net
+toki-basvur-2025.com
 toki-basvur.cfd
 toki-basvur.com
 toki-basvuru-99.blogspot.com
@@ -369946,6 +369961,7 @@ tokibasvuru.net
 tokibasvuru.online
 tokibasvuru.org
 tokibasvuru.tech
+tokibasvuru.xyz
 tokibasvurubasladi.net
 tokibasvuruedevlet-20f08.kxcdn.com
 tokibasvuruguncel.net
@@ -370042,6 +370058,7 @@ tokiibasvurus.blogspot.com
 tokiibasvurusu.blogspot.com
 tokiilerbasvuruu.sa.com
 tokiilkevimbasvuru.site
+tokiilkevimbasvuruekrani.com
 tokikbasuvurlari.blogspot.com
 tokikonut.org
 tokikonutal500binbasvuruekrani.com
@@ -395927,6 +395944,7 @@ vodafonered-kolaylik.com
 vodafonered-yanimda-tr.com
 vodafonered-yanimda.com
 vodafoneredde.com
+vodafonesanalsunucu.com
 vodafonetarifeler.net
 vodafonetlpaket.biz
 vodafonetlyukleme.com
