@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-25T20:05:13.855138
+# Updated: 2025-10-25T21:05:15.619769
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -76477,6 +76477,7 @@ beyazisikvakfi.com
 beyazisikvakfi.site
 beyazkirmizi.xyz
 beyazkoc.store
+beyazkoc.xyz
 beyazlar.name.tr
 beyazsayfa.name.tr
 beyazsigorta.site
@@ -90933,6 +90934,7 @@ bnbtr7yilkutlamalaribasvur.com
 bnbtrdenfirsatlar.ml
 bnbtrdenozelfirsatlar.ml
 bnbvwx.click
+bnbxcsdtrgrxcs.info
 bnbxsa.nichesite.org
 bnbyaribakiyenialhemen.net
 bnbytr-online-islemleri.cloud
@@ -95470,6 +95472,7 @@ bsvruu3.click
 bsvruu40.click
 bsvruu45.click
 bsvruu50.click
+bsvruu55.click
 bsvruuu17.sbs
 bsvruuu18.click
 bsvruyon.click
@@ -129057,6 +129060,7 @@ dijitalbasvurumobildenizgiris.co.vu/indexs.php
 dijitalbasvurun.online
 dijitalbasvurun.xyz
 dijitalbasvurunuz.sbs
+dijitalbasvuruonaylslemim.shop
 dijitalbasvuruweb-ziraat.com
 dijitalbayii2.shop
 dijitalbbva.com
@@ -150306,6 +150310,7 @@ emlakdanisman.sbs
 emlakduyuru.click
 emlakemenizfiz.net
 emlakenpara.com
+emlakfirsat.click
 emlakgiris.com
 emlakgunm.net
 emlakhaber.sbs
@@ -192789,6 +192794,7 @@ handle.pamphler.com
 handling.ddns.net
 handmagamsmamsmaiamsmamsmmamdahamamdma.xyz
 handmajesty.top
+handmammvkakgksklamewkdkkakdskdl12451200.site
 handmammvkakgksklamewkdkkakdskdl3400.site
 handmammvkakgksklamewkdkkakdskdl92348.site
 handndhanfnvkskflgalxn013474.xyz
@@ -235004,6 +235010,7 @@ kacrimsaindirimini.store
 kacsirsammisezonu.shop
 kacyirilmayacakaksamalisverisi.cfd
 kacyirilmayacakmarketindiriminiveriyoruz.cfd
+kacyrilmayacakkarsaglayanalisveris.cfd
 kad532emnd.store
 kadada.xyz
 kadadvt-dsvlt.com
@@ -370392,6 +370399,7 @@ tokisosyalkonutevbasvuru.vercel.app
 tokisosyalkonutlar.com
 tokisosyalkonutlar.sa.com
 tokisosyalkonutlar.vercel.app
+tokisosyalkonutlarbasvur.vercel.app
 tokisquare.site
 tokissbasvurulardagel.blogspot.com
 tokissleregela.com
