@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-26T20:05:12.443548
+# Updated: 2025-10-26T21:05:14.469744
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -14794,6 +14794,7 @@
 2025rmcnewcreate.duckdns.org
 2025s0rgu-yap.com
 2025senikampanya.top
+2025sghbsvbsvr.sbs
 2025sonfirsatlari.online
 2025tenduyurular.com
 2025tenhaberler.com
@@ -70628,6 +70629,7 @@ basvurdumfirsatimianindaonay.xyz
 basvurdumonayladimfirsatim.info
 basvurdumonayladimfirsatim.xyz
 basvurdumsonbaharfirsatidenizle.online
+basvurdunuzkolycabrda.giize.com
 basvuredevlet.com
 basvuredevletiade.com
 basvurerc.com.tr
@@ -71826,6 +71828,7 @@ basvurukredi.cf
 basvurukredi.com
 basvurukredi.info.tr
 basvurukredi.link
+basvurukredi.sbs
 basvurukredim.com
 basvurukredim.net
 basvurukredisidenizbank.co.vu
@@ -93266,6 +93269,7 @@ bonusumflas-garant.click
 bonusumuz1.b-cdn.net
 bonusunburada.digital
 bonusuncepte.digital
+bonusunhazir.digital
 bonusuniversalydontmisstheseptembercampaign.cloud
 bonusunuala.b-cdn.net
 bonusunuzparibuda.com
@@ -95493,6 +95497,7 @@ bsvruu45.click
 bsvruu50.click
 bsvruu55.click
 bsvruu60.click
+bsvruu70.click
 bsvruuu17.sbs
 bsvruuu18.click
 bsvruyon.click
@@ -100406,6 +100411,7 @@ caerperch.top
 caezvdor.in
 cafa-tickets.com
 cafafafa.xyz
+cafasdesam.cfd
 cafawelding.co.za//db_template.php
 cafawelding.co.za/font-awesome/db-config-ini.php
 cafawelding.co.za/font-awesome/db_template.php
@@ -105028,6 +105034,7 @@ ceptesok.com.tr
 ceptesok.ct.ws
 ceptesok.gt.tc
 ceptesok.net.tr
+ceptesok.superindirim.cfd
 ceptesok.yazaozel.cfd
 ceptesokaktuel.com
 ceptesokaktuel.online
@@ -157447,6 +157454,7 @@ evjgfrhqbv.duckdns.org
 evjkrldjrbsvr.net
 evjrdkrskgrj.net
 evjrht.com
+evkacirmayin.click
 evkamlaskvrdi.net
 evkasdqwda.net
 evkazanci.click
@@ -220554,6 +220562,7 @@ internet-kampanyalar.site
 internet-kampanyalari.org
 internet-kampanyalari.site
 internet-kampanyalarim.com
+internet-kampanyam.sbs
 internet-kampanyasec.com
 internet-kampanyasec.net
 internet-kampanyasec.org
@@ -228793,6 +228802,7 @@ izdzdzimrgl.net
 izehbruc.com
 izelgisizmir.net
 izell.org
+izeltas101first4x.duckdns.org
 izeltasadresim.xyz
 izeltasaldinaldin.xyz
 izeltasalmak.xyz
@@ -239724,6 +239734,7 @@ karkaas674.shop
 karkaine.com
 karkar.zapto.org
 karkatalogirislemenusu.com
+karkazanirkenkimseninfarketmedigiyollar.cfd
 karkazanirkenkimseninfarketmedigiyontem.cfd
 karknulogan.webflow.io
 karko-bayiyetkili.com
@@ -247090,6 +247101,7 @@ kontrollunuzusagllyoruz.com
 kontrolmekani.com
 kontrolmekanizmasi.com
 kontrolreport.com
+kontrolsagla.site
 kontrolservis.xyz
 kontrolsikayetvar.cf
 kontrolsikayetvar.gq
@@ -370248,6 +370260,7 @@ toki-yonlendirme.online
 toki-yuvam.click
 toki-yuvam.forum
 toki.2024ocak-kampanyasi.vip
+toki.2025sghbsvbsvr.sbs
 toki.2025xjsbasvurunt-oki.xyz
 toki.basvuru-2025.sbs
 toki.basvuruyorum.com
@@ -370441,6 +370454,7 @@ tokilibasvurularim.net
 tokim.bounceme.net
 tokim.vercel.app
 tokimkonutbasvurusu.cloud
+tokimnetevim.store
 tokimobil.vercel.app
 tokimobilbasvuru.shop
 tokimobile.vercel.app
@@ -370462,6 +370476,7 @@ tokipislemleri.click
 tokiportalhub.digital
 tokiproje.com
 tokiprojesi.com
+tokiresmibasvurun.wordpress.com
 tokisahibiol.com
 tokisatisedevlet-2137d.kxcdn.com
 tokisbasvuru9.blogspot.com
@@ -409474,6 +409489,7 @@ www-tojs-pak-ettt12.blogspot.com
 www-toki-basvur-gov-tr.com
 www-toki-basvur-gov-tr.xyz
 www-toki-basvuru-gov-tr.click
+www-toki-basvuru-gov-tr.cloud
 www-toki-basvuru-gov-tr.com
 www-toki-gov-tr.blogspot.com
 www-toki-gov-tr.cloud
