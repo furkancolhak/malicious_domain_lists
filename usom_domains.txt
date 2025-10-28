@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-28T19:05:13.927572
+# Updated: 2025-10-28T20:05:12.860126
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -53345,6 +53345,7 @@ aldinkapidafrsattlar1o1.com
 aldinkapidafrsattlar1o1.online
 aldinkapidafrsattlar1o1.xyz
 aldinkialacazburda.duckdns.org
+aldinkikazanacazba.blogdns.org
 aldinligunler.com
 aldinlldinnnnflrkmckflrkcmsdlfr.store
 aldinmatkaps505.xyz
@@ -105726,6 +105727,7 @@ cevirkazankampanyasisizlerle1.cloud
 cevirkazansendekazan.com
 cevirkzansendekazan.com
 cevixzcibcell.net
+cevizlbiakalsd.blogspot.com
 cevizyuklemeci.rf.gd
 cevo0lastsnlk.shop
 cevrekars.com
@@ -156878,6 +156880,7 @@ evbasvurulariniz.click
 evbasvurum.com
 evbasvurunuz.xyz
 evbkjnrkljgn.net
+evburada.click
 evcalisma.com
 evcanpaket.store
 evcaveresbelek.top
@@ -164422,6 +164425,7 @@ finehaber.life
 finehax.ddns.net
 fineiceberg.top
 fineislem.22web.org
+finelyu.com
 finessebitcoin.duckdns.org
 finestinstitute.club
 finestzula.net
@@ -173188,6 +173192,7 @@ garantibbvakredi.vercel.app
 garantibbvakredibasvuru.com
 garantibbvakredibasvurumerkezi.mefound.com
 garantibbvakredibasvurusu.com
+garantibbvakredibasvurusu.online
 garantibbvakredileriall.com
 garantibbvakredim.ml
 garantibbvakredin.com
@@ -205449,6 +205454,7 @@ hizlisisteminiz.blogspot.com
 hizlisistemligecisleri.sg-host.com
 hizlisistemyukleme.sg-host.com
 hizlisistemyuklemeler.sg-host.com
+hizlisitanbulcusndus.store
 hizlislem-musterigovtr.com
 hizlislem-ogptthsgs.com
 hizlislem-ogptthssgs.com
@@ -226682,6 +226688,7 @@ istannz.com
 istannz.net
 istannzzs.net
 istanrbulkart.blogspot.com
+istansbulbrhzilsi.com
 istantrbilgmr.fun
 istanvblrtkrt.net
 istanvbulcumvcx.net
@@ -247655,6 +247662,7 @@ konutonbasvuru.com
 konutresmibasvuru-21.com
 konutsalisiniz.com
 konutsalprojeler.app
+konutsayfasi.shop
 konuttrend.click
 konutu-basvuru.click
 konutu-basvurular.click
@@ -329305,6 +329313,7 @@ sadeceonlnsfirsatladsa.duckdns.org
 sadeceonlnsfirsatlslarc.duckdns.org
 sadeceonlscffstrcv.blogspot.com
 sadeceonlscffstrcvgfcz.blogspot.com
+sadeceonlsfirstlarfrtrtr.blogdns.org
 sadeceonlsfirstlarfstr.blogdns.org
 sadeceonlsfirtlardtr.blogdns.org
 sadeceonlyandaalisvers.blogdns.org
@@ -329349,6 +329358,7 @@ sadeconlfsitozelfirsatlar.blogspot.com
 sadeconlfsitozelfirsatlartrssftr.blogspot.com
 sadeconlfsitozelfirsatlartrstr.blogspot.com
 sadeconlinea1o1kampanya.duckdns.org
+sadeconsdlfirtlartrfstrftr.blogspot.com
 sadecsizddegellin.com.tr
 sadecusmbasladigene.duckdns.org
 sadedonlod.top
@@ -352548,6 +352558,7 @@ sosyalkonutbasvuru2026.vercel.app
 sosyalkonutbasvurusu.net
 sosyalkonutbasvurusu.vercel.app
 sosyalkonutbasvurusum.vercel.app
+sosyalkonutilkevim.com
 sosyalkonutilkevimilkisyerim.net
 sosyalkonutlar.net
 sosyalkonutlarabasvur.net
@@ -362626,6 +362637,7 @@ tarihrandevu.app
 tariim2024firsat.online
 tarikagcay.xyz
 tarikbacaklari.sbs
+tarim-deniz.my-homeip.com
 tarim-giris-hizli.com
 tarim-kooperatiff.online
 tarim-kooperatiff.xyz
@@ -365306,6 +365318,7 @@ technovibe.live
 technoview.online
 technovortex.online
 technoworld.online
+techonlogy-bn.click
 techorbitrj5.click
 techoryx.online
 techpenopen.com
