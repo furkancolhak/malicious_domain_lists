@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-28T18:05:12.906496
+# Updated: 2025-10-28T19:05:13.927572
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -29126,6 +29126,7 @@
 78.88.111.28
 780a.makeki0x1.com
 782y376280ki327.icu
+783410583.cloud
 7834216376219410.com.tr
 7834216376219420.online
 7834216376219430.com.tr
@@ -30337,6 +30338,7 @@
 81hk0c.duckdns.org
 81ieneee.com
 81ilbasburularkonut.xyz
+81ilbasvur.shop
 81ilzamanigeldi.org
 81kad0m1d.duckdns.org
 81o0yxnpu.duckdns.org
@@ -73277,6 +73279,7 @@ baykarinvestment.com
 baykarkatilim.com
 baykarlanding.vicchk.com
 baykarnews.com
+baykarnews.info
 baykarnews25.pro
 baykarnow.com
 baykarorganizasyon.aegeanlaser.com
@@ -75511,6 +75514,7 @@ belediyeisibizim.com
 belediyeislemsvakit.net
 belegsorgulama-yee-iraq.com
 belemnitic.com
+belesenderesin.duckdns.org
 belesfal.com
 belespanel.cloud
 beletheric.vielitord.ru
@@ -95015,6 +95019,7 @@ brokoliva.net
 brolandcarstroyrs.com
 brolardkas184.com
 brolarkafa.com
+brolyra.com
 bromather.xyz
 bromhydrate.com
 bromide.xyz
@@ -95423,6 +95428,7 @@ bsvrcm.site
 bsvrdiadealcffs.com
 bsvrdstk.online
 bsvrdyssongunkatl.duckdns.org
+bsvrdznzz.click
 bsvrekran.net
 bsvrekrani.net
 bsvrfrmgbvvatr.in
@@ -95717,6 +95723,7 @@ bsvurunburada.net
 bsvurunburada.site
 bsvurundevamet.site
 bsvurutrduyurular.online
+bsvuruyon5.click
 bsvvronline-hazir.com
 bsvvrrr.online
 bsvvrrrrisssssbaaann.cloud
@@ -165500,6 +165507,7 @@ firsatkampanyagunleri.com
 firsatkampanyagunleriekimdunyasi.online
 firsatkampanyagunlerin.com
 firsatkampanyagunlerin.info
+firsatkampanyahazir.site
 firsatkampanyaicinbasvuruadresibance.site
 firsatkampanyakasimayi.com
 firsatkampanyalari-hediyepuan-kampanyasi-tk.com
@@ -166403,6 +166411,7 @@ firsatsende.com.tr
 firsatsende.xyz
 firsatsendebasvur.com
 firsatsendee.site
+firsatsendekmpnya.site
 firsatsendeziraatim.online
 firsatsendgelkuv.chickenkiller.com
 firsatseninle.sbs
@@ -183718,6 +183727,7 @@ grinfoam.top
 grinfoul.top
 gringaretas.top
 griniljjjilijjilijllia.com
+grinmlevel.shop
 grinning-lips.tk
 gripemigration.top
 gripendow.top
@@ -209698,6 +209708,7 @@ human-fly900.online
 human-verify-4r.pro
 human-verify-7u.pages.dev
 human-verify.shop
+human-waste.com
 human1resource.ddns.net
 humanegardens.com
 humanimmersion.top
@@ -247622,6 +247633,7 @@ konutbasvurusuhizliform.cloud
 konutbasvurutamamla.cloud
 konutbilgi.click
 konutcan.com
+konutcozum.com
 konutdestegi6060.net
 konutduyuru.click
 konutemlakgayrimenkul.info
@@ -291451,6 +291463,7 @@ onlineborcsorgulama.com
 onlinebrcsorgu.com
 onlinebrcsorgulama.com
 onlinebrnnrctr-girisi.com
+onlinebsvrnpra.site
 onlinebsvuru-girisbnnrtr.com
 onlinebsvurular2025.sbs
 onlinebtk.com
@@ -310401,6 +310414,7 @@ profevdeisimkanicom-t-r.blogspot.com
 profevdeisimkanicom-tr.blogspot.com
 profevdeisimkanicomtr.blogspot.com
 profevdeisimkanii.blogspot.com
+profevoasdasd.click
 profexsystem.com/dist/3wir6tggzdn5vde/fkckyftvmfhupviqapyjifvkvbkcwr/
 proff-portal.info
 proffbuilder.com
@@ -325207,6 +325221,7 @@ rexonilan.cix-tr.com
 rexspot7x.xyz
 rexsrupmoney979.ditchyourip.com
 rexstat35x.xyz
+rexxinthoryza.info
 reyevenet.com
 reyevenet.net
 reyevenet.online
@@ -351685,6 +351700,7 @@ sorbizesor.lol
 sordglahizmet.com
 sordid-zenith-intelligence.glitch.me
 sorehumiliation.top
+sorelkimya.com
 sorento.fi
 sorfflzlan.xyz
 sorflr.com
@@ -389389,6 +389405,7 @@ vacationclubbenefit.com
 vacationluminous.top
 vacationnomination.top
 vacationsnatch.top
+vacbroun.com
 vaccaplog.ru
 vaccatiion-erturens.home.kg
 vaccinateaftermath.top
@@ -402012,6 +402029,7 @@ website665z22f.nicepage.io
 website666454211.nicepage.io
 website66645621a.nicepage.io
 website6664643534123.nicepage.io
+website66746745233.nicepage.io
 websitedesign.com.mm
 websitedesignhouston.com
 websitekampanyasi.tk
@@ -403698,6 +403716,7 @@ wikiwand-works.com
 wikixt.website.tk
 wikklu.cn
 wiknet.mooo.com
+wikshane.com
 wikshov-tr.com
 wilandsabim.info
 wilboktr.com
@@ -422873,6 +422892,8 @@ yasarvakif.com
 yasarvakifi.com
 yasarvakifi.org
 yasasin101firsati.vercel.app
+yasasincumhuriyet.lol
+yasasincumhuriyetimiz.lol
 yasatalim.online
 yasayanfirsatadersim.com.tr
 yasayanfirsatadersim.xyz
@@ -428966,6 +428987,7 @@ yuktl.ink
 yuktl.link
 yuktl.tel
 yukumar643.xyz
+yulak.click
 yulanda.hopto.org
 yulasopa966.weebly.com
 yuloasa.xyz
@@ -432954,6 +432976,7 @@ ziraatte-yaz-kampanyasi.com
 ziraatte250kampanyalari.tk
 ziraattemobil.com
 ziraattemobilyenilik.com
+ziraatten-dijital.sbs
 ziraatten.online-teklif.net
 ziraatten4993.ml
 ziraatteniadeler.com
