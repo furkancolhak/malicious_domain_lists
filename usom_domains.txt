@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-29T12:05:14.383408
+# Updated: 2025-10-29T13:05:32.807333
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -238,6 +238,7 @@
 011112021215210.duckdns.org
 011122211011.duckdns.org
 01121200212102.duckdns.org
+0112120212012.duckdns.org
 0116254-teaxmacc.com
 0116254team-acc.com
 0116254teamacc.com
@@ -24341,6 +24342,7 @@
 500konut-bsrv.sbs
 500konutbasvuru.sbs
 500konutprojesi.lol
+500konutprojesi.sbs
 500prbhediye.taplink.ws
 500tl-pandemi-destek.com
 500tl-yukle-finansbank.com
@@ -73224,9 +73226,11 @@ baykar-baykoin.world
 baykar-fashion.ru
 baykar-fly.digital
 baykar-invest.com
+baykar-investment-opportunity.com
 baykar-investmentopportunity.com
 baykar-news.info
 baykar-opt.com.ua
+baykar-platform.com
 baykar-pro.world
 baykar-teknolojiler.pro
 baykar-tr.click
@@ -73259,6 +73263,7 @@ baykar6.jabjee.com
 baykara.eu
 baykaradim.com
 baykaraegitimvakfi.com
+baykarai.net
 baykaral.xyz
 baykarapps.com
 baykaras.xyz
@@ -73289,6 +73294,7 @@ baykarinvest.vip
 baykarinvest.xyz
 baykarinvesting.com
 baykarinvestment.com
+baykarinvestmentopportunity.net
 baykarkatilim.com
 baykarlanding.vicchk.com
 baykarnews.com
@@ -73311,11 +73317,13 @@ baykarrrgelir.com
 baykars-tr.com
 baykars.org
 baykars.trbaykl.com
+baykarsavunmasanayi.com
 baykarsmartai.com
 baykarstr.com
 baykarsystem.tr
 baykarsystems.com
 baykart.trbaykl.com
+baykartech.cc
 baykartech.icu
 baykartech.life
 baykartech.live
@@ -83124,11 +83132,13 @@ binancetrcampssqcaigntogi.vercel.app
 binancetrcdvvolkas.vercel.app
 binancetrceearvel.vercel.app
 binancetrcenwssei.vercel.app
+binancetrchain.sbs
 binancetrclaattimerturkey.vercel.app
 binancetrclaimertueurkey.vercel.app
 binancetrclaimserturkey.vercel.app
 binancetrclaimsmerturkey.vercel.app
 binancetrclaismplace.vercel.app
+binancetrcloud.sbs
 binancetrcom.org
 binancetrconnect.sbs
 binancetrcozum.com
@@ -95451,6 +95461,7 @@ bsvrdiadealcffs.com
 bsvrdstk.online
 bsvrdyssongunkatl.duckdns.org
 bsvrdznzz.click
+bsvrdznzz10.click
 bsvrekran.net
 bsvrekrani.net
 bsvrfrmgbvvatr.in
@@ -111571,6 +111582,7 @@ comolokkodeney.duckdns.org
 comonratto.ddns.net
 comoxxossq.asia
 compact-miracle-abounds.top
+compact.link
 compactembed.ml
 compactmediate.top
 compactrejoice.top
@@ -158462,6 +158474,7 @@ evsaklism.com
 evsaklism.net
 evscklemkaiz.net
 evsdkrltrltr.net
+evsenin.click
 evsgrtinteraktifdairesi.blogspot.com
 evsizler.cloud
 evskdmkaiz.net
@@ -166325,6 +166338,7 @@ firsatlarsubesigeldi.xyz
 firsatlartemmuz-101.space
 firsatlartemmuzda.com
 firsatlartemmuzu.com.tr
+firsatlartirlebiz.xyz
 firsatlartrbasliyortronline.net
 firsatlarvacikdenizv2denizbank.co.vu
 firsatlarvar.com
@@ -182715,6 +182729,7 @@ govtrptt.top
 govtrs.top
 govtrturkiyecom.com
 govtur.top
+govturkey.click
 govturkiye-tr-online-aidat-kontrol-sistemi-aspx.tk
 govturkiye.website
 govuy.cc
@@ -183355,6 +183370,7 @@ gratis.hookextender.com
 gratis.is-a-caterer.com
 gratis.is-a-geek.com
 gratis.laviewddns.com
+gratis.likescandy.com
 gratis.merseine.com
 gratis.myvnc.com
 gratis.servebeer.com
@@ -188765,6 +188781,7 @@ haberler-tr.xyz
 haberler-turk.today
 haberler-turkei-today.online
 haberler.bid
+haberler.dyndns.tv
 haberler.life
 haberler.today
 haberler.win
@@ -216319,6 +216336,7 @@ ilkevimtokii4.sa.com
 ilkevimtokii5.sa.com
 ilkevimtokii6.sa.com
 ilkevimtokii7.sa.com
+ilkevinkayitlari.org
 ilkevkonultlkapi.com
 ilkevlerisattik.cfd
 ilkevm.com
@@ -227278,6 +227296,7 @@ istmn.net
 istmnblkaart.net
 istmnkart.blogspot.com
 istmusicc.surf
+istmvlanca.myshopify.com
 istnaabsstasd.squarespace.com
 istnablakrt.com
 istnabulkant.org
@@ -246404,6 +246423,7 @@ kmpnyambuaakdakrdm.top
 kmpnyasizlerle.blogspot.com
 kmpnyatbe.com
 kmpnyayeniyilxc.blogspot.com
+kmpnybrd-com-tr-525749.hostingersite.com
 kmpnybrd.com
 kmpnylrbrdsizlerle.space
 kmpnylrsonayuz.shop
@@ -256492,6 +256512,7 @@ loiol.site/74vz1
 loiuenhd-etisu.ddns.net
 lojogisoro.com
 lok102010.ddns.net
+lokal-internet-bvtr.digital
 lokal.hazirsite.pro
 lokalut.ru
 lokaxz.xyz
@@ -256593,6 +256614,7 @@ lonanthel.clarachyp.ru
 loncacarpet.com
 loncarr.com
 lonchocarpus.com
+london-borough.com
 london-elektro-market.com
 london-escorts-agency.org.uk
 londoncity.hopto.org
@@ -280630,6 +280652,7 @@ nexiandevel.com
 nexigate.digital
 nexilar.shop
 nexis.pro
+nexixor.com
 nexo-okta.com
 nexo-tr.com
 nexodream.com
@@ -282570,6 +282593,7 @@ nolandsintl.com/templates/wp-config-ini.php
 nolarbusektre.app
 nolcakbudosyalarhakimamca.online
 nolekans.top
+nolinoerti.fit
 nolitko.tr
 nolm5q998.duckdns.org
 nolova.duckdns.org
@@ -348728,6 +348752,7 @@ smartsystems.fun
 smarttech-turk.com
 smarttptt.com
 smartturkproj.com
+smartvisioncom.com
 smartvodafone.duckdns.org
 smartwashingtonhomebuyers.com/iuyknej3
 smartwealth24.info
@@ -350273,6 +350298,7 @@ sokmarketleronline.xyz
 sokmarketlerr.com
 sokmarketlersanal.site
 sokmarketlertr.site
+sokmarketlervveb.com
 sokmarketlerzinciri.online
 sokmarketlim.online
 sokmarketonline.com.tr
@@ -368658,6 +368684,7 @@ thetcneonle.top
 thetcneonle.xyz
 thetcotonthers.com
 thething31.zapto.org
+thetitlebalcony.com
 thetollroads-errp.top
 thetollroads-paytollhmm.xn--world-vz3b
 thetollroads-paytollktc.xn--world-vz3b
@@ -371105,6 +371132,7 @@ tokibasvurumhizli.top
 tokibasvurumm.net
 tokibasvurumonline.click
 tokibasvurumutamamla.online
+tokibasvurumutamamla.site
 tokibasvurumuyapiyorum.b-cdn.net
 tokibasvurunuz.click
 tokibasvurunuzonline.click
@@ -371259,6 +371287,7 @@ tokionlinebasvuru.com
 tokionlinebasvuru.org
 tokionlinebasvuru.vercel.app
 tokionlinebasvurular.vercel.app
+tokionlinebasvurulari.vercel.app
 tokionlinebasvurusu.vercel.app
 tokionlinebasvuruun.net
 tokionlineodeme.com.tr
@@ -398329,6 +398358,7 @@ vvv.hopto.org
 vvv678.com
 vvv99ay4wuo.ru
 vvvcuvcgirisiisllemenu.com
+vvvfct5w0zng.storage.googleapis.com
 vvvgxvvv100x1000.zapto.org
 vvviizllllllisllllemenulllllogin.com
 vvvizlllllislllemenullllogin.com
@@ -419180,6 +419210,7 @@ xuxqonmljb.duckdns.org
 xuy-dnxcklizgxriz2023.net
 xuy-gxnrttiiicklizzsaaassdfnaqsmfd.net
 xuzaulwczu.duckdns.org
+xuzlqvfkwx.storage.googleapis.com
 xv-bloging-info.com
 xv6iyqvd.duckdns.org
 xv8xge7.duckdns.org
@@ -427883,6 +427914,7 @@ yolhgsodeme.com
 yolhgss.com
 yolipfasda.one
 yolkaramhgsgecisbilgi.com
+yolkun.click
 yollar-bilgilendirme.com
 yollar-sirlarla-gezginler-hayalperest.com
 yollar-sirlarla-gezginler-uzaklarda.com
@@ -433276,6 +433308,7 @@ ziratmobilgiris.com
 ziratmobilimtr.ml
 ziratmobiliniz.cf
 ziratmobiliniz.ga
+ziratmobilsube.cfd
 ziratmobilyenilendi.com
 ziratmobilyenilendiii.com
 ziratoffshorebnk-tr.com
