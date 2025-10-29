@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-29T14:05:23.859687
+# Updated: 2025-10-29T16:05:23.804822
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -14839,6 +14839,7 @@
 2025sonfirsatlari.online
 2025tenduyurular.com
 2025tenhaberler.com
+2025tkiobnsrv.com.tr
 2025toki.81ileproje.sbs
 2025toki.toplukonut-projesi.sbs
 2025toki.yeniuygunknz.sbs
@@ -29543,6 +29544,7 @@
 7gttjb.duckdns.org
 7gvu37.duckdns.org
 7gx3ggs.xdk8ax.cn
+7h-h-hsr-f12fwsaadag-sagsad.com
 7h-h-hsr-f12fwsaag-sag-af1wqsasf.biz.tr
 7h-h-hsr-f12fwsaag-sag-af1wqsasf.com.tr
 7h-h-hsr-f12fwsaag-sag-af1wqsasf.info.tr
@@ -63754,6 +63756,7 @@ atlpvt.com
 atlsigorta.site
 atlssmaiziziiriiriririiri.net
 atlvhhfnrn.duckdns.org
+atm.mefound.com
 atm506.com
 atm61tq4slknmlw67j7.ddns.net
 atmabanaoks.xyz
@@ -71923,6 +71926,7 @@ basvuruislem-2023.com
 basvuruislem-bddk.com
 basvuruislem.com
 basvuruislem.net
+basvuruislem.org
 basvuruislembugunkampanyasi.online
 basvuruislemi.com
 basvuruislemin.net
@@ -101511,6 +101515,7 @@ canomoglumseniseviyorm.xyz
 canonyazicitamir.com
 canoveradcobntr.vercel.app
 canoyunanasi.net
+canpanybonus.digital
 canparem153215.com
 canpolatayrus-yapicepavantaj.vercel.app
 canpost.id-89b98.com
@@ -141067,6 +141072,7 @@ e-siparisimguvende.online
 e-siparisin.com.tr
 e-siparisler-tr.com
 e-siparisler.com.tr
+e-siparisler.online
 e-siparislerim.net
 e-siqortamnet.net
 e-siraode.net
@@ -156940,6 +156946,7 @@ evbasvurum.com
 evbasvurunuz.xyz
 evbkjnrkljgn.net
 evburada.click
+evburasi.click
 evcalisma.com
 evcanpaket.store
 evcaveresbelek.top
@@ -165976,6 +165983,7 @@ firsatlardunyasindirimler.cfd
 firsatlardunyasindirimler.cyou
 firsatlardunyasindirimler.icu
 firsatlardunyasindirimler.sbs
+firsatlarfdiyarlarii.xyz
 firsatlarfiinsile.com
 firsatlarfirsatlararalik.xyz
 firsatlargarantibankasinda.tk
@@ -205162,6 +205170,7 @@ hizlikontoryukle.xyz
 hizlikontoryukleme.net
 hizlikontrol.net
 hizlikonutbasvurulari.cloud
+hizlikonutbasvuruolustur.cloud
 hizlikonutbasvurusuolustur.cloud
 hizlikonutbasvurusutamamlama.cloud
 hizlikopekgecisteeebaligi.shop
@@ -229377,6 +229386,7 @@ izeltastornavidaallindi.xyz
 izeltasyuzdeinidirms.xyz
 izeltrasmekanicifirsati.blogspot.com
 izeltrasmekanikcifirsati.blogspot.com
+izelts042101.blogspot.com
 izeltsfirs032tl.blogspot.com
 izeltstasmagza.xyz
 izeltstasondonem.xyz
@@ -292432,6 +292442,7 @@ onlineisssslemxxgovtr.com
 onlineisube-kuveyturk.cf
 onlineisube-kuveyturk.ml
 onlineisube-kuveyturk.tk
+onlineizeltasodeme.duckdns.org
 onlineizmirim.com
 onlineizmirimkart.com
 onlineizzmrimkartyukleme.ml
@@ -348650,6 +348661,7 @@ sluwcom.pw
 sluwcomm.pw
 sluxox.com
 slv-irb-prp.site
+slvbdodor.sbs
 slvdrcomeisbackn.com
 slvdrcomeisbacknow.com
 slvdrcomeisbacknw.com
@@ -371042,6 +371054,7 @@ toki-basvuru-e-devlet.b-cdn.net
 toki-basvuru.duckdns.org
 toki-basvuru.info
 toki-basvuru.online
+toki-basvuru.xyz
 toki-basvuruekrani.sbs
 toki-basvurular-online.best
 toki-basvurulari-basladi.marketten.store
@@ -371066,6 +371079,7 @@ toki-konutlar.sbs
 toki-konutlari-basvuru.best
 toki-konutlari.sbs
 toki-projeleri.com
+toki-tr.com
 toki-turkiye.com
 toki-turkiye.duckdns.org
 toki-turkiye.online
@@ -371123,6 +371137,7 @@ tokibasvurru.art
 tokibasvurru.info
 tokibasvurru.pro
 tokibasvurru.sa.com
+tokibasvurrus.pro
 tokibasvurtoplukonut.com
 tokibasvuru-20f08.kxcdn.com
 tokibasvuru-adresim.xyz
@@ -371266,6 +371281,7 @@ tokikonutbaskanligi.org
 tokikonutbasvulari.com
 tokikonutbasvur.xyz
 tokikonutbasvuru.gq
+tokikonutbasvuruekrani.wordpress.com
 tokikonutbasvurular.vercel.app
 tokikonutbasvurulari.cloud
 tokikonutbasvurulari.com
@@ -371330,6 +371346,7 @@ tokionlinebasvuru.vercel.app
 tokionlinebasvurular.vercel.app
 tokionlinebasvurulari.vercel.app
 tokionlinebasvurularim.vercel.app
+tokionlinebasvurularin.vercel.app
 tokionlinebasvurusu.vercel.app
 tokionlinebasvuruun.net
 tokionlineodeme.com.tr
@@ -397596,6 +397613,7 @@ vozbike.com
 vozicokeboh.biz
 vozolpuffcunuz.online
 vozvrec.store
+vp4q4y5wdv.storage.googleapis.com
 vp4zh7fng.duckdns.org
 vp5fbq6x.duckdns.org
 vp5lr0.cn
@@ -431715,6 +431733,7 @@ ziraat-internetsube.com
 ziraat-internetsubesi-com.cf
 ziraat-internetsubesi.com
 ziraat-intersube.com
+ziraat-islem.nicepage.io
 ziraat-isube.com
 ziraat-kampanya.com
 ziraat-kampanya.ml
@@ -431857,6 +431876,7 @@ ziraat-web-tr-bireysel.com
 ziraat-web.com
 ziraat-webgiris.com
 ziraat-weld.vercel.app
+ziraat-yaninda.cfd
 ziraat-yapgiris-kazan50tl.com
 ziraat-yaz-firsat.ml
 ziraat-yaz-kampyam.com
