@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-29T19:05:13.136600
+# Updated: 2025-10-29T20:05:12.521856
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -53597,6 +53597,7 @@ alertme00x.ddns.net
 alertmijncardio.duckdns.org
 alertmobilewels.zapto.org
 alertoverviewauth00.zapto.org
+alertpla.shop
 alerts-icloud.com
 alerts360techspport.ddns.net
 alertsafetyacc.duckdns.org
@@ -62425,6 +62426,7 @@ asdfkjasdfasld32.ml
 asdfkjlkjasdfasdf.com
 asdfksvdvt-dsvt.com
 asdflflfaajsdaakdf.cyou
+asdflflfaajsdaakdf.icu
 asdfqff22fasf.blogspot.com
 asdfqw.xyz
 asdfqwervcxz.net
@@ -66825,6 +66827,7 @@ azsijorta.xyz
 azsxdcfv1.hopto.org
 azsxdcns-ansszas-anands.cfd
 azsxdcns-ansszas-anands.sbs
+azsxlmkdmx-amzamal-azlsml.icu
 aztecchiatohumu.com
 azteksanar.com
 aztemglobaltradltd.ddns.net
@@ -73309,6 +73312,7 @@ baykarfirsati.online
 baykarfly.com
 baykarform.com
 baykarfuture.com
+baykarglobal.info
 baykarglobal.pro
 baykarhold.space
 baykarhorizon.com
@@ -109185,6 +109189,7 @@ clinicalwrench.top
 clinicaoxford.com.br
 clinicavitalite.com
 cliniccrouch.top
+cliniceliteclubiiargturkiye.com
 clinichaven.azurewebsites.net
 clinichole.top
 clinicimperative.top
@@ -161273,6 +161278,7 @@ farmingconsulate.top
 farmivory.top
 farnith.com
 farnotrapisyaniksatromunyazrasyon.net
+farnouxo.com
 farodanbimasor.zapto.org
 farou96.zapto.org
 farouk02000.ddns.net
@@ -163816,6 +163822,7 @@ filtrehaber.online
 filtrehaber.site
 fimanscredis.com
 fimato.store
+fimcim.com
 fimes.gr.com
 fimiosbiomrehko.ru
 fimkyaxi.top
@@ -164547,6 +164554,7 @@ finlumix.com
 finmaster24.com
 finminx.com
 finmiu.top
+finmope.com
 finmourn.com
 finnewstoday.com
 finnflowtech.com
@@ -216339,6 +216347,7 @@ ilkevbasvurular.sbs
 ilkevbasvurusu.sbs
 ilkevim-basvuru.com
 ilkevim-basvuru.org
+ilkevim-basvuru.work
 ilkevim-online-basvuru.blogdns.com
 ilkevim-online-basvuru.cfd
 ilkevim-online-islem.blogdns.com
@@ -216386,6 +216395,7 @@ ilkevimtokii5.sa.com
 ilkevimtokii6.sa.com
 ilkevimtokii7.sa.com
 ilkevinkayitlari.org
+ilkevkayitlari.org
 ilkevkonultlkapi.com
 ilkevlerisattik.cfd
 ilkevm.com
@@ -232127,6 +232137,7 @@ jargos.site
 jarinamaers.shop
 jarkijden.com
 jarlsbergys.live
+jarnixor.com
 jarododling75.xyz
 jaroffset.top
 jaromivanexl.xyz
@@ -256884,6 +256895,7 @@ loss352.xyz
 loss57.xyz
 lossycristi.cyou
 lostalo.ddns.net
+lostbonuses.digital
 lostbuy8.quest
 lostdark.xyz
 lostderlerryuzbir.duckdns.org
@@ -278141,6 +278153,7 @@ narkodabisikletlercokiyi.lol
 narkosaglambisiklet.com
 narkotik.app
 narkotikizlo.ru
+narlivo.com
 narmpnpqnh.us
 narouto2015.zapto.org
 naroyaldiamonds.com
@@ -347142,6 +347155,7 @@ sivasigorta.com.tr
 sivasigorta.xyz
 sivasin-yollarina-cik-usta.lol
 sivaslilardayanismasi.com
+sivasotelterligi.com
 sivassahibinden.online
 sivicolleksicon.za.com
 sivjo6ht.top
@@ -351672,6 +351686,7 @@ sonsuzbilgelik.space
 sonsuzdan-bu-yana-sevgili-gunu-hissedin.com.tr
 sonsuzdomain.sg-host.com
 sonsuzdunya.org
+sonsuzduru.com
 sonsuzfikirler.online
 sonsuzgece.com
 sonsuzhgs.sg-host.com
@@ -369913,6 +369928,7 @@ tkgmrandevu.blogspot.com
 tkgmsystem.net
 tki-basvuru.blogspot.com
 tki-online-bsvr.cyou
+tkibasvurularimysfliocomdatatitansbschronosyssbs.luminix.sbs
 tkibsvbrda.site
 tkibsvurlarim.club
 tkibsvurlarim.com
@@ -371072,6 +371088,7 @@ toki-basvur-2025.com
 toki-basvur.blogspot.com
 toki-basvur.cfd
 toki-basvur.com
+toki-basvur.info
 toki-basvurru.info
 toki-basvurru.sa.com
 toki-basvuru-2025.xyz
@@ -371084,6 +371101,7 @@ toki-basvuru.xyz
 toki-basvuruekrani.sbs
 toki-basvurular-online.best
 toki-basvurulari-basladi.marketten.store
+toki-basvurulari-com.kapidaode.store
 toki-basvurum.vercel.app
 toki-basvurum.xyz
 toki-basvurusistemi.rest
@@ -371331,6 +371349,7 @@ tokikonutlaribasvuru.cloud
 tokikonutlaribasvuru.site
 tokikonutlaribasvuru.vercel.app
 tokikonutlarifirsat.duckdns.org
+tokikonutlarikayitlar.vercel.app
 tokikonutlarikbasvuru.blogsite.org
 tokikonutlarimbasvuru.vercel.app
 tokikonutlarimbasvurum.vercel.app
@@ -393632,6 +393651,7 @@ veltrixxy.com
 veltrona.site
 veltru.click
 veltru.digital
+veltrunz.com
 velttrixora.com
 velupra.pro
 velvest.xyz
@@ -403961,6 +403981,7 @@ wikiwand-works.com
 wikixt.website.tk
 wikklu.cn
 wiknet.mooo.com
+wikpoun.com
 wikshane.com
 wikshov-tr.com
 wilandsabim.info
@@ -414278,6 +414299,7 @@ xinratmqpj.duckdns.org
 xinsta.org
 xinteraktifgov.lat
 xioamiking.top
+xioge.cn
 xiogsm5k.duckdns.org
 xioimininyazfirsatlariburada.cfd
 xiomifirsatlariburada.cfd
@@ -430060,6 +430082,7 @@ z1raat25ekim.cfd
 z1raat27ekim.cfd
 z1raatbuyukkampanya.cfd
 z1raatgiris.cfd
+z1raatiniz.cfd
 z1raatkampanyalari.cfd
 z1raatonline.cfd
 z1raatsize.cfd
