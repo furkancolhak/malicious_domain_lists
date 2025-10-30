@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-30T14:05:13.999989
+# Updated: 2025-10-30T15:05:30.715471
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -17144,6 +17144,7 @@
 267egevhs.duckdns.org
 267s67xj.duckdns.org
 26818r.duckdns.org
+26830187572.cloud
 2684961984986.net
 268ej6pi5.duckdns.org
 268tdtzc.duckdns.org
@@ -70438,6 +70439,7 @@ basvrutrcbrncr.com
 basvrutrrbntbn.online
 basvruuzirraaattmobiilemekli.duckdns.org
 basvruwu3534654756856odulunucehrk.com.tr
+basvruysuadhizmet.store
 basvruziraatbnkgiris.duckdns.org
 basvruziraattbnkkmobillgiris.duckdns.org
 basvrwebaktr.com
@@ -89407,6 +89409,7 @@ blogsync.ru.com
 bloguesante.com
 blogvolleyballstatus.azurewebsites.net
 blogvolleyballstatusapi.azurewebsites.net
+blogyonlendir23432qsf.blogspot.com
 blokchaln.com
 blokgozalti.sbs
 blokkade-opheffen.hopto.org
@@ -95511,6 +95514,7 @@ bsvr-acikdenizv2denizonay.com
 bsvr-evlk.net
 bsvr-taki.info
 bsvr-taki.online
+bsvr-toklkonut.com
 bsvr.denizligunlerfirsatlar.site
 bsvr.fun
 bsvr.ozelbasvurufirsatlari-aralikkampanyasi10yil.com
@@ -97780,6 +97784,7 @@ buradanaldim.icu
 buradanaltr.club
 buradanbasvur.online
 buradanbasvur.site
+buradanbasvur.store
 buradanbasvurum.sbs
 buradanbsvur.site
 buradandevam.net
@@ -102158,6 +102163,7 @@ carrefourmarketleriekimkam.cfd
 carrefourmarketng.cfd
 carrefourmayisflrsatlari.duckdns.org
 carrefourmisr.com
+carrefourmmobilmarket.cfd
 carrefourmobilgiris.cfd
 carrefours.b-cdn.net
 carrefoursa-alisveris.ct.ws
@@ -189383,6 +189389,7 @@ hadisenegelbenimle.com.tr
 hadisenegelirsin.com.tr
 hadisenemerz.com.tr
 hadisenemrc.com.tr
+hadisenesendekatilsanabize.icu
 hadisengellssende.com.tr
 hadiseniize.com.tr
 hadisenizgelin.com.tr
@@ -197271,6 +197278,7 @@ hello12333.ddns.net
 helloandwater.xyz
 hellobaby1123.ddns.net
 hellobelieve.top
+hellocanlarim.click
 hellocaribebnb.com
 hellodoctorcrm.com
 hellodowngrade.top
@@ -206777,6 +206785,7 @@ hmczblc.duckdns.org
 hmdegelalsipsinisimcbk0la.com
 hmdfgdlipm.duckdns.org
 hmdhmd.ddns.net
+hmdllmttlsm.com
 hmdoktay.net
 hmduwp.com
 hme4h4m9.duckdns.org
@@ -216353,6 +216362,7 @@ ilizxoxlvz.duckdns.org
 ilk-atanlar-hep-bir-kez-daha-gorurler-bunlari.com
 ilk-e-aidat-basvurusu-bireysel-giris.xyz
 ilk-evden-gov-tr.vercel.app
+ilk-evim-basvurum.vercel.app
 ilk-evim-gov-tr.vercel.app
 ilk-evim-sosyalkonut.click
 ilk-evim-sosyalkonut.icu
@@ -225678,6 +225688,7 @@ islemyerin1sg-host.com
 islemyeriniz.com
 islemyermerkezi.blogspot.com
 islemyonle.com
+islemziraat.cfd
 islenpiding.hotmail.ru
 islerbasvurdunuzms.duckdns.org
 islercepte.com
@@ -226882,6 +226893,7 @@ istannz.com
 istannz.net
 istannzzs.net
 istanrbulkart.blogspot.com
+istansbduslabursd.store
 istansbulbrhzilsi.com
 istantrbilgmr.fun
 istanvblrtkrt.net
@@ -244376,6 +244388,7 @@ kilometresorguhzmeti.web.app
 kilometresorgula-gov-tr.duckdns.org
 kilometresorgula.fun
 kilometresorgula.page.gd
+kilometresorgula2.web.app
 kilometresorgulachp.web.app
 kilometresorgulagulyan.com.tr
 kilometresorgulagulyan.shop
@@ -312121,6 +312134,7 @@ ptkxktkargo.com
 ptlaskas.online
 ptlavm.com
 ptldktlra.net
+ptlfmtldkmf.com
 ptlgamrktrmm.com
 ptlhsasdgravm.click
 ptlhsravm.click
@@ -349811,6 +349825,7 @@ sofarrada.com
 sofaseatsclearance.com
 sofatvsales.com
 sofewas2.ddnsfree.com
+sofewas24.duckdns.org
 sofewas3.ddnsfree.com
 sofexjordanx.com
 sofialorin2.zapto.org
@@ -362518,6 +362533,7 @@ taliban157.ddns.net
 taliban157.hopto.org
 talihli-qnbfinans.com
 talimat-web-page.digital
+talip-olana-cozum-cok.sbs
 talitevkf.com
 talk23432.xyz
 talk235.xyz
@@ -371429,6 +371445,7 @@ tokievkonutbasvurularim.vercel.app
 tokievkonutbasvurum.vercel.app
 tokievkonutbasvurusu.vercel.app
 tokievkonutbasvuruyap.vercel.app
+tokievkonutdestek.vercel.app
 tokifirsatlari.blogspot.com
 tokigarantigiris.com
 tokiggbasvurularisf.blogspot.com
@@ -371489,6 +371506,7 @@ tokikonutlarimbasvurusu.vercel.app
 tokikonutlarprojem.best
 tokikonutprojesi.com
 tokikonutprojesibasvur.vercel.app
+tokikonutprojesibasvuri.vercel.app
 tokikonutprojesibasvuru.com
 tokikonutprojesikayitlar.vercel.app
 tokikura.com
@@ -371522,6 +371540,7 @@ tokionline.net
 tokionlinebasvuru.com
 tokionlinebasvuru.org
 tokionlinebasvuru.vercel.app
+tokionlinebasvuru.wordpress.com
 tokionlinebasvurular.vercel.app
 tokionlinebasvurulari.vercel.app
 tokionlinebasvurularim.vercel.app
@@ -405245,6 +405264,8 @@ wordlife-everything.com
 wordonline.cloud
 wordpapel2.cfd
 wordpress-1456694-5478131.cloudwaysapps.com
+wordpress-1537229-5941299.cloudwaysapps.com
+wordpress-1537229-5961413.cloudwaysapps.com
 wordpress-id.hopto.org
 wordpress-mercado-mix-a85903441390217.codeanyapp.com
 wordpress.acimueicxvraahcl.com
