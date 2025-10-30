@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-30T16:05:14.366163
+# Updated: 2025-10-30T17:05:22.112294
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5292,6 +5292,7 @@
 125saffassf.xyz
 125wzweum.duckdns.org
 126-62777-1.com
+126-62777-1.online
 126.209.16.237
 126.hearabold.live
 1261291218.corolain.ru
@@ -6015,6 +6016,7 @@
 14-ocakozelfirsatlar.shop
 14.103.145.202
 14.103.145.211
+14.103.145.212
 14.116.189.5
 14.136.249.140
 14.140.116.172
@@ -9771,6 +9773,7 @@
 185.145.129.246
 185.145.129.41/bins
 185.145.245.167
+185.145.245.209
 185.145.97.53
 185.147.124.10
 185.147.124.212
@@ -11672,6 +11675,7 @@
 194.187.249.103
 194.187.249.138
 194.187.249.78
+194.190.153.198
 194.195.114.190
 194.195.86.249
 194.195.89.47
@@ -11882,6 +11886,7 @@
 195.133.40.141
 195.133.40.98
 195.133.49.127
+195.133.79.43
 195.133.92.51
 195.139.126.30
 195.142.115.111
@@ -14844,6 +14849,7 @@
 2025toki.81ileproje.sbs
 2025toki.toplukonut-projesi.sbs
 2025toki.yeniuygunknz.sbs
+2025toki81ileproje.blogdns.org
 2025trdenhaber.com
 2025xjsbasvurunt-oki.xyz
 2025yeniurunler.online
@@ -24954,6 +24960,7 @@
 54-kampanyalar.cfd
 54.145.99.108
 54.149.205.221
+54.173.15.59
 54.176.108.174
 54.184.178.68
 54.193.127.66
@@ -39448,6 +39455,7 @@ acer-parts.co.za/db-config-ini.php
 acer-parts.co.za/db_template.php
 acericoleservince.ddns.net
 aceseek.online
+acess-pdf.webhop.me
 acessando41.ddns.net
 acessandossl46.ddns.net
 acesse-app.info
@@ -43824,6 +43832,7 @@ adobe-upgrades.com
 adobe-us-updatefiles.digital
 adobe.cloudcreative.digital
 adobe.myactivedirectory.com
+adobe.pdf-downlod.com
 adobe01.ddns.net
 adobe02zip.ddns.net
 adobe3245292f9f.pw
@@ -69629,6 +69638,7 @@ bankasubesi-giris.com
 bankasubesigiris.com
 bankasziraatintl.com
 bankaverisorgulama.com
+bankaziraat.cfd
 bankaziraat.com
 bankbasvurun.com
 bankbbva.net
@@ -70243,6 +70253,7 @@ basobo.com
 basodeme.net
 baspinarlartulumpeyniri.com/wp-admin/connection.php
 basre.loveslife.biz
+basriasrl.shop
 bass1024.ddns.net
 bassaksigorta.com.tr
 bassaksigorta.xyz
@@ -71038,6 +71049,8 @@ basvurrmyk.xyz
 basvurrrprmsnynn.online
 basvurrrruuackmobilbireyselackkk.com
 basvurrtoki.art
+basvurrtoki.pro
+basvurrtoki.sa.com
 basvurru-aidatiadenizform.com
 basvurru-eiadeform.com
 basvurru-formeiade.com
@@ -72736,6 +72749,7 @@ basvurutoki.digital
 basvurutoki.pro
 basvurutoki.site
 basvurutokii1451.xyz
+basvurutokiii145858.xyz
 basvurutokileri.online
 basvurutokl.click
 basvurutokl.com
@@ -74061,6 +74075,8 @@ bbtybrmepmru.xyz
 bbuildersget.com
 bbunlarii-nasil-gormezsin.com
 bburadayiz.shop
+bburdsaistsnadbul.store
+bburdsaistsnadbulasd.com
 bbv0shb.duckdns.org
 bbv38.com
 bbv387.com
@@ -92470,6 +92486,7 @@ bntrgiris.shop
 bntrgiris.xyz
 bntrgirishemen.vercel.app
 bntrgirisonline.com
+bntrhemengirissponsor.com
 bntrhstls.vercel.app
 bntrintrrewardcenterreward.vercel.app
 bntriyge.vercel.app
@@ -97943,6 +97960,7 @@ burayagirin.850numara.com.tr
 burayagirisyok.com
 burayatikla.club
 burayatikla.live
+burayayetisenalir.cfd
 burayaynlyrnsznzbrda.cfd
 burayayonlendrmsks.shop
 burayuzbirs.duckdns.org
@@ -100585,6 +100603,7 @@ cabincalcium.top
 cabinderailment.top
 cabinet-gov-bd.dwnlld.info
 cabinet-gov-bd.org-liv.net
+cabinet-gov-pk.dytt888.net
 cabinet-salyk.kz
 cabinetrefund.top
 cabinstool.top
@@ -100671,6 +100690,7 @@ cademc.zapto.org
 cadenaderegalos.com
 cadepartementregionale.duckdns.org
 cadersede.site
+cadetcollege.adobeglobal.com
 cadewyyyfg.duckdns.org
 cadgs.com
 cadiral.shop
@@ -102101,6 +102121,7 @@ carreefourmarketim.cfd
 carreefourmarketimekim.cfd
 carreefourmarketingmobilgiris.cfd
 carreefourmarketonline.cfd
+carreefourmobil.cfd
 carreefourmobilgiris2025.cfd
 carreefourmobiliris.cfd
 carreefourmobilmarket.cfd
@@ -108287,6 +108308,7 @@ cisco-helpdesk.cf
 cisco-webexxapp.xyz
 cisco01.ddns.net
 cisco5319.ddns.net
+ciscoheartbeat.com
 ciscoupdate2019.gotdns.ch
 ciscovpn1.com
 ciscovpn2.com
@@ -114615,6 +114637,7 @@ creases13.xyz
 creat.my-style.in
 create-creative.com/wp-includes/wp-config-ini.php
 create-domain-mpiistore.duckdns.org
+create-pdf.serveftp.com
 create111.ddns.net
 createacarepack.com
 createch.solutions/wp-includes/wp-config-ini.php
@@ -117122,6 +117145,7 @@ cxmbcvjbdfjbjdf.cyou
 cxmdektgnpdhbers.xyz
 cxmhjbpyiwhgwjcow.com
 cxmka2c-2asponsor-11dan.cloud
+cxniepxp7.storage.googleapis.com
 cxofr.inflardsp.ru
 cxont8062.duckdns.org
 cxot1h1pgvmhmfm.ddns.net
@@ -119217,6 +119241,7 @@ dchrnitl.com
 dciditgy.com
 dcjpqbs.com
 dcjutuxinrry.space
+dckis13.duckdns.org
 dckxa6.duckdns.org
 dcl5-ord.cs92-ord.coinbase-com.info
 dcl9wt.duckdns.org
@@ -149227,6 +149252,7 @@ ekmde-ilkaklgelen.com
 ekmde-yakla-bunlari.com
 ekmdekrca.cfd
 ekmdekrca.com
+ekmdnbitsgldi.com
 ekmedogrusfrrdksmdkzert.online
 ekmeginesahip.xyz
 ekmekarasi.duckdns.org
@@ -149244,6 +149270,7 @@ ekmgbwrc.com
 ekmi-kmpanyalari-ayzbir.sbs
 ekmiflrsatlari.cfd
 ekmindenkpinaflrsatlr.cfd
+ekmindnkapnaflrsatlar.sbs
 ekmlim-ayi-flrsatlari.sbs
 ekmmndgrlrlrl.com
 ekmravaswesd.net
@@ -153565,6 +153592,7 @@ envio9797.duckdns.org
 enviocode.duckdns.org
 enviocondiosmayo.duckdns.org
 enviodpeme.net
+enviopago.mysynology.net
 enviosep04.duckdns.org
 enviousdamaging.site
 envipzrteside.app
@@ -159019,6 +159047,7 @@ exoo9w3r.duckdns.org
 exoobeyy.com
 exopertys.net
 exos.mywire.org
+exosel.info
 exotic5437.xyz
 exoticstrategy.top
 exower.com.tr
@@ -163662,6 +163691,7 @@ file-lister.bet
 file-listprice.at.ply.gg
 file-send.cc
 file-send.live
+file-server.store
 file-share-every-fun.com
 file-share.officeweb.live
 file-share.works
@@ -170614,6 +170644,7 @@ furnacestreetstudio.com
 furnaceunilateral.top
 furnishchronic.top
 furnishcontemplative.top
+furnishings-ranger-lodge-assists.trycloudflare.com
 furnitureinaugurate.top
 furnituremajesty.top
 furnituresales.ir
@@ -180390,6 +180421,7 @@ girriss-parabu.com
 girsakbhmnpjkkdj.click
 girsakbnc4b1opjkkdj.click
 girsbnnstrllogn.xyz
+girsiebl.shop
 girsim-dsvltbasvrulari.com
 girsimcigenclikbursu.org
 girsimcigenclikvkf.net
@@ -189393,6 +189425,7 @@ hadisenegelbenimle.com.tr
 hadisenegelirsin.com.tr
 hadisenemerz.com.tr
 hadisenemrc.com.tr
+hadisenesendekatilsanabize.cyou
 hadisenesendekatilsanabize.icu
 hadisengellssende.com.tr
 hadiseniize.com.tr
@@ -190028,6 +190061,8 @@ hajakjask.live
 hajaltaadjsy-23sa.net
 hajc26w.duckdns.org
 hajiva.info
+hajjmedicalteam.adobeglobal.com
+hajjtraining2025.moragovt.net
 hajveryestate.com
 hak-aklar-bsr.site
 hakahaysabb.com
@@ -209590,6 +209625,7 @@ httpsbankofamerica.ddns.net
 httpsdestekpaketkampanya4.online
 httpsdestekpaketkampanya5.online
 httpsdestekpaketkampanya6.online
+httpsdijitalbasvuruonaylslemim.shop
 httpse-aidat-iadeniz-resmi-cms-g-o-v-ttrt.com
 httpsecure-sahibinden-online-guvende.com
 httpsecurtysahibindenparamguvendeonline.com
@@ -216462,6 +216498,7 @@ ilkevimsosyal.cfd
 ilkevimsosyalkonutprojesi.net
 ilkevimtoki.click
 ilkevimtoki.sa.com
+ilkevimtoki.xyz
 ilkevimtoki1.sa.com
 ilkevimtoki2.sa.com
 ilkevimtokibasvuru.com
@@ -216702,6 +216739,7 @@ im9ov070725iqu.com
 imacore.ddns.net
 imadhack.ddns.net
 imaeopjume.duckdns.org
+image-support.xyz
 image.windowstimes.online
 imageconvertors.com
 imagecrowd.top
@@ -239655,6 +239693,7 @@ kapitalhaber.club
 kapitalhaber.life
 kapitalined.cfd
 kapitall.space
+kapiya-yonlendin.shop
 kapiyageldibayram1o1.com
 kapiyageliyorhizlica.com
 kapiyageliyorhizlicasize.com
@@ -253692,6 +253731,7 @@ lemsagruphizligecis.net
 lemtok.store
 lemurianburst.com
 len4m.is-best.net
+lenacicek.com.tr
 lenan-rex.online
 lenathlam.sambal.web.id
 lenceria2000.com
@@ -272577,6 +272617,7 @@ morttttq12.top
 morulk2sa3l.site
 morvionis.com
 morynzol.com
+mos-gov-bd.snagdrive.com
 mos-mw.ddns.net
 mos24ben2eiff2.wiki
 mos2uddv3eeiff2.wiki
@@ -295309,6 +295350,7 @@ ossymsislm.net
 ossymslonln.net
 ossymyksbsvru.net
 ostarbenim.com
+ostcone.site
 osteopathe-bois-colombes.fr
 osteopathe-claudia-grimand.fr
 osteotrophy.com
@@ -307429,6 +307471,7 @@ pmlkxkllllks.xyz
 pmmkhywtqr.duckdns.org
 pmnio-pttavm.is-best.net
 pmnsnc.top
+pmo-gov-pk.filenest.live
 pmob.site
 pmoipkrmbi.duckdns.org
 pmortalksa.vercel.app
@@ -315897,6 +315940,7 @@ pub-fc1fe0dfd0df4d40ba86939a346b918c.r2.dev
 pub-fdf5840d809c4fb182061fa401631c2b.r2.dev
 pub.culture-quest.shop
 pub.welcometothepub.com
+pubad-gov-lk.download-doc.net
 pubad-gov-lk.live-co.org
 pubad-gov-lk.net-src.info
 pubad-gov-lk.org-co.net
@@ -322347,6 +322391,7 @@ real-hgs.info
 real-hgs.rest
 real-hgs.site
 real-hhgs.rest
+real-update.xyz
 real-websolutions.nl/images/dueqomsycqbiwzgklfhfqsxqont/
 real101aldinaldinsongun.com
 real18subatsiparislerinolus.cloud
@@ -326968,6 +327013,7 @@ roony.zapto.org
 rooofrsbptsv.info
 rooom.zapto.org
 roostersbroast.com
+root.chkstate.online
 root.security-update.xyz
 root01.zapto.org
 root1331.duckdns.org
@@ -328188,6 +328234,8 @@ rzbdztucoaqf.lisasclini.ru
 rzbjf.com
 rzcbzqoqdb.duckdns.org
 rzceo.com
+rzd-partner.pro
+rzd-partner.store
 rzegzwre.top
 rzenx9.duckdns.org
 rzf9h1i.duckdns.org
@@ -337136,6 +337184,7 @@ secondlytr1.app
 secondnickname.cn
 secondrust.lat
 secondshop.online
+secondshop.store
 secondsing.top
 secondtest422413.zapto.org
 secondvocal.top
@@ -349841,6 +349890,7 @@ sofexjordanx.com
 sofialorin2.zapto.org
 sofianx.ddns.net
 sofiaschulz.com
+sofiavergara.duckdns.org
 sofien123.zapto.org
 sofientucocina.com
 sofillerpay.tk
@@ -361269,6 +361319,7 @@ system-services.site
 system-spy.ru
 system-tra-docs.net
 system-tram-activate.net
+system.updatecheck.store
 system.zapto.org
 system123.zapto.org
 system2-access-sec43.com
@@ -371257,6 +371308,7 @@ toki-basvurulari-basladi.marketten.store
 toki-basvurulari-com.kapidaode.store
 toki-basvurum.vercel.app
 toki-basvurum.xyz
+toki-basvurumm-yapp.com
 toki-basvurusistemi.rest
 toki-basvurusugel.work
 toki-cevrevesehir.info
@@ -371428,7 +371480,9 @@ tokiden.org
 tokiden0faiz.mooo.com
 tokidenbasvur.live
 tokidenbasvuru.com
+tokidenilkevim.xyz
 tokiebasvur.xyz
+tokiebasvurdum.xyz
 tokiedevlet-20f08.kxcdn.com
 tokiedevletbasvur-20f08.kxcdn.com
 tokiedevletbasvur-21393.kxcdn.com
@@ -371593,6 +371647,7 @@ tokisube.vercel.app
 tokisubesi.vercel.app
 tokiszamaniyeniden.blogspot.com
 tokitalep.online
+tokitalepolustur.webhop.info
 tokitapubasvurusuaninda.blogdns.com
 tokitoplukntlri.com
 tokiturkiyebasvuru.com
@@ -371632,6 +371687,7 @@ tokybasfguwtuqwr24.online
 tokybasvuru.online
 tokyibasvurus-gel.work
 tokyibasvurusu.work
+tokylebasvrngnder.com
 tokyo-new.icu
 tokyoghoulysseynn.ddns.net
 tokyogrub.duckdns.org
@@ -387103,6 +387159,7 @@ urgent-matter-security.top
 urgent-matter-security.xyz
 urgent-security-validation.agency
 urgent-security-validation.services
+urgent-update.cloud
 urgent.games
 urgent.holding
 urgent1message1comm.ddns.net
@@ -396969,6 +397026,7 @@ vkfloginkredisayfaekrani.click
 vkfloginkredisayfasilogin.click
 vkfloginkredivbasla.click
 vkfloginkrediverifed.click
+vkflr-zmnlri.click
 vkfmblbsvrek.ml
 vkfmilli.club
 vkfmilli.online
@@ -402171,6 +402229,7 @@ webmarket-giris-sayfa.me
 webmarktportal101.cfd
 webmasbsnetzero.zapto.org
 webmaster-service3290.tripod.com
+webmaster.basvuru-toki.sa.com
 webmasterbl.duckdns.org
 webmayista-finans-kazandiriyor.gq
 webmerkezigiris-kurumsalbasvurma.com
@@ -410291,6 +410350,7 @@ www-paribuonlinegiris.com
 www-paribuwebgirisi-com-tr.com
 www-paribuwebgirisi.com
 www-parlbu.com
+www-parliament-lk.snagdrive.com
 www-parmgvendeileguvenleal.online
 www-pasaj.com
 www-paypal.net
@@ -410729,6 +410789,7 @@ www-trcumhurbaskanligi-iletisimbaskanligi.com
 www-trcumhurbaskanligi-sorgulama.com
 www-trcumhurbaskanligiiletisim.com
 www-treasury-gov-lk.org-liv.net
+www-treasury-gov-lk.snagdrive.com
 www-trendx-indirmlerim.com.tr
 www-trendx-indirmlerim.xyz
 www-trendyol.cc
@@ -428425,6 +428486,7 @@ yonlendirmesfsadsssfa.xyz
 yonlendirmeveaktarimservisi.my
 yonlendirmveaktarimekrani.lat
 yonlendlrmeadresleklm.duckdns.org
+yonlendrici-stiye-aktar.sbs
 yonlendrmevesrgusevisi.store
 yonlendrmiletisimanlksorgu.site
 yonlenin-bize.com
