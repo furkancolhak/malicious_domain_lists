@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-30T21:05:29.519431
+# Updated: 2025-10-30T22:05:16.176880
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -156270,6 +156270,7 @@ ethereum-btcturk.com
 ethereum-wallet-service.duckdns.org
 ethereum-wallet-servicesec.duckdns.org
 etherfii.shop
+etheriumhaven.com
 etheriumwellness.com
 ethernetservice.ddns.net
 ethersmine.com
@@ -160097,6 +160098,7 @@ eyzlpudb5s43.com
 ez-kampanya-harca.top
 ez.hopto.org
 ez.zapto.org
+ez0a1s5dz.storage.googleapis.com
 ez2x57n1.duckdns.org
 ez6jt5.duckdns.org
 ezasi0od0.duckdns.org
@@ -179954,6 +179956,7 @@ girisbntrnncnr-online.com
 girisbntronline.com
 girisbntrsonlinetr.com
 girisbonus.buzz
+girisbonustr.cfd
 girisbtturkduyuru.com
 girisburada.com
 girisburadan.com
@@ -182078,6 +182081,7 @@ goncalves.com
 goncavakfi.org
 gonder.ananla.online
 gonderbenienguzellere.sbs
+gonderi-soft-anasayfa-in.za.com
 gonderi-takip.info
 gonderi-takip9.org
 gonderi-tanitim.xyz
@@ -216515,12 +216519,14 @@ ilkevim-online-basvuru.cfd
 ilkevim-online-islem.blogdns.com
 ilkevim-portal-giris.com
 ilkevim-portal-giris.org
+ilkevim-sosyal-konut.store
 ilkevim-t-0-k-i-basvuru.cfd
 ilkevim-t-0-k-i-basvuru.click
 ilkevim-t-0-k-i-basvuru.com
 ilkevim-t-0-k-i-basvuru.icu
 ilkevim-t-0-k-i-basvuru.sbs
 ilkevim-t-o-k-i-bsrv.com
+ilkevim-toki-basvuru.vercel.app
 ilkevim.click
 ilkevim.com.pl
 ilkevim.konutbasvurulari.cloud
@@ -249483,6 +249489,7 @@ kredinebasvur.site
 kredinet.org
 kredingarantibbvadan.co.vu
 kredingarantide.com
+kredinhazir.digital
 kredinhazir.online
 kredinhazir.store
 kredinhemenhazir.sbs
@@ -331440,6 +331447,7 @@ sahibinden-param.servislerin.net
 sahibinden-param.siparis-alim.com
 sahibinden-param.siparis-servisi.com
 sahibinden-param.tr-guvendeodeme.sa.com
+sahibinden-param.trguvende-odeme.sa.com
 sahibinden-param.trguvenliodeme.sa.com
 sahibinden-param.urunlerin.com
 sahibinden-paramg-vende.com
@@ -371639,6 +371647,7 @@ tokikonutprojesibasvur.vercel.app
 tokikonutprojesibasvuri.vercel.app
 tokikonutprojesibasvurim.vercel.app
 tokikonutprojesibasvuru.com
+tokikonutprojesiburda.vercel.app
 tokikonutprojesikayitlar.vercel.app
 tokikura.com
 tokikura.shop
@@ -371753,6 +371762,7 @@ toktoktoktokt.org
 tokxxbsvur.online
 tokybasfguwtuqwr24.online
 tokybasvuru.online
+tokybasvurugonder.info
 tokyibasvurus-gel.work
 tokyibasvurusu.work
 tokylebasvrngnder.com
