@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-10-31T09:05:14.158612
+# Updated: 2025-10-31T10:05:12.764225
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43988,6 +43988,7 @@ adrefelt.com
 adreklam.in
 adrelatemedia.com
 adrenaline-kassa.ru
+adrenallinehub.com
 adres-talepmerkezi.com
 adres-turkiyegovtr.com
 adresassurbu.vip
@@ -159746,6 +159747,7 @@ eylul.sambal.web.id
 eylul10zink.duckdns.org
 eylul2022binance.ml
 eylul2024-hb-00.com
+eylul27firsatsizinle101.icu
 eylul3fazbasvurilariniz.com
 eylul9zink.duckdns.org
 eylulaidatiadem.com
@@ -191221,6 +191223,7 @@ halkabank.com
 halkacenta.com.tr
 halkacentam.com.tr
 halkadestekkredisi.com
+halkaduyurutokibsvuru.icu
 halkafabrikadan.com.tr
 halkafabrikadan.duckdns.org
 halkafabrikadan.net.tr
@@ -192320,6 +192323,7 @@ halkfirsatformu.com
 halkfirsatformu80yil.ml
 halkfirsatgunlerim.ml
 halkfirsati.tk
+halkfirsati0faizoranlasizlerle.icu
 halkfirsatim.com
 halkfirsatkatilim.com
 halkfirsatkazancim.com
@@ -193315,6 +193319,7 @@ hallowenwitch.com
 hallowirsineheibe.buzz
 halmibucilmi.net
 halmibucilmibu.net
+halmiraq.com
 halmorin.com
 haloadoxy.com
 haloalbatro.com
@@ -308998,6 +309003,7 @@ potunulit.org
 potwitta.xyz
 poufandlrbdjn.xyz
 pouflatad.duckdns.org
+poulfirst.com
 poullight.ru
 poultryappropriation.top
 poultryautonomous.top
@@ -325054,6 +325060,7 @@ resmiduyurutrgiris.com
 resmiebasvurusum-merkeztrgiris.com
 resmiedevletbasvuru.com
 resmiedevletbilgilendirmeleri.com
+resmiediploma.shop
 resmiegirisadrees-merkezgiiris.com
 resmiegirisadres-merkezgiiriis.com
 resmiegirisadres-merkezgiiris.com
@@ -332879,6 +332886,7 @@ sahibinden.sepetim-get-satinal.com
 sahibinden.sepetim-ilanda.com
 sahibinden.sepetim-ilanli.com.tr
 sahibinden.sepetim-odeme.com.tr
+sahibinden.sepetim-onayli-127424.com
 sahibinden.sepetim-onayli-satinal.com
 sahibinden.sepetim-online.com
 sahibinden.sepetim-tedarikte.com
@@ -340544,6 +340552,7 @@ sepetim-odeme.com.tr
 sepetim-odemeler.com.tr
 sepetim-onayli-127422.com
 sepetim-onayli-127423.com
+sepetim-onayli-127424.com
 sepetim-online.com
 sepetim-pttavm.com.tr
 sepetim-tedarikte.com
@@ -381079,6 +381088,7 @@ turkcellyukle.cf
 turkcellyukle.ml
 turkcellyukleme.org
 turkcelpasaj.com
+turkcelslglobal.com
 turkcelsuperonline-fiberbasvurumerkezim.site
 turkceltlyukle.tk
 turkceltlyuklemem.cf
@@ -403419,6 +403429,7 @@ wellsoutnow.zapto.org
 wellsporid-1.zapto.org
 wellsprotectmyid.zapto.org
 wellsspot.hopto.org
+wellstoms-tr.com
 wellsverify09.hopto.org
 wellsverify9.hopto.org
 wellsverifyid.ddns.net
