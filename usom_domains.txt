@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-02T16:05:12.893058
+# Updated: 2025-11-02T17:05:13.572406
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -115514,6 +115514,7 @@ crystalincantation.com
 crystalmaker.pro
 crystalmind.ru
 crystalnba.com
+crystalpalacezaha.duckdns.org
 crystaltidings.co.za//db-config-ini.php
 crystaltidings.co.za//db_template.php
 crystaltidings.co.za/db-config-ini.php
@@ -189486,6 +189487,7 @@ hadeszcheck.online
 hadevndz2031.ddns.net
 hadezvendas.ddns.net
 hadi-40bin-basvur.icu
+hadi-40bin-basvur.sbs
 hadi-bakalim-kampanyan-bizde900tl-oonline.cf
 hadi-bakalim-kolay-gelsin.me
 hadi-bakalim-kolay-gelsin.xyz
@@ -248897,6 +248899,7 @@ krcd-akil-almayacak-indirim-firsatlari.xyz
 krcd-indirim-var-krcada.com.tr
 krcdankrlignler.com
 krcdnarlkyl.com
+krcdnsizlregldiler.com
 krcdnsizlrlebuluscak.com
 krcdnynigeldler.shop
 krcekmsonc.com
@@ -292501,6 +292504,7 @@ onlineglblbndestekk.net
 onlineglobalbnctr.com
 onlineglobalbnwebgiris.com
 onlineglobalwebgrsbnn.com
+onlinegnmz.duckdns.org
 onlinegoldaltinkvytupuan.com
 onlinegoldpuanaltinkvnuytim.com
 onlinegovtrr.org
@@ -353434,6 +353438,7 @@ sotiqimgcrjpkccv.com
 sotkelec.yachts
 sotoairexamjon.duckdns.org
 sotrmarket.com.tr
+sotrmarket.info.tr
 sotrmldzwx.duckdns.org
 soubhi1998.ddns.net
 soucdtevoceumcuzao.duckdns.org
@@ -371808,6 +371813,7 @@ tokibasvuruum.net
 tokibasvuruumm.com
 tokibasvuruyap.com
 tokibasvuruyap.xyz
+tokibasvuruyap332.lol
 tokibasvuruyumsendegel.blogspot.com
 tokibasvvuru.blogspot.com
 tokibbasvurrularii.com
@@ -371925,6 +371931,7 @@ tokikonutlarimbasvuru.vercel.app
 tokikonutlarimbasvurum.vercel.app
 tokikonutlarimbasvurusu.vercel.app
 tokikonutlarprojem.best
+tokikonutprojeleri.com
 tokikonutprojesi.com
 tokikonutprojesibasvur.vercel.app
 tokikonutprojesibasvuri.vercel.app
@@ -372441,6 +372448,7 @@ toplukonut400.com
 toplukonut500bin.com
 toplukonutaonline.com
 toplukonutbasvr2.vercel.app
+toplukonutbasvr3.vercel.app
 toplukonutbasvrlr01.vercel.app
 toplukonutbasvrmonline.vercel.app
 toplukonutbasvrmonline1.vercel.app
