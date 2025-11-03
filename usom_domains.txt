@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-03T11:05:13.558362
+# Updated: 2025-11-03T12:05:14.114002
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -20139,6 +20139,7 @@
 38.180.81.153
 38.180.91.117
 38.190.107.22
+38.190.150.42
 38.207.148.147
 38.207.158.2
 38.22.104.226
@@ -31537,6 +31538,7 @@
 89.36.161.17
 89.36.76.38
 89.36.76.42
+89.37.185.18
 89.37.226.123/advance/portable_version/service.php
 89.37.226.123/templates/normalold.dotm
 89.37.226.148/technet-support/library/online-service-description.php
@@ -102058,6 +102060,7 @@ carefourcepte.cfd
 carefourlufirlar.shop
 carefourlugunler.shop
 carefourmobilkasim.cfd
+carefourmobilmuhtesemkasim.cfd
 carefourrsa.com
 carefoursa-flrsat.com.tr
 carefoursa-flrsatgunleri.com.tr
@@ -135251,6 +135254,7 @@ dumanaltiizom.net
 dumanhaber.online
 dumanhaber.site
 dumanhaber.xyz
+dumanhaberim.com
 dumaniduvara.synergize.co
 dumanigon0706.site
 dumansiz.name.tr
@@ -156061,6 +156065,7 @@ esube-ziraatbank.com
 esube-ziraatbankasi.ml
 esube-ziraatgiris.com
 esube-ziraatkatilim.com
+esube-zirraatkatiilim.com
 esube-zirraatkatilim.com
 esube.albankasi.com
 esube.baskentmnkldgr.com
@@ -158058,6 +158063,7 @@ evimizbil.info
 evimoldu.click
 evimolsuntoki.xyz
 evimolsuntokibasvuruekrani.com
+evimtokide500basvuruekrani.com
 evimzinherseyi.com
 evince.supportcodeblitz.com
 evindeawm.com.tr
@@ -252807,6 +252813,7 @@ lalelisubeindirimayi.com.tr
 lalelisubeindirimayi.online
 lalelisubeindirimayi.xyz
 laleterziblog.blogspot.com
+lalfd7456.github.io
 lalitenvbakif.com
 lalkklakllaa.net
 lalkrere.com
@@ -314022,6 +314029,7 @@ pttavm.resmitrpasaj.com
 pttavm.s-guvende.com
 pttavm.sa.com
 pttavm.sanalemarket.com
+pttavm.satinal-guvenli.com
 pttavm.satis-urunler.com
 pttavm.satisguvencesi.com.tr
 pttavm.satisim.info.tr
@@ -340830,6 +340838,7 @@ sepetim-onayli-127423.com
 sepetim-onayli-127424.com
 sepetim-onayli-127425.com
 sepetim-onayli-137426.com
+sepetim-onayli-147426.com
 sepetim-online.com
 sepetim-pttavm.com.tr
 sepetim-tedarikte.com
@@ -353333,6 +353342,7 @@ sosyalkazani.ml
 sosyalkontbasvuru.net
 sosyalkonut-basvuru.blogspot.com
 sosyalkonut-ilkevim.com
+sosyalkonut.net
 sosyalkonut.org
 sosyalkonut.shop
 sosyalkonut2026.com
@@ -371881,6 +371891,7 @@ tokibasvurum.online
 tokibasvurum.org
 tokibasvurum.xyz
 tokibasvurumerkez.store
+tokibasvurumhizlandir.click
 tokibasvurumhizli.top
 tokibasvurumm.net
 tokibasvurumonline.click
@@ -371993,6 +372004,7 @@ tokikonutal500binbasvuruekrani.com
 tokikonutbaskanligi.org
 tokikonutbasvulari.com
 tokikonutbasvur.xyz
+tokikonutbasvuru.com
 tokikonutbasvuru.gq
 tokikonutbasvuruekrani.wordpress.com
 tokikonutbasvurular.vercel.app
@@ -372080,6 +372092,7 @@ tokionlinebasvurun.vercel.app
 tokionlinebasvurusu.vercel.app
 tokionlinebasvuruun.net
 tokionlineislem.vercel.app
+tokionlinekonutbasvuru.com
 tokionlineodeme.com.tr
 tokip-islemleri.click
 tokipagecloud.org
@@ -430523,6 +430536,7 @@ yuzyilarcaziraat.com
 yuzyildabirfirsatlar.cfd
 yuzyildabirfirsatlar.icu
 yuzyildabirfirsatlar.my
+yuzyilin-evi.com
 yuzyilin-sevgisi-filizlendi-ellerimizde-hayat-buldu.com
 yuzyilinindirimlisayfasi.online
 yuzyilinindirimlisayfasi.xyz
