@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-05T05:05:12.823398
+# Updated: 2025-11-05T06:05:13.727710
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16959,6 +16959,8 @@
 250binbasvurutokiekrani.com
 250binevkonutbasvurusu.com
 250binilkevtokl.help
+250binilkevtokl.online
+250binilkevtokl.top
 250binkonut-online.blogdns.net
 250binkonut.com
 250binkonutbasvur.com
@@ -24492,6 +24494,7 @@
 507jcyb7r.duckdns.org
 5089658.cloud
 5090k.hsing.ru
+50binilkevtokl.top
 50binqnbkampanyasin.vercel.app
 50cent.zapto.org
 50e6mrslulit1piby2k0gfo.ddns.net
@@ -71295,6 +71298,7 @@ basvurtmgz.online
 basvurtny.com.tr
 basvurtny.xyz
 basvurtoki.com
+basvurtoki.info
 basvurtoki.online
 basvurtoki.xyz
 basvurtokii2871.xyz
@@ -72183,6 +72187,7 @@ basvurukonut.com
 basvurukonutsosyalprojesi.net
 basvurukordan.com
 basvurukosullarimiz.com
+basvurukotiiilkevim55.xyz
 basvurukovalafirsatimdenizle.xyz
 basvurukredi.cf
 basvurukredi.com
@@ -72530,6 +72535,7 @@ basvurumkredi.com
 basvurumm.click
 basvurummis.org
 basvurummtokiimevim1453.xyz
+basvurummtokiimevimmilk.xyz
 basvurumnk.com
 basvurumnk.world
 basvurumobiilacikdenizv2denizbank.co.vu
@@ -73036,6 +73042,7 @@ basvuruyonetimi.pro
 basvuruyonlendiricisi.wuaze.com
 basvuruyonlendirmedeniz.com.tr
 basvuruyorum.com
+basvuruyptm.digital
 basvuruyu-yap-islemi-tamamla.com
 basvuruyusorguladagitimgunleri-prb.click
 basvuruzamanibasladi.org
@@ -73088,6 +73095,7 @@ basvurymn.com.tr
 basvurymn.xyz
 basvurytokk.art
 basvurytokk.info
+basvurytokk.pro
 basvurytokk.sa.com
 basvurytokk.xyz
 basvuryu-tamamla.free.site.pro
@@ -76087,6 +76095,7 @@ benim-resim-sayfam-ozel.com
 benim-resim-sayfam.kampanya-basvuru-sayfa.xyz
 benimadimcaferseninadinnee.com
 benimcanimturkiyem.com
+benimevim-t-o-k-i-bsrv.com
 benimformdoldurmamsite.ml
 benimgarantilihediyem.com
 benimgisem.xyz
@@ -95773,6 +95782,7 @@ bsvrkrdfrm.xyz
 bsvrlmiztki.sbs
 bsvrlrm.xyz
 bsvrlrmtrkye.digital
+bsvrlrnz-toklkont.com
 bsvrmalimmerkeztr1.net
 bsvrmavisdfnz.com
 bsvrmbumrkz.com
@@ -96006,6 +96016,7 @@ bsvrumonlineisubemkuveytturk.net
 bsvrun.click
 bsvrunuztoki.click
 bsvrutarihh.net
+bsvrutoiki.pics
 bsvrutrx1.com.tr
 bsvrutrziraatbnkredi.fixip.org
 bsvruu1.click
@@ -146916,6 +146927,7 @@ edificioviacapital.com.br
 edigitalgirislemenutr100yil.com
 edigitalisislemenu.online
 edijitalbasvuruacikdenizv2denizbank.co.vu
+edijitalgaranti.com
 edijitalmobil.online
 edijitalmobilgirisslemmenuleri.com
 edirektbasvur.com
@@ -161512,6 +161524,7 @@ famillia.org.tr
 family-tr.cyou
 familya-tr.life
 familyadventurequest.com
+familyanchor.pro
 familygroup.store
 familylawlexington.com
 familynearbysuitablenumber.com
@@ -205684,6 +205697,7 @@ hizlikontoryukle.xyz
 hizlikontoryukleme.net
 hizlikontrol.net
 hizlikonutbasvurulari.cloud
+hizlikonutbasvurularinitamamla.cloud
 hizlikonutbasvuruolustur.cloud
 hizlikonutbasvurusuolustur.cloud
 hizlikonutbasvurusutamamlama.cloud
@@ -248814,6 +248828,7 @@ kozler.store
 kozlikmozlik.zapto.org
 kozmetr.online
 kozmik-soguk-taraf-kulvar.sbs
+kozmiksessizlik.com
 kozmikurunsatis.com
 kozmikyolculuk.space
 kozmosewears.shop
@@ -265649,6 +265664,7 @@ meher.ddns.net
 mehersharrow.com
 mehhsds.com
 mehhurst.com
+mehiray.com
 mehm9s48sa.blogspot.com
 mehmango.shop
 mehmedokul1.wixsite.com
@@ -273403,6 +273419,7 @@ motovzbiz.b-cdn.net
 motown-player.com
 motown-space.com
 motpack.com
+motrior.com
 motrlutasitv3rgisi.org
 motrush.com
 motrvolt.net
@@ -291644,6 +291661,7 @@ online-subeyapikredi.com
 online-success-alim.com
 online-supp0rtteam.hopto.org
 online-t-e-b-bireyselsube-tr.com
+online-t-o-k-i-bsrv.com
 online-takip-yurticikargo.com
 online-tbank.world
 online-tbmmkartiadelerigovtr.tk
@@ -311747,7 +311765,9 @@ projehavuzumuz.com
 projektdateien.hopto.org
 projekthd.com/pub/document/tvra18kib9ctbfq_34r3u76-7401196692872/
 projeler-toki-burada.cfd
+projeler-toki-burada.sbs
 projeler-toki-buradan.icu
+projeler-toki-buradan.sbs
 projemizvarbayramdan.com
 projesecimi.com
 projesosylakonutbasvuru.net
@@ -328411,6 +328431,7 @@ rudavo.store
 ruddmpaq.com
 rudeincglobals.site
 rudemath.com
+rudeme.store
 rudiboss.ddns.net
 rudiopw.com
 rudraagrointernational.com/well-known/files/rwth67/rwth67.exe
@@ -328563,6 +328584,7 @@ rusfinansbank.info
 rusha.wtf
 rushaccess.site
 rushdisregard.top
+rushhike.com
 rushi.claysrat.top
 rushkoffkocero.com
 rushkro.com
@@ -362335,6 +362357,7 @@ t-o-k-i-basvurum.click
 t-o-k-i-basvurum.cyou
 t-o-k-i-basvurum.sbs
 t-o-k-i-bsvr.com
+t-o-k-i-bsvru-ilk-evim.com
 t-o-k-i-bsvru.com
 t-odeme.online
 t-odeme.sa.com
@@ -372135,6 +372158,7 @@ toki500konutbasvuru.icu
 toki500konutbasvuru.sbs
 toki600konutbasvuru.sbs
 toki7.lightchord.cfd
+toki700konutbasvuru.sbs
 tokial500binprojebasvuruekrani.com
 tokibasladi.com.tr
 tokibasquru.com
@@ -372148,6 +372172,7 @@ tokibasvrulariii.com
 tokibasvrularim.org
 tokibasvur.art
 tokibasvur.com
+tokibasvur.fit
 tokibasvur.net
 tokibasvur.online
 tokibasvur.org
@@ -372336,6 +372361,7 @@ tokiibasvurus.blogspot.com
 tokiibasvurusu.blogspot.com
 tokiikevimprojesibasvuru.com
 tokiilerbasvuruu.sa.com
+tokiilkevbasvur.com
 tokiilkevimbasvuru.site
 tokiilkevimbasvuruekrani.com
 tokikayit.org
@@ -372389,6 +372415,7 @@ tokikonutlarimbasvurusu.vercel.app
 tokikonutlariturkiye.click
 tokikonutlariturkiye.site
 tokikonutlarprojem.best
+tokikonutlarprojem.site
 tokikonutprojeleri.com
 tokikonutprojesi.com
 tokikonutprojesibasvur.vercel.app
@@ -372501,7 +372528,9 @@ tokkkikontlarbaxvvuru.online
 tokklbasvurrulari.org
 tokkxiiikonttkreddxxs.blogspot.com
 tokl-basvrs-2025.sbs
+tokl-hizlibsvuru.com
 tokl-konthizlbsvr.com
+tokl-konutbsvru.com
 tokl.basvurusayfasama.sbs
 tokl.e-konutbasvur.sbs
 tokl.fistokmm.sbs
@@ -411666,16 +411695,26 @@ www-tojs-pak-ettt12.blogspot.com
 www-toki-basvur-gov-tr.click
 www-toki-basvur-gov-tr.cloud
 www-toki-basvur-gov-tr.com
+www-toki-basvur-gov-tr.icu
+www-toki-basvur-gov-tr.shop
+www-toki-basvur-gov-tr.store
 www-toki-basvur-gov-tr.xyz
 www-toki-basvuru-gov-tr.click
 www-toki-basvuru-gov-tr.cloud
 www-toki-basvuru-gov-tr.com
 www-toki-basvuru-gov-tr.online
+www-toki-basvuru-gov-tr.store
+www-toki-basvuru-gov-tr.xyz
 www-toki-gov-tr.blogspot.com
+www-toki-gov-tr.click
 www-toki-gov-tr.cloud
 www-toki-gov-tr.com
+www-toki-gov-tr.icu
 www-toki-gov-tr.online
 www-toki-gov-tr.sa.com
+www-toki-gov-tr.shop
+www-toki-gov-tr.store
+www-toki-gov-tr.xyz
 www-torproject.top
 www-tr-cimer-basvuru-gov-tr.com
 www-tr-cimer-basvuru.com
