@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-06T21:05:13.429317
+# Updated: 2025-11-06T22:05:13.222430
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8385,6 +8385,7 @@
 169dv.dkabx0.com
 169mz.iinm3.com
 16adetkaldilababossxd3.blogspot.com
+16adetlankankaaas.blogspot.com
 16agostok.duckdns.org
 16aralfirsat.xyz
 16aralikfirsat.online
@@ -16969,6 +16970,7 @@
 25080058462103025-verification-acount.duckdns.org
 250888com.com
 250binasrinprojesi.com
+250binbasvurumobil.com
 250binbasvurutokiekrani.com
 250binevkonutbasvurusu.com
 250binilkevtokl.help
@@ -35142,6 +35144,7 @@ a090f4d72a2024c9a4d5a119319b2cdc.cf
 a0b8e806.littleat.ru
 a0bj7.top
 a0bk-06a5889tt-654k09.com
+a0dtw6w.storage.googleapis.com
 a0e0q8m0crcpgb7fwjm63bs.ddns.net
 a0enorc6of7.com
 a0hywyi.duckdns.org
@@ -55618,6 +55621,7 @@ alto.ddns.net
 altocdn.online
 altocloudzone.live
 altoinfor.co
+altorex.sbs
 altosdefontana.com/db_template.php
 altrablog.com/db_template.php
 altralogos.com
@@ -72237,6 +72241,7 @@ basvurukontrol.com
 basvurukonut-e.com
 basvurukonut.com
 basvurukonutlaritoki.art
+basvurukonutlaritoki.info
 basvurukonutsosyalprojesi.net
 basvurukordan.com
 basvurukosullarimiz.com
@@ -87473,6 +87478,7 @@ bizler-sizleri-aninda-sectik-alin-bence.com
 bizler-sizleri-dusunuyoruz-sizler-alin-gelsin.com
 bizler-toplaniyoruz.net
 bizleraidaticerigindeyiz.com
+bizlerburada.xyz
 bizlerde-gorunmeden-sevilen-sevgiler-kadar.com
 bizlerden-super-sahane-zamanlara-gecisiriz.com
 bizlerdensepetinizesizlerle.com.tr
@@ -94817,6 +94823,7 @@ brapap.duckdns.org
 brapapalti.duckdns.org
 brapapbes.duckdns.org
 brapapiki.duckdns.org
+brapaproe.duckdns.org
 brapapuc.duckdns.org
 brapapyedi.duckdns.org
 brappmbxx.to
@@ -149841,6 +149848,7 @@ ekrandan-aktar-online.site
 ekrandan-sorgulama-aktarma.online
 ekrandan-sorgulama-ve-aktarma-hizmetiniz.sbs
 ekrandan-sorgulamani-yap-eylul-ayi.cyou
+ekrandan-sorgulayin-ve-onaylayin.sbs
 ekrandan-sorgulayiniz-bir-cok-islem.sbs
 ekrandan-sorgulayip-aktariniz-aktif.sbs
 ekrandanalonaylarisimdi.duckdns.org
@@ -256361,6 +256369,7 @@ lll-r31-tgdsq23e431e-dsa-fsafs.sbs
 lll-sghhd.sbs
 lll.super1024.com
 lll086erds.duckdns.org
+lll0lese3was.duckdns.org
 lll0sw54g.duckdns.org
 lll0sw564g.duckdns.org
 lll0waosfee.duckdns.org
