@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-07T00:05:12.639950
+# Updated: 2025-11-07T01:05:14.350738
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -72244,6 +72244,7 @@ basvurukonut-e.com
 basvurukonut.com
 basvurukonutlaritoki.art
 basvurukonutlaritoki.info
+basvurukonutlaritoki.xyz
 basvurukonutsosyalprojesi.net
 basvurukordan.com
 basvurukosullarimiz.com
@@ -95738,6 +95739,7 @@ bslcsmlsdmsldm.com
 bslines.xyz
 bslqijzr.info
 bslqzvynxtep.sa.com
+bslrmbrdatkibsvr.sbs
 bslrv.duckdns.org
 bsmcellislisiy.com
 bsmcellll.com
@@ -134726,6 +134728,7 @@ driftlucrative.top
 driftory.my
 drifttactic.top
 driftwoodluxe.com
+drila.click
 drillrotten.top
 drillseductive.top
 drillworry.top
@@ -208784,6 +208787,7 @@ horlzonhub.com
 hormenesgtesls.com
 hormensdtrerr.com
 hormensterkdslere.com
+hormenstersertmsirtsirta.com
 hormesterlelrsk.com
 hormestler.org.tr
 hormestlercilerr.org.tr
@@ -217013,6 +217017,7 @@ ilkemburs.net
 ilkemedya.com
 ilkevbasvurtokl.info
 ilkevbasvurtokl.online
+ilkevbasvuru.com
 ilkevbasvurular.sbs
 ilkevbasvurusu.sbs
 ilkevim-basvuru.com
@@ -276923,6 +276928,7 @@ mutluedecekkampanyalar.sbs
 mutluedecekyarinlarburada.online
 mutluedecekyarinlarburada.xyz
 mutluemeklilik.com
+mutluevim.click
 mutlugelecek.xyz
 mutlugonuller.com
 mutlugonulluler.com
@@ -373328,6 +373334,7 @@ toplukonutbasvururesmi.com
 toplukonutbasvurusu.com
 toplukonutbasvurusu.vercel.app
 toplukonutbasvurusu1.vercel.app
+toplukonutbasvurusudrieagu.vercel.app
 toplukonutbasvurusutoki.cloud
 toplukonutidaresi.com
 toplukonutidaresi.net
@@ -380523,6 +380530,7 @@ tryphptoday.com
 trys-docs-mics.org
 trysahibinden-paramhizmetleri-departmani.publicvm.com
 tryshellabove.top
+tryshorting.link
 tryshs.hopto.org
 trysting3.xyz
 trysu.loveslife.biz
