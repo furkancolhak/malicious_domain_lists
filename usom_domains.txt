@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-07T12:05:14.103678
+# Updated: 2025-11-07T13:05:19.318814
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -14907,6 +14907,7 @@
 2025yildizlarinda.online
 2025yildizlarinda.xyz
 2025yilikampanyasizlere.com
+2026teslim-tarih.sbs
 2028-88-230-146-31.ngrok-free.app
 202crx.duckdns.org
 202eyi.duckdns.org
@@ -16994,6 +16995,8 @@
 250bintokikonutprojesibasvuruekrani.com
 250bintokiprojebasvuruekrani.com
 250bintokisprojeleribasvuruekrani.com
+250bintoklilkev.click
+250bintoklilkev.com
 250bintoklilkev.online
 250bintoplukontproje.com
 250bintoplukonut.com
@@ -38864,6 +38867,7 @@ abvrdun10.click
 abvrdun12.click
 abvrdun14.click
 abvrdun16.click
+abvrdun18.click
 abvsecurity.co.za//db-config-ini.php
 abvsecurity.co.za/db-config-ini.php
 abvsecurity.co.za/wp-config-ini.php
@@ -66857,6 +66861,7 @@ ayyildzbursu.org
 ayyolsk4m23432.com
 ayyolskmm332132142.com
 ayzakpo.ru
+ayzbbirrfhadcrcaabitmzkapmbyasi.mooo.com
 ayzbbirrrrfhadcrcaabitmzkapmbyas.mooo.com
 ayzbirharcacarcabtmzzkmpynds.mooo.com
 ayzedhwnx.com
@@ -71865,6 +71870,7 @@ basvuruaralik11.duckdns.org
 basvuruaralik12.duckdns.org
 basvuruaralik29.duckdns.org
 basvuruarapformudeniz.com
+basvuruasamagiriswebonline.click
 basvuruasamapageweb.site
 basvuruasamasiweb.site
 basvuruaxess.xyz
@@ -156604,6 +156610,7 @@ etapkohbdes.online
 etapkohbes.online
 etapkomsar.online
 etapkonxmz.online
+etaponlinebasvurulari.top
 etaprandemin.online
 etaprandemn.online
 etapu.co
@@ -163066,6 +163073,7 @@ fekelmedenbe.net
 fekeqwdsdckedkeqwesdk211.com
 fekigter2.us
 fekilopol.xyz
+fekmiz2458.wordpress.com
 fekohis1.us
 fekon.s3.ap-south-1.amazonaws.com
 fekoqaydb.duckdns.org
@@ -217116,6 +217124,7 @@ ilkevimkonut.xyz
 ilkevimkonutbasvuru.com
 ilkevimkonutlari.cloud
 ilkevimnet.com
+ilkevimproje.com
 ilkevimprojeleri.org
 ilkevimprojesi.com
 ilkevimprojesi.xyz
@@ -247310,6 +247319,7 @@ kmpanya-aldn.com.tr
 kmpanya-yeni-kasm.online
 kmpanya101defirstlari.com
 kmpanyabsvrrgrnt.info
+kmpanyabsvrrgrnt.pro
 kmpanyadenizde.site
 kmpanyagunleri.online
 kmpanyagunleri.site
@@ -248736,6 +248746,7 @@ konutevlerihazirlaniyor.cloud
 konutevlik.cfd
 konutfirsat.click
 konutfirsati.click
+konutfirsati.online
 konutguncel.click
 konutgunceldestekhatti.com
 konutilkevim.org
@@ -325958,6 +325969,7 @@ resmiegirisadres-merkezgiriss.com
 resmiegirisadresi-merkezgiris.com
 resmiegirisadresim-merkezgirisi.com
 resmiemlakislemleri.net
+resmievim.com
 resmigarantibbva.mefound.com
 resmigarantibbvabasvuru.mefound.com
 resmigarantibbvabasvurusu.mefound.com
@@ -331002,6 +331014,7 @@ safsafjksfak214.com
 safsafkjfsa124.com
 safsaflk21512.xyz
 safsazasxsawqrwq.app
+safsevza20145.wordpress.com
 safsfafq-ssdgggggg.space
 safsfavxzvv-wqvsdbfd-fqfasdsdbbsd.website
 safsfawqwfq-ssvz-waf.space
@@ -340672,6 +340685,7 @@ sendefirsatalmadangitme.com.tr
 sendefirsatalmadangitme.online
 sendefirsatikacirma.net
 sendefirsatikacirma.online
+sendefirsattakalhizlica.site
 sendegaraaantilebasvr-tr.net
 sendegaraaantilebasvr-tr2.net
 sendegarantilebasvr-tr.net
@@ -372481,6 +372495,7 @@ toki-basvurumm-yapp.com
 toki-basvurusistemi.rest
 toki-basvurusu.org
 toki-basvurusugel.work
+toki-bsvr-slv.sbs
 toki-cevrevesehir.info
 toki-e-basvuru.lat
 toki-e-basvuru.sbs
@@ -386761,6 +386776,7 @@ ugsxy.com
 ugt3d8fs.duckdns.org
 ugtaiyvsqq.duckdns.org
 ugunz.zapto.org
+ugur-d.org
 ugurhanem.com
 ugwebz.uk.pn
 ugx4pvongd.storage.googleapis.com
