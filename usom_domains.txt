@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-07T18:05:12.828623
+# Updated: 2025-11-07T19:05:15.017227
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -22147,6 +22147,7 @@
 45.155.249.215
 45.155.249.55
 45.155.250.151
+45.155.250.158
 45.155.250.90
 45.155.37.101
 45.155.37.105
@@ -22956,6 +22957,7 @@
 46.244.21.4
 46.244.21.6
 46.244.21.9
+46.246.28.75
 46.246.4.12
 46.246.44.140
 46.246.63.60
@@ -24392,6 +24394,7 @@
 500bin-konutbasvuru.cfd
 500bin.evsahibiturkiye.news
 500bin.konutbasvurulari.cloud
+500bin.konutbasvurularindasongunler.cloud
 500bin.konutbasvurutamamla.cloud
 500bin.yenikonutbasvurulari.cloud
 500binasrinprojesi.com
@@ -32794,6 +32797,7 @@
 92.242.62.156/ab4g5
 92.242.62.20
 92.243.64.200
+92.243.65.240
 92.243.95.203
 92.249.48.205
 92.251.82.163
@@ -34699,6 +34703,7 @@ a-101-kapimda.com
 a-101-kariyer.com
 a-101-kariyerr.com
 a-101-kasim-firsatlari-devam-ediyor.online
+a-101-kasyim-flrsatlari.cfd
 a-101-market-tr.online
 a-101-market.comaldnaldnhftaninyildizlri.shop
 a-101-market.online
@@ -38878,6 +38883,7 @@ abvrdun18.click
 abvrdun2.click
 abvrdun20.click
 abvrdun4.click
+abvrdun6.click
 abvsecurity.co.za//db-config-ini.php
 abvsecurity.co.za/db-config-ini.php
 abvsecurity.co.za/wp-config-ini.php
@@ -48386,6 +48392,7 @@ ailhibebasvurudestek.com
 ailiaenterprises.com//db_template.php
 ailiaenterprises.com/wp-config-ini.php
 aillctech.com
+ailnzkrcalard.cfd
 ailsverisinizdir.com
 ailx618.duckdns.org
 ailyhotdealstoday.world
@@ -71111,6 +71118,7 @@ basvurix2024.click
 basvurjzdn.sbs
 basvurkabul.com
 basvurkabul.mooo.com
+basvurkamnpnya.com
 basvurkampanyacuteonlinebasvurum.net
 basvurkampanyaguzelkampanyall.com
 basvurkampanyaoutsideodulualyoursourcephpethtml.net
@@ -89571,6 +89579,7 @@ blockchainsupp0rt.ddns.net
 blockchaintransparency.instute
 blockchainvekisiselveriyonetim.xyz
 blockchainvekriptoparayonetimi.xyz
+blockchainx.sbs
 blockfi.loans
 blockhatchr.com
 blockholer.com
@@ -96115,6 +96124,7 @@ bsvrrrpromooogrnnn.click
 bsvrrrprsmsnynn.pro
 bsvrrrqnbbprmsyn.click
 bsvrrrrprmsynn.click
+bsvrrrrprsmmsnynn.info
 bsvrrrrprsmmsnynn.online
 bsvrrrrrkmpnyaaqnb.click
 bsvrrrrrkmpnyyyaafinss.click
@@ -158088,6 +158098,7 @@ evdepaktlemeks.com
 evdepaktlemekstr.com
 evdepktlme-basvurugiris.site
 evdesaglik.cf
+evdesaglk.cfd
 evdesendekazan.ml
 evdesindiye-20gb.com
 evdespormerkezi.club
@@ -158479,6 +158490,7 @@ evklrkdbsvr.net
 evklrmiredial.net
 evknrkj.net
 evkolay.click
+evkonutsahibiol.bounceme.net
 evkrbsvrlr.net
 evkrdbskr.net
 evkrdbsvr.net
@@ -197129,6 +197141,7 @@ healthstafftravel.com.au
 healthverse.top
 healthy-cleanse-fit.com
 healthy-lifestyle.fit
+healthyeatingontherun.com
 healthyfamilycommunity.org
 healthyjouprney.tech
 healthynewsdaily.net
@@ -209179,6 +209192,7 @@ hotelplannerseoinc.com
 hotelruota.it
 hotels4people.site
 hotelsinumonteria.com
+hotelsitereview.com
 hotelspaghetti.top
 hoteltatar.net
 hoteltoren.com
@@ -211624,6 +211638,7 @@ hzlgecsdmelrhgs.com
 hzlgvjcsykglme.net
 hzli-bsvrtokl.com
 hzli-islemler-ptthgcsogs.com
+hzli-stiye-gvenli-aktarici.sbs
 hzli-yonlndirici.sbs
 hzlibasvrhemengriskaytmerkezi.com
 hzlibasvrmerkezgriskaytol.com
@@ -219895,6 +219910,7 @@ indrmliixmrktfrrstlari-onlniiee.net
 indrmlrdnenckstnlar.cfd
 indrmlrllexkampnylr.net
 indrmlrmbuaykixbnmbu.click
+indrmlrsmlmsd.store
 indrmm-burda.com
 indrmmatkaptasimdikcrm.shop
 indrmmbrda.com
@@ -240226,6 +240242,7 @@ kapinageldi.click
 kapinageldiflrsat.art
 kapinageldikampanyan.xyz
 kapinageldisiparisin.xyz
+kapinagelsin.click
 kapinagelsin.org
 kapinagelsin.xyz
 kapinagelsinonlineindirimler1934.com.tr
@@ -292641,6 +292658,7 @@ onlinebasvurum.xyz
 onlinebasvurumartaylarimiadelerim.net
 onlinebasvurumdays.cloud
 onlinebasvurumdeniz.ga
+onlinebasvurumerkezi.org
 onlinebasvurumerkezisayfasi.duckdns.org
 onlinebasvurun-turkeygovtr.com
 onlinebasvurun.com
@@ -312132,6 +312150,7 @@ projectionevaporation.top
 projectionevasive.top
 projectionpasta.top
 projectionsalutation.top
+projectmanagerskills.com
 projectmob.sbs
 projector123.zapto.org
 projectoroffset.top
@@ -354137,6 +354156,7 @@ sosyalkonutprojesi.hizlibasvurularbasladi.cloud
 sosyalkonutprojesi.hizlibasvurusayfasi.cloud
 sosyalkonutprojesi.hizlibsavuruolusturma.cloud
 sosyalkonutprojesi.kasimdahilibasvurulariolursutr.cloud
+sosyalkonutprojesi.konutbasvurularindasongunler.cloud
 sosyalkonutprojesi.konutevlerihazirlaniyor.cloud
 sosyalkonutprojesi.net
 sosyalkonutprojesi.ozelkonutsistemi.cloud
@@ -355245,6 +355265,7 @@ sponsor-girisyap-basvur.com
 sponsor-icerik.com
 sponsor-market-indirimleri-tr.online
 sponsor-market-indirimleri.online
+sponsor-mobil-360.site
 sponsor-mobil-tr.online
 sponsor-reklami101.nicepage.io
 sponsor.cf
@@ -372590,6 +372611,7 @@ toki-gov-tr.tk
 toki-gov.cfd
 toki-gov.sbs
 toki-ile.evsahibturkiye.com
+toki-ilkevim.duckdns.org
 toki-ilkevim.shop
 toki-kampanya.com
 toki-kampanya.info
@@ -372634,6 +372656,7 @@ toki.castgard.com
 toki.ebasvur.com
 toki.eczonomm.it.com
 toki.evbasvurusu.com
+toki.evsahibiolduturkiye.com
 toki.glbserv.com
 toki.hanimanya.com
 toki.hemenbasvuru2025.org
