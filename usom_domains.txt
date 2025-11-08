@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-08T21:05:13.654990
+# Updated: 2025-11-08T22:05:13.455118
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -66615,6 +66615,7 @@ aydinturkiye.com
 aydinyarinlar.online
 aydinyarinlar.org
 aydngunclgiris.shop
+aydnlkataks-bgn.cfd
 aydogdumdanree.xyz
 aydonumnoktasi.sbs
 aydonumu.sbs
@@ -69462,6 +69463,7 @@ baltimoreondemand.com
 baltrapbalyalama22.com
 baltrednr.click
 baltripnr.click
+baltrtsnr.click
 balu001.0catch.com
 balu002.0catch.com
 balu003.0catch.com
@@ -73104,6 +73106,7 @@ basvurutokileri.online
 basvurutokimerkezim.com
 basvurutokimilkevim81.xyz
 basvurutokionline.click
+basvurutokkampanya.art
 basvurutokl.click
 basvurutokl.com
 basvurutoplukonutlar.com
@@ -115418,6 +115421,7 @@ crfsafrstlarkmpnya.xyz
 crfsahaftnsnu.com
 crfsalrdnglaln.shop
 crfsanisnbasi.com
+crfsarz.cfd
 crfsaykkmpan.cfd
 crfsaykkmpan.sbs
 crfsbnzbm.store
@@ -115451,6 +115455,7 @@ crfsnzz.com
 crfsrdnhlkageldkk.shop
 crfssdanfrcrdfsa.com
 crfssdanfrcrdfsadnbbze.com
+crfsssead.cfd
 crfsyagldncrfsadngtmdn.com
 crfsykrsmtcfrdsyadn.com
 crftseydisehir.cfd
@@ -169035,6 +169040,7 @@ folsjceezu.duckdns.org
 folxdogerm.info
 fomarez.xyz
 fomationlaborate.top
+fombntrq.click
 fomebyi.com
 fomehl.com
 fomeneshomesilaclama.site
@@ -246757,6 +246763,7 @@ kkooyyunkurbandestegi-akkbbnkk.online
 kkosmanfearles.duckdns.org
 kkosmanfearleskk.duckdns.org
 kkosmanferarss.com
+kkosmanlikkfearles.com
 kkpp-daail-eylbasi.shop
 kkprofdomss.com
 kkprofkk.com
@@ -310413,6 +310420,7 @@ pqrhsswehn.in
 pqribu.com
 pqribuapp.club
 pqribuapp.online
+pqrm5.sbs
 pqszeoign.com
 pqvlj3n8.duckdns.org
 pqvput8ff6.com
@@ -334045,6 +334053,7 @@ sahibinden.sepetim-ilanli.com.tr
 sahibinden.sepetim-odeme.com.tr
 sahibinden.sepetim-onayli-127424.com
 sahibinden.sepetim-onayli-127425.com
+sahibinden.sepetim-onayli-197426.com
 sahibinden.sepetim-onayli-satinal.com
 sahibinden.sepetim-online.com
 sahibinden.sepetim-tedarikte.com
@@ -354282,6 +354291,7 @@ sosyalkonut.evsahibiturkiye.media
 sosyalkonut.net
 sosyalkonut.org
 sosyalkonut.shop
+sosyalkonut2025.com.tr
 sosyalkonut2026.com
 sosyalkonut2026.vercel.app
 sosyalkonutbasvuru.click
@@ -399523,6 +399533,7 @@ vopaxafi.com
 vopdetuy.site
 vopdulso.site
 vophqlpwtlod.pw
+vopi8pvy8.storage.googleapis.com
 vops.ddns.net
 vopvoeuahu.duckdns.org
 vopyzuc.com
