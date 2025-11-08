@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-08T20:05:14.000146
+# Updated: 2025-11-08T21:05:13.654990
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16995,6 +16995,7 @@
 250binkonutbasvurusu.com
 250binkonutprojebasvurusu.com
 250binkonutprojesibasvuru.com
+250binltokl.site
 250bintokibasvuru.com
 250bintokibasvurusu.com
 250bintokikonutprojesibasvuruekrani.com
@@ -18575,6 +18576,7 @@
 306586972.corolain.ru
 30687560.cloud
 30724.cloud
+307455883.cloud
 307693324.corolain.ru
 308641648.corolain.ru
 308832.duckdns.org
@@ -49989,6 +49991,7 @@ akbnkisubemapp.xyz
 akbnkkampanya.com
 akbnkkatilimtalebleriniz.com
 akbnkkkkfirstttlarr.xyz
+akbnkkrdedifristlarikcmzz.mooo.com
 akbnkkredileri.cloud
 akbnkkredim-islemleri-com.online
 akbnkm.com
@@ -53512,6 +53515,7 @@ aldinaldinredmigirdekleriburada.cfd
 aldinaldinredmigirdekleriburada.sbs
 aldinaldinsalitestere.shop
 aldinaldinsantimelerin.com
+aldinaldinsepetfirsx.sbs
 aldinaldinsimdi.icu
 aldinaldinsimdi.online
 aldinaldinsimdiburada.shop
@@ -72681,6 +72685,8 @@ basvurumkolay.com
 basvurumkredi.com
 basvurumm.click
 basvurummis.org
+basvurummmilkkkevimmiz.online
+basvurummmmtokiiiiiilkevimmm71.xyz
 basvurummtokiimevim1453.xyz
 basvurummtokiimevimmilk.xyz
 basvurummtokiimmilkimevim.xyz
@@ -72711,6 +72717,7 @@ basvurumstarkampanya.net
 basvurumtoki2025.com
 basvurumtokiiimilkimevim61.xyz
 basvurumtokiilkevim.online
+basvurumtokiimmmilkimevimm.cfd
 basvurumtrbnncrs.online
 basvurumturkiyeiade.org
 basvurumunuzlarbbva.com
@@ -72836,6 +72843,7 @@ basvurunuyap.com.tr
 basvurunuyap.sbs
 basvurunuyaphediyeler.cloud
 basvurunuyaphediyenikap.com
+basvurunuyaphemen.site
 basvurunuyaphemen2024.cloud
 basvurunuyapodulukazanmafirsatiseasypointwild.net
 basvurunuyaponline.site
@@ -93001,6 +93009,7 @@ bnturkiyegirisyap.cc
 bnturkiyegirisyap.com
 bnudestekbasvurutr.com
 bnusa-basvur.sbs
+bnusa-basvurws.com
 bnvdfgd.click
 bnveliabn.vercel.app
 bnveve.click
@@ -93321,6 +93330,7 @@ bofr7.no.ip.org
 bofusa-zele.ddns.net
 bofylae.com
 bog5151.zapto.org
+bogaccicekcilik.com.tr
 bogdanandreescu.fit//wp-config-ini.php
 bogerando.ru
 bogin.hopto.org
@@ -116099,6 +116109,7 @@ cstmsklmnaopstrlmasistans.xyz
 cstomersrviu-poals9empmre.duckdns.org
 cstudyin.coinbase-com.info
 csturkey.org
+csuq10.sbs
 cswer.artilastaratoraforlamatorulatoca.net
 csxtskklmn.com
 csyeywqwyikqaiim.xyz
@@ -120816,6 +120827,7 @@ deltadisseny.com/oiheiryur92
 deltaled.es
 deltamontero.company
 deltaproject.us
+deltavip.online
 deltavip.wuaze.com
 deltavip.xyz
 delten.2kool4u.net
@@ -156003,6 +156015,7 @@ eskixbbxcelnerde.net
 eskiyadunyayahukumdarolur.sbs
 eskiyasasilkern.com
 eskiyastar.duckdns.org
+eskiye-donuk-sorgu-yap.sbs
 eskmelromvrle.net
 eskontbaklye.net
 eskonxlzb.com
@@ -159198,6 +159211,7 @@ evsahibiturkiye.media
 evsahibiturkiye.my-homeip.com
 evsahibiturkiye.net
 evsahibiturkiye.news
+evsahibiturkiye.world
 evsahibiturkiyem.com
 evsahibiturkiyem.vercel.app
 evsahibturkiye.com
@@ -170558,6 +170572,7 @@ frsat-katalog.com
 frsat.com.tr
 frsat0vergikmpanyasonteslim.com
 frsataddass1.xyz
+frsataks-bgn.cfd
 frsatayaginakadar-giriswebtr.xyz
 frsatbasvrumtodayhediyem.net
 frsatbrdaa.capetown
@@ -172278,6 +172293,7 @@ gallup.xoxo.is
 galone.ddns.net
 galtcoindiscover.top
 galtdentalcambridge.com
+galthira.com
 galtinsubesi.com
 galtofraknispovratisyorkamni.net
 galu4g.duckdns.org
@@ -188403,6 +188419,7 @@ gvende-sahibinden-param.com.tr
 gvende-sahibinden-param.xyz
 gvenimistanbul.net
 gvenli-odmehizmeti.com
+gvenli-stiye-yonlndirici.sbs
 gvenmasdweksc.net
 gvensizronaldo.com
 gventji.com
@@ -197337,6 +197354,7 @@ hedeffo.com
 hedefgalaksi.space
 hedefilo.com
 hedefimiz2024.dev
+hedefimiz2026.com
 hedefintek.com
 hedefkafasi.space
 hedefmenkul.net
@@ -217269,6 +217287,7 @@ ilkevimdanismanlik.com
 ilkevimdemtokimler.org
 ilkevimden-basvurular.vercel.app
 ilkevimden.com
+ilkevimilkbasvurum.com
 ilkevimiz.com
 ilkevimkonut.xyz
 ilkevimkonutbasvuru.com
@@ -248856,6 +248875,7 @@ konut-kredi-basvur.blogspot.com
 konut-kredim-finansbank.com
 konut-t-o-k-i-500.com
 konut-t-o-k-i.com
+konut-t0k1n-bas.click
 konut-t0kin-bas.online
 konut.app
 konut20012024.com
@@ -249626,6 +249646,7 @@ krcayniylburda.com
 krcaysn.com
 krcazmnarlkk.com
 krcazmniarlkkgldi.com
+krcazmniksmda.cfd
 krccepte.biz.tr
 krccepte.com.tr
 krccepte.info.tr
@@ -262083,6 +262104,7 @@ maks-korzh.com
 maks-korzh.ru
 maks5554378.zapto.org
 maksarwq.club
+maksikampanya.com
 maksikampanya.digital
 maksimconcert.com
 maksimumhediyeler2019.tk
@@ -263316,6 +263338,7 @@ markalandiniz.xyz
 markalarinarasindakiincefiyatfarki.cfd
 markalarinsonindirimleri.com
 markalarlaguzel.sbs
+markalarlayasiyoruz.sbs
 markalarweb.club
 markalaryarisiyor.com
 markalastirdiklarimizdanmisiniz.com
@@ -266777,6 +266800,7 @@ merkez.servismusterihizmeti.com
 merkezaida.com
 merkezaidat.com
 merkezaktif.net
+merkezbanakasiyatirim.rest
 merkezbank-a.com
 merkezbank-bddk.cf
 merkezbanka-karthizmeti.tk
@@ -312236,6 +312260,7 @@ projbase.com
 proje-40binsproms-buradda.sbs
 proje-turkweb.com
 projebasvuru.com
+projeci.org
 projecss.ddns.net
 project-noted.at.ply.gg
 project-obs.com
@@ -312296,6 +312321,7 @@ projeler-toki-buradan.sbs
 projelerinyili2025.b-cdn.net
 projemhemen.online
 projemizvarbayramdan.com
+projeniz.org
 projeresmi.sbs
 projesecimi.com
 projesosylakonutbasvuru.net
@@ -335515,6 +335541,7 @@ sajagdaesad.click
 sajdaazhari2801.hopto.org
 sajdasggae.click
 sajdfue.com
+sajebut12421.wordpress.com
 sajhfkew.com.tr
 sajidenterprises.com/contact/db-config-ini.php
 sajidenterprises.com/contact/wp-config-ini.php
@@ -338386,6 +338413,7 @@ secharco.duckdns.org
 sechsy.com
 sechure-sahhibimnden-com-param-guvendeodeme-yap.tk
 sechureparamguvendeodemeyap-sahibinmden-com.tk
+secili-urunler.online
 secim2023cumhurbaskanligi.blogspot.com
 secimde-muarremince.net
 secimdenonce.net
@@ -341274,6 +341302,7 @@ seninde-kalana-geriden-bakmadan-aldilar.com
 senindeyuvan.com
 senindeyuvan.net
 seninduyurun.website
+seninevin.click
 seninfirsatin.com.tr
 seninfirsatlarindenizde.tk
 seningibi.wuaze.com
@@ -354271,6 +354300,7 @@ sosyalkonutlarimtoki.org
 sosyalkonutlarimtoki.vercel.app
 sosyalkonutlarin.click
 sosyalkonutproje.net
+sosyalkonutproje.xyz
 sosyalkonutprojeilkevimm.blogspot.com
 sosyalkonutprojesi.com
 sosyalkonutprojesi.hizlibasvurularbasladi.cloud
@@ -372801,6 +372831,8 @@ toki.naziltaks.com
 toki.onl
 toki.online
 toki.otoyedekbura.it.com
+toki.projeci.org
+toki.projeniz.org
 toki.rehberi.click
 toki.rehberler.click
 toki.rest
@@ -373130,6 +373162,7 @@ tokilerisbasvuru.blogspot.com
 tokilerleshuzkyy.com
 tokilibasvurularim.net
 tokilkev-imbasvuru.com
+tokilkevim500proje.org
 tokilkevimbasvur.com
 tokilkevimbasvuru.com
 tokilkevimprojesibasvuru.blogspot.com
@@ -373137,6 +373170,7 @@ tokilkevimtrtr.blogspot.com
 tokim.bounceme.net
 tokim.vercel.app
 tokimkonutbasvurusu.cloud
+tokimmnntokimm-knt-proje.com
 tokimnetevim.store
 tokimntokimm-knt-projesim.com
 tokimobil.vercel.app
@@ -373661,6 +373695,7 @@ topluislemlerin.app
 toplukayitgirisleri.com
 toplukobjrvjgls.vercel.app
 toplukoguengiop.vercel.app
+toplukontlar500bin.com
 toplukonut-onlinebasvuru.blogdns.net
 toplukonut-onlinebasvuru.duckdns.org
 toplukonut-projesi.sbs
@@ -397056,6 +397091,7 @@ versionlist.top
 versionsenginen.ru
 versionwind.xyz
 versiparisinigelsin.click
+versipsanaker.sbs
 versist.site
 verslerjjjode.net
 verslersmersodm.net
@@ -399569,6 +399605,7 @@ vovalox.ddns.net
 vovalu23.hopto.org
 vovavaritch.hopto.org
 vovguvenl.com
+vovxi.cn
 vovylxnbeb.duckdns.org
 vowjw2ul.duckdns.org
 vowsk.com
@@ -436673,6 +436710,7 @@ zwtrigtuaj.duckdns.org
 zwtsrnbzvr.duckdns.org
 zwttdua.cn
 zwu9f5n5.duckdns.org
+zwudytgk.storage.googleapis.com
 zwuejelw.com
 zwuyivk.com
 zwvfp.duckdns.org
