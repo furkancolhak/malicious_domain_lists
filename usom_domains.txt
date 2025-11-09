@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-09T22:05:13.254607
+# Updated: 2025-11-09T23:05:13.850464
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16985,6 +16985,7 @@
 250binilkevtokl.top
 250binilktokl.click
 250binilktokl.help
+250binilktokl.top
 250binkonut-online.blogdns.net
 250binkonut.com
 250binkonutbasvur.com
@@ -21775,6 +21776,7 @@
 44ylwc7i.duckdns.org
 45-77-60-160.plesk.page
 45-85-85-96.cfd
+45-91-12-47-15.top
 45-91-169-60.plesk.page
 45-hgs.glitch.me
 45.10.160.45
@@ -35042,6 +35044,7 @@ a-sf-f-3-323f-s-sfs-1fslettewfs.mom
 a-sok.com.tr
 a-stechnology.com
 a-swwkm9dswqe.xyz
+a-tok.click
 a-v-m-p-t-t.xyz
 a-v-m-p-tt.shop
 a-verification.co
@@ -37276,6 +37279,8 @@ a10a01.com
 a10a1-asdqwezxc.xyz
 a10a1skkmpynlar.xyz
 a10harcaharca.click
+a10iharcabitmez.cyou
+a10iharcabitmez.icu
 a10indrmvar.devam-ediyr.com
 a10kampyanlari.icu
 a10lkapimdaa.com
@@ -62330,6 +62335,7 @@ arzyowvcay.duckdns.org
 as-aidatt-iade.ml
 as-pttgov.top
 as-randevu-a072e1251b5e.herokuapp.com
+as-tok.click
 as.k4d1r.xyz
 as.pffd4dy.xyz
 as.raingamess.com
@@ -62462,6 +62468,7 @@ ascribethreshold.top
 ascscascascasc.weddings2remember.com.au
 asd-ads.shop
 asd-katilimlarniz2023.com
+asd-tok.click
 asd1112.f3322.net
 asd123.online
 asd123fsf.duckdns.org
@@ -65179,6 +65186,7 @@ avantajbank.net
 avantajbimcellde.co
 avantajbkle.com
 avantajburada.digital
+avantajburada.info
 avantajburada.xyz
 avantajcadde.com
 avantajcebinde.digital
@@ -70595,6 +70603,7 @@ basvr.online
 basvr219burdkatil.shop
 basvrakwebhmnklamant.cloud
 basvrhesaplikredin.com
+basvrhesaplikredin.xyz
 basvriadefirsatkac21hep654.com.tr
 basvrilkevim2025.online
 basvrislm.sbs
@@ -71353,6 +71362,7 @@ basvursar.online
 basvursar.xyz
 basvursayfasi.com
 basvursayfasidirect.click
+basvursayfasidirectgiris.click
 basvursbr.online
 basvursena.com.tr
 basvursena.online
@@ -94510,6 +94520,7 @@ bought-boulder-algeria-warned.trycloudflare.com
 bouinteriorismo.com
 bouka.zapto.org
 boukraaf0707.hopto.org
+boulangerio.com
 bouncechronically.top
 bouncecult.top
 bouncedgowp.shop
@@ -97348,6 +97359,7 @@ bufrstllarkcmzxynivrsion.xyz
 bufrstllarkcmzxynkivrsion.sa.com
 buftdlgldksszlrdsyz.shop
 buftstbrdakcmzsznrd.shop
+bufursatlarlaberarbar.cfd
 bug.restoroad.com
 bug.tzsafe.com
 bug.whisperedtruthapp.com
@@ -109615,6 +109627,7 @@ click-a-top.top
 click-alfa.com
 click-and-lili.com
 click-choose-figured.cfd
+click-fb.sbs
 click-gameinapplicatio.online
 click-lecture.com
 click-link-4.duckdns.org
@@ -113695,6 +113708,7 @@ corana-virus.healthcare
 corapalsat.com
 coraptaka.co
 coraran.com
+corbacifarukporno.blogspot.com
 corbelsep.com
 corcxkrlldkgdob.ru
 cord3x11k.zapto.org
@@ -171131,6 +171145,7 @@ fuiueufiiehfueghuhf.ru
 fuiueufiiehfueghuhfu.info
 fuiueufiiehfueghuhfx.biz
 fujhilmipol.click
+fujywls.storage.googleapis.com
 fukarasosyalmarket.site
 fukcops.lol
 fukfndru.ddns.net
@@ -172548,6 +172563,7 @@ garageotokiralama.com.tr
 garagesingular.top
 garagevegetation.top
 garageverge.top
+garagexpert.xyz
 garakredisibbva.cf
 garakredisibbva.ml
 garakredisibbva.tk
@@ -211771,6 +211787,7 @@ hzlgvjcsykglme.net
 hzli-bsvrtokl.com
 hzli-islemler-ptthgcsogs.com
 hzli-stiye-gvenli-aktarici.sbs
+hzli-stiye-gvenli-yonlndirici.sbs
 hzli-yonlndirici.sbs
 hzlibasvrhemengriskaytmerkezi.com
 hzlibasvrmerkezgriskaytol.com
@@ -248620,6 +248637,7 @@ kolaywebyazilim.com
 kolayxrandxevu.net
 kolayy-bayiler.is-best.net
 kolayyalisveris.com
+kolayycprtk.sbs
 kolayygeciss.22web.org
 kolayyodeme.com
 kolayyol.22web.org
@@ -256812,6 +256830,7 @@ llllllnllll.click
 lllllloas.fit
 lllllvkblnlnllnlvbv.net
 llllmzmrmxiszmrx.net
+llllowesax32.duckdns.org
 lllmlmlllllllnl.online
 lllparlbu.com
 lllpttlavmlislemlerl.click
@@ -269109,6 +269128,7 @@ mirancry.no-ip.biz
 miranlikonfeksiyon.online
 mirasvesoybagi.pro
 miravanta.com
+miravi.store
 mirc1.net
 mirconnect.info
 mircosofdevice.com
@@ -279027,6 +279047,7 @@ n95mls.duckdns.org
 n98erejcf9t.com
 n9av1dsm.duckdns.org
 n9back366.stream
+n9bbn9b9wgefs-d12egwgh-twqfsa.sbs
 n9jk52kb.duckdns.org
 n9lanqi.duckdns.org
 n9pkv3qivkvzkh7m3fgh-auth-osapp-loginbt1s.ddns.net
@@ -294303,6 +294324,7 @@ onlineozelgunlernn.online
 onlineozelgunlernn.xyz
 onlineozelharca-101.com.tr
 onlineozelindirim.cfd
+onlineozelindirim.store
 onlineozelindirim.website
 onlineozelindirimdakikalari.com
 onlineozelindirimfirsati.com
@@ -296176,6 +296198,7 @@ orivzije.top
 orizoh88.ddns.net
 orizontalai.top
 orj.bfm.mybluehost.me
+orjep3yf2.storage.googleapis.com
 orjfkss.pages.dev
 orjin.duckdns.org
 orjinal-giris.click
@@ -304693,6 +304716,7 @@ pasajpt-tonlinecep.cfd
 pasajsanal.com
 pasajsanalmagaza.com
 pasajsanalmagaza.store
+pasajsanalmagaza.xyz
 pasajsanalmagazalar.com
 pasajsanalmagazam.com
 pasajsanalmagazam.store
@@ -305417,6 +305441,7 @@ payppall-confrimation-account-limit.com
 paypsecure.hopto.org
 payrolappaeent.top
 payroll.mywire.org
+payrrool.com
 pays-centers.hopto.org
 pays-habitat-florists-virtually.trycloudflare.com
 paysafecard.name
@@ -314963,6 +314988,7 @@ pttavm.seninfirsatin.com.tr
 pttavm.seninsiparisin.com.tr
 pttavm.sepet-onay.com.tr
 pttavm.sepetfirsati.com.tr
+pttavm.sepetim-get-odeme.com
 pttavm.sepetim-onayli-137426.com
 pttavm.sepetimguvenli.com
 pttavm.sepetkontrol.com.tr
@@ -322778,6 +322804,7 @@ randonlinesube.gq
 randpers.net
 randsvslarm.net
 randtapv.online
+randuman.webredirect.org
 randumhemn.b-cdn.net
 randvalsanaxd.net
 randvcerlas.net
@@ -347494,6 +347521,7 @@ simdibasvurin.com
 simdibasvurparitr.com
 simdibasvuru-vakif.top
 simdibasvurun.com
+simdibasvurunuz.linkerit.cyou
 simdibasvuruyap-ebatablet.com
 simdibayisintr.com
 simdibayistr.com
@@ -363214,6 +363242,7 @@ t0kibasvurularii.click
 t0kibsvrdi.sbs
 t0kibsvrdmdi.sbs
 t0kibsvrmliz.sbs
+t0kiedevlet2025.giize.com
 t0kisbirdu.sbs
 t0ku2yfz.duckdns.org
 t0mcy8k.duckdns.org
@@ -364044,6 +364073,7 @@ talep-iade.online
 talep-icin.nl
 talep-olustur-cardfinans.com
 talep-paribu.ml
+talep-t0ki.com
 talep-turkiyegovtr.com
 talep.degisim-kredi.com
 talepaktif-turkiyegovtr.com
@@ -373022,6 +373052,7 @@ tokibasvuru.online
 tokibasvuru.org
 tokibasvuru.sbs
 tokibasvuru.tech
+tokibasvuru.work.gd
 tokibasvuru.xyz
 tokibasvurubasladi.net
 tokibasvuruedevlet-20f08.kxcdn.com
@@ -373636,6 +373667,7 @@ toogbasliyorsim.hopto.org
 toogfirsatcekilisi-sizlerle.net
 toogggggarantkatilimmmm.cloud
 toogggtf10tf.com
+took-i.click
 took-ii.click
 tookiibasvvur.art
 tookiibasvvur.info
@@ -402921,6 +402953,7 @@ webappss-security-bin-apple.com
 webarac.com
 webaracmuayenem.com
 webassembly.stream
+webastrix.site
 webatendimentomail.zapto.org
 webavinfostrmn.sbs
 webavkgmodemeleri.icu
@@ -431627,6 +431660,7 @@ yurticikargo.pentesx.site
 yurticikargo.qpon
 yurticikargo.secure-guvenli-alisveris.xyz
 yurticikargo.sepet-kontrol.com.tr
+yurticikargo.sepetim-get-odeme.com
 yurticikargo.store
 yurticikargo.takip-sistemi.com.tr
 yurticikargo.takipnumaram.com.tr
