@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-09T20:05:13.501560
+# Updated: 2025-11-09T22:05:13.254607
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16995,8 +16995,10 @@
 250binkonutbasvurusu.com
 250binkonutprojebasvurusu.com
 250binkonutprojesibasvuru.com
+250binltokl.cfd
 250binltokl.help
 250binltokl.site
+250binltokl.top
 250bintokibasvuru.com
 250bintokibasvurusu.com
 250bintokikonutprojesibasvuruekrani.com
@@ -19157,6 +19159,7 @@
 3386f734.ieybfs7j447b.org.cn
 3389293-sendekatil.duckdns.org
 339004992y-a12232112.shop
+33937499.cloud
 3394539503-3354353.com
 33952395923292.site
 339905740.dfgqdsd.ru
@@ -37145,6 +37148,7 @@ a101songun.life
 a101sonindirim-saatleri.online
 a101sonsaate-ozel.online
 a101sponsorlu-g.net.tr
+a101stenleytermoskampanyasi.site
 a101subataozel.online
 a101subatfirsati.online
 a101subatfirsatlari.com
@@ -73119,6 +73123,7 @@ basvurutokionline.click
 basvurutokkampanya.art
 basvurutokkampanya.info
 basvurutokkampanya.live
+basvurutokkampanya.xyz
 basvurutokl.click
 basvurutokl.com
 basvurutoplukonutlar.com
@@ -73196,6 +73201,7 @@ basvuruyapailevegenc.com
 basvuruyapanalir.xyz
 basvuruyapankazanir.com
 basvuruyapdn.com
+basvuruyapev.com
 basvuruyaphemenresmi.blogspot.com
 basvuruyapikredi.com
 basvuruyapimmasayfasi.com
@@ -113682,6 +113688,7 @@ coragem.zapto.org
 coral-cat-546626.hostingersite.com
 coral-chamois-424711.hostingersite.com
 coral-polydactyl-dragonfruit.glitch.me
+coral-quetzal-980490.hostingersite.com
 coralsunmarine.com
 coraltribe.top
 corana-virus.healthcare
@@ -170636,6 +170643,7 @@ frsatlarikacirmaynllnktatn.duckdns.org
 frsatlarintamzamani.net
 frsatlarkaplznrzdas.com
 frsatlarkarli.duckdns.org
+frsatlarkcrmaskazan.duckdns.org
 frsatlarladoluyaam.site
 frsatlarlasznleyzsatnaln.com
 frsatlarnizayaginiza.xyz
@@ -181928,6 +181936,7 @@ gloomyilluinate.top
 gloomylogistic.top
 gloppastoooos.com
 glorasaa.click
+glorasss.click
 gloriaganise.net
 gloriousbrew.top
 gloriouschapel.top
@@ -199729,6 +199738,7 @@ hepsiburada.party
 hepsiburada.pet
 hepsiburada.rest
 hepsiburada.sale
+hepsiburada.securesepetiniz.com
 hepsiburada.site
 hepsiburada.skin
 hepsiburada.store
@@ -215194,6 +215204,7 @@ ifbjvhgs-resmihgsyukle.ga
 ifbloidm.com
 ifc3yb3rs3cur1tych0.pw
 ifcatspnkh.duckdns.org
+ifck4f3p6izv.storage.googleapis.com
 ifconfig07.ddns.net
 ifdutrqnjz.duckdns.org
 ifdwi0.duckdns.org
@@ -243687,6 +243698,7 @@ kefilsizbasvurumobil.com
 kefilsizbasvurumobilsiz.com
 kefilsizbasvuruplatformu.com
 kefilsizdenizonlinekredi.co.vu
+keflfos.wordpress.com
 kefogkorbefylk.com
 kefzh6h7.duckdns.org
 keg38u.duckdns.org
@@ -245800,6 +245812,7 @@ kingspy.mywire.org
 kingspy.noip.pl
 kingstaronline.com
 kingstonwikkerink.dyn
+kingstress.ru
 kingstylehomes.com.au
 kingsvc.cc
 kingsvc.cc/index.php
@@ -249012,6 +249025,7 @@ konutonaybasvurusu.cloud
 konutonbasvuru.com
 konutprojebasvurusu.online
 konutprojeleribasladi.cloud
+konutprojeleriniz.com
 konutradar.online
 konutresmibasvuru-21.com
 konutsahibiol.org
@@ -277441,6 +277455,7 @@ muzeyyen.site
 muzicmirchi.000webhostapp.com
 muzvealamanya.com.tr
 muzvezekaseninle.space
+muzykalnyimir1234567891234567890.blogspot.com
 mv-caixabank.ddns.net
 mv0n5m.duckdns.org
 mv0rndvxlcmtysxsaf.net
@@ -292418,6 +292433,7 @@ online.hizlisanal-kapida-market-101.com
 online.ilet-anlik-basvurunu-ak.xyz
 online.indexar.click
 online.intergrater.click
+online.islemim-webde.com
 online.islemler-m.com.tr
 online.kapida-sanal-alisveris-market.com
 online.kapinda-aktuel-101-market.xyz
@@ -304654,6 +304670,7 @@ pasajkampanyalari.online
 pasajkampanyalari.store
 pasajkampanyalari.xyz
 pasajmagaza.com
+pasajmagazafirsatlari.store
 pasajmagazakampanyalari.store
 pasajmagazalar.com
 pasajmagazam.com
@@ -351562,6 +351579,7 @@ sokaginmeselesi.pro
 sokakdadostlar.com
 sokakhayvanlarinadestek.com
 sokakhayvanlarinadestektr.com
+sokaklaraktiv.shop
 sokaknakliyat.com
 sokakrapmilitani.net
 sokaksavascilari.net
@@ -372724,6 +372742,7 @@ toipvmgch.com
 toiwbcm.com
 toiyeuvn.dongaruou.com
 tojqvmse.com
+tok-a.click
 tok-gar.online
 tok-kayit.click
 tok-kayitlari.click
@@ -372893,6 +372912,7 @@ toki.basvurum.org
 toki.basvurumenum.com
 toki.basvuruodemesi.com
 toki.basvurusistemi.cfd
+toki.basvuruyapev.com
 toki.basvuruyorum.com
 toki.blog
 toki.castgard.com
@@ -372914,6 +372934,7 @@ toki.islemy.com
 toki.islemyo.com
 toki.kakkktaswtqa.it.com
 toki.kasimayibvvrnsktok.sbs
+toki.konutbasvurularidir.com
 toki.konutbasvurusitesi.com
 toki.konutkurabasvuru.com
 toki.naziltaks.com
@@ -373829,6 +373850,7 @@ toplukonutbasvurulari.vercel.app
 toplukonutbasvurularigov.webhop.org
 toplukonutbasvurularihizlitamamla.cloud
 toplukonutbasvurum.cloud
+toplukonutbasvuruqpshbrjg.vercel.app
 toplukonutbasvururesmi.com
 toplukonutbasvurusu.com
 toplukonutbasvurusu.vercel.app
@@ -427149,6 +427171,7 @@ yenilerdomherzamaniyi.com
 yenilereiyigelecekvakfi.com
 yenilereyenizamanlarvakfi.com
 yenilertoptan.com
+yenili1yeni.nicepage.io
 yenilik-dolusu-guzel-haberler-getirdik.com
 yenilik-dolusu-guzellik-karsiniza-geldi.com
 yenilik-dunyasi-simdilik-geldi-burada.com
