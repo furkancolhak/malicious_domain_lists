@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-10T19:05:13.633199
+# Updated: 2025-11-10T20:05:11.968766
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15786,6 +15786,7 @@
 2132132111.site
 2132132111111.cloud
 2132132135125.cloud
+2132154.netlify.app
 213222225242.duckdns.org
 2132323.vercel.app
 21323342423212121.cloud
@@ -34728,6 +34729,7 @@ a-101-firsatlari.online
 a-101-haftannyldizlari.s-get-pays.xyz
 a-101-harca-bitmez.sa.com
 a-101-hrca-hrca-bltmez-flrsatlar.cfd
+a-101-hrca-hrca-btmez-alisverls.com
 a-101-hrca-hrca-btmez-alisvrls.com
 a-101-hrca-hrca-btmez-alsvris.cfd
 a-101-indirim-gunleri-son-saatler.com
@@ -70291,6 +70293,7 @@ basakegitimvakfi.com
 basaksigorta.net.tr
 basakykleme.22web.org
 basaranholing.net
+basardigimizda-bizim-sarkimiz-calicak.sbs
 basariajansi.online
 basaricizgisi.space
 basariharitasi.online
@@ -73145,6 +73148,7 @@ basvurutoki.com
 basvurutoki.digital
 basvurutoki.pro
 basvurutoki.site
+basvurutokievim.com
 basvurutokii.art
 basvurutokii.com
 basvurutokii.info
@@ -120662,6 +120666,7 @@ degerini-kaydebince-gorursek-hic-gelmeyebilir.com
 degerkatan.top
 degerlendirdeniz.xyz
 degerlendirinbunlarin.com
+degerlendirkampanyayi.sbs
 degerlendirmeapisi.com
 degerlendirmefirsati.xyz
 degerlendirmekampan.vercel.app
@@ -158572,6 +158577,7 @@ evilsinstituted.ru
 evilteam.ddnsgeek.com
 evimaltus.com
 evimbasvur2025.online
+evimbasvur2025.site
 evimbutik.tech
 evimdekal.org
 evimden.html-5.me
@@ -182033,6 +182039,7 @@ gloomyilluinate.top
 gloomylogistic.top
 gloppastoooos.com
 glorasaa.click
+gloraspp.click
 glorasss.click
 gloriaganise.net
 gloriousbrew.top
@@ -189348,6 +189355,7 @@ h4k4nc4n.com
 h4k9d14.duckdns.org
 h4lx1esz2.duckdns.org
 h4nz0s.xyz
+h4p4n9m.storage.googleapis.com
 h4ppyb0st.online
 h4rd4lb4r.xyz
 h4rn.blogspot.com
@@ -189808,6 +189816,7 @@ haberlerdeyiz.xyz
 haberlerdeyizonline.club
 haberlergirisondakika.b-cdn.net
 haberlerguncel.merseine.com
+haberlerim724.com
 haberlerimizi-dinleyin.online
 haberlerinfo.club
 haberlerinfo.co
@@ -217316,6 +217325,7 @@ ilinternette-ziraat.club
 ilizxoxlvz.duckdns.org
 ilk-atanlar-hep-bir-kez-daha-gorurler-bunlari.com
 ilk-e-aidat-basvurusu-bireysel-giris.xyz
+ilk-ev-basvurum.sbs
 ilk-evbasvurusu.com
 ilk-evden-gov-tr.vercel.app
 ilk-evim-basvurum.vercel.app
@@ -217378,6 +217388,8 @@ ilkevbasvurtokl.info
 ilkevbasvurtokl.online
 ilkevbasvuru.com
 ilkevbasvurular.sbs
+ilkevbasvurum.com
+ilkevbasvurum.sbs
 ilkevbasvurusu.sbs
 ilkevim-basvuru.com
 ilkevim-basvuru.org
@@ -217463,6 +217475,7 @@ ilkevimtoki.sa.com
 ilkevimtoki.xyz
 ilkevimtoki1.sa.com
 ilkevimtoki2.sa.com
+ilkevimtokibasvur.live
 ilkevimtokibasvuru.com
 ilkevimtokibasvuru.sbs
 ilkevimtokibasvurularibasladi.blogspot.com
@@ -242283,6 +242296,7 @@ kasimda101lefsanefirsatlar.com
 kasimdaaldin2fakasimdakykalmadinalamadinxyckyc.com
 kasimdaalisverisccokguzel.online
 kasimdaaskbaskasenlecokbaska.chickenkiller.com
+kasimdabasvurular.top
 kasimdabasvurularbitiyor.cloud
 kasimdabi1rbaskakmpnysxcw1.com
 kasimdadasurprizlerdevamediyor11.com
@@ -242487,6 +242501,7 @@ kasllm-101de-zmanni.com
 kaslm-101a-flrsatt.com
 kaslm-101a-yasir.com
 kaslm-frsatt-101ca.com
+kaslmdan-10-1flrsatlari.cfd
 kasm-urn-incele.com
 kasmayiefsne101kampnyalari.com
 kasmbimcell.net
@@ -249156,6 +249171,7 @@ konutsahibiol.org
 konutsalisiniz.com
 konutsalprojeler.app
 konutsayfasi.shop
+konutsuzkalmasin.cloud
 konuttokibasvurusu.art
 konuttokibasvurusu.pro
 konuttokibasvurusu.xyz
@@ -281636,6 +281652,7 @@ nevlesinzdrndevu.com
 nevlisendinziaa.net
 nevlzeridnir.net
 nevlzirnadevu.com
+nevoliq3.sbs
 nevomob.quest
 nevomw.com
 nevresimsiparis.club
@@ -337426,6 +337443,7 @@ sayfa-a101.xyz
 sayfa-acikgiris-mywebtr-in.sa.com
 sayfa-acilis-trweb-in.za.com
 sayfa-analog-trweb.info
+sayfa-anapage.digital
 sayfa-carafoursa.vercel.app
 sayfa-carefourssa.vercel.app
 sayfa-carrefoursa.vercel.app
@@ -351285,6 +351303,7 @@ so9ywkec.duckdns.org
 soa212canja.pro
 soa5r8n.duckdns.org
 soa7.zapto.org
+soaaujn7gg.storage.googleapis.com
 soadaarlar.online
 soakantagonism.top
 soakascendance.top
@@ -373071,6 +373090,7 @@ toki-slv-basvuru.com
 toki-slv-basvuru.net
 toki-slv-basvuru.sbs
 toki-sosyal.digital
+toki-sosyalkonutlarbasvuru.vercel.app
 toki-tr.com
 toki-turkiye.com
 toki-turkiye.duckdns.org
@@ -373097,6 +373117,7 @@ toki.basvuruodemesi.com
 toki.basvurusistemi.cfd
 toki.basvuruyapev.com
 toki.basvuruyorum.com
+toki.beauty
 toki.blog
 toki.castgard.com
 toki.ebasvur.com
@@ -373363,6 +373384,7 @@ tokigovtr.tk
 tokigovtr.weebly.com
 tokigovtr1.ga
 tokigovtrr.b-cdn.net
+tokihaber724.com
 tokihemenbasvur.com
 tokihouse.digital
 tokihousingapplication.com
@@ -430646,6 +430668,7 @@ yonlendirmeveaktarimservisi.my
 yonlendirmveaktarimekrani.lat
 yonlendlrmeadresleklm.duckdns.org
 yonlendrici-stiye-aktar.sbs
+yonlendriciye-aktarliyorsunuz.sbs
 yonlendrmevesrgusevisi.store
 yonlendrmiletisimanlksorgu.site
 yonlenin-bize.com
