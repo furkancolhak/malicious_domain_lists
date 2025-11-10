@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-10T07:05:14.090420
+# Updated: 2025-11-10T08:05:13.061844
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -72554,6 +72554,7 @@ basvurularsongunsayfa.org
 basvurulartektiklahesabinda.74-234-25-133.plesk.page
 basvurulartektiklahesabinda.74-234-25-l33.plesk.page
 basvurulartiklahesabindav2.74-234-25-133.plesk.page
+basvurulartoki.org
 basvurulartoky.online
 basvurulartr-bnnrcgiris.online
 basvurulartr-girisiniz.online
@@ -73117,6 +73118,7 @@ basvurutoki.digital
 basvurutoki.pro
 basvurutoki.site
 basvurutokii.art
+basvurutokii.com
 basvurutokii.info
 basvurutokii1451.xyz
 basvurutokiii1452.xyz
@@ -73800,6 +73802,7 @@ baykartech.life
 baykartech.live
 baykartech.top
 baykartech.world
+baykartechar.com
 baykarteknoloji.net
 baykarter.space
 baykartr.com
@@ -151837,6 +151840,7 @@ emniyet-anadolubank.ph
 emniyet-sorgulama.net
 emniyetgenelmudurlugu.com
 emnjimawfd.duckdns.org
+emnomics.com
 emnycq.top
 emnyetsrdipzrsx.net
 emobe.eu
@@ -171655,6 +171659,7 @@ fyltuckryt.duckdns.org
 fylvwtlgyzq.info
 fymumiddomj.wcnv20.cn/instagram-me
 fyn001.ddns.net
+fynlith.com
 fynty.net
 fyosxsi.info
 fyoutside.com
@@ -183968,6 +183973,7 @@ gralst.xyz
 gralsx.xyz
 gralvt.xyz
 gralxp.xyz
+gramaden.com
 gramaj.xyz
 gramalj.xyz
 grambegeni.com
@@ -217305,6 +217311,7 @@ ilkevim-basvuru.com
 ilkevim-basvuru.org
 ilkevim-basvuru.sa.com
 ilkevim-basvuru.work
+ilkevim-basvurum.com
 ilkevim-bsvrum.sbs
 ilkevim-katilim.vercel.app
 ilkevim-online-basvuru.blogdns.com
@@ -256045,6 +256052,7 @@ linkedin-resetpassword.duckdns.org
 linkedincn.ddns.net
 linkedln.in
 linkedopports.com
+linkerit.cyou
 linkermak.online
 linkerservice2upgrade.bid
 linkerservice2upgrade.review
@@ -256163,6 +256171,7 @@ lionmoan.top
 lionoi.adygeya.su
 lionsdl.fit
 lionsguard.ddns.net
+liontrail.pro
 liopard.zapto.org
 liouamajdee.ddns.net
 liouas.ddns.net
@@ -315006,6 +315015,7 @@ pttavm.satismerkezi.shop
 pttavm.satisnoktasi.com.tr
 pttavm.satisofisi.info.tr
 pttavm.secure.info.tr
+pttavm.securesepetiniz.com
 pttavm.seninfirsatin.com.tr
 pttavm.seninsiparisin.com.tr
 pttavm.sepet-onay.com.tr
@@ -338652,6 +338662,7 @@ secshow.net
 secshow.online
 secsorgla.net
 sect.web1337.net
+sectechnz.com
 sectegro.com
 sectiginizurunler.site
 sectiginizurunler.space
@@ -347545,6 +347556,7 @@ simdibasvurparitr.com
 simdibasvuru-vakif.top
 simdibasvurun.com
 simdibasvurunuz.linkerit.cyou
+simdibasvurunuzonay.linkerit.cyou
 simdibasvuruyap-ebatablet.com
 simdibayisintr.com
 simdibayistr.com
@@ -353616,6 +353628,7 @@ sorgmsadjqwee.net
 sorgmsbm.pages.dev
 sorgmstrmsere.net
 sorgmtrmses1970.com
+sorgmzuslfk.com
 sorgu-2025-sistemi.cyou
 sorgu-745566511323.com
 sorgu-aidatiadelerikart.com
@@ -354439,6 +354452,7 @@ sosyalkonutbasvurusu.net
 sosyalkonutbasvurusu.vercel.app
 sosyalkonutbasvurusum.vercel.app
 sosyalkonutbasvuuru2025.com.tr
+sosyalkonutevim.org
 sosyalkonutilkevim.com
 sosyalkonutilkevimilkisyerim.net
 sosyalkonutlar.net
@@ -415009,6 +415023,8 @@ wwwtebbank-com.tk
 wwwtebcep.com
 wwwtipobet5401.com
 wwwtokibasvur.com
+wwwtokibasvur.online
+wwwtokibasvur.sbs
 wwwtonianatara.com
 wwwtr155polis.online
 wwwtr155polisi.online
@@ -428250,6 +428266,7 @@ yetkili-vezne.weebly.com
 yetkili-veznem.724czislemhizmetleri.com
 yetkili.app
 yetkili.xyz
+yetkilibasvuru.cfd
 yetkilibayiii.com
 yetkilibayiiler-inten.com
 yetkilibayikgmodu.net
