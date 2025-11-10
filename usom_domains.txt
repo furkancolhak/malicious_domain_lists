@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-10T09:05:14.265711
+# Updated: 2025-11-10T10:05:13.339769
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -24427,6 +24427,7 @@
 500binkonutbasvuru.blogdns.net
 500binkonutbasvuru.cfd
 500binkonutbasvuru.click
+500binkonutbasvuru.com
 500binkonutbasvuru.sbs
 500binkonutbasvuruekrani.com
 500binkonutbasvurularionline.webredirect.org
@@ -43776,6 +43777,7 @@ adile56tasarim.com
 adiliqbal.com.pk/wp-admin/includes/db_template.php
 adilnice.zapto.org
 adilyatirim.com
+adilyatirim.net
 adilyatirim.org
 adimatak.xyz
 adimbilaldegilaracsonses.net
@@ -48181,6 +48183,7 @@ aiiddaaat-hiizmetti.com
 aiide.xyz
 aiidiat-odemellelr-yapin-bura.website
 aiifasgaisfii.wiki
+aiiguxx.storage.googleapis.com
 aiiiaiifhfugugud.biz
 aiiidaattiadeesi.com
 aiiiddaatiniz-alin.com
@@ -115036,6 +115039,7 @@ crack-attack.net
 crack4fun.hopto.org
 crackappall.top
 crackass.hopto.org
+crackattackteam.com
 crackbrasil2020.ddns.net
 crackccism.top
 crackdownabsurd.top
@@ -118732,6 +118736,7 @@ dakarik.com
 dakbank.net
 dakikalaricindeyararlan.shop
 dakikcicek.com
+dakikcicek.net
 daknobcq4zal6vbm.tk
 daksecurepolicy.in
 daksjuggdhwa.com
@@ -187996,6 +188001,7 @@ guvenliodemeonay-shbnd.com
 guvenliodemeparamguvende.com
 guvenliodemeparamguvendecheckout.com
 guvenliodemepay.com
+guvenliodemesabihindenn-paramguvende.online
 guvenliodemesaglayici.com
 guvenliodemesahibinden-get.com
 guvenliodemesahibinden.cf
@@ -235817,6 +235823,7 @@ jvpsfunerals.co.za/wp-config-ini.php
 jvrzhkndzmjj.cf
 jvszln.wtf
 jvtcuw.cyou
+jvte4.sbs
 jvtkryv5.xdk8ax.cn
 jvulz.com
 jvuzd4anf4rs4ttl4r1.shop
@@ -298231,6 +298238,7 @@ ozel900tl-yilsonu-kampanyasibireysel.tk
 ozela1o1.net
 ozelapplelansman.store
 ozelb-securityparamguvensahibinden.com
+ozelbas.cfd
 ozelbasvuru-2022bireyselkampanya-online.ml
 ozelbasvuru-bireyselkampanya-online.ml
 ozelbasvuru.sbs
@@ -375948,6 +375956,7 @@ tr-sikayetlerin.ru.com
 tr-sikayetmerkezi-guncel.net
 tr-sikaytmvar.net
 tr-sikkayetmerkezi-guncel.net
+tr-siparis-islem.online
 tr-siparis-secure.online
 tr-siparis.com.tr
 tr-siparis.net
@@ -388089,6 +388098,7 @@ unifyfoe.top
 unifyshorthand.top
 unifytropical.top
 unifyzealous.top
+unigate.cc
 unikeyupdate.com
 unikeyupdating.com
 unikop.ru
