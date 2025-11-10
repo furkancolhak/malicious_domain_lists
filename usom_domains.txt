@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-10T15:05:18.561376
+# Updated: 2025-11-10T16:05:15.161473
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -29094,6 +29094,7 @@
 77.79.56.210
 77.83.197.138
 77.83.199.34
+77.83.207.106
 77.87.77.250
 77.90.153.225
 77.90.153.62
@@ -30961,6 +30962,7 @@
 85.208.139.73
 85.208.84.220
 85.208.84.35
+85.208.84.94
 85.209.0.103
 85.209.0.252
 85.209.11.155
@@ -43902,6 +43904,9 @@ admin-br.in
 admin-dashboard.rotate.ltd
 admin-dept.in
 admin-desk.in
+admin-extranet-reservationsinfos.com
+admin-extranetadm-captcha.com
+admin-extranetadmns-captcha.com
 admin-kraken.com
 admin-mail-settin99s.com
 admin-mydocuments.ddns.net
@@ -71472,6 +71477,7 @@ basvurtoki.online
 basvurtoki.xyz
 basvurtokii2871.xyz
 basvurtokikonutlari.info
+basvurtokikonutlari.live
 basvurtokikonutlari.xyz
 basvurtokim.xyz
 basvurtook.art
@@ -71919,6 +71925,7 @@ basvuru.ytbase1.p.azurewebsites.net
 basvuru0nlineislemdeyim.net
 basvuru0nlinekredimonayla.net
 basvuru0nlineonaydalar.net
+basvuru1ekrani.blogdns.org
 basvuru2021-cimerdestek.com
 basvuru2022ayinaozelfirsat.tech
 basvuru202l-cimerdestek.com
@@ -88664,6 +88671,7 @@ bjsckall.net
 bjscmcells.net
 bjscx.com
 bjsemcellkaizen.net
+bjsffsj.sbs
 bjskmcellkol.com
 bjskmcels.net
 bjslmcells.net
@@ -88899,6 +88907,7 @@ bknfkmbayilxrmkl.net
 bknfkmbayilxrmzs.net
 bkngnet.com
 bkngrvff.com
+bknqsercise.com
 bkomaes.myftp.biz
 bkorvmhkvffu.com
 bkp.windowstimes.me
@@ -94078,12 +94087,19 @@ bookdubaisafari.com/wp-includes/db_template.php
 bookf27.com/wp-config-ini.php
 bookflirtation.top
 bookgames.pw
+booking-agreementstatementapril0225.com
 booking-c.blogspot.com
 booking-confirmation.date
+booking-confview-doc-00097503843.com
+booking-confviewdocum-0079495902.com
 booking-detail.ddns.net
+booking-reservationinfosid0251358.com
+booking-reservationsdetail-id0025911.com
 booking-thy.com
 booking-vention.ddns.net
 booking-verification.su
+booking-visitorviewdetails-64464043.com
+bookingadmin-updateofmay2705.com
 bookingdusseldorf.com
 bookingitnow.org
 bookingservice.center
@@ -94821,6 +94837,7 @@ bqihgcibvwhc.xyz
 bqinesohdskfwxs.su
 bqiotk.duckdns.org
 bqkgj.com
+bqknsieasrs.com
 bqkssn.top
 bqkusxntlb.duckdns.org
 bqlmzy.cn
@@ -95233,6 +95250,7 @@ brer1ksnoz0kflsl1yashcxes.com
 brer1xnoz0kflsl1yashcx.com
 brerabeisy.xyz
 brerredsdc.duckdns.org
+breserve-custommessagehelp.com
 breskbaji1994.ddns.net
 bresn.com.tr
 bresz.xyz
@@ -102424,6 +102442,7 @@ careffourr.sa.com
 careffoursa.care
 careffuorsa.com
 carefour-arg.com
+carefour-tr.cfd
 carefour.jiahs.xyz
 carefour.sa.com
 carefourcepte.cfd
@@ -112475,6 +112494,7 @@ comsip.org.mw/db_template.php
 comsip.org.mw/sync/db-config-ini.php
 comsip.org.mw/wp-config-ini.php
 comsivasl.xui.ptlogin2-unauthorized.coinbase-com.info
+comsquery.com
 comsurrgate-39791.portmap.host
 comsystems.xyz
 comt-xfirsattall.net
@@ -112804,6 +112824,7 @@ confirmation-rate.com
 confirmation-review.ddns.net
 confirmation-service.info
 confirmation-update.ddns.net
+confirmation887-booking.com
 confirmationaccount-2024-chekaccount.duckdns.org
 confirmationaccount-24.duckdns.org
 confirmationcosts.ddns.net
@@ -112856,6 +112877,7 @@ confusionlubricate.top
 confusionmetaphor.top
 confusionnoise.com
 confusionpresumption.top
+confvisitor-doc.com
 congcuphongthan.com/mainto/p_e9_nzbfcj04oi/
 congdongvingroup.com
 congi.mrchukzgroup.tk
@@ -115029,6 +115051,7 @@ cqtuydlohb.duckdns.org
 cqu2v95n.duckdns.org
 cquaintequatio.top
 cquifgs.com
+cquopymaiqna.com
 cqupagft.com
 cqust8vt.duckdns.org
 cqwsqo.com
@@ -116264,6 +116287,7 @@ ctreswhkcf.duckdns.org
 ctrl.a8e9b187c0.fm
 ctrl.a8e9b187c0.vin
 ctrl.a8e9b187c0.vip
+ctrlcapaserc.com
 cts-comcast.com
 ctsemxlkcj.net
 ctsihgjjxj.net
@@ -130500,6 +130524,7 @@ dijitalkredi-ziraatbireysel.website
 dijitalkredi-ziraatkampanya.com
 dijitalkredi-ziraatkampanyawebgiris.sbs
 dijitalkredi-ziraatmobilweb.com
+dijitalkredi-ziraatmobilweb.sbs
 dijitalkredi-ziraatonay.sbs
 dijitalkredi-ziraatweb.com
 dijitalkredibasvur-ziraatbireysel.com
@@ -161971,6 +161996,8 @@ fantasticsubscription.top
 fantastictag.top
 fantastikkampanyalarim.com
 fantastill.top
+fantasy-hub.online
+fantasy-hub.ru
 fantasy4tabacco.icu
 fantasyclub.com.br
 fantasydoors1.com
@@ -183260,6 +183287,7 @@ goojoo.net/board/banner01.asp
 goojppeer.site
 goole-500.zapto.org
 goolg-en.com
+goolgepalay.com
 goolheat.hopto.org
 gooline.net/db-config-ini.php
 gooline.pk/bridge2cart/db-config-ini.php
@@ -185711,10 +185739,12 @@ guessturkiyetr.top
 guesswardrobe.top
 guest-approve.info
 guest-idreserve.com
+guest03442-booking.com
 guestalerthelp.com
 guestbook.secraterri.com
 guestdocfound.com
 guestfour.ddns.net
+guestinfo-aboutstay1205.com
 guestitemsfound.com
 guestprotocol.top
 guestrat.ddns.net
@@ -207089,6 +207119,7 @@ hizmetleriniziz.net
 hizmetlerionline.graduatecommunications.com
 hizmetlerionline.vitamoshop.com
 hizmetlerionline.webrotnotr.space
+hizmetlerkesintisizherzmanbizdedevameder.shop
 hizmetlerli.app
 hizmetlerlisteniz.com
 hizmetlermaliyegov.com
@@ -239825,6 +239856,7 @@ kampnyabasvurm.click
 kampnyabasvuru-patform.com
 kampnyabsvrr.com
 kampnyabsvrtoki.art
+kampnyabsvrtoki.info
 kampnyabsvrtoki.pro
 kampnyaburdacm.com
 kampnyadasi.sbs
@@ -244271,6 +244303,7 @@ keonmobil.com
 keosland.xyz
 kep-adres-hepsiburada.com
 kep-adres-tekno-sa.com
+kep-aktifim.com
 kep04securels45log.zapto.org
 kepadres-guncelleme-hepsi.com
 kepadres-tekno-sa.com
@@ -354492,6 +354525,7 @@ sosyalkonutbasvuru-toki.vercel.app
 sosyalkonutbasvuru.click
 sosyalkonutbasvuru.net
 sosyalkonutbasvuru2026.vercel.app
+sosyalkonutbasvurugirislerii.cfd
 sosyalkonutbasvurularim.vercel.app
 sosyalkonutbasvurularin-toki.vercel.app
 sosyalkonutbasvurusu.net
@@ -356468,6 +356502,7 @@ squvwxtagf.duckdns.org
 sqvs5v.duckdns.org
 sqwcpgbl.com
 sqwoxmcyk.com
+sqwqwasresbkng.com
 sr-deniz-kampanyam.net
 sr1bimcell.net
 sr53r3.duckdns.org
@@ -358130,6 +358165,7 @@ stemrotation.top
 stemtec.click
 sten0.ddns.net
 stenger.zapto.org
+stenleykampanyaa-101-aldinaldin.online
 stenocephalia.com
 stenocranial.com
 stentorine.com
@@ -368053,6 +368089,7 @@ telegramreport.me
 telegramsystem32dn.duckdns.org
 telegramsz.net
 telegramt.net
+telegramunlock.ru
 telegramup.com
 telegramxe.com
 telegramxe.net
@@ -371208,6 +371245,8 @@ tikirtikirsigorta.xyz
 tikislemler.tk
 tikitikimikigitenti.site
 tikitok-app.ru
+tikitok-goolges.sbs
+tikitok-playgoolge.sbs
 tikkieverification.site
 tikla-al.club
 tikla-basvur.20-42-95-49.plesk.page
@@ -371262,6 +371301,7 @@ tiko.etatronds.xyz
 tikontok18.net
 tikora.top
 tikpara.store
+tikpremplaymarktuzb.sbs
 tikraal.com
 tiksindimrezil.net
 tiktalk-2fc98-default-rtdb.firebaseio.com
@@ -371280,7 +371320,9 @@ tiktokcreator.cf
 tiktokdestekturkiye.cf
 tiktokfollow.org
 tiktokfollowershack.com
+tiktokgplya.sbs
 tiktokhellpsupport.ml
+tiktoki-goolge.sbs
 tiktokinfluncer.com
 tiktokkkmmz.com
 tiktokkola.host
@@ -388302,6 +388344,7 @@ unlocked-appleid.info
 unlockicloud.ddns.net
 unlockinfo.hopto.org
 unlocking.zapto.org
+unlockk.play-google-store.ru
 unloock23.hopto.org
 unlpsk.xyz
 unlucid.com
@@ -397125,6 +397168,7 @@ verifyglacerbamk.ddns.net
 verifyglacierbamk.hopto.org
 verifyglacierhttp.ddns.net
 verifyguarding.com.tr
+verifyguest02667-booking.com
 verifyhome.hopto.org
 verifyhunt0ngton.ddns.net
 verifyhuntinton.ddns.net
@@ -406095,6 +406139,7 @@ whollydisposition.top
 wholookedprof2019.cf
 whomrefund.top
 whonkinew.com
+whooamisercise.com
 whores.hopto.org
 whoseethe.ddnsking.com
 whosilocabroba.com
@@ -406242,6 +406287,7 @@ wikshane.com
 wikshov-tr.com
 wilandsabim.info
 wilboktr.com
+wildberries.play-market-com.online
 wildboatrent.net
 wildcabanaresort.com
 wildcard.damnserver.com
