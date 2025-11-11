@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-11T22:05:12.719060
+# Updated: 2025-11-11T23:05:11.372772
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -130634,6 +130634,7 @@ dijitalkredin.com
 dijitalkredinet-ziraatbireysel.com
 dijitalkrediweb-ziraat.com
 dijitalkrediweb-ziraatbireysel.com
+dijitalkrediyebasvur.sbs
 dijitalkrediyenidenizbank.co.vu
 dijitalkurumacikdenizbank.com
 dijitall-ilet-isim.net
@@ -189699,6 +189700,7 @@ haber-verdik-bitise-yaklasan-gunler.com
 haber-verdim.site
 haber-video.club
 haber-yayincilik.site
+haber.my-homeip.com
 haber100.online
 haber100.site
 haber110.club
@@ -189838,6 +189840,7 @@ haberguru.co
 haberguru.net
 haberhome.club
 haberhome.online
+haberi.my-homeip.com
 haberim.fun
 haberimguncel.fun
 haberimvar.fun
@@ -200757,6 +200760,7 @@ hesap-papara.com
 hesap-tanimlama.net
 hesap-telifihtari.com
 hesap-tr-basvuru.com
+hesap-tr-online.today
 hesap-yukselt.net
 hesap.bn05122024tr.com
 hesap.cf
@@ -242510,6 +242514,7 @@ kasimindirimlerinebak.site
 kasiminfirsatlari.com.tr
 kasiminfirsatlari.xyz
 kasiminfirsatliurunleriim.com
+kasiminibasvurusu.online
 kasiminindirimikacirmaal.online
 kasiminkampanyalari.com.tr
 kasiminkampanyalari.online
@@ -249333,6 +249338,7 @@ konutonbasvuru.com
 konutprojebasvurusu.online
 konutprojeleribasladi.cloud
 konutprojeleriniz.com
+konutprojesibasvurusu500bin.urlbee.icu
 konutradar.online
 konutresmibasvuru-21.com
 konutsahibiol.org
@@ -261398,6 +261404,7 @@ magzlaiperknde.com
 mah0ney.com
 mahalledekideli.site
 mahallekasimindirimlerinikacirma.shop
+mahallendeindirimlifirsatlarikacirmayalim.sbs
 mahane.ddns.net
 mahanheat.com
 mahb4.com.tr
@@ -374367,6 +374374,7 @@ toplukonutbasvurusu.vercel.app
 toplukonutbasvurusu1.vercel.app
 toplukonutbasvurusudrieagu.vercel.app
 toplukonutbasvurusutoki.cloud
+toplukonutbasvuruuobdmq.vercel.app
 toplukonutbasvuruxmyrq.vercel.app
 toplukonutbasvuruzamani2025jj.duckdns.org
 toplukonutbasvuruzhuspm.vercel.app
@@ -427234,6 +427242,7 @@ yenibvruu20.click
 yenibvruu200.click
 yenibvruu30.click
 yenibvruu40.click
+yenibvruu50.click
 yenibvruu70.click
 yenibvruu80.click
 yenibvruu90.click
@@ -432504,6 +432513,7 @@ yuzyilkonut.com
 yuzyilkonutevi.xyz
 yuzyillarberaberiz.duckdns.org
 yuzyillik.name.tr
+yuzyilprojeesiilkevimmbasvruu81.xyz
 yv0fdi.duckdns.org
 yv1qb3pn3.duckdns.org
 yv21xwxt4.duckdns.org
