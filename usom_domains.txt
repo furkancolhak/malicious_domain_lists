@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-12T14:05:13.031733
+# Updated: 2025-11-12T15:05:12.944340
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -24439,6 +24439,7 @@
 500bin.yenikonutbasvurulari.cloud
 500binasrinprojesi.com
 500binbasvuruekrani.org
+500bingirisekrani-gov.click
 500binhazirkonutrojesi.cloud
 500binilkevim.com
 500binkontprojesi.com
@@ -52545,6 +52546,7 @@ akustifoams.com
 akustik-hautnah-erleben.de/yecuhtyfxw
 akustiktrs.com
 akut.303.si
+akutakviyekit.click
 akutel101.shop
 akutelaldinaldin.store
 akutelfirsati.shop
@@ -89976,6 +89978,7 @@ blombank-mobile.com
 blondassimiltion.top
 blonddesignate.top
 blonddilution.top
+blondepatolna.com
 blondetoil.top
 blondhumanist.top
 bloockflad.pw
@@ -121049,6 +121052,7 @@ delvetiade.com
 delvoro.sbs
 delvys.com
 delwafn.com
+delzdigi.com
 dem.businessdeep.com
 dem.econeurqa.com
 demahitmzenpto.zapto.org
@@ -127049,6 +127053,7 @@ desktickets-ssl.com
 desktop-app-download.com
 desktop-app-pc.com
 desktop-apps.com
+desktop-binance.com
 desktop-downloads.com
 desktop-pc-download.com
 desktop-tradingview.net
@@ -130395,6 +130400,7 @@ dijitalgiris-ziraatkampanya.com
 dijitalgiris-ziraatkampanyamobil.com
 dijitalgiris-ziraatkampanyaweb.com
 dijitalgiris-ziraatmobil.com
+dijitalgiris-ziraatmobilbireysel.sbs
 dijitalgiris-ziraatmobilkampanya.com
 dijitalgiris-ziraatmobilweb.com
 dijitalgiris-ziraatmobilweb.sbs
@@ -158708,6 +158714,7 @@ evimilkbasvuru.com
 evimilkkktokiiiibasvurumm51.xyz
 evimilktokibasvur.art
 evimilktokibasvur.info
+evimilktokibasvur.pro
 evimilktokibasvur.xyz
 eviminbunaihtiyacivar.xyz
 evimiz-turkiye.biz
@@ -190835,6 +190842,7 @@ haftaninyildizxliurnleri.site
 haftaninyildizzlariburrda.com
 haftaninyildzlari101.site
 haftaninyilldizlari.com
+haftaninyilzdizindayiz.sbs
 haftaninyldizlariwsynxmahserekoc.me
 haftaninyonlendiricifirsatcilar.cfd
 haftaninyonlendiricifirsatcilar.cyou
@@ -196311,6 +196319,7 @@ hayatinyeniadresi.com
 hayatinyenienerjisi.com
 hayatinyenisesinde.com
 hayatisaridenizinde.xyz
+hayatisevdiren.sbs
 hayatiyi.com.tr
 hayatiyi.org
 hayatkardesi.org
@@ -296948,6 +296957,7 @@ osmanliyatirim.uk
 osmanliyatirim.world
 osmanmadden32.xyz
 osmanmuradoglum.tk
+osmanossmfearlessscan.click
 osmanotmane.cf
 osmanpazarlama1.com
 osmanpazarlamagkg.com
@@ -358035,6 +358045,7 @@ stanleytermsoteklfisbrudsaksc.com
 stanleytermsotkelfsbrusa101ekstra.com
 stanleytkerlseisbtermburd.store
 stanleyvault.xyz
+stanleyvenge.click
 stanleyverse.xyz
 stanleyvk.click
 stanleywery.xyz
@@ -363720,6 +363731,7 @@ t0ggservisi.org
 t0ggturkiyem.net
 t0hqjwh.duckdns.org
 t0k1-b4svar.click
+t0kbasvurulari.sbs
 t0kbasvurum.click
 t0ki-hemenbrda.com
 t0ki.com.tr
@@ -373409,6 +373421,7 @@ toki-gov-tr.ml
 toki-gov-tr.tk
 toki-gov.cfd
 toki-gov.sbs
+toki-hizlibasvuruyap.vercel.app
 toki-ile.evsahibturkiye.com
 toki-ilkevim.com
 toki-ilkevim.duckdns.org
@@ -374001,6 +374014,7 @@ toklgovtr.sbs
 toklhemensorgula.qzz.io
 tokliverinzgeln.blogspot.com
 toklprojebasv.com
+toklprojebasvr.com
 toklprojebasvru.help
 toklprojebasvrusu.com
 toklprojembasvru.com
@@ -374444,6 +374458,7 @@ toplukonutbasvurubuzcr.vercel.app
 toplukonutbasvurucyyzmdku.vercel.app
 toplukonutbasvurudnxjxk.vercel.app
 toplukonutbasvurudqiimu.vercel.app
+toplukonutbasvurue0o64rpf6.vercel.app
 toplukonutbasvuruguvfqhs.vercel.app
 toplukonutbasvurujdspj.vercel.app
 toplukonutbasvurujflew.vercel.app
@@ -376850,6 +376865,7 @@ tr1familia.org.tr
 tr1ffy.ddns.net
 tr1sok.org.tr
 tr2-guncelsikaytler.com
+tr2-haber.my-homeip.com
 tr2.pointmarkld.pro
 tr2023avansfirsatlari.xyz
 tr2024kmhizmeti.shop
@@ -401946,6 +401962,7 @@ wa-wfb-urgent-matter-security.agency
 wa-wfb-urgent-matter-security.services
 wa.ssr.la
 wa04w6wub.duckdns.org
+wa15.duckdns.org
 wa1a1.com
 wa1o1.com
 wa2hwedbont1onz30facezconi6boesd12312sergag.com
