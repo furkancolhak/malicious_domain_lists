@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-13T11:05:14.798302
+# Updated: 2025-11-13T12:05:12.860574
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -23295,6 +23295,7 @@
 487855yilbasizamnalari.com
 487fh73hf8345.blogspot.com
 488564648789.com
+4889321.netlify.app
 48895625412.com.tr
 48895625412.online
 488knul7n.duckdns.org
@@ -24483,6 +24484,7 @@
 500binsosyalkonut.xyz
 500binsosyalkonutbasvuru.com
 500binsosyalkonutbasvuru.org
+500bintoki.online
 500bintokievimbasvuruekrani.com
 500bintokikonutlaribasvuruekrani.com
 500bintokikonutprojesiacildi.urlbee.help
@@ -184611,6 +184613,7 @@ grattis-tr.ddnsguru.com
 grattis-tr.dynuddns.com
 grattis-turkiye.dynuddns.com
 grattis.ddnsguru.com
+grattis.dyndns-at-work.com
 grattis.dynuddns.com
 grattis.laviewddns.com
 grattis.myvnc.com
@@ -200758,6 +200761,7 @@ herzamanburdayiz.cfd
 herzamancekilis.duckdns.org
 herzamanchpbababurda.blogspot.com
 herzamandestek.online
+herzamandevamediyoruzalisverise.shop
 herzamanfirsat.cfd
 herzamanfirsat.shop
 herzamanfirsatlari.shop
@@ -325594,6 +325598,7 @@ reklamlink26.vercel.app
 reklamlink56.vercel.app
 reklamlinkkampanya.vercel.app
 reklamm.cf
+reklammilazimhemenulasin.cfd
 reklamnurgaz.icu
 reklamnurgazis.my
 reklamonizlemes.site
@@ -341049,6 +341054,7 @@ sekizi.online
 sekizodeme.tk
 sekizzekim.com
 seklolesefhges.site
+sekme-giris.digital
 sekmwu.com
 seko.vipers.pw
 seko.zapto.org
@@ -363832,6 +363838,7 @@ t0k1-b4svar.click
 t0kbasvurular.click
 t0kbasvurulari.sbs
 t0kbasvurularim.click
+t0kbasvurularim.sbs
 t0kbasvurum.click
 t0ki-hemenbrda.com
 t0ki.com.tr
@@ -374132,6 +374139,7 @@ tokl500proje.com
 toklbasvrlra.com
 toklbasvrproje.com
 toklbasvruproje.com
+toklbasvurlarim.com
 toklbasvuruadresl.duckdns.org
 toklbasvuruhlzmetlerl.wordpress.com
 toklbasvyryap.org
@@ -409952,6 +409960,7 @@ wvwpttavm-securem.com
 wvwpttavm-securen.com
 wvwpttavm-securess.com
 wvwpttavm.com
+wvwpttavmsecurem.com
 wvwqnbfinans.click
 wvwramazanozeletkinlik.com
 wvwsahibinden-securem.com
