@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-13T08:05:14.329187
+# Updated: 2025-11-13T09:05:12.775927
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9972,6 +9972,7 @@
 185.176.27.250
 185.176.27.54
 185.176.94.114
+185.176.94.42
 185.177.59.179
 185.177.59.234
 185.177.59.240
@@ -13868,6 +13869,7 @@
 2.58.15.58
 2.58.16.87
 2.58.56.101
+2.58.56.112
 2.58.85.5
 2.58.85.92
 2.59.181.54
@@ -21968,6 +21970,7 @@
 45.141.157.105
 45.141.157.124
 45.141.215.111
+45.141.215.117
 45.141.215.40
 45.141.215.58
 45.141.233.187
@@ -24645,6 +24648,7 @@
 51.15.56.200
 51.15.67.66
 51.15.85.83
+51.15.98.45
 51.158.115.20/bins
 51.158.122.91/bins
 51.158.125.92
@@ -24652,6 +24656,7 @@
 51.158.173.147
 51.158.185.213
 51.158.190.216
+51.159.14.93
 51.159.162.49
 51.159.22.177
 51.159.28.101
@@ -49466,6 +49471,7 @@ akbank-subelerim.com
 akbank-subemiz.com
 akbank-subeniz.com
 akbank-subesi.com
+akbank-synthetics.acmx.ai
 akbank-togg-comtr.rf.gd
 akbank-tr-giris.com
 akbank-tr.com
@@ -64299,6 +64305,7 @@ attractejardy.top
 attracti547.xyz
 attraction43658.xyz
 attractionobscurity.top
+attractive-viewpicture-press-confidence.trycloudflare.com
 attractivesneak.top
 attractivology.com
 attribute-homework-generator-lovers.trycloudflare.com
@@ -233407,6 +233414,7 @@ jameczs.ddns.net
 jameikalo.de
 jameka.ddns.net
 jamelal.xyz
+jamelik.asia
 jamerdyson-comtr.site
 james-bw.at.ply.gg
 james11f22goldstein.xyz
@@ -266929,6 +266937,7 @@ melting-potes.com/9hciunery8g
 melting-potes.com/y872ff2f
 meltisa-api.net
 melto-ir.org
+melto2.unaux.com
 meltp-ir.org
 meltplight.top
 meltr-ir.net
@@ -299511,6 +299520,7 @@ pablopaketlemeticaret--gov-t-r.blogspot.com
 pablopaketlemeticaretgov-t-r.blogspot.com
 pabloservices.ml
 pabloservices.tk
+pabuloa.asia
 pabxconsultants.co.za
 pacalik.net/873gfhi3f3r
 pacbxmhdic.duckdns.org
@@ -314212,6 +314222,7 @@ ptt-avm.elektronikservis.sa.com
 ptt-avm.g-islemler.online
 ptt-avm.g-secure.online
 ptt-avm.g-sepetim.com.tr
+ptt-avm.hemenalin.sa.com
 ptt-avm.hizli-devam.com.tr
 ptt-avm.hizli-islem.online
 ptt-avm.hizli-sepetin-tr.com.tr
@@ -325524,6 +325535,7 @@ reklam24ajans.com.tr
 reklam24fb00kstart.com
 reklama-urunx.com.tr
 reklamabakgotur.cf
+reklamacmakicinulasin.cfd
 reklamadea.click
 reklamadevam.cfd
 reklamajans.shop
@@ -344129,6 +344141,7 @@ sezonftsonucnkampanyalarim.com
 sezong2bimcell.com
 sezonhtsonuhtkampanyalarim.com
 sezonikacirmsa.shop
+sezonindirimi.online
 sezonindirimibasladi101de.duckdns.org
 sezonindirimleriburada.space
 sezonkampanyam.site
@@ -374130,6 +374143,7 @@ toklprojebasvru.help
 toklprojebasvrusu.com
 toklprojembasvru.com
 toklprojembasvru2025.com
+toklyilinprojesl.com
 toknohaftasonuindirimin.net
 toknowall.com
 toko-3.vip
