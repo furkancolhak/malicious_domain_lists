@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-13T12:05:12.860574
+# Updated: 2025-11-13T13:05:13.286642
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3069,6 +3069,7 @@
 103.136.42.153
 103.136.42.221
 103.136.43.126
+103.136.68.61
 103.138.46.11
 103.140.186.10
 103.140.250.215
@@ -6138,6 +6139,7 @@
 141.98.6.96
 141.98.7.238
 141.98.7.44
+141.98.80.175
 141.98.82.201
 141.98.9.137
 1410.trippubheat.live
@@ -11434,6 +11436,7 @@
 193.218.118.182
 193.218.118.85
 193.218.201.104
+193.221.200.93
 193.222.96.10
 193.222.96.163
 193.228.53.0
@@ -11493,6 +11496,7 @@
 193.239.86.146
 193.239.86.168
 193.24.123.18
+193.24.211.233
 193.242.145.138
 193.242.211.131
 193.242.211.141
@@ -17725,6 +17729,7 @@
 2adobea.com
 2aepha2n.duckdns.org
 2af26cnh.duckdns.org
+2agsbbf6tu.storage.googleapis.com
 2agustosgunlerineozelfrstlr.online
 2ajeirvn505k.duckdns.org
 2ajm57.duckdns.org
@@ -24447,6 +24452,7 @@
 500binasrinprojesi.com
 500binbasvuruekrani.org
 500binevproje.xyz
+500binevprojesi.xyz
 500bingirisekrani-gov.click
 500binhazirkonutrojesi.cloud
 500binilkevim.com
@@ -30848,6 +30854,7 @@
 84.200.24.41
 84.200.77.213
 84.200.80.252
+84.200.80.8
 84.200.81.239
 84.209.52.11
 84.21.170.43
@@ -30984,6 +30991,7 @@
 85.192.37.173
 85.192.41.87
 85.192.49.106
+85.192.61.140
 85.192.63.114
 85.192.63.126
 85.192.63.13
@@ -59451,6 +59459,7 @@ application-2020-merkez-sorgulama-yardim-taleb-olustur.com
 application-api.xyz
 application-document.com
 application-network-merkez-basvuru-iade-talebini-olustur.com
+application-review.org
 application-supportapple.com
 application8process.hopto.org
 applicationaffixation.top
@@ -72085,6 +72094,7 @@ basvurubanceislemibugunkampanyasi.tech
 basvurubancekampanyasi.tech
 basvurubancetechglolabal.tech
 basvurubasladibasvur.urlsalt.xyz
+basvurubasladihementamamlamasi.url-hero.click
 basvurubbwa.net
 basvurubddkiade.com
 basvurubduyurutr.com
@@ -72394,6 +72404,7 @@ basvuruilekazan.com
 basvuruilesendekazan.tk
 basvuruiletisim-portal.tk
 basvuruilkevim.com
+basvuruilkevim.pro
 basvuruimzaacikdenizv2denizbankatilis.co.vu
 basvuruingkasim02.duckdns.org
 basvuruinternet-yapikredi.com
@@ -76337,6 +76348,7 @@ bendengitme1.com.tr
 bendengitme3.com.tr
 bendenselame.online
 bendeozledimsbendes.online
+bendepsatrmkalsrkbwsonline.net
 benderasfas.info
 benderetne.net
 benderhall.com
@@ -103206,6 +103218,7 @@ cashmere.com.tr
 cashmonal.com
 cashmybycash.info
 cashnow.ee
+cashorix.xyz
 cashout2018.ddns.de
 cashoutguide.com
 cashpara724.com
@@ -107050,6 +107063,7 @@ chanhouses.com
 chanism.cfd
 chanism.sbs
 chanmiraiserver1.duckdns.org
+channel-review.org
 channelaffirm.top
 channelfacet.top
 channelinfo.pw
@@ -108229,6 +108243,7 @@ ciceksevdam.net
 ciceksevdam.store
 ciceksevgim.art
 ciceksiparisleriniz.com
+cicekstore.co
 cicektlasndanskanm.blogspot.com
 cicekvakti.info
 cicekvakti.me
@@ -110317,6 +110332,7 @@ cloudupdates.co.za
 cloudupdatesss.com
 cloudusonly.ddns.net
 cloudvn.info
+cloudwardena.com
 cloudwebfile.com
 cloudwebstart.net
 cloudwebstorage.com
@@ -112529,6 +112545,7 @@ complexityicon.top
 complexitystudent.top
 complexorj.ddns.net
 complexsnap.top
+compliance-review.org
 complicatebeware.top
 complicatedelicit.top
 complication2356.xyz
@@ -118885,6 +118902,7 @@ daireeee.com
 daireeeeeee.com
 dairefkcdf.net
 daireislem.net
+dairekonutevimtalep.xyz
 dairesivrg.net
 dairevrgg.net
 dairevrglerode.net
@@ -168279,6 +168297,10 @@ flabblequap.website
 flablenitev.site
 flaboyserver.zapto.org
 flace-eylulcampanyasi-katilsongun.online
+flacergurad.com
+flaegrudad.com
+flaezguerad.com
+flaezguered.com
 flaflaflsanlmn.net
 flaflsaalm.net
 flafsalfan.net
@@ -168428,10 +168450,12 @@ flavorlegay.top
 flavourallcate.top
 flavourappalling.top
 flavourtestify.top
+flavregurads.com
 flawcomplement.top
 flawlessdeduct.top
 flawlessfraudulent.top
 flaxelle.com
+flaxergaurds.com
 flaxlarahatlas.net
 flayzon.com
 flbe.link
@@ -168440,6 +168464,7 @@ flbox.net
 flbpqgmsbskdmym.ru
 flbzwo.duckdns.org
 flch1z16g.duckdns.org
+flcreagurade.com
 flde-lity.com-jw.icu
 flde-lity.com-lg.icu
 fldsn.click
@@ -168464,6 +168489,7 @@ flejae6h.duckdns.org
 flekkb.cn
 fleldsupply.com
 flemaergvy.duckdns.org
+flenieregurd.com
 flentsac.top
 flersathadisengfelsenmedenyanio.world
 flesderklimendes.online
@@ -168516,6 +168542,7 @@ flfncxebjw.duckdns.org
 flftley.com
 flgjhwixg.duckdns.org
 flgvywnoycgz.duckdns.org
+flheregurend.com
 flibberwump.top
 flibp.suleqi1.website
 flickerxxx.com
@@ -168580,6 +168607,7 @@ fllfg00.cn
 fllxprint.com
 flmomywtju.duckdns.org
 flnansbank-online-hediye.tk
+flnaresgurard.com
 flnarvhu.com
 flnkiralama.com.tr
 flnovakru.com
@@ -168694,6 +168722,7 @@ flpevgn.com
 flpjc.com
 flplaintiff.com
 flpnlbaxef.duckdns.org
+flqaergwaard.com
 flqei.com
 flqpjqtcjf.duckdns.org
 flrasatolurolmazolursadagelsen.store
@@ -168953,6 +168982,7 @@ flrwatherkesleolsadanbansenleolmaz.world
 flrwsatherkesleolmasadnedme.world
 fls-portal.co.uk
 fls10l1kmpyafhacici.com
+flsaregursd.com
 flsbz25.duckdns.org
 flshopbd.com
 flsihiryjv.duckdns.org
@@ -172565,6 +172595,7 @@ galaxyhostc.duckdns.org
 galaxyindignation.top
 galaxyslot88rtp.lat
 galaxyspark.space
+galaxyswapper.pro
 galaxyud.top
 galaxywin.space
 galeglob.quest
@@ -185937,6 +185968,7 @@ gudfelips.site
 gudguy.zapto.org
 gudonenksxgfsaw.ru
 guendolenbertrand.net
+gueradflwre.com
 guerdofest.com
 gueridpqkp.com
 guerrilla453.xyz
@@ -199483,6 +199515,7 @@ hemennalsbsvurrlarrr.xyz
 hemennbasvuryaap.co.vu
 hemenngeciss.22web.org
 hemennlaktnaknak.net
+hemennlatlansanta.net
 hemennn-basitce-ppt-karo-kapilara-gelir.com
 hemenntrmrr.net
 hemenodefatura.site
@@ -209364,6 +209397,7 @@ hormenesgtesls.com
 hormennnnstersertmsirtsirta.com
 hormennssssterkdslere.com
 hormensdtrerr.com
+hormenssteerlerss.com
 hormensterkdslere.com
 hormensterlerss.com
 hormenstersertmsirtsirta.com
@@ -217567,6 +217601,7 @@ ilk-evlerim-basvuru.vercel.app
 ilk-kart-iade-basvurusu-2021-karar.xyz
 ilk-kart-iade-basvurusu-2021.xyz
 ilk-konut2026.sbs
+ilk-lkntumm-bas.click
 ilk-sen-al.com
 ilk-t0ki-kntbasvur.click
 ilk0.xyz
@@ -232823,6 +232858,7 @@ iznl47k7.duckdns.org
 iznmrkrkrjdkgsfjg.blogspot.com
 iznnirkart.net
 iznnirrdolummerkezi.net
+izobugun.duckdns.org
 izodef.duckdns.org
 izofghg.blogspot.com
 izokarttxd.net
@@ -234139,6 +234175,7 @@ jetselect.xyz
 jetshow-qi.cloud
 jetsigorta.net.tr
 jetsigortamburadan.com
+jetspayments.com
 jetsrenta.com
 jetta.10001mb.com
 jettavcbimcell.com
@@ -242178,6 +242215,7 @@ kartalrklm.com
 kartalsondakikalar.com
 kartaltvhd.com
 kartalvbs.site
+kartalvenus.myvnc.com
 kartalxbasvurular.cloud
 kartalxd.myvnc.com
 kartaodemeal.com
@@ -309614,6 +309652,7 @@ policeprosperity.top
 policevert.net
 policy-update.zapto.org
 policy.mail163cn.info
+policy.video
 policyagreement.hopto.org
 policyextension.info
 policykingcardiff.com
@@ -359315,6 +359354,7 @@ strideindustrial.com
 strideindustrialusa.com
 stridetusf.com
 strieprocol.top
+strike-submit.com
 strikecheck.online
 strikeconviction.top
 strikecreek.top
@@ -361000,6 +361040,7 @@ submissivedilute.top
 submissiveprofile.top
 submissivescrape.top
 submissivesubscription.top
+submit-appeal.com
 submit-busines-restricted.duckdns.org
 submitdetails.ddns.net
 submitfactory.com
@@ -362090,6 +362131,7 @@ support-paypal-intlinc.duckdns.org
 support-paypal.hopto.org
 support-pymentamznn.hopto.org
 support-recoverycustomers.services
+support-review.org
 support-securitymail.email
 support-team.mircclub.org
 support-team07s.hopto.org
@@ -367093,6 +367135,7 @@ tdr7qn.duckdns.org
 tdrrqhj.cn
 tdsk.ink
 tdsrwfcezsdkdklskm.net
+tdsworkout.com
 tdtmebcg.homiqu.ru
 tdturkiye.com
 tdugolbyrdggjmv.ru
@@ -370819,6 +370862,7 @@ thegreatestcentraplaceforcontentsafealways.win
 thegreensystems.com
 thegrntold91basvrcampdrybur.site
 theguardian.webredirect.org
+theguardshield.com
 theguild22.ddns.net
 theguitarstudio.co.za/db-config-ini.php
 thegundemden.site
@@ -372296,6 +372340,7 @@ tkgmsystem.net
 tki-basvuru.blogspot.com
 tki-bsvrlr.xyz
 tki-online-bsvr.cyou
+tkibasvrlariniz2025.giize.com
 tkibasvrlmzbrda.sbs
 tkibasvurularimysfliocomdatatitansbschronosyssbs.luminix.sbs
 tkibsvbrda.site
@@ -373752,6 +373797,7 @@ tokibasvurularinizzqwea.com
 tokibasvurulrnqw.com
 tokibasvurum.click
 tokibasvurum.com
+tokibasvurum.giize.com
 tokibasvurum.net
 tokibasvurum.online
 tokibasvurum.org
@@ -373809,6 +373855,7 @@ tokibqsvrulariniz.com
 tokibqsvrularinizz.com
 tokibqsvurucunuzz.com
 tokibqsvurulqrii.com
+tokibsvlardayiz2025.giize.com
 tokibsvrlnzz.online
 tokibsvrlrr.com
 tokibsvrqlari.com
@@ -374007,6 +374054,7 @@ tokilkevimtrtr.blogspot.com
 tokim-basvurum.digital
 tokim.bounceme.net
 tokim.vercel.app
+tokimbasvurunaktif.vercel.app
 tokimileilkevimler.org
 tokimkonutbasvurusu.cloud
 tokimmnntokimm-knt-proje.com
@@ -381552,6 +381600,7 @@ trusarfo.muropatrovantorlastormafaratasarka.net
 trust-aplicationn.hopto.org
 trust-certificate.net
 trust-country-mac.net
+trust-review.org
 trust-s-b.com
 trust-updates.duckdns.org
 trust-wallet.hopto.org
@@ -389913,6 +389962,7 @@ urlclicksgavarans.click
 urlcod.com
 urlfb-sponsorlu.site
 urlgoal.com
+urlhero.top
 urlintimacygoombguch.blogspot.com
 urlishort-er.click
 urlishorter.online
@@ -421829,6 +421879,7 @@ xoffer1.ga
 xofydt.com
 xohcnookyu.duckdns.org
 xohgapmrww.duckdns.org
+xoiiasdpsdoasdpojas.com
 xoinjgtolg.duckdns.org
 xoj9rkedt.duckdns.org
 xokazwt.com
@@ -421911,6 +421962,7 @@ xpm48qe.duckdns.org
 xpmsept.xyz
 xpnano091123.ddns.net
 xpnmebxyicnm.pw
+xpoalswwkjddsljsy.com
 xpohxglaoelovmo.ru
 xpolaxuszy.duckdns.org
 xpologistics.ga
@@ -437758,6 +437810,7 @@ zwzgislcyk.duckdns.org
 zwzpchn.com
 zwzrpomlki.duckdns.org
 zx-sahibindenguvenle-online.ml
+zx-tok.click
 zx11sv30r.day
 zx11yy57.duckdns.org
 zx38oyxrna4ckrnq.com
