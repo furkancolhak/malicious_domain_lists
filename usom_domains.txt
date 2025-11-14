@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-14T18:05:14.429604
+# Updated: 2025-11-14T19:05:13.382745
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -37607,6 +37607,7 @@ a1o1augtosyazsinirlindirmleri.duckdns.org
 a1o1c.net
 a1o1cesitindirimleri.click
 a1o1comtr-aktuelrunler.duckdns.org
+a1o1comtr-aktuelrunlertr.duckdns.org
 a1o1comtr.com
 a1o1comtr.fun
 a1o1comtr.online
@@ -53805,6 +53806,7 @@ aldn-aldn-aralik-frsatlari-son-gnler.shop
 aldn-aldn-efsne-gunlr-2023.online
 aldn-aldn-efsne-gunlr-2023.shop
 aldn-aldn-firsatlari.com
+aldn-aldn-flsatlari.cfd
 aldn-aldni-online-ozel-2023.shop
 aldn-aldnnxfir-stllariyxlza.gb.net
 aldn-aldnnxfirs-tlslariyxlza.gb.net
@@ -71412,6 +71414,7 @@ basvurmsn.com.tr
 basvurmsn.xyz
 basvurmsr.com.tr
 basvurmsr.xyz
+basvurmst.cyou
 basvurmsv.com.tr
 basvurmsv.cyou
 basvurmsx.com.tr
@@ -206266,6 +206269,7 @@ hizlibasvurunoktasi.mefound.com
 hizlibasvurunuz.com
 hizlibasvurunuzburadadirhemen.store
 hizlibasvurunzubsurdsa.store
+hizlibasvuruolusturmalisin.cloud
 hizlibasvuruonaylim.net
 hizlibasvurusayfasi.cloud
 hizlibasvurusistem.online
@@ -429836,6 +429840,7 @@ yeniyni3.net
 yeniyni4.net
 yeniyni8.net
 yeniyni9.net
+yeniyuvam.click
 yeniyuzyillions.org
 yenizamanlarvakfi.com
 yeniziraatcep.com
