@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-15T13:05:14.696931
+# Updated: 2025-11-15T14:05:13.424379
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -72682,6 +72682,7 @@ basvurulari-qnbfinansci.com
 basvurulari-tokki.online
 basvurulari.org
 basvurulariadeler.de
+basvurularicinsongunlerde.cloud
 basvurularikampanyafirsatibance.tech
 basvurularim-ekonut.com
 basvurularim-gov-tr.com
@@ -103128,6 +103129,7 @@ carreyazfirsatgunleri.online
 carreyazfirsatlari.online
 carrfeourfirsat.shop
 carrfeourfirsatlari.shop
+carrfiurrr.online
 carrfor-sa.com.tr
 carrfor-sa.info.tr
 carrfour-online-indirim.com
@@ -108307,6 +108309,7 @@ cicekbahcesi.site
 cicekbuketim.info
 cicekbuketim.vip
 cicekburada.co
+cicekburada.store
 cicekburda.com
 cicekcidukkani.b-cdn.net
 cicekcigledx.com.tr
@@ -157830,6 +157833,7 @@ etoccdgklsby.org
 etog3fj85xb8.duckdns.org
 etoki.net
 etoki.org
+etokibasvurusss2025.space
 etomgir.pw
 etonel.chickenkiller.com
 etonrocynz.duckdns.org
@@ -178992,6 +178996,7 @@ geriaktarmavesorgulama.site
 geriaktarmsrgu.cfd
 geriaktarvesorgula.site
 gerialmakistermisin.rf.gd
+geribasvuru-iadeislem.net
 geribildirim-destek-com.ml
 geribildirim-merkezi.com
 geribildirim-merkezi.ml
@@ -179172,6 +179177,7 @@ gerzeksas6.com
 gerzeksas8.com
 gerzeksas9.com
 gesaasnasosmy.net
+gesallur.store
 gesamaehler.de
 gesan.online
 gesdefscoa1.com
@@ -218334,6 +218340,7 @@ ilkevimbasvurusutoki.pro
 ilkevimbasvurusutoki.sa.com
 ilkevimbasvurusutoki.xyz
 ilkevimbasvurusuyap.site
+ilkevimbasvuruz63fddn7.vercel.app
 ilkevimbu.com
 ilkevimburada.com
 ilkevimdanismanlik.com
@@ -243311,6 +243318,7 @@ kasimfirsatlarinikacirma.online
 kasimfirsatlarisenleguzel.chickenkiller.com
 kasimfirsatlarlageldi.shop
 kasimfirssatt.online
+kasimflrsatlarininadresi.com
 kasimfrstlarianindakapnda.com
 kasimfrstlarievinde.com
 kasimicinozel.site
@@ -318902,6 +318910,7 @@ purvoyage.com
 purylev.com
 purzel.zapto.org
 pus189j.duckdns.org
+pusagemez.store
 push21sing.top
 push900holdnature.live
 pushconsole.com
@@ -355211,6 +355220,7 @@ sorgulama-garanti-com.tk
 sorgulama-islemleri.org
 sorgulama-kuryenet.online
 sorgulama-nvi.xyz
+sorgulama-sistemi.click
 sorgulama-sistemi.one
 sorgulama-tc-1948.blogspot.com
 sorgulama-teb.com
@@ -355937,6 +355947,7 @@ sosyalkonutproje.net
 sosyalkonutproje.xyz
 sosyalkonutprojebasvuru.online
 sosyalkonutprojeilkevimm.blogspot.com
+sosyalkonutprojesi.basvurularicinsongunlerde.cloud
 sosyalkonutprojesi.basvurulartukeniyor.cloud
 sosyalkonutprojesi.com
 sosyalkonutprojesi.hizlibasvurularbasladi.cloud
@@ -357747,6 +357758,7 @@ spselc.org
 spshhstrm.com
 spsiya.duckdns.org
 spsleyakgmhizligecis.net
+spsmo.com
 spsmqvgoxl.duckdns.org
 spsnrluhbr1reklm.duckdns.org
 spsonrluhaberrklm.duckdns.org
@@ -374603,6 +374615,7 @@ toki.projeniz.org
 toki.rehberi.click
 toki.rehberler.click
 toki.rest
+toki.run
 toki.site
 toki.tbasvuruyap.com
 toki.turkiye-basvuru.com
@@ -374678,6 +374691,7 @@ tokibasvuru-edevletgir.site
 tokibasvuru-islemim.digital
 tokibasvuru.apathe.net
 tokibasvuru.blogspot.com
+tokibasvuru.click
 tokibasvuru.com
 tokibasvuru.cyou
 tokibasvuru.duckdns.org
@@ -375008,6 +375022,7 @@ tokimilkevimlerimiz.org
 tokimkonutbasvurusu.cloud
 tokimmnntokimm-knt-proje.com
 tokimnetevim.store
+tokimnetgovtokimbasvurnetgovtrkurumgovtr.com
 tokimntokimm-knt-projesim.com
 tokimobil.vercel.app
 tokimobilbasvuru.shop
@@ -375387,6 +375402,7 @@ toogggggarantkatilimmmm.cloud
 toogggtf10tf.com
 took-i.click
 took-ii.click
+tookibasvurusuu.info
 tookiibasvvur.art
 tookiibasvvur.info
 tookiibasvvur.pro
@@ -375572,6 +375588,7 @@ toplukonut-onlinebasvuru.duckdns.org
 toplukonut-projesi.sbs
 toplukonut.b-cdn.net
 toplukonut.forum
+toplukonut.homes
 toplukonut.vercel.app
 toplukonut400.com
 toplukonut500bin.com
