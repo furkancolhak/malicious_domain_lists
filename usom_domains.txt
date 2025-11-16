@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-16T18:05:13.672949
+# Updated: 2025-11-16T19:05:14.281899
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -14936,6 +14936,7 @@
 2025yildizlarinda.xyz
 2025yilikampanyasizlere.com
 2026bvsnrsmdikyt.sbs
+2026knutun.wordpress.com
 2026teslim-tarih.sbs
 2028-88-230-146-31.ngrok-free.app
 202crx.duckdns.org
@@ -24557,6 +24558,7 @@
 500konut-bsrv.lat
 500konut-bsrv.lol
 500konut-bsrv.sbs
+500konut.click
 500konut.com
 500konutbasvur.shop
 500konutbasvuru.sbs
@@ -72672,6 +72674,7 @@ basvurularaliniyor.xyz
 basvurularbasladi.com
 basvurularbasladi.neocities.org
 basvurularbasladi.netlify.app
+basvurularbasladi500.com
 basvurularbasladigovtr.com
 basvurularbasladihemenbasvuronaylansiniz.urlhero.top
 basvurularbitiyor.cloud
@@ -76945,6 +76948,7 @@ besinciyilozel2022.com
 besinciyilparibozel.com
 besinciylozel.letkstfiindagplaecearwabyfromtheswoxrld.net
 besiol.store
+besjejs.wordpress.com
 beskentgecisyukle.sg-host.com
 beskerebesden.com
 beslekazan.site
@@ -92963,6 +92967,7 @@ bnsmarket-technology.com
 bnsmcsaddsfy3klecim.net
 bnsmglobalbasvuru.com
 bnsnaonlinegiristr.com
+bnsnbrbr2026.xyz
 bnsnbsnnbsscnaceesngsetr.com
 bnsncssdtr.vercel.app
 bnsneonlinegiristr.com
@@ -247993,6 +247998,7 @@ kkolaylilkklar-pttt-kaargoolariniz-gelsiin.site
 kkolaylilklar-ptt-kaargolariniz-gelsiin.website
 kkomsoanddyabaytr.com
 kkooyyunkurbandestegi-akkbbnkk.online
+kkosmanfearleesdser.com
 kkosmanfearles.duckdns.org
 kkosmanfearleskk.duckdns.org
 kkosmanferarss.com
@@ -274997,6 +275003,7 @@ moreandnnore.sg-host.com
 morecloak.top
 morecondor.top
 morecoreservises.com
+moreemlak.com
 morefeminine.top
 morehaven.top
 moreiraesouza.ddns.net
@@ -306045,7 +306052,9 @@ pasabeydestek.net
 pasabeydestek.org
 pasacoktatli.xyz
 pasadenapetrol.com
+pasagemagaza.com
 pasagemzam.xyz
+pasagereklam.com
 pasages.store
 pasagesite.com
 pasailetapu.xyz
@@ -326490,6 +326499,7 @@ reklamalani.click
 reklamanalizbilgi.com
 reklamas.info
 reklamasdhost.click
+reklambizimisimiz.site
 reklamburda.co
 reklamci.space
 reklamcilerdm.cf
@@ -330892,6 +330902,7 @@ rvw3c7.duckdns.org
 rvwlauv.duckdns.org
 rvxnzodzmljk.net
 rvxwrm5.duckdns.org
+rw0.click
 rw2mmucr5.duckdns.org
 rw56zknfx.duckdns.org
 rw5spskjz.duckdns.org
@@ -342446,6 +342457,7 @@ send-safe.com
 senda.sbs
 sendagiftasia.com
 sendaiirinialmayiunu.store
+sendainfpasage.store
 sendblaster.org
 sendclick.hopto.org
 senddocs.icu
@@ -349920,6 +349932,7 @@ sipqortam.xyz
 sipraislerin15temmzuda.cloud
 sipraisleringizli18temmuz.cloud
 siprslkeringelditslmal234-15dimi.com
+sipsicaciktarifler.uk
 sipyzaoo.com
 siqgortacimm.com.tr
 siqgortaladim.com
@@ -356030,6 +356043,7 @@ sosyalkonutprojebasvuru.online
 sosyalkonutprojeilkevimm.blogspot.com
 sosyalkonutprojesi.basvuruicinsongun365.cloud
 sosyalkonutprojesi.basvurularicinsongunlerde.cloud
+sosyalkonutprojesi.basvurularsonbuldu.cloud
 sosyalkonutprojesi.basvurulartukeniyor.cloud
 sosyalkonutprojesi.com
 sosyalkonutprojesi.hizlibasvurularbasladi.cloud
@@ -374667,6 +374681,7 @@ toki.apartments
 toki.autos
 toki.basuito.com
 toki.basvuru-2025.sbs
+toki.basvurularbasladi500.com
 toki.basvurum.org
 toki.basvurumenum.com
 toki.basvuruodemesi.com
