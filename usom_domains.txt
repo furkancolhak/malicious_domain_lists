@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-17T12:05:15.060729
+# Updated: 2025-11-17T13:05:13.017913
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -69038,6 +69038,7 @@ bafkreibhpzjoiwqartcf54coutdb5zyp7rcju2cna7ses5zh5jjyxlvbve.ipfs.flk-ipfs.xyz
 bafkreid3k4mxanpaaxjkskwlt4nfiekonodsfoopkkcmu3tupvcmdgc3ji.ipfs.flk-ipfs.xyz
 bafkreidldn22bsi37a5dbkueihmuyfzvuub7erutabdlv2ngyycc4itmie.ipfs.dweb.link
 bafkreidosavut3yx52wlx25ec23z2exsgj7osvkb35xopi2stx6idgn7rq.ipfs.flk-ipfs.xyz
+bafkreidvlysryw5yoqcbn54doikyzmkqrqf55lzjlgl4gxwqyn54yt3bbe.ipfs.dweb.link
 bafkreieybd6i5jezuef63hq3tpg2c4vtycp4fesbvjmqwwfyw6lpwa5vke.ipfs.flk-ipfs.xyz
 bafkreif3mxp3ifw6gn2xajcrnmlual5fih5pogk6vpkz3gm6aw3xgty3z4.ipfs.flk-ipfs.xyz
 bafkreifkd2ogy3zxdax4v6hktou63r6ddwsb6f4wqojg3gd24czxy323ry.ipfs.flk-ipfs.xyz
@@ -70169,6 +70170,7 @@ bankruptcybout.top
 bankruptcysubordinate.top
 bankruptradiate.top
 banks.ddns.net
+banksaa.duckdns.org
 banksercurity.hopto.org
 banksigorta.net
 bankslip.info
@@ -191548,6 +191550,7 @@ haftaninyildizliurunleri.com.tr
 haftaninyildizliurunleri.online
 haftaninyildizurnu.online
 haftaninyildizurunleri.com
+haftaninyildizurunleri.online
 haftaninyildizurunlerii.cfd
 haftaninyildizurunlerii.sbs
 haftaninyildizurunleriyle.shop
@@ -243454,6 +243457,7 @@ kasimindirimlerinebak.site
 kasiminfirsatlari.com.tr
 kasiminfirsatlari.xyz
 kasiminfirsatliurunleriim.com
+kasiminflrsatlarigeldi.com
 kasiminibasvurusu.online
 kasiminindirimikacirmaal.online
 kasiminkampanyalari.com.tr
@@ -355835,6 +355839,7 @@ sosyal-hayatevesigar.com
 sosyal-hizmet-tr.com
 sosyal-hizmet.com
 sosyal-konut-t0ki.shop
+sosyal-konut.com
 sosyal-konutbasvurusu.cloud
 sosyal-konutbasvurutoki.vercel.app
 sosyal-online-pandemileri-odemeleri.com
@@ -363106,6 +363111,7 @@ superyupp.fun
 superziad.is-a-liberal.com
 supfoundrysettlers.us
 supggaarraannttii.net
+suphankahvalticafe.xyz
 supheliislemler.shop
 supkh.mobi
 suplypppp.duckdns.org
@@ -388238,6 +388244,7 @@ tzy189.duckdns.org
 tzyjokw.duckdns.org
 tzz10b.cn
 tzzsrqpntm.duckdns.org
+u-bbwamenugirislemonlinefirsatlari.com
 u-bbwamenugirisllemonlinem.com
 u-c-z-l-k-zamani.com
 u-guvenlialisveris.sa.com
