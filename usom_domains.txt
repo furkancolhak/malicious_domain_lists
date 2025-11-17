@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-17T17:05:18.757049
+# Updated: 2025-11-17T18:05:12.813936
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -53494,6 +53494,7 @@ aldinaldin101kamapnya.online
 aldinaldin101mobil.gtx-vio.site
 aldinaldin101son.online
 aldinaldin101tr.online
+aldinaldin101tr.store
 aldinaldin101turkey.online
 aldinaldin101turkiye.online
 aldinaldin15ekimozel.com
@@ -190688,6 +190689,7 @@ haberkaynagim.online
 haberkaynagim.site
 haberkaynagim.website
 haberkek.club
+haberkonut24.com
 haberkonut724.com
 haberleer.club
 haberleer.site
@@ -218487,6 +218489,7 @@ ilkevimbasvuru537h2kp7.vercel.app
 ilkevimbasvuru5g6oe5zpesp.vercel.app
 ilkevimbasvuru9806dusl1.vercel.app
 ilkevimbasvuruekrani.com
+ilkevimbasvuruinlwr3p03c1.vercel.app
 ilkevimbasvuruiovwd0m99bux.vercel.app
 ilkevimbasvurukanali.com
 ilkevimbasvurular.com
@@ -250285,6 +250288,7 @@ konut-t0kin-bas.online
 konut.app
 konut20012024.com
 konut5000.com
+konut724haber.com
 konutabasvuru.org
 konutbasvur.com
 konutbasvurhizmetleri-89.net
@@ -250371,6 +250375,7 @@ konutfirsati.click
 konutfirsati.online
 konutguncel.click
 konutgunceldestekhatti.com
+konutgundem.com
 konutilkevim.org
 konutislembasvurularislem.net
 konutislemler.net
@@ -356193,6 +356198,7 @@ sosyalkonutbasvuuru2025.com.xn--tr-2caa
 sosyalkonutevim.org
 sosyalkonutilkevim.com
 sosyalkonutilkevimilkisyerim.net
+sosyalkonutlar.myonlineportal.ch
 sosyalkonutlar.net
 sosyalkonutlar2025.com
 sosyalkonutlarabasvur.net
@@ -359297,6 +359303,7 @@ stanleyburdauygun.site
 stanleyclassicc.vip
 stanleydunyasi.xyz
 stanleyevriliyor.xyz
+stanleyferto.me
 stanleyforge.xyz
 stanleyfrsattermosburda.com
 stanleyfrst666aldnadinsizden.com
@@ -365084,6 +365091,8 @@ t0kievbasvurularim.com
 t0kievleribasvurulari.sbs
 t0kievvbaasvurularim.com
 t0kifirsatlari.click
+t0kiilkevimbasvuru.info
+t0kiilkevimbasvuru.live
 t0kiilkevimbasvuru.pro
 t0kikonutlaribasvur0.com
 t0kikonutlaribasvuru.com
@@ -429167,13 +429176,16 @@ yenidunyayaadim.com
 yenidunyayakatilin.com
 yenidunyayasendegelveyasa.com
 yenidususenler.online
+yenidvletinizz-basvurunu-zueh-emenyapiniz.starlightforge.online
 yenidvltkartinizaidatt.online
 yenie-dvltiad-esistemi.com
 yeniedevletiadegirisi1.com
 yeniedevletiadegirisi2.com
 yeniedvletbasvurunuzuhemenyap.starlightforge.online
 yeniedvletinizbasvurunuzuhemenyap.starlightforge.online
+yeniedvletinizebassvuurunuz-uhemenyap.starlightforge.online
 yeniedvletinizebasvuurunuzuhemenyap.starlightforge.online
+yeniedvletinizzbasvurunuzu-hemenyapabilirsiniz.starlightforge.online
 yeniedvletinizzbasvurunuzueh-emenyapiniz.starlightforge.online
 yeniedvletinizzbasvurunuzuhemenyap.starlightforge.online
 yeniedvltkrtide.com
