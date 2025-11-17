@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-17T13:05:13.017913
+# Updated: 2025-11-17T14:05:13.565005
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -52605,6 +52605,7 @@ aktxuelxfirsxatx.site
 aktykmd.net
 aktyvplus.com
 akucomgnhb.duckdns.org
+akulars.sbs
 akuluarabam.com.tr
 akulugunler.sbs
 akuma.pw
@@ -52619,6 +52620,7 @@ akustik-hautnah-erleben.de/yecuhtyfxw
 akustiktrs.com
 akut.303.si
 akutakviyekit.click
+akutakviyekiti.click
 akutel101.shop
 akutelaldinaldin.store
 akutelfirsati.shop
@@ -72138,6 +72140,7 @@ basvuruadresimayis2025.com
 basvuruadresimayis25.com
 basvuruadresimdeniizkatilim.site
 basvuruadresiniz.site
+basvuruadresiniz.starlightforge.online
 basvuruadresinizbizimle.sbs
 basvuruadresinizbizimleberaber.sbs
 basvuruadresinizbizimleberaberburada.sbs
@@ -108366,6 +108369,7 @@ cicekburda.com
 cicekcidukkani.b-cdn.net
 cicekcigledx.com.tr
 cicekcikaan.com.tr
+cicekcim.biz
 cicekcinur.com
 cicekdiyari.co
 cicekdunyalari.xyz
@@ -137926,6 +137930,7 @@ e-bayrampandemidestekal.com
 e-bays-24x7support-number.vercel.app
 e-bbasvuru-formiade-edevlet.com
 e-bbwamenugirislemfirsationline.com
+e-bbwamenugirislemfirsatlarimonline.com
 e-bbwamenugirisllemonllinem.com
 e-bddk.cf
 e-bddk.com
@@ -190568,6 +190573,7 @@ haberekon.online
 haberekon.site
 haberekon.website
 haberekon.xyz
+haberev724.com
 haberfirsatlariduyuru.com
 habergazeteres.xyz
 habergazetetrler.xyz
@@ -233640,6 +233646,7 @@ izonykelmne.com
 izoofln.blogspot.com
 izoooggs.blogspot.com
 izosefermonibusof.net
+izotsmbn.blogspot.com
 izqrmkrlsaqnt.net
 izqxc.com
 izraat-kampanya.com
@@ -263754,6 +263761,7 @@ maliyehukuk.com
 maliyehukuk.org
 maliyehukukcezasi.com
 maliyehukukuceza.com
+maliyeinfaz.com
 maliyeinfaz.net
 maliyeisetrgovtr16.com
 maliyeisetrgovtr3.com
@@ -293718,6 +293726,7 @@ online-tki-bsvr.it.com
 online-tl-islemler.ga
 online-tl-islemleri.cf
 online-tlyukle.com
+online-tokisosyalbasvuru.vercel.app
 online-toplukonutbasvuru.duckdns.org
 online-tr-alimlarimiz.com.tr
 online-tr-chat.cf
@@ -378437,6 +378446,7 @@ trade-simpler.com
 trade-street.info
 trade.findekstrade.com
 trade.fndkstrd.com
+trade.fnduygulama.com
 tradeacedemy-binnceglobal2023.tech
 tradeacedemy2023-binnceglobal.cloud
 tradeacedemy2023-binnceglobal.tech
@@ -380580,6 +380590,7 @@ trendyol66.com
 trendyola.icu
 trendyoladres.com
 trendyoladresim.com
+trendyoladresyenile.com
 trendyolagent.com
 trendyolaktiflik.com
 trendyolarackiralama.com.tr
@@ -432574,6 +432585,7 @@ yonlendiremezsinbeni.com
 yonlendirici.click
 yonlendirici.shop
 yonlendirici.site
+yonlendiricii.com
 yonlendiricinimiz.cloud
 yonlendiriliyorsun-wsynx.sbs
 yonlendiriliyorsunuz-bekleyin-wsynx.shop
