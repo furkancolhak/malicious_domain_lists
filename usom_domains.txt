@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-19T01:05:16.038052
+# Updated: 2025-11-19T02:05:13.105427
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -13106,6 +13106,7 @@
 1jb.us
 1jb19l0.duckdns.org
 1jbeyrkn.duckdns.org
+1jc6e1950.storage.googleapis.com
 1jdh66h.duckdns.org
 1je45ri.duckdns.org
 1jfixh9.duckdns.org
@@ -34982,6 +34983,7 @@ a-101harcaharcabitmezz.com
 a-101hizmetleri.karlaparalaras.com
 a-101indirimfirsatlarisubatayikatalog.com
 a-101indirimlisiparisler.xyz
+a-101indirimsepeti.cfd
 a-101kanpanya.com
 a-101kapida.com-son-firsatlari-yakala.xyz
 a-101kapiinda.store
@@ -200381,6 +200383,7 @@ hemenburasii.online
 hemencehalledin.org
 hemencehalledin.xyz
 hemencehallediyoruz.com.tr
+hemencehallediyoruz.info
 hemencepte.dev
 hemencepte.digital
 hemenceyukle.22web.org
@@ -200809,6 +200812,7 @@ hemensigortayaptir.site
 hemensigotladim.net
 hemensigrtamnet.b-cdn.net
 hemensigrtamnett.b-cdn.net
+hemensimdi-ebasvurunuzuonalayiiniz.ursnor.website
 hemensimdialddinaldintesterehyundai.xyz
 hemensimdialinaldin.shop
 hemensimdibasv.com
@@ -236881,6 +236885,7 @@ jshjaowiw.click
 jshsajk.top
 jsi43qd1bmex0q5ygd.com
 jsimg.zapto.org
+jsjbjsfj.dravencia.sbs
 jsjjsjsjsjsjssh.cf
 jsjldnxk25.com
 jskgdhjkdfhjdkjhd844.ru
@@ -325585,6 +325590,7 @@ rawnotepad.com
 rawnumber.top
 rawonlline.com
 rawscrutinize.top
+rawsrfsarwarfasf3424w.blogspot.com
 rawvolcanomixtureuncover.click
 rawya308.ddns.net
 raxdevunual.net
@@ -360060,6 +360066,7 @@ stanleymarket.info.tr
 stanleymarket.net.tr
 stanleynexus.xyz
 stanleyparlar.com
+stanleyrebirth.xyz
 stanleyreborn.xyz
 stanleyrevive.xyz
 stanleyrise.xyz
@@ -409891,6 +409898,7 @@ wkhqnkih.duckdns.org
 wkibawvjff.duckdns.org
 wkj0pc7ju.duckdns.org
 wkjnvugt.com
+wkjvvyrb3d.storage.googleapis.com
 wkjxdxhmfglopsi.ru
 wkk.ddns.net
 wkkismshed.duckdns.org
