@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-19T09:05:14.374460
+# Updated: 2025-11-19T10:05:18.996655
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -218536,6 +218536,7 @@ ile-islemini-guvenliyap.com
 ile-isleminiguvenliceyap.com
 ile-isleminiyap.com
 ile-islemler.com
+ile-islemleriniz-webde.com
 ile-kampanya-ilan.com
 ile-kampanya.com
 ile-kolay-alisveris-islemleri.com
@@ -336193,6 +336194,7 @@ sahibinden.ile-internetten-alisveris.com
 sahibinden.ile-islemini-guvenlice-yap.com
 sahibinden.ile-islemini-guvenliceyap.com
 sahibinden.ile-isleminiguvenliceyap.com
+sahibinden.ile-islemleriniz-webde.com
 sahibinden.ile-kampanya-ilanlar.com
 sahibinden.ile-odeme.com
 sahibinden.ile-odeme.com.tr
