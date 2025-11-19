@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-19T11:05:14.008826
+# Updated: 2025-11-19T12:05:13.790611
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -24535,6 +24535,7 @@
 500binkonutbasvuru.click
 500binkonutbasvuru.com
 500binkonutbasvuru.sbs
+500binkonutbasvuru.site
 500binkonutbasvuruekrani.com
 500binkonutbasvurularionline.webredirect.org
 500binkonutbasvurusu.cfd
@@ -53302,6 +53303,7 @@ alddn-aldnnxfirstllariyla.xyz
 aldenzreklam.sa.com
 aldergrove.site
 aldeshahmed2.ddns.net
+aldfercrest.com
 aldgkadgila.net
 aldgkadgila.online
 aldi-aktuel.net
@@ -60053,6 +60055,7 @@ aquaneeka.co.uk/wp-config-ini.php
 aquaneeka.co.uk/wp-includes/db_template.php
 aquansh.com
 aquaplasmin.freemyip.com
+aquapro.co
 aquaserver.duckdns.org
 aquasnapz.com
 aquatic-organisms.info
@@ -64058,6 +64061,7 @@ at.ipro.ink
 at0-claim.ddns.net
 at0c4lg.duckdns.org
 at0inf0secure.ddns.net
+at0micwallets.com
 at1.duckdns.org
 at1cmuc7k.duckdns.org
 at1ww4gf1.duckdns.org
@@ -64359,6 +64363,7 @@ atomicjournal.com
 atomicmassive.com
 atomicregiment.top
 atomictrivia.ru
+atomicwallet.co.com
 atomiic-walleextensioncdn.webflow.io
 atomikecwallet.webflow.io
 atomikwelette.webflow.io
@@ -100931,6 +100936,7 @@ bydaoto.com
 bydauototurkiye.com
 bydautoo.com
 bydesignus.com
+bydfiexchange.live
 bydoautoturkiye.com
 bydolum.blogspot.com
 bydsatinal.site
@@ -108086,6 +108092,7 @@ chibuikelight.ddns.net
 chic-cassata-849992.netlify.app
 chicago-bears.com
 chicagocity.bit
+chicavora.com
 chickenandkitchen.com//db-config-ini.php
 chickenandkitchen.com/db-config-ini.php
 chickenandkitchen.com/wp-config-ini.php
@@ -159781,6 +159788,7 @@ evimbasvurusu.site
 evimbutik.tech
 evimdekal.org
 evimden.html-5.me
+evimdeyim.click
 evimebasvur.com
 evimebasvur.online
 evimevim.click
@@ -185080,6 +185088,7 @@ gozlerindekiay.net
 gozlerine-inanamayanlar-yuzlere-yansiyan-gulumsemeler.com
 gozlukalstore.com
 gozlukcu.vercel.app
+gozlukmedya.com
 gozluyumutaktik.tk
 gozmkk.duckdns.org
 gozuken-kadar-sende-hep-iyisi-geldi.com
@@ -190433,6 +190442,7 @@ h-guvenli-alisveris.online
 h-guvenli.online
 h-hepsizinlegarntimm.click
 h-hgs.com
+h-hre23r-safhnmrgfdbvfqdwsf.net.tr
 h-i-z-l-i-b-a-s-v-u-r-u.net.tr
 h-ikarcahome.shop
 h-iz1imobi1giris1em1erim.online
@@ -202451,6 +202461,7 @@ hftsolnu101brdacoscom.com
 hftz-pzrm-frstm.com
 hfuawsrb.com
 hfuqi.com
+hfuteducn.wordpress.com
 hfuu.de
 hfuwhf.hopto.org
 hfvpylrssnbg.wcnv20.cn/instagram-me
@@ -209186,6 +209197,7 @@ hmdegelalsipsinisimcbk0la.com
 hmdfgdlipm.duckdns.org
 hmdhmd.ddns.net
 hmdllkhahs.com
+hmdllkhahssag.com
 hmdllmttlsm.com
 hmdoktay.net
 hmduwp.com
@@ -301934,6 +301946,7 @@ panathimaids.co.za/js/db-config-ini.php
 panathimaids.co.za/js/wp-config-ini.php
 panayirurunleri.store
 panbasvuruhizmetleri.com
+pancake-about-eat.at
 pancakeksvva.club
 pancakestall.com
 pancakeswap.finance.crokv.com
@@ -364868,9 +364881,12 @@ swamppatronise.top
 swampprovide.top
 swan-btc.com
 swanky-summer-ferret.glitch.me
+swap-space.net
 swapautonomous.top
 swapfavour.com
 swappastore.com
+swapspace.cc
+swapspace.exchange
 swapspicy.top
 swapworld.top
 swarm-solutions.com/06yefer
@@ -375634,6 +375650,7 @@ toki-slv-basvuru.com
 toki-slv-basvuru.net
 toki-slv-basvuru.sbs
 toki-sosyal.digital
+toki-sosyalbasvurukonut.vercel.app
 toki-sosyalkonutlarbasvuru.vercel.app
 toki-soyalbasvurularim.vercel.app
 toki-tr.com
@@ -391021,6 +391038,7 @@ unisgaersdfrdsfddsr.hopto.org
 unistreamcloud.ru
 unisturkiye.com
 unisv.xyz
+uniswap.org.in
 unite.ddns.net
 united-nation-news.com
 united2024app.website
@@ -398196,6 +398214,7 @@ vb-kampanya2021.com
 vb-kampanyalar.xyz
 vb-katilhediyeler.club
 vb-katilhediyeler.info
+vb-mobil.com
 vb-mobil.xyz
 vb-net.xyz
 vb-online.xyz
