@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-19T15:05:23.997066
+# Updated: 2025-11-19T16:05:13.463481
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -24480,6 +24480,7 @@
 500-bin-toki-basvuru.referansbilisim.online
 500-binbasvurutakip.com
 500-m.online
+5000-online-konut-basvuru.top
 50000110101.cloud
 5000coins.com
 5000dogecoinhediyeparibudan.com
@@ -73383,6 +73384,7 @@ basvuruprb-trmobilteknolojileri-com.tk
 basvuruprbgiris.com
 basvuruprbonline.com
 basvuruprbshibadogeparibu5yilaozelhediyeleri-tr.tk
+basvuruprojet0kikmpnya.info
 basvuruqnb-finans.com
 basvuruqnbfinans.com
 basvururandevu.nl
@@ -89567,6 +89569,7 @@ blanchedalmond-monkey-789640.hostingersite.com
 blanco23.zapto.org
 blandersoptiks.ddns.net
 blandville.org
+blanjonaess.com
 blank-deserve.com
 blank-recommend.com
 blankbluff.top
@@ -112417,6 +112420,7 @@ com-duace.top
 com-duier.top
 com-dukey.top
 com-e-islem.com
+com-e-isleminiz.com.tr
 com-e-isleminiztr.com.tr
 com-e-islemler.com.tr
 com-eislem.com.tr
@@ -143702,6 +143706,7 @@ e-tmode.net
 e-tmyode.net
 e-toki.com
 e-tokibasvuru.com
+e-tokibasvurulari.digital
 e-tokiyebasvurr.digital
 e-tr-6yil-firsat.site
 e-tr-aidat-iadesi-gov-tr.com
@@ -158201,6 +158206,7 @@ esube-ziraatbank.com
 esube-ziraatbankasi.ml
 esube-ziraatgiris.com
 esube-ziraatkatilim.com
+esube-ziraatkattilim.com
 esube-zirraatkatiilim.com
 esube-zirraatkatilim.com
 esube.albankasi.com
@@ -161001,6 +161007,7 @@ evsahibiolduturkiye.com
 evsahibiolturkiye.com
 evsahibiturkey.com
 evsahibiturkiye-gov-tr.my-homeip.net
+evsahibiturkiye.cfd
 evsahibiturkiye.media
 evsahibiturkiye.my-homeip.com
 evsahibiturkiye.net
@@ -165688,6 +165695,8 @@ fibabank-cekilis-katilim-form.ml
 fibabank-cekilis-katilim-form.tk
 fibabank-online.buzz
 fibabank-top.ml
+fibabank-web.click
+fibabank.click
 fibabank.kisal.cc
 fibabank2022.ml
 fibabanka-kart-aidat-iadeleri.cf
@@ -228806,6 +228815,7 @@ islemler-yapikredi.net
 islemler-yapikredibankasi.com
 islemler.bgturadahyipz.me
 islemler.name.tr
+islemler.online-basvur-konut.sbs
 islemler.sorgulayin.workers.dev
 islemler.store
 islemler.xyz
@@ -294146,6 +294156,7 @@ online-banking-online.cfd
 online-banking-tf.duckdns.org
 online-basvrumrkzm.ml
 online-basvur-ailegenc.com
+online-basvur-konut.sbs
 online-basvur-vkf.us
 online-basvur.com
 online-basvur.website
@@ -310018,6 +310029,7 @@ pgaw4cn.duckdns.org
 pgazefabrics.com/a/login.php
 pgbmeatsv.com
 pgbsnsaccnt1.duckdns.org
+pgd7j1b7a.storage.googleapis.com
 pgdltxzwxi.duckdns.org
 pgedrcts-rcvry3568ib.duckdns.org
 pgescasecnfrm092.duckdns.org
@@ -335009,6 +335021,7 @@ sahibiinden-paramguvende-hizmeti.online
 sahibiinden-paramguvende-hizmeti.xyz
 sahibiinden.com
 sahibiinden.com.get-ile-ode-alisverisler.com
+sahibiinden.com.tr
 sahibiinden.net
 sahibiinden.online
 sahibiindenget.com
@@ -354855,6 +354868,7 @@ sok-tektiklakapinda.online
 sok-th-frssstqw.xyz
 sok-tr.com
 sok-tr.com.tr
+sok-tr.org.tr
 sok-trmagaza.com.tr
 sok-tsdkm.sbs
 sok-ucuz-marketler.top
@@ -376462,6 +376476,7 @@ toki.eczonomm.it.com
 toki.evbasvurusu.com
 toki.evbasvuruyap.com
 toki.evsahibiolduturkiye.com
+toki.evsahibiturkiye.cfd
 toki.evsahibiturkiye.org
 toki.forum
 toki.glbserv.com
@@ -376507,6 +376522,7 @@ toki2025basvuru.org
 toki2025basvurusu.com
 toki2025sonbasvuru.mooo.com
 toki22.digitalkick.cfd
+toki500.com
 toki500bin.site
 toki500binkonut-dairesi.sbs
 toki500binproje.com
@@ -377473,6 +377489,7 @@ toplu-konut-projesi-toki-gov-tr.ga
 toplu-konut-projesi-toki-gov-tr.gq
 toplu-konut-projesi-toki-gov-tr.ml
 toplu-konut-projesi-toki-gov-tr.tk
+toplu-konut.cfd
 toplu-konut.sbs
 toplu-proje-dentim.shop
 toplual.name.tr
@@ -397311,6 +397328,7 @@ vakifkmpnya.email
 vakifkmpnylr.digital
 vakifkmpnylrs.xyz
 vakifkmpyasubatozel.xyz
+vakifkrd.qss.onl
 vakifkrdilimtleril.xyz
 vakifkrdionline.xyz
 vakifkrdnguzel.xyz
@@ -413128,6 +413146,7 @@ wvwiademerkezkampana.com
 wvwinternetsubesi.click
 wvwisbank.fit
 wvwldenizbank.com
+wvwletgo.com.tr
 wvwmmlhgcu.duckdns.org
 wvwpandemidestegi2021govtr.net
 wvwpandemidestegi2021govtr.org
@@ -424132,6 +424151,7 @@ xn--trbnance-vkb.com
 xn--trbnance-vkb.com.xn--tr-2caa
 xn--trbnance-vkb.net
 xn--trbnance-vkb.store
+xn--trbnance-vkb.tr
 xn--trbnance-w2a.b-cdn-com.ml
 xn--trbnance-w2a.net
 xn--trbnance-yilbasi-2023-48b.ml
@@ -430307,6 +430327,7 @@ yemeksepeti.simdiyuklee.com
 yemeksepeti.site
 yemeksepeti.uyelikdogrulama.com
 yemeksepetiem.com
+yemeksepetii.com.tr
 yemeksepetiim.ml
 yemeksepetil.com
 yemeksepetin.xyz
