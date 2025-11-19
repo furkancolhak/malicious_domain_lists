@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-19T16:05:13.463481
+# Updated: 2025-11-19T17:05:16.747369
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -159394,6 +159394,7 @@ evbasvurularimizi.pro
 evbasvurulariniz.click
 evbasvurulariyap.xyz
 evbasvurum.com
+evbasvurum.unaux.com
 evbasvurunuz.xyz
 evbasvurusu.click
 evbasvurusu.com
@@ -251510,6 +251511,7 @@ konutbasvurulari2025.org
 konutbasvurulariacildi.icu
 konutbasvurularibasladi.com
 konutbasvurularidir.com
+konutbasvurulariitokii.info
 konutbasvurularim.xyz
 konutbasvurularimedevlet.click
 konutbasvurularindasongunler.cloud
@@ -309271,6 +309273,7 @@ pentaxzero.click
 pentertext83.ddns.net
 pentester520.ddns.net
 pentesx.site
+penti.mt
 penti1ode5al.com
 pentin5al1ode.net
 pentox.hu
@@ -376454,6 +376457,7 @@ toki.apartments
 toki.autos
 toki.basuito.com
 toki.basvuru-2025.sbs
+toki.basvuruhemen.org
 toki.basvurularbasladi500.com
 toki.basvurularbasladi500bin.com
 toki.basvurum.org
@@ -376673,6 +376677,7 @@ tokibasvurusu.org
 tokibasvurusu2025.com
 tokibasvurusu2025.org
 tokibasvurusubaslamis.urlbee.icu
+tokibasvurusubaslamistirbasvur.starlightforge.online
 tokibasvurusubizimleancak.blogspot.com
 tokibasvurusuedevlet-2137d.kxcdn.com
 tokibasvurusuhizlicanayapalim.blogspot.com
