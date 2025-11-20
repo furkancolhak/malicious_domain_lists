@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-20T04:05:13.284569
+# Updated: 2025-11-20T05:05:11.739563
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -103600,6 +103600,7 @@ carrfiurrr.online
 carrfor-sa.com.tr
 carrfor-sa.info.tr
 carrfour-online-indirim.com
+carrfoursa.online
 carrfoursa.shop
 carrfoursa.site
 carrfoursaindirim.shop
@@ -111343,6 +111344,7 @@ cnc1.xyz
 cnc6dk69.duckdns.org
 cncdevelopment.org
 cncmarket.xyz
+cncsatis.com
 cnctomecutie1337.mikeysyach.xyz
 cnctst1.ddns.net
 cncvphssdmswy.io
@@ -156143,6 +156145,7 @@ eoa8bfy.duckdns.org
 eobafuckuwvcfuy.ru
 eobaw.com
 eobbubedtxpg.me.uk
+eobibery.com
 eobot2.top
 eobotv2.top
 eocaenlogistics.com
@@ -186746,6 +186749,7 @@ grntavnszmnd.com
 grntavsarackirala.com.tr
 grntavsarackirala.xyz
 grntbasvurutkip.hopto.org
+grntbbabasvurcredi.shop
 grntbbacekilsi.bizdefirsathicgitmediki.shop
 grntbbfirsatlariyakin.duckdns.org
 grntbbv-grs.xyz
@@ -244227,6 +244231,7 @@ kartalbasvurumerkezi.com
 kartalbasvurux.online
 kartalbasvuruxxmerkez.duckdns.org
 kartalbddkhizmetleri.com
+kartalbilgisayarlar.myvnc.com
 kartalbilisim.myvnc.com
 kartalbirlesikdevletler.site
 kartalbix.net
@@ -282553,6 +282558,7 @@ nav-ni-furnished-handy.trycloudflare.com
 nav.neat-url.com
 navadaucakbileti.com
 navai-casla.net
+navajowhite-dunlin-225604.hostingersite.com
 navaldiscourse.top
 navalny-votes.net
 navalny-votesmart.net
@@ -326138,6 +326144,7 @@ raskofasras.icu
 raskolnvdcheck.com
 raskotra.icu
 raskovida.top
+raslate.com
 raspolasf.duckdns.org
 raspy347.xyz
 rastafariii.hopto.org
@@ -365893,6 +365900,7 @@ swwatch.su
 swwhspaamh.biz
 swwta3lt5b9myc4.com
 swyhg.com
+swypero.com
 swz0m3zui9ib4mut.info
 swzwiz.com
 sx-facemask.com
