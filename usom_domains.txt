@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-21T17:05:14.310782
+# Updated: 2025-11-21T18:05:20.415696
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -121996,6 +121996,7 @@ dava-sorgula.com
 davabilgi.org
 davabilgilendirme.site
 davaceza.com
+davaceza.net
 davacezalari.com
 davadosya.com
 davadosyasi.com
@@ -246669,6 +246670,7 @@ kayitkabulbasvurusu.com
 kayitkredi.com
 kayitlar-webbit-try1.info
 kayitlar-yapikredi.com
+kayitlarbasladi-500bintoki.sbs
 kayitlarbasladi-toki.sbs
 kayitlibilgiler.com
 kayitmekani.com
@@ -252818,6 +252820,7 @@ konutportfoy.online
 konutprojebasvurusu.online
 konutprojeleribasladi.cloud
 konutprojeleriniz.com
+konutprojeleritokidenal.site
 konutprojesibasvurusu500bin.urlbee.icu
 konutradar.online
 konutresmibasvuru-21.com
@@ -317005,6 +317008,7 @@ promosyonekrani-garantim.com
 promosyonekrani.com
 promosyonemekli.com
 promosyonfirsati.com
+promosyonflrsatlarl.duckdns.org
 promosyongaranti.com
 promosyongaranticepte.xyz
 promosyongarantim.com
@@ -359151,6 +359155,7 @@ sosyalkonutbasvuuru2025.com.tr
 sosyalkonutbasvuuru2025.com.xn--tr-2caa
 sosyalkonutev-toki.vercel.app
 sosyalkonutevim.org
+sosyalkonutevleri-toki.vercel.app
 sosyalkonutilkevim.com
 sosyalkonutilkevimilkisyerim.net
 sosyalkonutlar.myonlineportal.ch
@@ -377963,6 +377968,7 @@ toki.islemy.com
 toki.islemyo.com
 toki.kakkktaswtqa.it.com
 toki.kasimayibvvrnsktok.sbs
+toki.kayitlarbasladi-500bintoki.sbs
 toki.konutbasvurularidir.com
 toki.konutbasvurusitesi.com
 toki.konutbasvurusu.cfd
@@ -442836,6 +442842,7 @@ zynibvruu70.click
 zynibvruu80.click
 zynibvruu85.click
 zynibvruu90.click
+zynibvruu95.click
 zynkbaykar.com
 zynu5yk6y7lunconh07r9.0pifi4.ru
 zypeka.ddns.net
