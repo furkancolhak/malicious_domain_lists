@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-24T14:05:15.234217
+# Updated: 2025-11-24T15:05:16.366393
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -116881,6 +116881,7 @@ cowboyd.ddns.net
 cowboyingaround.com
 cowertbabei.bond
 cowesmgir.pw
+cowinteh.ink
 cowohpa.com
 coworkingdeamicis.com
 cowp.or.kr/html/board/main.asp
@@ -248634,6 +248635,7 @@ kgmgeo.cfd
 kgmggovtr.top
 kgmgio.icu
 kgmglo.life
+kgmgot.cc
 kgmgov-tr.bond
 kgmgov-tr.ink
 kgmgov.live
@@ -310813,6 +310815,7 @@ pentesx.site
 penti.mt
 penti1ode5al.com
 pentin5al1ode.net
+pentlkasimayiozel.com
 pentox.hu
 pentree.online
 penvsenna.net
@@ -369275,6 +369278,7 @@ talepvatandaslikgotrr103.teknolojisepeti.net
 talepyonlen.com
 talesseries.com
 talete.click
+talgroni.sbs
 talhaozturk.net
 talhapetshop.com
 taliban157.ddns.net
@@ -374455,6 +374459,7 @@ terminator228.hopto.org
 terminator8.zapto.org
 terminator9.zapto.org
 termo1o1.click
+termolasa.click
 termopane-calarasi.ro
 termoplys-m.com
 termos-al.com
@@ -378863,6 +378868,7 @@ tokl.yenievimm.sbs
 tokl.yenievimye.sbs
 tokl.yeniikonutmm.click
 tokl.yenikonut-basvur.sbs
+tokl2025.qzz.io
 tokl2025giris.qzz.io
 tokl2025projesi.qzz.io
 tokl500konut-projeler.com
@@ -386338,6 +386344,7 @@ trusaisolutionthanks.life
 trusardi.xyz
 trusarfo.korfamorsanlatituderfaberladur.net
 trusarfo.muropatrovantorlastormafaratasarka.net
+trusimi.cfd
 trusimi.sbs
 trust-aplicationn.hopto.org
 trust-certificate.net
@@ -408678,6 +408685,7 @@ web-traffic.info
 web-tredevlet.com
 web-trendyol.cn
 web-trlog-internet1.site
+web-trredirect.com
 web-trusteer.com
 web-try-hizlilogin.site
 web-try-isgucu.xyz
@@ -427948,6 +427956,7 @@ xz9ofzwqg.duckdns.org
 xz9r9cqkz.duckdns.org
 xzamud2q2.duckdns.org
 xzas1azx.ddns.net
+xzbnbgpap.storage.googleapis.com
 xzcdgx9n.duckdns.org
 xzcfifgpci.duckdns.org
 xzcvcvxvxcvxfx.top
