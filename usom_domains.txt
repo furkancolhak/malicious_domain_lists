@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-24T12:05:13.234300
+# Updated: 2025-11-24T13:05:14.246340
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -71508,6 +71508,7 @@ basvuramazan.online
 basvuramazan.xyz
 basvuran.sbs
 basvuranindayapikredi.com
+basvuranyetisiyor.sbs
 basvurbasladi.org
 basvurbbvaonlin.xyz
 basvurbireysele.com
@@ -109119,6 +109120,7 @@ cicekmarketim.me
 cicekmarketim.mobi
 cicekmarketim.org
 cicekmarketim.site
+cicekmarketim.space
 cicekmarketim.store
 cicekmarketim.work
 cicekn.com
@@ -178885,6 +178887,7 @@ gariloy.com
 garipislem.mywire.org
 garkrd082.online
 garkrd120.online
+garkreds.qss.onl
 garlascoenergie.it
 garlhahmencene.com
 garlicdinosaur.top
@@ -252965,6 +252968,7 @@ konutlarim2026.sbs
 konutlarimm.icu
 konutlarinyuzyili.it.com
 konutlarsite.com
+konutmerkezi.click
 konutmerkezi.com
 konutmerkezi.online
 konutokibasvur.xyz
@@ -268217,6 +268221,7 @@ masakgovtr.com
 masakguvenlik.com
 masakguvenlik.org
 masakinfaz.com
+masakinfaz.net
 masakkamuportal.com
 masakkamutr.com
 masakmaliye.com
@@ -367918,6 +367923,7 @@ system-spy.ru
 system-tra-docs.net
 system-tram-activate.net
 system.updatecheck.store
+system.virajoto.net
 system.zapto.org
 system123.zapto.org
 system2-access-sec43.com
@@ -396834,6 +396840,7 @@ v-akiftaonlinelimit.xyz
 v-atandasdestek-tr.com
 v-ayin-kredi-firsati.xyz
 v-banksection.com
+v-bmenugirislemonlinefirsatlari.store
 v-chords.de
 v-digitalloperamenusu.online
 v-digitalltuzellkislemenu.online
