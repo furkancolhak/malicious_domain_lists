@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-25T11:05:18.348170
+# Updated: 2025-11-25T12:05:14.938296
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -63267,6 +63267,8 @@ asegurarjulio24.duckdns.org
 aseguroremcos.duckdns.org
 asehgss.com
 asekent.click
+aselsan-tr.com
+aselsan.tech
 aselsanforyou.com
 aselsanlr.xyz
 aselsanyat.xyz
@@ -138462,6 +138464,7 @@ dunnriteroofinginc.net
 duntat.zapto.org
 dunth.zapto.org
 dunya-hediyemobildeniz.com
+dunya-katilim-bankasi.arreklam.link
 dunyaalemnizane.cyou
 dunyabirligivakfi.com.tr
 dunyabiryanasenbiryanafani.xyz
@@ -162126,6 +162129,7 @@ evriuk.top
 evrryday.com
 evruni.top
 evsahibibasvuru.com
+evsahibiiturkiye.org
 evsahibikonut.com.tr
 evsahibiol.org
 evsahibiolduturkiye.com
@@ -162169,6 +162173,7 @@ evvdensitendesinevlilik.com.tr
 evvdepaketleyapipkazan.gq
 evvelkkkk.blogspot.com
 evvermantix.com
+evvin.click
 evvizyon.click
 evvlilikbasvuru.site
 evvlilikkrasindeesn.com.tr
@@ -179146,6 +179151,7 @@ gasisdsdgsasksawskafgsdafsd.cyou
 gasislem.22web.org
 gasiyekahhya.cfd
 gasjgjhagshas.click
+gaslfkgms.com
 gasliif.click
 gasnotwithstanding.top
 gasnrgy.com
@@ -201957,6 +201963,7 @@ hemenaidataktar-merkeznoktasi.com
 hemenaidatalma-devletbasvurumerkezi.com
 hemenaidati.de
 hemenaidatsorgulama.site
+hemenainlrlsmelmn.net
 hemenakislemleri.app
 hemenaktariadeni46.b-cdn.net
 hemenaktarimim.giize.com
@@ -242123,6 +242130,7 @@ kampanyaa1aa01aaa10aaasa1.com
 kampanyaaaaaeylulayiii.info
 kampanyaaaaakatilimmmbsvr.online
 kampanyaaabsvrrrgrnttt.live
+kampanyaaabsvrrrgrnttt.pro
 kampanyaaacikdenizv2denizbank.co.vu
 kampanyaaak.online
 kampanyaaayisonutemuz.com.tr
@@ -243163,6 +243171,7 @@ kampanyamguvendebudur.online
 kampanyamhangisiuygun.online
 kampanyamharika1o1.com
 kampanyamigros.online
+kampanyamill.info
 kampanyamisorgula2022.com
 kampanyamiz-online-basvuru-giris-aktarim.com.tr
 kampanyamiz-yeni-katil.net
@@ -314249,6 +314258,7 @@ portaledvlt-basvuru-iade2022.ml
 portalehayatevesigar.com
 portaleinict.top
 portalevolucao.com
+portalgaranti.my-homeip.com
 portalgigantesuporteacliente.ddns.net
 portalgiris-turkeygovtr.com
 portalgiris-turkiyegov.com
@@ -335707,6 +335717,7 @@ sacvela.com
 sacvenih.sbs
 saczxcxzczxcxz.blogspot.com
 sad-fermat.31-210-39-239.plesk.page
+sad-tok.com
 sad1.ddns.net
 sad13.hopto.org
 sada1sd651aca.digital
@@ -336102,6 +336113,7 @@ sadsfassd1.duckdns.org
 sadshort.site
 sadstory00.zapto.org
 sadthort.site
+sadubiqe.info
 sadutosvpn2014.zapto.org
 sadvcdn.com
 sadw12345.zapto.org
@@ -353449,6 +353461,7 @@ sirasiylakazanangeliyor.com
 sirasizislemler.xyz
 sirasizislemyap.xyz
 siratkoprusu.net
+siratkoprusu.sbs
 sirayagiriade.app
 siraylahizmet.app
 sirdan.icu
@@ -435884,6 +435897,7 @@ ymyhost.ddns.net
 ymymg4p.duckdns.org
 ymyoptdfjavw.duckdns.org
 ymysjbehmy.duckdns.org
+yn25o4hubb.storage.googleapis.com
 yn4qca.duckdns.org
 yn54tkw.duckdns.org
 ynai12.duckdns.org
@@ -436311,6 +436325,7 @@ yolcuhizmetlerivopex.net
 yolcuile360kiralamafilo.online
 yolcukiralama.com
 yolculuk.tk
+yolculukist.click
 yolcum360.autos
 yolcum360.cfd
 yolcum360.click
