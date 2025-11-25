@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-25T20:05:14.221885
+# Updated: 2025-11-25T21:05:13.763800
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43535,9 +43535,11 @@ actrinbved9.duckdns.org
 actselect-age.com
 actsred.site
 actstepzz.com
+actualemonto.xyz
 actualisatie-myics.ddns.net
 actualisation-ameli.ddns.net
 actualisation-service.com
+actualisfero.xyz
 actualiza360.ddns.net
 actualiza360.hopto.org
 actualizando360.hopto.org
@@ -69353,6 +69355,7 @@ baekwoonvill.com
 baelandworld.com
 baeumer.duckdns.org
 baew.info
+baex.info
 bafanglaicai888.top
 bafaqroup.com
 bafd7a50.gfwisd-235.shop
@@ -103956,6 +103959,7 @@ carrefoursayazfirsatlari.online
 carrefoursiteonlinee.com
 carrefourssa.com
 carrefourssa.online
+carrefoursy.store
 carrefourtr.shop
 carrefouursa.shop
 carrefoyrsa.store
@@ -118417,8 +118421,10 @@ cromecho.com
 cromendaledavec.click
 cromernationalzl.com
 cron.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
+cronaveritus.info
 cronessamoothe.duckdns.org
 cronfuture.com
+cronistavento.pro
 cronoze.com
 cronsell.duckdns.org
 crop21broken.top
@@ -121874,6 +121880,7 @@ dardagecenzamandeniz.com
 dardash.club
 dardglobal.com
 darembo.info
+darenfowes.pro
 darian12.duckdns.org
 darinborhan.zapto.org
 daringfollow.top
@@ -134031,6 +134038,7 @@ direct-reserv-confrim.com
 direct-verify86.duckdns.org
 direct.vertrauenbank.com
 directaccess.zapto.org
+directalivora.pro
 directavsecurity.com
 directc1.hopto.org
 directcontacts.hopto.org
@@ -150251,6 +150259,7 @@ editionhysteria.top
 editionmajestic.top
 editmother.top
 editor.videovideoeditor.link
+editoralvento.top
 editorialplateau.top
 editorialrobust.top
 editorials.duckdns.org
@@ -164567,6 +164576,7 @@ facthq.store
 factionalleviation.top
 factionhomogeneous.top
 factionnitrogen.top
+factocrestira.pro
 factor9.win
 factordelicacy.top
 factorriskaccscrtiysaugust.net
@@ -164578,6 +164588,7 @@ factorylegitimacy.top
 factorypetus.top
 factorysmoke.site
 factoryyearning.top
+factovaler.pro
 factrure.duckdns.org
 factualeradication.top
 factualstatic.top
@@ -171288,6 +171299,7 @@ flashsalehub.xyz
 flashserve.store
 flashtvindirimlerigerigeldi.com
 flashupdate.digital
+flashventora.pro
 flashx.com.tr
 flashxs.com.tr
 flashxs.xyz
@@ -179526,6 +179538,8 @@ gazenerya.online
 gazerax.com.tr
 gazete.freeddns.org
 gazeteduyuru.website
+gazettalumero.pro
+gazettaverono.online
 gazette-array-href-xi.trycloudflare.com
 gazhgsm.com
 gazianteprecorddss.com
@@ -260497,6 +260511,7 @@ linuxupdate.ddns.net
 linuxwork.net
 linuxxkkll.zapto.org
 linverano.pro
+linverapressa.info
 linw25pn.duckdns.org
 lio.zapto.org
 liodeme-yap.com
@@ -265177,6 +265192,7 @@ madeleinegriselda.net
 madembukadarkotu.xyz
 madencoks22.com
 madenegitim.com
+maderagloise.pro
 maderalesiicep.icu
 madernl.com
 madernli.com
@@ -270338,6 +270354,7 @@ mediacenterbussienshelp.ml
 mediacloud.space
 mediaclouds.live
 mediacoolhunting.com
+mediacrestona.pro
 mediacurve.top
 mediadata7.net
 mediadownload.space
@@ -270415,6 +270432,8 @@ mediatorscrutiny.site
 mediatrendsistem.com/oiheiryur92
 mediauploader.info
 mediauploader.me
+mediaveritas.top
+mediaveronica.info
 mediayearn.top
 medical-deepresearch.azurewebsites.net
 medical-h.click
@@ -289014,6 +289033,7 @@ notabotnet.lol
 notaiiree.hopto.org
 notaire8082.duckdns.org
 notalmalisin.name.tr
+notarialvent.top
 notationconstituency.top
 notcensor.top
 note.toothbrushbear.trade
@@ -289082,6 +289102,7 @@ noticetoxic.top
 noticiafamosos.com
 noticiafresca.net
 noticiaspoliticos.com
+noticiavistaro.pro
 notidanidae.com
 notif1ctionpgs0025.ddns.net
 notifcerti.ddns.net
@@ -316252,6 +316273,8 @@ presmarket.xyz
 presponsor.club
 presquerstinuen.info
 press042.hopto.org
+pressalinera.info
+pressalivano.info
 pressam.duckdns.org
 presserdresser.best
 pressftopayrespect.com
@@ -317417,6 +317440,7 @@ projectxx.ddns.net
 projedomain.tk
 projehavuzumuz.com
 projekayitlari.com
+projekonutk.site
 projektdateien.hopto.org
 projekthd.com/pub/document/tvra18kib9ctbfq_34r3u76-7401196692872/
 projeler-toki-burada.cfd
@@ -331122,6 +331146,8 @@ repmgir.pw
 repnytimes.pw
 repo.ark-event.net
 report436.xyz
+reportalivans.xyz
+reportavencia.xyz
 reportbox0.duckdns.org
 reportcompartment.top
 reportdesk-53.ddns.net
@@ -337562,6 +337588,7 @@ sahibinden-guvenli-odeme.net
 sahibinden-guvenli-odeme.online-tr.sa.com
 sahibinden-guvenli-odeme.tr-get-islem.online
 sahibinden-guvenli-odeme.tr-odeme-bilgi.online
+sahibinden-guvenli-odeme.tr-siparis-secure-get.online
 sahibinden-guvenli-odemeler.com
 sahibinden-guvenli-odemeler.net
 sahibinden-guvenli-odemelerim.tr-getsecure.online
@@ -379098,6 +379125,7 @@ tokigovtrresmi------toki-----govtremdmddmdmn.store
 tokihaber724.com
 tokihemenbasvur.com
 tokihome.site
+tokihome.website
 tokihouse.digital
 tokihousingapplication.com
 tokii-basvrur-2025.com
@@ -393669,6 +393697,7 @@ ulse.chujong.com
 ulstur.co
 ult6xfm9.duckdns.org
 ultherane.shop
+ultimalentera.online
 ultimateislamicaidsolutions.com
 ultimatelyadolescent.top
 ultimatelyapron.top
@@ -403529,6 +403558,7 @@ verism.xyz
 verisorgulama.com
 verisorgumerkezi.com
 verisum010.ddns.net
+veritanotario.xyz
 veritasinvestio.io
 veritasvaultltd.my
 veritechx.com
@@ -434655,6 +434685,7 @@ yerinnddenalirim1.sg-host.com
 yerinndenbirryuklerim.sg-host.com
 yerislem.22web.org
 yerklast.com
+yerli-plakam34.store
 yerliarabaprojesi.com
 yerlibitcoin.xyz
 yerlietkinliklerisorgulayintrveglobal.net
@@ -443885,6 +443916,7 @@ zzyenibvruu00.click
 zzyenibvruu05.click
 zzyenibvruu100.click
 zzyenibvruu20.click
+zzyenibvruu25.click
 zzygdx.com
 zzyrhgsb.com
 zzz1.dezhen.icu
