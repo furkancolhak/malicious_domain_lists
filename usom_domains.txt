@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-25T19:05:17.185519
+# Updated: 2025-11-25T20:05:14.221885
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -103874,6 +103874,7 @@ carreforsadan-gelenlr.store
 carreforsaileramazan.shop
 carreforsi.shop
 carrefouoersa.com
+carrefouqwgtqw.fwh.is
 carrefour-arg.online
 carrefour-argentina.com
 carrefour-market.online
@@ -104733,6 +104734,7 @@ ccanli-sohbetim.org
 ccaptmvr1.duckdns.org
 ccarden.com
 ccarref.xyz
+ccarrefoyrsa.store
 ccat2.ddns.net
 ccb112e217d4.com
 ccb4ztx1.duckdns.org
@@ -181313,6 +181315,7 @@ gercekten-birdaha-bulamazsin.com
 gercekten-bunlari-acilbulmangerek.com
 gercekten-buraya-bakmadan-gecme.com
 gercekten-super-rrnler-varmis.com
+gercektenbiruyaymis.net
 gercektenbunlar-kacmamali.com
 gerd31e2sa1.click
 gerd31edd2sa1.click
@@ -187569,6 +187572,7 @@ gratis.laviewddns.com
 gratis.likescandy.com
 gratis.merseine.com
 gratis.myvnc.com
+gratis.selfip.com
 gratis.servebeer.com
 gratis.servehumour.com
 gratis.sundby.com
@@ -277674,6 +277678,7 @@ molchanemogugovorit.com
 mold54.xyz
 moldadjacent.top
 moldbet.cc
+moldbet.dev
 moldfortification.top
 moldhop.top
 moldmob.site
@@ -311031,6 +311036,7 @@ peivenui.com
 peixess.duckdns.org
 peixhitdns.ddns.net
 pejgwnr.duckdns.org
+pejocuneyaptinaq.xyz
 pekcugz.com
 pekelyatirim.com
 pekenegelsen.net
@@ -391745,6 +391751,7 @@ twiks.pro
 twiks.site
 twiks.uk
 twiks.us
+twilight-base-0ba6.kaymakzubeyde87.workers.dev
 twilightgocolodream.xyz
 twilightgro.pro
 twilightkestemonusepeak.xyz
