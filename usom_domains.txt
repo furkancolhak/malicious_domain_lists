@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-25T13:05:17.173952
+# Updated: 2025-11-25T14:05:13.810590
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -52810,6 +52810,7 @@ akucomgnhb.duckdns.org
 akulars.sbs
 akuluarabam.com.tr
 akulugunler.sbs
+akulukitt.click
 akuma.pw
 akumaiotsolutions.pw
 akunhfoj.duckdns.org
@@ -74317,6 +74318,7 @@ baykar6.jabjee.com
 baykara.eu
 baykaradim.com
 baykaraegitimvakfi.com
+baykaragency.info
 baykarai.net
 baykaral.xyz
 baykarapps.com
@@ -102139,6 +102141,7 @@ cahdepalazzomaslak.durable.co
 cahdepalazzomaslakk.com
 cahgsyi.rf.gd
 cahhidee-pallazzo-rezervasyonn.business.site
+cahide-palazzo.b-cdn.net
 cahide-palazzorezervasyon.com
 cahide.b-cdn.net
 cahide1453palazzo.xyz
@@ -121198,6 +121201,7 @@ dagdelen.win
 dagevleri18.zapto.org
 dagfdyer.site
 daginvusc.com
+dagitimbasladi.sbs
 dagitimbasvuru-bn.com
 dagitimbasvuru-temmuz-parafly-com.tk
 dagitimbasvuruportaliprb.click
@@ -210996,6 +211000,7 @@ hmdoktay.net
 hmduwp.com
 hme4h4m9.duckdns.org
 hmeeen-kazzn-cklisss.site
+hmeensilemnsonuc.online
 hmeetstlrerasl.top
 hmemnfwresldvrw.cn
 hmenb-basvur.pages.dev
@@ -214535,6 +214540,7 @@ huzurverici.org
 huzuryardim.com
 huzuryardimkurumu.com
 huzuryardimlari.org
+huzustanbul.net
 hv4348.duckdns.org
 hv4fi1.cn
 hv58.net
@@ -231245,6 +231251,7 @@ istanbulkartbasvuru.com
 istanbulkartbasvuru.org
 istanbulkartbasvuru2025.giize.com
 istanbulkartbasvurunoktasi.eymenotoyedekparca.net
+istanbulkartbasvurunuz.mooo.com
 istanbulkartbasvvur.org
 istanbulkartbel.vercel.app
 istanbulkartbireysel.net
@@ -253028,6 +253035,7 @@ konutkayit.info
 konutkayit.online
 konutkredisihesaplamalari.blogspot.com
 konutkurabasvuru.com
+konutlab.click
 konutlar.org
 konutlar724.com
 konutlarbasladi.duckdns.org
@@ -317237,6 +317245,7 @@ promosubesi.com
 promosuper.net
 promosyanlarburdahemn.za.com
 promosyngarantibnkk.cloud-ip.biz
+promosyngrntbbva.info
 promosyngrntti.fixip.org
 promosynnbasvr25.click
 promosyon-aidat.com
@@ -318693,6 +318702,7 @@ ptt-gov-turkish.xyz
 ptt-gov.asia
 ptt-gov.bar
 ptt-gov.beer
+ptt-gov.best
 ptt-gov.bid
 ptt-gov.cc
 ptt-gov.cfd
@@ -319325,6 +319335,7 @@ pttacentam.com.tr
 pttaddress.com
 pttaevxm-hizliodemxleyr.com
 pttag.xyz
+pttagoaetr.cc
 pttagov.ink
 pttagovtr.top
 pttai.cc
@@ -320564,6 +320575,7 @@ pttgov.bar
 pttgov.blog
 pttgov.cc
 pttgov.click
+pttgov.cv
 pttgov.icu
 pttgov.info
 pttgov.ink
@@ -378412,6 +378424,7 @@ tokibasquru.com
 tokibasssvur.com
 tokibasvquru.com
 tokibasvqurutoplukonut.com
+tokibasvrilkevim.org
 tokibasvrlarimizz.org
 tokibasvrss.cfd
 tokibasvru.org
