@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-26T19:05:15.863774
+# Updated: 2025-11-26T20:05:13.806853
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -44105,10 +44105,12 @@ adikremix.ydns.eu
 adikrus.zapto.org
 adil-yatirim.com
 adil-yatirim.online
+adil-yatirim.org
 adil1122.ddns.net
 adilburs.com
 adile56tasarim.com
 adiliqbal.com.pk/wp-admin/includes/db_template.php
+adilkatilim.org
 adilnice.zapto.org
 adilsonralfadvocaciad.com
 adilyatirim.com
@@ -77022,6 +77024,7 @@ benim-resim-sayfam-galeri.xyz
 benim-resim-sayfam-ozel.com
 benim-resim-sayfam.kampanya-basvuru-sayfa.xyz
 benimadimcaferseninadinnee.com
+benimadimname.click
 benimcanimturkiyem.com
 benimevim-t-o-k-i-bsrv.com
 benimformdoldurmamsite.ml
@@ -94533,6 +94536,7 @@ bonusfirsatlar2019.ga
 bonusfirsatlar2019.gq
 bonusfirsatlar2019.ml
 bonusfirsatlar2019.tk
+bonusfirsatlari.best
 bonusfirsatlari.cf
 bonusfirsatlari.com
 bonusfirsatlari.ga
@@ -118445,6 +118449,7 @@ crfsahaftnsnu.com
 crfsalrdnglaln.shop
 crfsandaalmsn.cfd
 crfsanisnbasi.com
+crfsaonlhip.cfd
 crfsarz.cfd
 crfsaykkmpan.cfd
 crfsaykkmpan.sbs
@@ -138267,6 +138272,7 @@ drosstv.com
 droughtcredential.top
 droughtequity.top
 droughteruption.top
+drovana.cyou
 drovana.sbs
 drovantino.top
 drovantis.info
@@ -145090,6 +145096,7 @@ e-sube-yapikredi-tr.com
 e-sube-yapikredii.com
 e-sube-yapikredii.net
 e-sube-ziraat.online
+e-sube.adil-yatirim.org
 e-sube.hedefmenkulyatirim.online
 e-sube.turktb.com
 e-sube.yapikrediturkiyenindijitalbankasi.com
@@ -169706,6 +169713,7 @@ firsatindirimgunlerim-1o1.online
 firsatindirimileri.net.tr
 firsatindirimkapindasimdi.shop
 firsatindirimleri.com
+firsatindirimleri.online
 firsatindirimlerim.online
 firsatindirimleriniz.com.tr
 firsatindirimleriniz.online
@@ -187870,6 +187878,7 @@ gratifully.com
 gratis-b.dynuddns.com
 gratis-c.ddnsguru.com
 gratis-c.swanndvr.net
+gratis-i.from-ar.com
 gratis-ile-indirimler.online
 gratis-indirim-gunleri.com.tr
 gratis-indirim-gunleri.xyz
@@ -210560,6 +210569,7 @@ hizliveharikafirsatlarhemen.online
 hizliveharikafirsatlarhemen.xyz
 hizliveigdirli.com
 hizlivekolayalisveris101.online
+hizlivekolaybasvurusistemi.sbs
 hizlivekolayislemler.blogspot.com
 hizliveonayli-islemler.online
 hizliveotogecisservis.net
@@ -230742,6 +230752,7 @@ islemdijitalde-kontrolyap.app
 islemdijitaldenizbankredi.co.vu
 islemdijitalim.app
 islemdijtal-kontrolyap.com
+islemdogrulamasinigerceklestiriniz95.urlhedge.website
 islemdogurlama.app
 islemealonlinebasvur.click
 islemebasla.com.tr
@@ -247620,6 +247631,7 @@ kayit.mpcekilis.com
 kayit.tokibasvur2025.qzz.io
 kayit1.xyz
 kayitadevam.xyz
+kayitadiminitamamlayiniz66.urlhedge.website
 kayitalsorgula.com
 kayitbasvurular2024.com
 kayitbasvuruonaysistemi2025.duckdns.org
@@ -327850,6 +327862,7 @@ rajkotbusiness.in/zimbra/zim.htm
 rajsavindia.hopto.org
 rajsima87.com
 rajstopy.net
+rajzcurstea.storage.googleapis.com
 rak-lis.com
 rak4usupp0901234.tk
 rak4usupp0901234567890.tk
@@ -337214,6 +337227,8 @@ saderdrrfxzy.xyz
 sadertac-web.click
 sadesaconflirslat101de.blogdns.org
 sadesconfrsatlatr.ddns.net
+sadesconfsirsatlartr.blogdns.com
+sadescsonlirfisrtalarttrvtrt.blogspot.com
 sadevert.today
 sadevert.top
 sadevizyon.org
@@ -349932,6 +349947,7 @@ sfalksalksa.com
 sfasffsarwqweq.sbs
 sfasklssaq.click
 sfawkasfxz.online
+sfawqrtqt.click
 sfbbsds.webflow.io
 sfcarbotexpl.ddns.net
 sfchx.com
@@ -357700,6 +357716,7 @@ sog137m.duckdns.org
 sogan.biz
 sogan.cloud
 sogan.pro
+soganlimenemen.sbs
 sogenvlsclick0.duckdns.org
 sognostudio.com
 sogoodnowtodaynow.com
@@ -370565,6 +370582,7 @@ talebinigonderhemenonline.xyz
 talebiniolusturonline.com
 talebinizalindi.com
 talebinizaliyor.site
+talebinizialtyapigonderiniz48.urlnames.xyz
 taleconviction.top
 talehgi.ru
 talehome.top
@@ -396219,6 +396237,7 @@ urlmanage.com
 urlmeta-browser.cfd
 urlmetafb.cfd
 urlmonday.net
+urlnames.xyz
 urloso.com
 urlotoyolhgsbrcodeblstm.duckdns.org
 urlpropogationintimitacyi.blogspot.com
@@ -413660,6 +413679,7 @@ win-update.com
 win-updates.com
 win-wingift.com
 win-with-the-sixth-year-campaign.net
+win.my-homeip.com
 win.zapto.org
 win01.xyz
 win03.xyz
