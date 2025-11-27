@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-26T23:05:15.714828
+# Updated: 2025-11-27T00:05:13.954872
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -346090,6 +346090,7 @@ secureservernf9869.hopto.org
 secureservice.ddns.net
 secureservis.in
 secureshares.online
+secureshipworld.xyz
 secureshoprefundppl.ddns.net
 securesodeme.com.tr
 securesparkasse.info
