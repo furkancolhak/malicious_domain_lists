@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-27T14:05:12.821746
+# Updated: 2025-11-27T15:05:13.563331
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -102407,6 +102407,7 @@ cahhidee-pallazzo-rezervasyonn.business.site
 cahide-palazzo.b-cdn.net
 cahide-palazzorezervasyon.com
 cahide.b-cdn.net
+cahide.click
 cahide1453palazzo.xyz
 cahide1453rezerve.online
 cahidee1453palazzo.xyz
@@ -221723,6 +221724,7 @@ ilkevimbasvuru9806dusl1.vercel.app
 ilkevimbasvuru9wd4sj0bosb.vercel.app
 ilkevimbasvurua2mpzn06t.vercel.app
 ilkevimbasvuruekrani.com
+ilkevimbasvuruh6bd48ad9j.vercel.app
 ilkevimbasvuruinlwr3p03c1.vercel.app
 ilkevimbasvuruiovwd0m99bux.vercel.app
 ilkevimbasvurukanali.com
@@ -237432,6 +237434,7 @@ j728870.myjino.ru
 j731449.myjino.ru
 j793svlj.duckdns.org
 j7ajhg3i6.duckdns.org
+j7arqluyye94.storage.googleapis.com
 j7bg2y8z1.duckdns.org
 j7brsebbz.duckdns.org
 j7cp.top
@@ -255362,6 +255365,7 @@ kredimonlinede.site
 kredimonlinevakif.tk
 kredimqnbbassvuru.xyz
 kredimsubedenv2denizbank.co.vu
+kredimtamam.sbs
 kredimtebderler.duckdns.org
 kredimuygun.b-cdn.net
 kredimuygun.com
@@ -255879,6 +255883,7 @@ ksarpo.parody
 ksat20.000webhostapp.com
 ksbimcell.com
 ksbiryagg.site
+kscfrsakmp.cfd
 kscvlrt-scvt.com
 kscvlrt-scvt.xyz
 ksdagentno.shop
@@ -300420,6 +300425,7 @@ onlne-101.kmpnyabrda.xyz
 onlne-aspx-aidatiadeal.com.tr
 onlne-frsatlar-kmpnya-ozl-simd-aldn-aldn.online
 onlne-frsatlar-kmpnya-ozl-simd-aldn-aldn.shop
+onlne-intrnet-basvrm.com
 onlne-ka-racaindirim.com
 onlne-ksm-frsti-smdi-aldn-aldn.online
 onlne-ksm-indirimi-simdi-aldn-aldn.shop
@@ -340031,6 +340037,7 @@ sahibinden.mobil-tr.com.tr
 sahibinden.mobil-urun-tr.com
 sahibinden.mobilalisverisget.com.tr
 sahibinden.mobilsepetin-tr.online
+sahibinden.mobilservisi-1.com
 sahibinden.mobilservisleri.com
 sahibinden.mom
 sahibinden.name
@@ -372844,6 +372851,7 @@ tclhcbjag.duckdns.org
 tclink.info
 tcljwq.com
 tclliqrlqrmerpj.su
+tcmaliye.net
 tcmaliyebakanligi.org
 tcmaliyebakanligigovtr.com
 tcmasakdosya.org
