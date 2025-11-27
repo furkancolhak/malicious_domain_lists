@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-27T08:05:13.238949
+# Updated: 2025-11-27T09:05:17.009760
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -118850,6 +118850,7 @@ cryptmycryptmycrypt.info
 cryptmyexe.pw
 crypto---com--aauth---isssue.webflow.io
 crypto-2233.ddns.net
+crypto-coplilot-dashboard.vercel.app
 crypto-crest.ltd
 crypto-crypto.site
 crypto-db.com
@@ -118874,6 +118875,7 @@ cryptocmlogissue.webflow.io
 cryptoco.info
 cryptocoinbitcoin.xyz
 cryptocomgift.duckdns.org
+cryptocopilot.app
 cryptocrio.pw
 cryptocrio.top
 cryptocryptobitcoin.xyz
@@ -405549,6 +405551,7 @@ vintagebag.top
 vintagechecker.com.tr
 vintagechecker.xyz
 vintageredwe.xyz
+vinted.lat
 vinujay.com
 vinyl-stars.com
 viocart.store
