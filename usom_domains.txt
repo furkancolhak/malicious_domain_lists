@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-27T17:05:15.607442
+# Updated: 2025-11-27T18:05:14.303676
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -137371,6 +137371,7 @@ dosyaburo.com
 dosyaburonuz.com
 dosyaburosu.com
 dosyaceza.com
+dosyaceza.net
 dosyacezaavukati.com
 dosyacezahukuk.com
 dosyacezahukuku.com
@@ -190264,6 +190265,7 @@ guncelsikayetvar.ga
 guncelsikayetvar.info
 guncelsikayetvarr.com
 guncelsikaytlertr-16.sbs
+guncelsikaytlervar-17.sbs
 guncelsikaytvar-tr-22.sbs
 guncelsikaytvar-tr-4.sbs
 guncelsikaytvar-tr-8.sbs
@@ -255369,6 +255371,7 @@ kredimobilde.cf
 kredimobilde.ga
 kredimobilde.tk
 kredimobildeniz-acikdeniz.com
+kredimonay.sbs
 kredimonaylibasvurularcepteonayyapicepli.vercel.app
 kredimonaylii.xyz
 kredimonayvkf.co.vu
@@ -255401,6 +255404,7 @@ kredinhazir.online
 kredinhazir.store
 kredinhemenhazir.sbs
 kredinhesabinda.com
+kredinhesabinda.sbs
 kredini-al.harcakazankampanya.com.tr
 kredinibizdenal.com
 kredinihesabagecirr.cloud
@@ -335693,6 +335697,7 @@ rylandshoulderiucom.hopto.org
 rylenta.com
 rylenz.top
 ryluniverse.zapto.org
+ryn.mom
 ryndtutu.com
 rynmcq.biz
 rynqweqwecase.com
@@ -354909,6 +354914,7 @@ sistemim-odeme.online
 sistemim-odeme.site
 sistemimmerkez.net
 sistemimodemeler.org
+sistemini-tamamla.com
 sisteminizdevirusbulundu.com
 sistemler-odeme.online
 sistemler.name.tr
