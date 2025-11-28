@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-28T11:05:15.419599
+# Updated: 2025-11-28T12:05:14.374476
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8637,6 +8637,7 @@
 172.235.166.10
 172.235.166.240
 172.237.6.207
+172.245.118.81
 172.245.120.8
 172.245.123.11
 172.245.128.35
@@ -16563,6 +16564,7 @@
 23.94.136.170
 23.94.159.207
 23.94.168.205
+23.94.171.239
 23.94.177.42
 23.94.179.70
 23.94.189.115
@@ -40016,6 +40018,7 @@ acfg164gf645e.duckdns.org
 acfpjxz.com
 acgdvfxjy.com
 acgozunubremin.surf
+ach-uz.com
 ach5we.duckdns.org
 ach8efqep.duckdns.org
 achanesman.com//db_template.php
@@ -64900,6 +64903,7 @@ audisportman.com
 audisportman13.com
 audisportrs3.com
 audisportrs7.com
+audit-kg.com
 audit-pvv.com
 auditdiamond.top
 auditelecom-ticket.ddns.net
@@ -76895,6 +76899,7 @@ benalmasambaskasialacalan.shop
 benbabadas.top
 benbabamadoyamadim.net
 benbensenenensadasd.duckdns.org
+benbilekendimibitiremiyorum.click
 benbilmem.xyz
 benbilmemama101bilir.sbs
 benbilmemsenbilirsin.xyz
@@ -112355,6 +112360,7 @@ codersa.xyz
 codertricks.zapto.org
 codeseek.top
 codesrobot.cfd
+codetoki.site
 codevexillium.org
 codevisualstudio.org
 codevolta.com
@@ -159211,6 +159217,7 @@ esetnod.zapto.org
 esev.klontrek.org
 esezat.com
 esf-europa.info
+esf-kg.com
 esfera-abril.hopto.org
 esfera8832124.hopto.org
 esforum-bireysel-basvuru-sayfasi-online.ml
@@ -182322,6 +182329,7 @@ get.confhz.space
 get.guvende-satinal.com
 get.prm-sahibinden-guvende.salisveris.com
 get.urunsahibinden.com
+get.x-mobil-islem-guvenceli.com
 get2payguvenliode.xyz
 get2xcrypt.com
 get3ds-safe.info
@@ -188721,6 +188729,7 @@ grntmbnlbs.duckdns.org
 grntmobilbasvruekrani.com
 grntmobilpromosyn.bounceme.net
 grntnfisfrstlri.com
+grntprmsnynkmpnyaa.info
 grntprmsnynkmpnyaa.pro
 grntprmsynnnbsvrr.xyz
 grntprmsynnnkampanyasi.info
@@ -204995,6 +205004,7 @@ hgadmfsod.org
 hgafshfds.click
 hgajrkn.duckdns.org
 hgalnz.duckdns.org
+hgame33.com
 hgasciadsa.net
 hgasfgasffas-hsafgfsafmq.lol
 hgashgahggkgkgl.online
@@ -208677,6 +208687,7 @@ hislerinkalbindebunlar.com
 hislerle-aktarip-konusmak-icindir-diller.com
 hisligecisinizbirlikte.com
 hisligecisisstemi.net
+hisobot-uz.com
 hispanoles.com
 hissapptr.com
 hisse-yatirim.com.tr
@@ -212980,6 +212991,7 @@ honesprofnom.com
 honessity.ml
 honestcardinal.top
 honestenclose.top
+honestjerter.click
 honestkjertest.cloud
 honestkrest.com
 honestlasopa869.weebly.com
@@ -251653,6 +251665,7 @@ kkosmanfearleesdser.com
 kkosmanfearles.duckdns.org
 kkosmanfearleskk.duckdns.org
 kkosmanferarss.com
+kkosmanlifearsleskks.click
 kkosmanlikkfearles.com
 kkpp-daail-eylbasi.shop
 kkprofdomss.com
@@ -252296,6 +252309,7 @@ kmkilometre.com
 kmkkksorgulamaghovvvprrr.duckdns.org
 kmkkksorgulamagovvptt.shop
 kmkkmkslgrlmaburdaogren.web.app
+kmkksgrlmaagovvpttsz.duckdns.org
 kmkkssogrulamagovpttt.com
 kmkmsorgulahemen-gov-tr.duckdns.org
 kmkmsorguskyokyaw.duckdns.org
@@ -253973,6 +253987,7 @@ konutsalisiniz.com
 konutsalprojeler.app
 konutsayfasi.shop
 konutsuzkalmasin.cloud
+konuttan.click
 konuttokibasvurusu.art
 konuttokibasvurusu.pro
 konuttokibasvurusu.xyz
@@ -253993,6 +254008,7 @@ konutvakti.click
 konutvizyon.click
 konutyapisi.click
 konutyeni.click
+konutyolu.click
 konuyyedineydi.sa.com
 kony2015.ddns.net
 konyahasereyesonilaclamacilari.site
@@ -274249,6 +274265,7 @@ ministrypedal.top
 miniterorista.cfd
 minixetepate.biz
 minjia56.com
+minjust-kg.com
 minmax.news
 minmindeneme2023.blogspot.com
 minndarespo.icu
@@ -284410,6 +284427,7 @@ nabsali-aldin-aldin.icu
 nabsali-aldin-aldin.sbs
 nabtires.com/z-backup/search/db-config-ini.php
 nabufixservice.name
+nac-ac.com
 nacasada.site
 nacebed.info
 nacindia.in/wp-content/lm/umdctpuxqnkpblcxcchuxqqiqttv/
@@ -287484,6 +287502,7 @@ nexteknoloji.cfd
 nextekservice.ddns.net
 nextemulate.top
 nextespnl-musterportali.com
+nextforgetech.com
 nextgen-rollep.duckdns.org
 nextgen01.net
 nextgen1.net
@@ -327067,6 +327086,7 @@ quickroombook.com
 quicks.hol.es
 quicksand435.xyz
 quicksecure.duckdns.org
+quickshiftstore.com
 quickstocksale.org
 quicktouruae.com
 quickupdates.xyz
@@ -329277,6 +329297,7 @@ ravexpreych.co
 ravielchy.blogspot.com
 ravielchygame.blogspot.com
 ravikor.com
+ravinads.com
 ravioliravioli.zapto.org
 ravitelugutraveler.com
 ravitucker5325.xyz
@@ -358769,6 +358790,7 @@ soliforge.com
 solifusqmi.duckdns.org
 soligro.com
 soligro.com/wp-includes/pomo/db.php
+soliq-uz.com
 solis73.xyz
 solisdq.info
 solitarinessers.com
@@ -387948,6 +387970,7 @@ truetrill.top
 trueventure.top
 truevergveeer.net
 truevergver.net
+truevistaagency.com
 trufffeed.com
 trufg3.weebly.com
 trugo.link
@@ -388576,6 +388599,7 @@ ttaswnddd2m.com
 ttattislemenuugiriss.com
 ttaypqursk.duckdns.org
 ttbankasi.com
+ttbbaits.com
 ttbbmmuygulama.blogspot.com
 ttbdigitalsolutions.com
 ttbnddestek-tr.com
@@ -398323,6 +398347,7 @@ uzananelvakfi.com
 uzananlar.site
 uzaoppdvxk.duckdns.org
 uzas.my-style.in
+uzaudit.com
 uzay-buzlu-ustu-ucgen.sbs
 uzay3d.xyz
 uzaybilgi.com
@@ -405645,6 +405670,7 @@ vimarnrespay.com
 vimarnrespay.sbs
 vimeoly.com
 vimilhxgz.duckdns.org
+vimiluu.com
 vimuhqrfgurxret.cn
 vinaaz.net
 vinaychutiya.no-ip.biz
@@ -409875,6 +409901,7 @@ weaknesssummon.top
 weaknessvicious.top
 weaknessweek.top
 weakopen.net
+weakrequ.online
 wealth-orbit.online
 wealth2021.duckdns.org
 wealth555.ddns.net
