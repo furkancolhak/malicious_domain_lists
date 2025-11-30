@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-11-30T18:05:14.813184
+# Updated: 2025-11-30T19:05:13.526615
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3690,6 +3690,7 @@
 10546-4166185.com
 1055101435.corolain.ru
 1058533.cloud
+10585770783.cloud
 10587400000254767676588789006921010587.duckdns.org
 105874477.corolain.ru
 105a93ce0154.net
@@ -14999,6 +15000,7 @@
 2025toki.yeniuygunknz.sbs
 2025toki81ileproje.blogdns.org
 2025tokibasvuru.com
+2025tokibasvurum.com
 2025trdenhaber.com
 2025xjsbasvurunt-oki.xyz
 2025yeniurunler.online
@@ -17308,6 +17310,7 @@
 26.226.113.195
 26012024.com
 2601285.cloud
+2601760774.cloud
 260356c64c0291ff08c79092f7318ae3.store
 26072675.cloud
 26072676.cloud
@@ -43109,6 +43112,7 @@ acikportal-deniz-iletisimleri.tk
 acikpromosyonbasvurudeniz.chickenkiller.com
 acikredidenizbvs.online
 acikrediv3denizbank.com
+acikrehber.cfd
 aciksieernwjdn.com
 aciksigorta.site
 aciksistem-hediyeonaybasvuru.com
@@ -102063,6 +102067,7 @@ c5gj6v8k.duckdns.org
 c5ir95.duckdns.org
 c5k6eep.duckdns.org
 c5lek5bne.duckdns.org
+c5medya.com
 c5oqpg.duckdns.org
 c5ucdq.duckdns.org
 c5yv67.duckdns.org
@@ -103902,6 +103907,7 @@ cariuang-biarkaya.zapto.org
 carizlqjd.com
 carizma.ddns.net
 cark-bntr.com
+cark-bntr.one
 cark-firsatim-lucky.net
 cark-kampansinda-son-gunler.net
 carkbasvurum-bn-daygiris.net
@@ -139258,6 +139264,7 @@ duyuruaktuel.net
 duyuruakyazfirsatlari.com
 duyurubasvurugiris.com
 duyurubildirimi.com
+duyurubltns.com
 duyurubnacgiristr.com
 duyurubnascegiristr.com
 duyurubnasgiristr.com
@@ -203174,6 +203181,7 @@ hemenislemmbasv00.online
 hemenislemmerkezi.app
 hemenislemmx.sg-host.com
 hemenislemosnutlktaktan.blogspot.com
+hemenislslsonucsb.online
 hemenisltblkylme.net
 hemenistjx.cfd
 hemenistlanbullnnu.online
@@ -235179,6 +235187,7 @@ izeltasaldinaldin.xyz
 izeltasalmak.xyz
 izeltascampnysal.sbs
 izeltasdolucantasi.vip
+izeltasefsaneflrsatlar.com
 izeltasf0r543sq.duckdns.org
 izeltasfir101xcom.ddns.net
 izeltasfirsat.com.tr
@@ -268481,6 +268490,7 @@ maplecontrol.top
 maplecrest.online
 maplediesel.top
 maplegateu-yj.xyz
+maplejoin.chelseasosa.com
 maplezen.site
 mappedal.top
 mappingmorrage.top
@@ -310489,6 +310499,7 @@ pasagemagazasi.com
 pasagemzam.xyz
 pasagereklam.com
 pasagereklamlar.com
+pasagereklamlari.com
 pasages.store
 pasagesite.com
 pasailetapu.xyz
@@ -310520,6 +310531,7 @@ pasajkampanyalari.info
 pasajkampanyalari.online
 pasajkampanyalari.store
 pasajkampanyalari.xyz
+pasajmagaza.cfd
 pasajmagaza.com
 pasajmagazafirsatlari.store
 pasajmagazakampanyalari.site
@@ -364288,6 +364300,7 @@ stanleynexus.xyz
 stanleyparlar.com
 stanleyrebirth.xyz
 stanleyreborn.xyz
+stanleyreignites.xyz
 stanleyresurgeagain.xyz
 stanleyretuned.xyz
 stanleyrevive.xyz
@@ -379899,6 +379912,7 @@ toki-basvuru-99.blogspot.com
 toki-basvuru-e-devlet.b-cdn.net
 toki-basvuru.duckdns.org
 toki-basvuru.info
+toki-basvuru.lol
 toki-basvuru.online
 toki-basvuru.org
 toki-basvuru.org.mail-tesla.de
@@ -379933,6 +379947,7 @@ toki-e-basvuru.sbs
 toki-eportal.bounceme.net
 toki-evim-basvurum.org.mail-tesla.de
 toki-evim.store
+toki-evkonut-basvuru.com
 toki-gov-tr-com.ga
 toki-gov-tr-com.gq
 toki-gov-tr-com.tk
@@ -380323,6 +380338,7 @@ tokiebasvur.xyz
 tokiebasvurdum.xyz
 tokiebasvuru.org
 tokiedevlet-20f08.kxcdn.com
+tokiedevlet.com
 tokiedevletbasvur-20f08.kxcdn.com
 tokiedevletbasvur-21393.kxcdn.com
 tokiedevletbasvur.click
