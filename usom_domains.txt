@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-01T12:05:13.887945
+# Updated: 2025-12-01T13:06:04.746711
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -74485,6 +74485,7 @@ baykar.bet
 baykar.buzz
 baykar.capitalingon.com
 baykar.cloud
+baykar.com
 baykar.glitch.me
 baykar.icu
 baykar.lol
@@ -104502,6 +104503,7 @@ cashout2018.ddns.de
 cashoutguide.com
 cashpara724.com
 cashpayconsumeredd.ddns.net
+cashpointa.com
 casibom3067.fun
 casillas.hicam.net
 casillas.libfoobar.so
@@ -118348,6 +118350,7 @@ crec-bd.site
 crecil.gruposenhordobonfim.org
 cred-agrcol.ddns.net
 credanza.lat
+credario.com
 credentialglamor.top
 credentials-telekom.online
 credianindaonayal.epizy.com
@@ -172042,6 +172045,7 @@ flow-distributor.com
 flow.calarpig.com
 flow83.cn
 flowaelokahglowhuwghuwremotion.com
+flowbitlabs.com
 flowcdn.ru
 flowcyber.click
 flowdivison.club
@@ -182655,6 +182659,7 @@ getparamsahibinden.com
 getparanguvende.com
 getparasahibindenguvende.com
 getparguvende.com
+getpart.store
 getpass.ddns.net
 getpayguvende.com
 getpayguvenli.com
@@ -204533,6 +204538,7 @@ hertrmrxd.net
 herttannarit.com
 hertuglighbe.com
 herus.app
+herus.cyou
 herusherus.live
 herustramr34.org
 herusunpipisiniyerim.live
@@ -232058,6 +232064,7 @@ istanbulbilgilendirme.click
 istanbulbireysel.com
 istanbulbireyselkartbasvurumerkezi.site
 istanbulbirreysel.sa.com
+istanbulbizimle.com
 istanbulbolgemerkezi3d.xyz
 istanbulbozum.com
 istanbulbruasdkbe.com
@@ -232084,6 +232091,7 @@ istanbulcuolmasdintamzamni.store
 istanbulcuyuzbiz.online
 istanbulda3d3.blogspot.com
 istanbuldabelbimlisin.vercel.app
+istanbuldanucamgelbsvr.sbs
 istanbuldasin.net
 istanbuldasin.site
 istanbuldasinbizimle.mooo.com
@@ -242696,6 +242704,7 @@ kamoanyalifirsarlar.xyz
 kamoanyaliindimler.com.tr
 kamoanyaliindimler.xyz
 kamodabkomebo.zapto.org
+kamorszfg.com
 kamotors.net
 kamoyu.bns-vio.space
 kamp-any-alar.com
@@ -247211,6 +247220,7 @@ kasimkampnnlyairam.xyz
 kasimkapnaya.online
 kasimkatilimkuveyt.com
 kasimkaxpxnyalaridevamediyor.xyz
+kasimknt.click
 kasimkonut500.com
 kasimlaharc2024.com
 kasimlaharci2024.com
@@ -254737,6 +254747,7 @@ kralhaber.club
 kralhaber.site
 kralhaber.xyz
 kralhizmetlerbrda.click
+kralibiziz.net
 kralinkraligelsedusurmaez.com
 kralinyo.it.com
 kralisis23q.site
@@ -255882,6 +255893,7 @@ kripto767.ddns.net
 kriptobagis.com
 kriptoberksite.site
 kriptodunyasi.online
+kriptoefsanesi.net
 kriptoex.com
 kriptofirsatlarinikacirma.store
 kriptofirsatlarinikacirma.xyz
@@ -266149,6 +266161,7 @@ mag8u1tejdt.biz
 magaaazafirsatmarketleri.com
 magaaza-sok.com.tr
 magaji.duckdns.org
+magalieme.com
 magalu-ultra4k.hopto.org
 magalumobile.hopto.org
 maganomojer.eu
@@ -271481,6 +271494,7 @@ meet.ubi-safemeeting.online
 meet2024.com
 meetaemaskloigein.webflow.io
 meetamassklogin.webflow.io
+meetamount.shop
 meetasfor.site
 meeten.us
 meetevxicraatxkdr.tk
@@ -284104,6 +284118,7 @@ mysafetyappcheckntifcations.duckdns.org
 mysafetyapphelop.duckdns.org
 mysaftyaccnthelp.duckdns.org
 mysakqtgbkaswawaawawfas.shop
+mysalescaptains.com
 mysamaaj.com
 mysaysaysay1.click
 mysaysaysay3.click
@@ -298957,6 +298972,7 @@ onlinefirsatlarim.com
 onlinefirsatlarimsonfirsat.xyz
 onlinefirsatlarla.xyz
 onlinefirsatlarozel.xyz
+onlinefirsatta.com.tr
 onlinefirsaturunlerim.com
 onlinefirsatzamani.kampanyalifirsatlari.com
 onlinefirssatlari101.com
@@ -316520,6 +316536,7 @@ pptsgovtr.click
 pptsgovtr.icu
 pptt-g0v.top
 pptt-gov.cyou
+pptt-gov.icu
 pptt-gov.ink
 pptt-gov.qpon
 pptt-gov.sbs
@@ -378601,6 +378618,7 @@ titanc5.net
 titanchecksystem.store
 titandughrab.com
 titania92.hopto.org
+titanic2026.cyou
 titanium-hr.com
 titanium31.hopto.org
 titanrpg.ddns.net
@@ -414596,6 +414614,7 @@ wisegroundbreaking.top
 wisemean.top
 wisemeticulous.top
 wisenutmgir.pw
+wiseorbitacademy.com
 wisescatter.top
 wisetoolz.com
 wisetrusthub.top
@@ -415245,6 +415264,7 @@ wordpress-1546907-6028803.cloudwaysapps.com
 wordpress-1548641-6015355.cloudwaysapps.com
 wordpress-1549443-6019146.cloudwaysapps.com
 wordpress-1549443-6022060.cloudwaysapps.com
+wordpress-1549443-6030662.cloudwaysapps.com
 wordpress-1550714-6002017.cloudwaysapps.com
 wordpress-1552221-6009258.cloudwaysapps.com
 wordpress-1553616-6017290.cloudwaysapps.com
