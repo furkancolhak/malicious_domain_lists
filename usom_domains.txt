@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-01T06:05:13.305358
+# Updated: 2025-12-01T07:05:13.857861
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -78983,6 +78983,7 @@ bilbunlari.com
 bilcellleyukleee.com
 bilcellmxvn.com
 bilcellyuklemee.com
+bildaihub.com
 bildervakfi.com
 bildervakfi.net
 bildervakfi.org
@@ -392012,6 +392013,7 @@ turkscargo.com
 turksesleri.org
 turksevd.org
 turksevgi.org
+turkshair.space
 turksken547.wixsite.com
 turksmerkeziodeme.tk
 turksmtv.com
