@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-01T22:05:12.396488
+# Updated: 2025-12-01T23:05:15.331252
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -107932,6 +107932,7 @@ ceylanmobilya.com.tr/db_template.php
 ceylanogullari.com
 ceylanotoyedekparca.com.tr
 ceza-bilgilendirme.com
+ceza-davalarim.xyz
 ceza-davalarimi-goruntule.com
 ceza-dosya.com
 ceza-dosyalarim.xyz
@@ -120737,6 +120738,7 @@ cvqrg01bspydc8o0k6o.ddns.net
 cvs32sx.click
 cvsbn14-vnblassawkspacket.com
 cvsdfodmece.net
+cvsehir.cloud
 cvsen.is-best.net
 cvslz.com
 cvtyukleme.22web.org
@@ -202914,6 +202916,7 @@ hemenayinfirsatlarindakisongunler.com.tr
 hemenayinfirsatlarindakisongunler.xyz
 hemenayinfirsatlarindakisongunlerdenbugun.com.tr
 hemenaylikarackirala.xyz
+hemenbaklnsaina.duckdns.org
 hemenbaslabasvuru.life
 hemenbaslar.ml
 hemenbasuru.vercel.app
@@ -368180,6 +368183,7 @@ superindirimhaftasi.com.tr
 superindirimhaftasi.online
 superindirimhaftasi.xyz
 superindirimleradresii.online
+superindirimlerbasladi.me
 superindirimlerburada.me
 superindirimmarket.click
 superindirimmarket.com
@@ -380803,6 +380807,7 @@ tokisubesi.vercel.app
 tokiszamaniyeniden.blogspot.com
 tokitalep.online
 tokitalepolustur.webhop.info
+tokitaleptoplama.xyz
 tokitanitim.resmibasvuru.site
 tokitapubasvurusuaninda.blogdns.com
 tokitoplukntlri.com
@@ -385646,6 +385651,7 @@ trc-cimer.com
 trc-ekonomi-baknligi-iade-basvuru-form.tk
 trc.webhop.net
 trcarpente.com
+trcarrefourr.cfd
 trcbbmtrtrhazinegovtr.com
 trcblaw.tilda.ws
 trcblnnce.click
