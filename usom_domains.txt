@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-02T21:05:14.680983
+# Updated: 2025-12-02T22:05:14.635849
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -66251,6 +66251,7 @@ avishemenarac.online
 avishemenkirala.com
 avishemenkiralama.site
 avishismetler.xyz
+avishizlikirala.com
 avishizlikiralama.online
 avishizmetleri.online
 avisiinizburada.gen.tr
@@ -71721,6 +71722,7 @@ basvuralancizxcm.com
 basvuralarimizkontrolde.xyz
 basvuralarimonlinehemen.info
 basvuralarimonlinehemen.xyz
+basvuralim.sbs
 basvuralimdijitalkontrol.info
 basvuraltiay-deniz.online
 basvuraltiayda-deniz.online
@@ -104094,6 +104096,7 @@ carreefourmarketonline.cfd
 carreefourmobiil.cfd
 carreefourmobil.cfd
 carreefourmobilgiris2025.cfd
+carreefourmobilim.cfd
 carreefourmobiliris.cfd
 carreefourmobilmarket.cfd
 carreefursazamni.com
@@ -232844,6 +232847,7 @@ istbrzma.online
 istbsabs.com
 istbsav.com
 istbsvnrsa.com
+istbul-islemleri.digital
 istbulkartdolum.net
 istbulkrrt.net
 istbuln-krtyukle.com
@@ -290948,6 +290952,7 @@ nualgipromo.com
 nuamfua.net
 nuance215.xyz
 nuancesmgir.pw
+nuasdacifs.net
 nuasdina1.net
 nuasdvuia1.net
 nuatt.ddns.net
@@ -302141,6 +302146,7 @@ ortaakttrafik.tk
 ortag-1.dev
 ortagtrafik.tk
 ortak-bayiyetkilis.blogspot.com
+ortak-bbvatr.my-homeip.com
 ortak-guzel.kortemetten.eu
 ortak-hizmet.com.tr
 ortak.e.vlilik.kredis.i.basuvuru.net
@@ -357212,6 +357218,7 @@ slsvrzhzmasnt.net
 sltbackup.ddns.net
 sltde.com
 sltksltkslktlstnm.net
+sltmslbsvlrm.com
 sluamane.xyz
 slubbering.com
 slucasanderson.ddns.net
@@ -395456,6 +395463,7 @@ umrecekilisi.click
 umrecekilisi.com
 umreeisdank.xyz
 umrefirsatikatilimda.com
+umrefirsatinikacirma.com
 umrehediyem.com.tr
 umrehediyemizdh150ailealmim.xyz
 umrehediyesikampanyasi.com
@@ -402924,6 +402932,7 @@ vatandass-hizmett105.ga
 vatandassorgu.info
 vatandassorgudestek-trtr.com
 vatandasuyap.com
+vatandasuyap.lol
 vatandasuyapgovtr.online
 vatandasyardim.ml
 vatandasyeniportalkayit.com
@@ -445663,6 +445672,7 @@ zzyenibvruu45.click
 zzyenibvruu50.click
 zzyenibvruu55.click
 zzyenibvruu60.click
+zzyenibvruu65.click
 zzygdx.com
 zzyrhgsb.com
 zzz1.dezhen.icu
