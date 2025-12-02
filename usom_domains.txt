@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-02T00:05:15.579241
+# Updated: 2025-12-02T01:05:13.484732
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -224297,6 +224297,7 @@ indirimleriyakala.com
 indirimleriyakala.me
 indirimleriyakala.org
 indirimleriyakaladin.xyz
+indirimleriyakalariz.me
 indirimlerkaldi.biz.tr
 indirimlerkaldi.com.tr
 indirimlerkaldi.name.tr
@@ -283373,6 +283374,7 @@ my-commbank.ddns.net
 my-commbanksupport.ddns.net
 my-commbannk-au.digital-online-login-opportunity.com
 my-den-iz.my-homeip.com
+my-deniz.my-homeip.com
 my-drive365.pub
 my-dyson.com.tr
 my-ent-antin.cfd
@@ -337267,6 +337269,7 @@ sabahverlornv.com
 sabanci-akbankinvestment.com
 sabanci-islamicstock.com
 sabanci-yatirim.com
+sabancibursbasvurulari.online
 sabancibursu.xyz
 sabancikultur.org
 sabancinews.com
@@ -379938,6 +379941,7 @@ togod.is-best.net
 togomory.duckdns.org
 togoopdeluekpio.ddns.net
 togsfortoads.com
+togvakfi.online
 togyza.com
 tohageheg.com
 tohavefuntoday.com
