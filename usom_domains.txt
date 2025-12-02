@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-02T11:05:12.870667
+# Updated: 2025-12-02T12:05:13.488291
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -59173,6 +59173,8 @@ api.btfdf.com
 api.camdriverhelp.club
 api.camera-drive.org
 api.camtuneup.online
+api.cgatgpt.net
+api.cleanmasters.store
 api.clearit.sbs
 api.cloudservers.kz
 api.clpclptrefinder.com
@@ -59191,6 +59193,7 @@ api.eatrgrise.com
 api.eazymount.com
 api.emazemedia.com
 api.erfedfvgf.com
+api.extensionplay.com
 api.farstream.org
 api.fbconnect.net
 api.fesder.com
@@ -111162,6 +111165,7 @@ cleaningnewengland.com
 cleanislem.22web.org
 cleankiralikarac.online
 cleanmagoza.com
+cleanmasters.store
 cleanmilitia.top
 cleanmymac.pro
 cleanotomobilkirala.online
@@ -129873,6 +129877,7 @@ derfakansas.xyz
 derfakansasa.xyz
 derfemne.net
 derfowns.zapto.org
+dergoodting.com
 derhalderkets.cyou
 dericishoes.com
 derick43.com
@@ -161954,6 +161959,7 @@ everythingfort.top
 everythingtake.hopto.org
 everywherekfcu.ddns.net
 everywhereyacht.top
+evetabi.click
 evetandascumhurbaskanligi.net
 eveverify.com
 evevetrdyg-0112s.online
@@ -186890,6 +186896,7 @@ google-analytiks.com
 google-antivirus.com
 google-api-analyse.com
 google-api-update.com
+google-app-get.com
 google-asistant.com
 google-assistant.com
 google-bestbuy.com
@@ -186905,6 +186912,7 @@ google-docs.duckdns.org
 google-document.co.za
 google-dsie.ddns.net
 google-e.cf
+google-get.download
 google-giris.tk
 google-google-com.com
 google-google-google.com
@@ -203271,6 +203279,7 @@ hemenislemmbasv00.online
 hemenislemmerkezi.app
 hemenislemmx.sg-host.com
 hemenislemosnutlktaktan.blogspot.com
+hemenislmlmsonsa.online
 hemenislslsonucsb.online
 hemenisltblkylme.net
 hemenistjx.cfd
@@ -246299,6 +246308,7 @@ kargonuzusorgulayin.com
 kargoosorgulama.blogspot.com
 kargootakip.com
 kargopttakip.com
+kargosokz.com
 kargosorgulamaniz.com.tr
 kargostakip.com
 kargotakbnyilbasiozzle.com
@@ -253246,6 +253256,7 @@ knt-tyki-bsrvu.com
 kntads-allhsely.net
 kntalsmd-glal.com
 kntara.click
+kntarena.click
 kntbsvmrkerzibrdatki.sbs
 kntbsvmrkrzibrdtki.sbs
 kntbsvrrr00.click
@@ -253285,6 +253296,7 @@ kntksales.tk
 kntkssodme.net
 kntktrttt.net
 kntlkrt.net
+kntmerkez.click
 kntmkrtmabns.net
 kntmoney.net
 kntmony.net
@@ -271849,6 +271861,7 @@ mekocakosak.servebeer.com
 mekorr.duckdns.org
 mekosaksa.xyz
 mekras.ru
+meksa-yatirim.com
 meksikadasonhasereciler.site
 meksjlsbs.net
 mektamasklogin.webflow.io
@@ -314521,6 +314534,7 @@ play-googyle.com
 play-protect.pro
 play-rghr.igplatform.net
 play.best01011.com
+play.google-get.store
 play.google.com-apk-6712qw123asd8awf7.site
 play.google.store.apps.details.settings.pw
 play.zapto.org
@@ -336252,6 +336266,8 @@ s-0kdakmpsfsg4.sbs
 s-0ksfsffsafas.sbs
 s-101sendegelal.com
 s-1xiyazcsxsix.com
+s-82923.gotocdn.com
+s-85283.gotocdn.com
 s-adroll.com
 s-ahibinden-paramguvende-hizmetleri.xyz
 s-ahibnden-paramguvende.com
@@ -434406,6 +434422,7 @@ yearbet.com
 yeardear.site
 yearlyexponential.top
 yearlywaiver.top
+yearnnewtab.com
 yearpelr001.duckdns.org
 yearpelr23332.duckdns.org
 yearscampaniakatilstart.net
