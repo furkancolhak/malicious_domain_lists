@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-03T06:05:13.869583
+# Updated: 2025-12-03T08:05:12.045807
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -39031,6 +39031,7 @@ ablasia-silver.com/db_template.php
 ablazasolution.com/bluepure/wp-content/uploads
 abldbynv2.duckdns.org
 able21pull.top
+ableajo.pics
 ablecounselingservices.com
 ablegodforsure.ddns.net
 ablegray.net
@@ -109631,6 +109632,7 @@ cicekmarketim.me
 cicekmarketim.mobi
 cicekmarketim.online
 cicekmarketim.org
+cicekmarketim.sbs
 cicekmarketim.site
 cicekmarketim.space
 cicekmarketim.store
@@ -163607,6 +163609,7 @@ extenioningral.top
 extensiion-metamsks.webflow.io
 extensionbuysell.com
 extensionio.click
+extensionplay.com
 extensionpolicy.net
 extensionpolicyprivacy.com
 extensionwhereabouts.top
@@ -169105,6 +169108,7 @@ firefzz.site
 firegoool.pro
 firehub.link
 firehub.work
+firelobo.com
 fireman234.xyz
 firemancaravan.top
 firenova.ddns.net
@@ -194682,6 +194686,7 @@ haftaninyildizionlinecampny.xyz
 haftaninyildizisadece.online
 haftaninyildizisinirlicampanyler.xyz
 haftaninyildizitermosflrsat.com
+haftaninyildizitornavidab.sbs
 haftaninyildiziwsynxcryptermahser.me
 haftaninyildiziyineburada.com
 haftaninyildizlar.com.tr
@@ -202638,6 +202643,7 @@ hem-yeni-ve-gir-hemen-destekler.blogspot.com
 hema.ddns.net
 hema11.ddns.net
 hema125.ddns.net
+hemalnsltaksmatmas.net
 hemanal.click
 hembismilesmel.com
 hemcumesfles.com
@@ -222288,6 +222294,7 @@ illuminateaspiration.top
 illuminateflattery.top
 illuminatetopple.top
 illuminationintervene.top
+illumistar-tr.com
 illumistar.pro
 illusionchroncle.top
 illusioncrackdown.top
@@ -232367,6 +232374,7 @@ istanbulkartbasvurunoktasi.eymenotoyedekparca.net
 istanbulkartbasvurunuz.mooo.com
 istanbulkartbasvurusu.mooo.com
 istanbulkartbasvvur.org
+istanbulkartbasvvurusuu.gleeze.com
 istanbulkartbel.vercel.app
 istanbulkartbireysel.net
 istanbulkartcarsamba.net
@@ -248872,6 +248880,7 @@ kelarigame.blogspot.com
 kelarkads.xyz
 kelasanta.net
 kelasas.com
+kelbrion.com
 keldenehe.net
 keldorin.com
 kelebek.no-ip.biz
@@ -264468,6 +264477,7 @@ lumigyy.com
 luminareie.xyz
 luminarycrest.store
 luminasoft.ddns.net
+luminaz-tr.com
 luminix.kr/bbs/data/proc/proc.phpkumdo.org
 luminix.openhaja.com/bbs/data/proc1/proc.phpluminix.kr
 luminoreye.top
@@ -287924,6 +287934,7 @@ neyinekazan.site
 neyinekazikazan.com
 neyinpesindesinusom.net
 neylingaves.com
+neylourn.world
 neynigeneyney-63997.portmap.host
 neyrssafs.net
 neytrfce.xyz
@@ -313097,6 +313108,7 @@ petromontr.com
 petronasconn.ru
 petronfors.online
 petrosse.com
+petroumz.com
 petrovichmargonovbratva.biz
 petrss.duckdns.org
 petrulerinc.com
@@ -320916,6 +320928,7 @@ ptt.kargolariniz-kapinizdaolsun.com
 ptt.kargotakipp.com
 ptt.kialerc.top
 ptt.kxwl.qpon
+ptt.mobilservisi-1.com
 ptt.mobilservisleri.com
 ptt.mobilservisleri.online
 ptt.postahanedir.com
@@ -361427,6 +361440,7 @@ sosyalkonutprojesi.com
 sosyalkonutprojesi.hizlibasvurularbasladi.cloud
 sosyalkonutprojesi.hizlibasvuruolustrmalisinn.theworkpc.com
 sosyalkonutprojesi.hizlibasvuruolusturmalisin.cloud
+sosyalkonutprojesi.hizlibasvuruolusturportalgiris.theworkpc.com
 sosyalkonutprojesi.hizlibasvurusayfasi.cloud
 sosyalkonutprojesi.hizlibsavuruolusturma.cloud
 sosyalkonutprojesi.kasimdahilibasvurulariolursutr.cloud
@@ -365452,6 +365466,7 @@ stonefacesy.info
 stoneleighview.info
 stonemenace.top
 stoneprone.top
+stonesoulcruise.com
 stonisi.news
 stonworks.vip
 stonymanuscript.top
@@ -365551,6 +365566,7 @@ storemartyrdom.top
 storemonline.net
 storeocity.com
 storeroot.duckdns.org
+storeshomeestusfluworkss.online
 storeshopines.com
 storesonlinehepsi.store
 storeuf.com
@@ -415465,6 +415481,7 @@ wordpress-1537229-5961413.cloudwaysapps.com
 wordpress-1540338-5981967.cloudwaysapps.com
 wordpress-1546907-5995552.cloudwaysapps.com
 wordpress-1546907-6028803.cloudwaysapps.com
+wordpress-1546907-6042832.cloudwaysapps.com
 wordpress-1548641-6015355.cloudwaysapps.com
 wordpress-1549443-6019146.cloudwaysapps.com
 wordpress-1549443-6022060.cloudwaysapps.com
