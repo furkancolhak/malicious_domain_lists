@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-04T08:05:13.594874
+# Updated: 2025-12-04T09:05:12.779773
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7438,6 +7438,7 @@
 154.85.35.82/bins
 154.86.22.47
 154.90.47.77
+154.90.58.164
 154.91.183.174
 154.91.196.185
 154.91.227.32
@@ -12414,6 +12415,7 @@
 196.251.85.31
 196.251.85.55
 196.251.86.13
+196.251.86.145
 196.251.86.49
 196.251.86.50
 196.251.87.155
@@ -18952,6 +18954,7 @@
 31.59.58.84
 31.7.58.82
 31.7.63.141
+31.97.17.73
 31102025basvuru.sbs
 31102025basvuru.shop
 31102025basvuru.space
@@ -24954,6 +24957,7 @@
 51.79.185.145
 51.79.19.53
 51.79.208.192
+51.79.214.125
 51.79.47.48
 51.79.53.247/lmaowtf
 51.79.54.106/bins
@@ -28732,6 +28736,9 @@
 72.5.161.23
 72.5.161.7
 72.5.42.72
+72.60.146.139
+72.60.255.182
+72.61.55.178
 72.61.9.45
 72.76.94.99
 72.84.118.132
@@ -30895,6 +30902,7 @@
 82.221.128.191
 82.221.141.8/iyjhnkmy3xnz
 82.223.101.182
+82.25.70.65
 82.31.37.241
 82.41.186.124
 82.41.63.217
@@ -165355,6 +165363,7 @@ faizsiznakitavans-vakf.click
 faizsiznakitavans-vakf.site
 faizsiznakitavans.xyz
 faizsiznakitihtiyacim.com
+faizsizpromosyon.com
 faizsiztemmuzkampanyasi.com
 faizsizvergiode.net
 faizsizvergisizkredi.blogspot.com
@@ -180152,6 +180161,7 @@ gaz-botas.site
 gaz-investpetrol.site
 gaz-prom.ru
 gaz112.zapto.org
+gazabasgeleyim.click
 gazapizmlan.com
 gazarena-tickets.ru
 gazarena.ru
@@ -255870,6 +255880,7 @@ kredimizvakifbankhrc.tk
 kredimizvakifbanklds.tk
 kredimkarti.com
 kredimkuveytte.com
+kredimkuveytte.info
 kredimmmakk.online
 kredimobil-ziraatbireysel.com
 kredimobil.gq
@@ -267657,6 +267668,9 @@ mairoester.duckdns.org
 maisonalbarlemonumentalpalace.world
 maisonarya-by-booking.com
 maisonarya.world
+maisprotecao.site
+maisseguraca.site
+maisseguro.site
 maisto.site
 maitikio.com
 maizefucanism.hopto.org
@@ -268696,6 +268710,7 @@ mannil.top
 manningind.com
 manningmarshall32.xyz
 mannmmesnn.in
+manoelimoveiscaioba.com
 manoeuvregroup.top
 manojotat.ddns.net
 manojsinghnegi.com
@@ -296987,6 +297002,7 @@ onfnjcpphb.duckdns.org
 ong-hananel.org
 ongeval.info
 ongoingchamber.top
+ongozoom.com
 ongsworld.com
 onhadtinund.com
 onhaqtsefouenni.su
@@ -319350,6 +319366,7 @@ prosecutehelmet.top
 prosecutemgir.pw
 prosecutionextinction.top
 prosecutiontub.top
+proseguro.site
 proseinfringe.top
 proseowl.top
 proseretrospect.top
@@ -376896,6 +376913,7 @@ test.diogoflix.com
 test.doctorsordersltd.co.uk
 test.fleetgaard.com
 test.heroserver.space
+test.ikotech.online
 test.mcafee-upgrade.com
 test.myapicik.tk
 test.myogaya.jp
@@ -439400,6 +439418,7 @@ ypflsaiasc.vercel.app
 ypgnotc.com
 ypham-japan.shop
 yphcdghkosjr.info
+yphizlimobil.com
 ypi-onyli-bsvuru.vercel.app
 ypikrd-prmsy.online
 ypikrd.com
