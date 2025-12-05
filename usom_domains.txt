@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-05T21:05:14.967467
+# Updated: 2025-12-05T22:05:15.735698
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -104040,6 +104040,7 @@ caritaw.ddns.net
 cariuang-biarkaya.zapto.org
 carizlqjd.com
 carizma.ddns.net
+cark-bntr.app
 cark-bntr.com
 cark-bntr.one
 cark-firsatim-lucky.net
@@ -216501,6 +216502,7 @@ hzlsrglaklm.com
 hzlsrgulamalxsr.com
 hzlssmmw.click
 hzltlyklmlrnizz.net
+hzlveguvenfrstalsvrcsa.com
 hzlveguvenloalsveris101.com
 hzlveguvnlii101.com
 hzlvrgodeme.fun
@@ -232602,6 +232604,7 @@ istanbulkarttlyuklee.com
 istanbulkarttlyukleme.com
 istanbulkarttlyukleme.gq
 istanbulkartttbakiyeyuklemee.blogspot.com
+istanbulkartttbssvuru.mooo.com
 istanbulkartusa.org
 istanbulkartw.net
 istanbulkartweb.org
@@ -233769,6 +233772,7 @@ isttanmbullkrratyklmme.net
 isttannbbullkartyklee.blogspot.com
 isttannbllkrttyklemme.blogspot.com
 isttannbllkrttyklmee.blogspot.com
+isttannbulavrupa.digital
 isttanxbulllvergxodemeadresi.net
 isttanz.com
 isttbll.net
@@ -280303,6 +280307,7 @@ mrkrndvu.b-cdn.net
 mrktkapinda.com
 mrktnzonlinealisverisleriniz.com
 mrktonlined.cfd
+mrktonlsprs.cfd
 mrktsfrxsitlar-hzirannayii.com
 mrkttsfirxkstlri-brddamrkttl.com
 mrkttx-frsllrindayni.xyz
@@ -302105,6 +302110,7 @@ ord12route.art
 ord8w1.us
 ordaburdasurdazartzurt.com
 ordai.quest
+ordan-gor-burdan-sor-aralikayi.sbs
 ordan.surdangit.com
 ordanaracmsuw.xyz
 ordanbrdndlrmlerd.icu
@@ -427514,6 +427520,7 @@ xn--ilakaps-wxa38db.my.canva.site
 xn--ilanlarm-zkb.com.tr
 xn--ilemi-aile-genlik-nsb08t.com
 xn--ilemi-ailegenlik-opb16s.com
+xn--ilemsmosavuatn-vzc.net
 xn--iletiimiade-vgc.app
 xn--iletisimodastr-hgc.net
 xn--iletisimodastr-hgcc.app
@@ -430744,6 +430751,7 @@ xzxzizmirimzxzx.net
 xzy88202656.hopto.org
 xzybzz.com
 xzyelbaxmv.duckdns.org
+xzyenibvruu.click
 xzyenibvruu10.click
 xzyenibvruu12.click
 xzyenibvruu14.click
