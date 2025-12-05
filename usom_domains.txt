@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-05T15:05:13.458899
+# Updated: 2025-12-05T16:05:14.655443
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -58492,6 +58492,7 @@ anmavelco.online
 anmcousa.xyz
 anmdhvwcfnu.net
 anmkaramdmn.tk
+anmmannemlsan.com
 anmmemmqms.com
 anmnesefs.com
 ann4s4wai.xyz
@@ -111568,6 +111569,7 @@ clk-trf.online
 clk3r1241l2xr.t625u.ru
 clkakdeniz-3f27d6beedf7.herokuapp.com
 clkglhkmndkykrsl.shop
+clkrbrdanynlnrsnz.mooo.com
 clksrg.online
 clku6z2.duckdns.org
 cllbguhxggwd.tech
@@ -201413,6 +201415,7 @@ hdggmq.top
 hdgjg.net
 hdhjeuehujwghqjejfejd.club
 hdiclckeregdlmbrbr.mooo.com
+hdigtonlbnuyap.mooo.com
 hdirwanda.org
 hdisimdiindirimkapindakif1rs9at.com
 hdiye-vkfbnakmobil-subegiriapi.cf
@@ -243619,6 +243622,7 @@ kampanyaburadakayitol.xyz
 kampanyaburda.site
 kampanyaburda1-0-1.com
 kampanyaburda20gbnet.xyz
+kampanyabv-tr.my-homeip.com
 kampanyacabimyuktl.ga
 kampanyacanbyrmxd.com
 kampanyacarklari.com
@@ -338069,6 +338073,7 @@ sadecsaonflsirsatlartrcvrvtrv.blogspot.com
 sadecsaonflsirsatlartrcvrvtrvt.blogspot.com
 sadecsaonlifneozel.duckdns.org
 sadecsizddegellin.com.tr
+sadecsonfirsatlartrscv.blogdns.com
 sadecsonfirsatlrtc.duckdns.org
 sadecsonflisrlstlartr.duckdns.org
 sadecusmbasladigene.duckdns.org
@@ -343587,6 +343592,7 @@ sankei.sslport.work
 sankibanadonukbutunnamlular.com
 sanko1.co.jp/lp/zqxitvhfhikiryxdmowvrtpytmm/
 sanlander.one
+sanlbrdaclsyrzd.mooo.com
 sanlioto.net.tr
 sanlioto.org.tr
 sanliurfakoltukyikama.online
@@ -425215,6 +425221,7 @@ xkq7il.duckdns.org
 xkqbcmn.com
 xkrim.com
 xkrlmn.tk
+xksldjf9sksdjfks.com
 xksmcibcell.net
 xksmxrgulama.com.tr
 xkucewozqs.duckdns.org
@@ -438515,6 +438522,7 @@ yniilkhaftasnda.cfd
 yniixmzrkttyklme.net
 ynikytolhmnbsvrvbrada.com
 ynimrkxyldizllrixx.site
+ynindrmfirstlar.cfd
 ynionllnie-xsznsonnuindrml.xyz
 ynistok-sinirli-2023.online
 ynitrfsb.dev
