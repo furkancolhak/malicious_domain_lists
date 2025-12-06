@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-06T10:05:12.883162
+# Updated: 2025-12-06T11:05:13.759460
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -133104,6 +133104,7 @@ diji0n1inefakifsube.net
 dijibasvuru.sbs
 dijibireyselislemlerim.online
 dijicuucey.com
+dijiden.my-homeip.com
 dijiistkartim.net
 dijiital-fines.com
 dijiital-vakifbireysellgra.cf
@@ -200200,6 +200201,7 @@ hayallere-kosarken-saatler-durmaz.xyz
 hayallerhayatlar.site
 hayalleri-susleyen-teklifler-kapiniza-geldi.com
 hayalleri-susleyen-teklifler-simdi-burada.com
+hayallerimmahv.click
 hayallerine-ulasmak-artik-cok-kolay.com
 hayallerininpesindesifirdoksandokuz.online
 hayalleriniziertelemeyin.online
@@ -202820,6 +202822,7 @@ hemdonicsendesdos.net
 hemeaktuellersepete.xyz
 hemeenn-kapiniizaa-tesliimm.xyz
 hemefersflesk.com
+hememnssnltamsa.net
 hemen-101-kapinda.online
 hemen-101-kapinda.shop
 hemen-a101-aktuel-satislari.com
@@ -210649,6 +210652,7 @@ hizlimuayns.it.com
 hizlimusteri-govghgs.com
 hizlimusteri-islemleroghgs.com
 hizlimusteri-pttgov.com
+hizlinakilteslimcinazim.site
 hizlinakit.org
 hizlinakitkazan.com
 hizlinakitkazan.ml
@@ -296481,6 +296485,7 @@ onallyblo.at
 onaltiodeme.tk
 onanikontollahcespepeklahmemekcoinbase.duckdns.org
 onanwhit.com
+onaolsl.storage.googleapis.com
 onaoy.com
 onaruy.com
 onasama.com
@@ -366696,6 +366701,7 @@ sube-garantibankasi-iade.cf
 sube-garantibankasi.cf
 sube-garantibankasi.ph
 sube-garantibankasitr.com
+sube-garantibbca.com
 sube-garantibbva-basvur.buzz
 sube-garantibbva-basvuru.click
 sube-garantibbva-basvuru.site
@@ -439188,6 +439194,7 @@ yonlendir.dynamic-dns.net
 yonlendir.itemdb.com
 yonlendir.link
 yonlendirbeni.online
+yonlendirbenibebek.my-homeip.com
 yonlendiremezsinbeni.com
 yonlendirici.click
 yonlendirici.shop
