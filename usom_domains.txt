@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-07T09:05:13.406686
+# Updated: 2025-12-07T10:05:13.060085
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -71474,6 +71474,7 @@ basvrutr-dcvvltgirisi.org
 basvrutrbnnrce.online
 basvrutrcbrncr.com
 basvrutrrbntbn.online
+basvruuukampanyaprmsyn.pro
 basvruuzirraaattmobiilemekli.duckdns.org
 basvruwu3534654756856odulunucehrk.com.tr
 basvruysuadhizmet.store
@@ -109767,6 +109768,7 @@ cicekse.info
 cicekse.online
 cicekse.org
 cicekse.shop
+cicekse.site
 cicekse.store
 cicekse.xyz
 ciceksensin.shop
@@ -152795,6 +152797,7 @@ eidpro.xyz
 eidpulse.com
 eiecbnceysvkwh.com
 eiesoft.com
+eifczvtz7.storage.googleapis.com
 eigcnzlee.com
 eigh.loveslife.biz
 eight-collier2005.com
@@ -221959,6 +221962,7 @@ iletisim-sistemleri.net
 iletisim-sistemleri.org
 iletisim-sistemlerimz.org
 iletisim-sorgu-ekrani.click
+iletisim-sorgulama-aktarma.sbs
 iletisim-sorgulama-ve-aktarim.cfd
 iletisim-sorgulama-yonlendirme.one
 iletisim-trhazineiadeniz96.com
@@ -295941,6 +295945,7 @@ okonewacon.com
 okonpovovusoto.ddns.net
 okontorleral.net
 okoyht.com
+okoyundrreshwlv.cfd
 okpana.com
 okqdmwnenehsbndsd.net
 okqrpdiwor.duckdns.org
@@ -318398,6 +318403,7 @@ prmossssynbsvrrr.click
 prmosynnnbsvrrqnb.click
 prmosyonbasvr.click
 prmosyonbasvrlar.click
+prmsnynnbsvrrgrnttt.info
 prmsnynnbsvrrkmnpnyaa.click
 prmsnynnkmpanyagrnt.pro
 prmsnyonngrntkmpnyaa.info
