@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-22T12:05:13.505141
+# Updated: 2025-12-22T13:05:13.445980
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7219,6 +7219,7 @@
 14ekimdekiyenikatalog.win
 14ekimerkneindiirm.org
 14ekimyenikatalog.work
+14emeliaterracewestroxburyma02132.su
 14etpoh.duckdns.org
 14ev1tsni8otk85.ddns.net
 14fox.com/admin/controller/common/db_template.php
@@ -44069,6 +44070,7 @@ adaletsarayi.net
 adaletsarayi.xyz
 adaletsorgu.org
 adalettbakanligi.com
+adalettc.net
 adalettr.net
 adalettrgov.sa.com
 adaliprefabrik.com//db_template.php
@@ -44887,6 +44889,7 @@ adreseteslimkirala.xyz
 adreseteslimmax.online
 adreseyonlendir.cfd
 adreseyonlendir.sbs
+adresguvenli.digital
 adreshepsiburada.com
 adresi.b-cdn.net
 adresi.net
@@ -155068,6 +155071,7 @@ eliteneatproductshop.com
 eliteride.limo
 elitesurroundfish.top
 elitetoki.site
+eliteworldhotelsapancca.com
 elitiorecfreetoo.cc
 elitleworldsapanca.com
 elitpuro1.com
@@ -264231,6 +264235,7 @@ lnppc.com
 lnpyfeat.com
 lnpynksgdyshsth.su
 lnq1xr.duckdns.org
+lnrmlrsdcfrstlrr.xyz
 lnskkemee.net
 lnsta-telifhakki.cf
 lnsta-telifhakkimerkezi.ml
@@ -323238,6 +323243,7 @@ pttavm.alisveriyap-online.xyz
 pttavm.aninda-odeme.com
 pttavm.ayinfirsati.com.tr
 pttavm.baglantilariniz.com
+pttavm.baglantis.com
 pttavm.bireyselalsat.com.tr
 pttavm.bireyselfirma.com.tr
 pttavm.bireyselfirsatlar.com.tr
@@ -334501,6 +334507,7 @@ renzoca.ddns.net
 reo.zapto.org
 reobligation.com
 reoertfiwu.ddns.net
+reon1inemis1emiaptr.online
 reookver.store
 reopenfunnygloomplanet.com
 reorgedt.fun
@@ -404830,6 +404837,7 @@ vakjfbank-int.net
 vakjfirsatlar.net
 vakjfkmpnya.store
 vakk-kif-bnk-2025.com
+vakkat.vercel.app
 vakkfamencen.com
 vakkfff.com.tr
 vakkffkf.com.tr
@@ -440922,6 +440930,7 @@ yladmxpzb.info
 ylaheagvthrmupj.su
 ylalcabncrfsagfrsat.cfd
 ylasdvtld-dvvrt.com
+ylbasi-kmpyasi558.com
 ylbasi-yeniyil-ocak-kampanyasi.net
 ylbasiiiile-kpdaaayni.store
 ylbaskrcadan.com
