@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-22T07:05:13.451578
+# Updated: 2025-12-22T08:05:13.667436
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -110344,6 +110344,7 @@ cicekmarket.xyz
 cicekmarketi.de
 cicekmarketi.online
 cicekmarketi.site
+cicekmarketi.store
 cicekmarketim.me
 cicekmarketim.mobi
 cicekmarketim.online
@@ -138283,6 +138284,7 @@ doruksl.store
 dorupakevdepaketleme.com
 dorusio.com
 dorvenis.com
+dorvexa.in
 dorwjb.duckdns.org
 dosageautonomy.top
 dosagesnap.top
@@ -241137,6 +241139,7 @@ jollyconstraint.top
 jollymonotonous.top
 jollypink.shop
 jollyturfilo.net
+joltario.com
 jolted.vip
 jolu.kohlsic.net
 jolvintra.in
@@ -272188,6 +272191,7 @@ maxkiralikoto.online
 maxkonumateslimkirala.online
 maxkonumateslimkiralama.online
 maxly.com
+maxontra.cc
 maxotofilo.online
 maxotofilokiralama.online
 maxotofilosu.online
@@ -326388,6 +326392,7 @@ pzrt1rmstnly0tncrckrcg1sn.com
 pzrtarih.app
 pzrtesicnslc.com
 pzrtesiizetttlsas.dns.army
+pzrtesislmer5.dns.army
 pzrtfrstlrdndbykgldk.shop
 pzrtrms1tnly0tncrc1krcgsn.com
 pzrtsahzvasdasf.net
@@ -330579,6 +330584,7 @@ rallylife.top
 rallysearch.top
 ralph-lauren.com.tr
 ralphlaurenturkiye.top
+ralventura.cc
 ram-bireysel-guvenli.com
 ram-guvende-alisveris.com
 ram-guvende-alisverisi.com
@@ -360959,6 +360965,7 @@ sokfirsatlarlaepte.steasyv1.workers.dev
 sokfirsatlarraptenanlayanlar.typhonreklam.workers.dev
 sokfirsatlarrkcmzkapmynasi.mooo.com
 sokfirsatlarseninle.com
+sokfirsatlaryilbasikampnyasibasladi.mooo.com
 sokfirsatlasrevain.steasyv1.workers.dev
 sokfirsatmarket.online
 sokfirstkm-s.sbs
