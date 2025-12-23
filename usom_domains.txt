@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-23T06:05:14.676664
+# Updated: 2025-12-23T07:05:13.771847
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -384221,6 +384221,7 @@ toplukonut2d1214ee.com
 toplukonut2d1214kk.com
 toplukonut2d1214nn.com
 toplukonut2d1214zz.com
+toplukonut2kkb8aln.com
 toplukonut3dkd1bb.com
 toplukonut3dkd1jj.com
 toplukonut3dkd1ss.com
