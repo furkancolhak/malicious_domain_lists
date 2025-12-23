@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-23T18:05:14.118452
+# Updated: 2025-12-23T19:05:11.899505
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -152126,6 +152126,7 @@ eensiteendesinevlilik.com.tr
 eeongous.com
 eep7yf8ix.duckdns.org
 eeqd79.duckdns.org
+eere546.nicepage.io
 eerlink.com
 eerts-form-aidatt.com
 eeryryug.site
@@ -156943,6 +156944,7 @@ encountersolidarity.top
 encourageconvene.top
 encouragementordeal.top
 encouragementtoxic.top
+encrgfrsat.cfd
 encrypt-acc-sec-identity-protect.freecluster.eu
 encrypted-gateway.cc
 encrypted-host.cc
@@ -180207,6 +180209,7 @@ garantipromosyonlular2025.duckdns.org
 garantipromosyonlulara2025.xyz
 garantipromosyonunual.vercel.app
 garantipromosyonyenivesizinledevametsans.net
+garantipromoyon140720.yonlendirfacebook.lat
 garantiramazanbonus.line.pm
 garantiramazanbonusal.line.pm
 garantiramazankampanyasi.com
@@ -277812,6 +277815,7 @@ mobil-akduyuru-islemleri.xyz
 mobil-aktif-basvuru-merkezi.vercel.app
 mobil-alimin.com.tr
 mobil-alisveris-extra.online
+mobil-alisveris-internete-ozel-tr.mooo.com
 mobil-alisveris-marketi.online
 mobil-alisveris.com
 mobil-alisverisim.online
@@ -289188,6 +289192,7 @@ nevadabearzz.xyz
 nevadakore.xyz
 nevajewels.net
 nevaleapi.online
+nevarlan.cc.dvrlists.com
 nevarneyok33.digital
 nevarsa-carfoursa.online
 nevarsa-carfursa.online
