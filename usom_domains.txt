@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-23T19:05:11.899505
+# Updated: 2025-12-23T20:05:14.376507
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -32175,6 +32175,7 @@
 89.238.186.227
 89.248.160.192
 89.248.160.233
+89.248.163.138
 89.248.163.146
 89.248.165.181
 89.248.166.183
@@ -86228,6 +86229,7 @@ bireysel-kiralama.acente2.com.tr
 bireysel-kiralama.acenteavs.com.tr
 bireysel-kiralama.com.tr
 bireysel-kiralama.xyz
+bireysel-kndm-icin.my-homeip.com
 bireysel-kredi.com
 bireysel-kredibasvuru.top
 bireysel-kredidenizde-com.tk
@@ -171030,6 +171032,7 @@ firsatimceptedenizle2024.xyz
 firsatimceptesok.xyz
 firsatimdavarbrda.duckdns.org
 firsatimdenizleguzel.xyz
+firsatimemeklikmpnyaasdasd.shop
 firsatimerkezi.site
 firsatimgarantidebasvurum.online
 firsatimgeldi.net
@@ -223484,6 +223487,7 @@ ilkevim6tokim.org
 ilkevim7tokim.org
 ilkevimbasvr.xyz
 ilkevimbasvrl1251251.replit.app
+ilkevimbasvrlarmb235jk.replit.app
 ilkevimbasvrmonline.vercel.app
 ilkevimbasvur2025.online
 ilkevimbasvurlarim.org
@@ -284184,6 +284188,7 @@ mudurlurandvu.pw
 mudutmdiaodtd2.xyz
 muedandubai.com
 muenmkeole.top
+muerthgdsid.sbs
 muffframe.com
 muffinnyxt.tk
 muffinsoldier.top
@@ -326570,6 +326575,7 @@ pzrmczsixmreglykle.net
 pzrmrketfrstlar666123.com
 pzrmrktrossy432.com
 pzrmrktrsy433.com
+pzrrrstesa233.dns.army
 pzrs.online
 pzrsavrhahzmnt.net
 pzrsnlkyl.shop
@@ -395000,6 +395006,7 @@ turkiyeninbonuskarti.tk
 turkiyeninbonusundan.tk
 turkiyenindenizi.tk
 turkiyenindijitalbankasi.com
+turkiyeninhaberkaynagi.shop
 turkiyeninheryerineozelsokfirsatlari.cfd
 turkiyeninisbankasi.com
 turkiyeninkarti.tk
@@ -416753,6 +416760,8 @@ wettransfer99.rujy.org
 wettransfer99.vfwk.org
 wetwtwyhdhjw.click
 wetyhyh33.duckdns.org
+weuassakasksasalfpwqfwq.run
+weuassakasksasalfpwqfwqs.life
 weuaueudgs.su
 weuaueudgsuxo.su
 weubeufubguxo.su
