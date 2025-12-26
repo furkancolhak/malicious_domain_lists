@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-26T15:05:13.249274
+# Updated: 2025-12-26T16:05:14.129165
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4912,6 +4912,7 @@
 11saysdysad.dreamhosters.com
 11subataksizlecepte.online
 11svzb.duckdns.org
+11trbianse-tr.com.tr
 11trmrr.net
 11v7xpteq.duckdns.org
 11vdohd3y.duckdns.org
@@ -64396,6 +64397,7 @@ asmtal.online
 asname.click
 asname.world
 asnansndsnfhshfn.space
+asndatadsad.blogspot.com
 asndjkasdlaf2156ads.digital
 asndsantamsmmamsd.blogspot.com
 asnewxidkfhk.oteinintoleranc.ru
@@ -120450,6 +120452,7 @@ cuetheconnect.com
 cufdenwyirgzgx.com
 cuffircous.xyz
 cugaituoianthai.com/mndv63
+cugarmachine.com
 cugfertde.site
 cugivxe.duckdns.org
 cugubabaswass.best
@@ -159832,6 +159835,7 @@ erandevhmen.online
 erandevugoc.org
 erandevunilosm.online
 erandevuportal.net
+erandevusistemi.com
 erandevutkgm.app
 eranmweb.net
 eraquote.top
@@ -188121,6 +188125,7 @@ gonulyardimvakfi.com
 gonulyazisi.org
 gonulyrdmvkf.com
 gonvdorm.net
+gonvtttal-lndrimmeegttt3.sbs
 gonyoncesidos.top
 gonzalysn.xyz
 goo-firaruca.zapto.org
@@ -228050,6 +228055,7 @@ int-eczatech.club
 int-eczaweb.club
 int-g-tr-web.my-homeip.com
 int-giris-islemleri.biz
+int-grnt-ytrm-web.my-homeip.com
 int-irtdiyafonwebgirisleriniz.com
 int-logistics.com
 int-mobilvakif.cf
@@ -284943,6 +284949,7 @@ musteri-garente.cfd
 musteri-garente.icu
 musteri-garente.shop
 musteri-giris-online.com
+musteri-giris.com
 musteri-giris.online
 musteri-giris.site
 musteri-kampanya-firsalari-tr.club
@@ -287838,6 +287845,7 @@ nbackr.site
 nbaglass.com
 nbanandaslkolaylk.com
 nbasegwas.net
+nbasndsadatas.shop
 nbatmjgf.live
 nbaxtpdzeb.duckdns.org
 nbazvskgfi.duckdns.org
@@ -290802,6 +290810,7 @@ nimc.cf
 nimeklroboti.info
 nimeliamc.fr
 nimetablaistbayi.com.tr
+nimetbalikci1-193f7d85c066.herokuapp.com
 nimett-cingirr.xyz
 nimfenngartor.com
 nimifer.com
@@ -300553,6 +300562,7 @@ online.basvuru-merkeziburada.com
 online.basvurular-hizli.com
 online.basvurularim-hizli.com
 online.denizbank.com.tr.xn--dijitlsubm-7gb4t.com
+online.fibavarlikmenkul.com
 online.filokurumsal.com
 online.firsat-cepte.com
 online.garantibanktr.net/customer
@@ -340345,6 +340355,7 @@ sadeceonlsfirsatlaronlinetrcvtrcvtr.blogspot.com
 sadeceonlsfirstlarfrtrtr.blogdns.org
 sadeceonlsfirstlarfstr.blogdns.org
 sadeceonlsfirtlardtr.blogdns.org
+sadeceonlssffirstlarfvrt.blogdns.org
 sadeceonlyandaalisvers.blogdns.org
 sadeceonlynfirstc.blogdns.org
 sadeceonmlinefrsatlasctr.blogspot.com
@@ -386407,6 +386418,7 @@ tr-login-yapi.glitch.me
 tr-m-e-devlet-aidat-cep-iadeler.com
 tr-m-e-devlet-aidatlar-ve-iade.cf
 tr-m-e-devlet-subesi-iade-aidat.com
+tr-magaza-firsat.net.tr
 tr-magaza.repl.co
 tr-magazamdysonbayi.com
 tr-magza.com.tr
@@ -387102,6 +387114,7 @@ tr1.thegameplays.com
 tr101.com.tr
 tr12-aidat-iade-gov-tr.com
 tr12-guncelsikayetler.com
+tr12biyanse-tr.com.tr
 tr13-guncelsikayetler.com
 tr13-guncelsikaytler.com
 tr155-polis-tr.online
@@ -427143,6 +427156,7 @@ x1k50pqx.duckdns.org
 x1nd3rami.duckdns.org
 x1nqxwo4j.duckdns.org
 x1pijelefyra87nex7d3.ddns.net
+x1q8t6r9m5y2b4n0p7v3wz2.com.tr
 x1r50e5.duckdns.org
 x1t1vj8pc.duckdns.org
 x1veefw.duckdns.org
@@ -438329,6 +438343,7 @@ yeniaciklimit.com
 yeniadil.org
 yeniadim24.online
 yeniadresim-gunceladreslerimiz.com
+yeniadresimhepsiburada.com
 yeniadresimizegirisyap.com
 yeniadresimtrendyol.org
 yeniadresleringirisi.blogspot.com
@@ -440418,6 +440433,7 @@ yiknzeqzb.duckdns.org
 yil-basi-kampanyasi.shop
 yil-basi-siparislerim.xyz
 yil-basiozelkatilim.tk
+yil-snu-flrstlri-a1-01den.cfd
 yil-sonu-firsati-bu-firsat.sbs
 yil-sonu-indirimi-tkns.online
 yil-sonu-indirimi-tkns.store
@@ -441080,6 +441096,7 @@ yilmazyazilim.com.tr
 yilmazyildiririm.cfd
 yilmzyeni-anlkkatillin.com
 yilmzyeni-tklgiril.com
+yilnsnhftasi.com
 yilsanu-2022bireyselkampanya-online.ml
 yilsigortam.net
 yilsizeozelinternetsubesiyapikredi.com
@@ -444535,6 +444552,7 @@ zafervakfi.com
 zafervukkasoka.tk
 zaferziraatiibasladi.click
 zafewrkja.com.tr
+zafffasssa.dns.navy
 zafftron.com
 zafiriletisim.com
 zafobimcellbayipaketyukleme.org
