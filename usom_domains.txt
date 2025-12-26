@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-26T00:05:14.085267
+# Updated: 2025-12-26T01:05:13.523533
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -35196,6 +35196,7 @@
 a--1-0-1.cepte-tr.online
 a--1-0-1den-kpinda-aralk-flrsatlar.sbs
 a--1-01den-flrsatlar.sbs
+a--1-01den-kmpanyalar-aralik.cfd
 a--10-1den-kmpyanlar.sbs
 a--101-firsatlarri.online
 a--101.online
@@ -51979,6 +51980,7 @@ aksorgulama.09322732543754.com
 aksoycheats.store
 akssigorta.site
 akstrbasvronline.com
+akstripot.14bdccd.xyz
 aksubatfirsat.online
 aksubayrintilarikampnya2.shop
 aksubayrintilarmiz9.biz
@@ -170957,6 +170959,7 @@ firsatekayiti.com
 firsatekim-basvurusukampanyasi.tech
 firsateklifionayla.com
 firsatekmobilacikdenizv2denizbank.co.vu
+firsatemeklidesendurmaalmony.shop
 firsatenpara.com
 firsatesitligimayiskampanyasi.monster
 firsatesitlik-trgiriswebavantj.xyz
@@ -184767,6 +184770,7 @@ gibodemeleri.blogspot.com
 gibodemeleri.com
 gibodemem.net
 gibonlinebasvuru.com
+gibportaldijital.com
 gibsms.com
 gibtkzoja.com
 gibtrafikcezaodeme.com
@@ -216933,6 +216937,7 @@ hurmzz.com
 hurnis.ml
 hurr.zapto.org
 hurran.net
+hurremlerinsahnede.me
 hurremmarket.me
 hurremsultatsk.tk
 hurremz.com
@@ -268451,6 +268456,7 @@ magazin-ifsa.epizy.com
 magazin-ifsalari.org
 magazin-ifsam.com
 magazin-turkiye-ifsa.com
+magazinaciklamalari.com
 magazineazaprkendeleri.com
 magazinedetached.top
 magazinehum.top
@@ -270977,6 +270983,7 @@ markaligunlerinizkapida.online
 markalsf.ru
 markalsk.ru
 markamma.com
+markaneli.click
 markanizpesinizde.com
 markapaketlemee.com
 markathgs.xyz
@@ -288203,6 +288210,7 @@ ndycmk.top
 ndzlporx.duckdns.org
 ndzmms.top
 ne-ba.org
+ne-int-gr-bv-tr.my-homeip.com
 ne-lazimsa-burda-hepiniz-icin.com
 ne-lazimsa-carfursada.online
 ne-lazimsa.fixip.org
@@ -293780,6 +293788,7 @@ nvi-hizmet.net
 nvi-islemler.b-cdn.net
 nvi-islemler.online
 nvi-mudurluk-bsvuru.jumpingcrab.com
+nvi-n.digital
 nvi-odeme2023.net
 nvi-online-randevu-islemleri.org
 nvi-online-vatandas.net
@@ -302166,6 +302175,7 @@ onlinemagazaninadresimavi.com
 onlinemagazap-tt.com
 onlinemagzam.xyz
 onlinemagzan.com
+onlinemaliyerandevusistemi.com
 onlinemapp.net
 onlinemarker.hmnmagzd.com
 onlinemarket-tr.com
@@ -345316,6 +345326,7 @@ salsamania.ddns.net
 salsapatsocaca.com
 salt204.me
 salt5star.xyz
+salta.click
 saltanatdiyati372.xyz
 saltexponential.top
 saltheld.net
@@ -363261,6 +363272,7 @@ sor0lrd.duckdns.org
 sora07.ddns.net
 soranada-bizlerde-uzaktaydik-simdide-geliriz.com
 soranobest.space
+soranolursaclickdersin.click
 soranoproj.xyz
 sorarsaniz-kararda-bukadar-yakinsan-olur.top
 sorathlions.com
@@ -368112,6 +368124,7 @@ stiye-aktacrici--gvuenli-hzli.sbs
 stiye-gti-hzli-aktar-gvenli.sbs
 stiye-gti-ynlendirme.cfd
 stiye-gti-yonlndir-hzli-gvenli.sbs
+stiye-guvenl--yonlndirici.sbs
 stiye-hizli--yonlndirme.sbs
 stiye-hizli-gvuenli-yonlndirme.sbs
 stiye-hlzli-aktrma.sbs
@@ -390320,6 +390333,7 @@ trm1kom.blogspot.com
 trm1net.blogspot.com
 trm57h.duckdns.org
 trmacekilsimbizn103-771.click
+trmagaza-firsat.info.tr
 trmagaza-firsat.org.tr
 trmagazabimcell.com
 trmagazacepte.com.tr
