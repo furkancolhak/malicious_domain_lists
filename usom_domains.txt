@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-28T16:05:14.319413
+# Updated: 2025-12-28T17:05:12.912859
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -36285,6 +36285,7 @@ a101-kampanyaa.cloud
 a101-kampanyakasim.shop
 a101-kampanyalar.com
 a101-kampanyalar.com.tr
+a101-kampanyalar.duckdns.org
 a101-kampanyalar.net
 a101-kampanyalari.uno
 a101-kampanyalarim.com
@@ -36345,6 +36346,7 @@ a101-mayisfirsatim.com
 a101-mayisfirsatim.online
 a101-mayisonlinekampanyasi.com
 a101-mobil.com
+a101-mobil.duckdns.org
 a101-mobilcep.com
 a101-mukemmel.bayramindirimleri.xyz
 a101-nisan-indirmleri.com
@@ -205404,6 +205406,7 @@ hepberabersepetteurunleriniz.com.tr
 hepberabersepetteurunleriniz.online
 hepberabersepetteurunleriniz.xyz
 hepberabersevinelim.com
+hepberabertekrardanburada.com
 hepberaberturkiyeyiz.com
 hepberaberyaptigimizsiparisler.com.tr
 hepbetretgot.com
@@ -262731,6 +262734,7 @@ lfknc5f.duckdns.org
 lflxpkb.duckdns.org
 lfmehbvuq.com
 lfmjyteczg.uallst.ru
+lfmmoaoszwj.storage.googleapis.com
 lfndgq.com
 lfnefx.duckdns.org
 lfngmqoxp.com
@@ -271366,6 +271370,7 @@ marketingturkey.xyz
 marketiniain.click
 marketinidan.click
 marketiniucza.sbs
+marketiniz-kapinizda.biz.tr
 marketiniz-kapinizda.com.tr
 marketiniz.xyz
 marketinizden.cfd
