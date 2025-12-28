@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-28T07:05:13.258188
+# Updated: 2025-12-28T08:05:13.495953
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -88194,6 +88194,7 @@ bit.ly/ziraatmobil
 bit.ly2tsan1h
 bit1srv.duckdns.org
 bitacid.net
+bitakimsorunsallar.click
 bitandbyte62.com/faibrescia/wp-config-ini.php
 bitanem.app
 bitaslem.online
@@ -92401,6 +92402,7 @@ bmimwcll.com
 bmimwcmel.com
 bmimzcell.com
 bmindctech.com//db_template.php
+bmindirimhaftasi.click
 bmividlec.com
 bmiwtnxp.com
 bmixcellkontor.tk
@@ -125208,6 +125210,7 @@ demlafka.org
 demlik-kampanyasi.world
 demmazondem.duckdns.org
 demmokarda.surf
+demmon50ltbuzdolabin.sbs
 demmonkampanya.xyz
 demmonsinirlisayida.xyz
 demmonzamani.xyz
@@ -130948,6 +130951,7 @@ derli-toplu-sergileyen-kacirmazda-sizlerde-yok.com
 derlikbirfirsat.com
 derlikbirfirsatlarimiz.com
 derlmod-tr.shop
+dermainsaat.com
 dermanacilsensden.xyz
 dermanbungalov.net
 dermanbutik.fun
@@ -438701,6 +438705,7 @@ yenicelersubesi.com.tr
 yenicelersubesi.online
 yenicelersubesi.xyz
 yenicelersubesinde.online
+yenicift.nicepage.io
 yenicigecisim.sg-host.com
 yenicksacbisweasd.net
 yenicozumlerimiz.com
@@ -439801,6 +439806,7 @@ yeniyiletkinligi.click
 yeniyiletkinligi.com
 yeniyilfibaylaguzel.ml
 yeniyilfirsati.com
+yeniyilfirsati.my-homeip.net
 yeniyilfirsatim.com.tr
 yeniyilfirsatim.net
 yeniyilfirsatim.online
