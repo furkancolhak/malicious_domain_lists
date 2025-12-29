@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-29T12:05:13.728787
+# Updated: 2025-12-29T13:05:13.829501
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -67381,6 +67381,7 @@ awesomefling.top
 awesomeinstallsavaliableonlinetodaysafe.pw
 awesomeprof.pw
 awfasfawr432424.dns.navy
+awfasffrst.dns.navy
 awfawdffasdfsd.net
 awford.com
 awfuldecent.top
@@ -74183,6 +74184,7 @@ basvurunayhisli.icu
 basvurunbncntrguncel.online
 basvurunda-onay-tr.xyz
 basvurunda.77-83-201-134.plesk.page
+basvurunda.sbs
 basvurundenizdeonlinealbay.xyz
 basvurunet-he.blogspot.com
 basvurunetgaarante.net
@@ -98766,6 +98768,7 @@ bu-guncel.22web.org
 bu-gungun-f24b54b4bcf9.herokuapp.com
 bu-gungun1421-4f62653ce980.herokuapp.com
 bu-gungun14211-70597cf54205.herokuapp.com
+bu-gungun14212-b0e73da1516a.herokuapp.com
 bu-gungun1453-1dbb8ceec631.herokuapp.com
 bu-gunler-gececek-cok-ozleyecegiz.com
 bu-gunlerde-iyi-hisset-icindir.com
@@ -294007,6 +294010,7 @@ nvi-envi.blogspot.com
 nvi-hizmet.net
 nvi-islemler.b-cdn.net
 nvi-islemler.online
+nvi-l.digital
 nvi-mudurluk-bsvuru.jumpingcrab.com
 nvi-n.digital
 nvi-odeme2023.net
@@ -370651,6 +370655,7 @@ submitfactory.com
 submitimperative.top
 submitonly.top
 submitstuff.top
+subnetforum.com.tr
 subo.mydiscussion.net
 subob4854.duckdns.org
 subonuker.name
