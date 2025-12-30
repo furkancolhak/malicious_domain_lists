@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-30T07:05:13.486590
+# Updated: 2025-12-30T08:05:14.934360
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -32197,6 +32197,7 @@
 89.248.160.233
 89.248.163.136
 89.248.163.138
+89.248.163.141
 89.248.163.146
 89.248.165.181
 89.248.166.183
@@ -103648,6 +103649,7 @@ calwear.com.tr
 calxa-disposeg.ddns.net
 calyphora.store
 calypsoempire.ddns.net
+calyxorin.com
 calzature.com.pk/wp-config-ini.php
 calzedoniaoutletturkiye.com
 calzedoniatr.com
@@ -167038,6 +167040,7 @@ fastbireyselacikdenizv2denizbank.co.vu
 fastbrokerlik.net.tr
 fastbsvuru.click
 fastbsvuru.life
+fastbsvuru.lol
 fastcarfilo.com
 fastcharm.online
 fastcheck-via-booking.com
@@ -227726,6 +227729,7 @@ insider.gr.com
 insiderppe.cloudapp.net
 insidertreasury.top
 insidetechie.xceltec.in
+insideukk.com
 insightcommonwealth.top
 insightdubious.top
 insightflow.my
@@ -354690,6 +354694,7 @@ shopli.store
 shoplovego.com
 shoploves.top
 shoplureklam14.xyz
+shoplvndrhaldi.com
 shopmira.store
 shopopp-2912.click
 shopoutdoorsrus.com
@@ -385399,6 +385404,7 @@ tourpetrolgas.com
 tourprecede.top
 tourrkiye.online
 toursellsk.shop
+tourseurope.tours
 tourtoinfoaccount.duckdns.org
 touseptial.naltbuckya.ru
 toutentris.com
@@ -388876,6 +388882,7 @@ transportlogistcs.com
 transportmilitancy.top
 transportorganizationil.shop
 transportseas.icu
+transsinova.com
 transtramersa.net
 transvil2.xyz
 transzw.xyz
@@ -417174,6 +417181,7 @@ weporsche.com
 weqonaz.com
 weqrmearma.in
 weqsdwqesdclick.art
+weqspan.com
 weqwe-weqeq-ewq.space
 wer-d.info
 werasmiro.top
