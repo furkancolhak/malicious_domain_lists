@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-30T08:05:14.934360
+# Updated: 2025-12-30T09:05:15.370254
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5635,6 +5635,8 @@
 13.81.213.207
 13.90.18.59
 130.0.235.205
+130.12.180.20
+130.12.180.73
 130.185.75.198
 130.195.221.182
 130.211.114.146
@@ -5745,6 +5747,7 @@
 134.209.86.129
 134.209.88.107
 134.209.88.140
+134.209.96.175
 134.209.96.62/fattymcgee8667
 134.249.116.78
 134.249.133.142
@@ -9309,6 +9312,7 @@
 178.128.60.34
 178.128.64.37/bins/
 178.128.76.186/lmaowtf
+178.128.83.165
 178.128.84.187
 178.128.95.222
 178.128.96.167
@@ -101216,6 +101220,7 @@ buyukhaziranfirsatlari.com.tr
 buyukhazirannfirsatlari.com.tr
 buyukinsan1921-9a2599b291ca.herokuapp.com
 buyukinsan1981-576e65a69cc2.herokuapp.com
+buyukinsan1982-88982fca54c6.herokuapp.com
 buyukinsan1998-dd0bc8eb382e.herokuapp.com
 buyukinsan998-62a0f1792fc4.herokuapp.com
 buyukkampanyaa.com
@@ -136550,6 +136555,7 @@ dmarisresort.com
 dmarkett.lib.ms.us
 dmart.buzz
 dmartindia.tr
+dmartshopping.com.tr
 dmaz33ecrouch.top
 dmbkydzyke.duckdns.org
 dmbsa.com
@@ -299284,6 +299290,7 @@ onekampanya.com
 onekoa.com
 onelegends.com
 onelifestyle24.com
+oneline-sbm.org
 onelineodeme.com
 onelineodeqmerlm.ml
 onelivedrv.com
