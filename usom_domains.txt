@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2025-12-31T12:05:14.036966
+# Updated: 2025-12-31T13:05:13.915904
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -38351,6 +38351,7 @@ a1o1le.net
 a1o1leo.net
 a1o1lerleindirmikap.shop
 a1o1lndirimlerifirsat.blogdns.com
+a1o1lndrmleriarlkayisonufirsati.blogspot.com
 a1o1lse.net
 a1o1m.com
 a1o1m.net
@@ -110639,6 +110640,7 @@ ciceksepetinde.com
 ciceksepetinde.de.com
 ciceksevdam.net
 ciceksevdam.store
+ciceksever.store
 ciceksevgim.art
 cicekshop.me
 ciceksiparisleriniz.com
@@ -248587,6 +248589,7 @@ karsina-gelenler-sasirtan-sekilde-yaninda.com
 karsina-gelenler-sevindiren-haberler-geldi.com
 karsinagelenenguzeller.top
 karsinagelenleryaninda.site
+karsindakiaslandaolabilir.org
 karsine-gelen-firsati-yakala-burada.com
 karsirmayacakiniriminler.shop
 karsiyakli.net
@@ -350307,6 +350310,7 @@ sehibinden.com.tr
 sehibinden.online
 sehirankara.cf
 sehirankara.ml
+sehirdekiencokindirimlimarketler.cfd
 sehirgezi.biz
 sehiriciguzellik.myshopify.com
 sehirsehri.cfd
@@ -442057,6 +442061,7 @@ ylbasi-yeniyil-ocak-kampanyasi.net
 ylbasicrfsa.top
 ylbasiiiile-kpdaaayni.store
 ylbasilndirimkacmaz.sbs
+ylbasisonfrsatiburda.blogdns.com
 ylbasizmni.com
 ylbaskrcadan.com
 ylbaslndrmler.xyz
