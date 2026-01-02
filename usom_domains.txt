@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-02T19:05:13.524682
+# Updated: 2026-01-02T20:05:13.784747
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -201664,6 +201664,7 @@ havum.net
 havup.net
 havuw.net
 havux.net
+havuz-temizleme-noktasi.cfd
 havuzbilgisi.com
 havuzcudunyasi.online
 havuzcudunyasi.xyz
@@ -257457,6 +257458,7 @@ krcnzdnsongnlri.com
 krcnzdnsongnlri.info
 krcnzkasmda.cfd
 krcnznszesundklari.com
+krcockzmni.top
 krconline.net.tr
 krconline.org.tr
 krconlineoozeel.online
@@ -271243,6 +271245,7 @@ marathonbeedksow.shop
 marathoncercation.top
 marathonjunkremoval.com
 marathonmaritime.top
+maratondamuane.space
 maravelo.biz
 marazelektrik.com
 marazsorgu.space
@@ -293597,6 +293600,7 @@ nt61l7e.cn
 nt9qfw.duckdns.org
 nta.hopto.org
 ntaryan.com
+ntasdadasdrtw.blogspot.com
 ntbicklm.com
 ntbonxyc.duckdns.org
 ntbukhvihned.resnoleadsgro.ru
@@ -296720,6 +296724,7 @@ ochronotic.com
 ocjcfkkssz4s.duckdns.org
 ocjqyynutocl.online
 ocjqyynutocl.space
+ock-lndrmler-kpinda.sbs
 ock12indirimleri.com.tr
 ock12indirimlerim.com.tr
 ock25.blob.core.windows.net
@@ -351090,6 +351095,7 @@ sendebugungelbasvuruyaphadibakalimdemetakalin.site
 sendebuhisleregel.cfd
 sendebuhizmetekatil.com
 sendebundanyararlanhizmetedevlet.com
+sendebunlardanhepkazandin.com
 sendebunubilirsen.cfd
 sendeburadagrantiniall.net
 sendeburadakal.net
