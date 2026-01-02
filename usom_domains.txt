@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-02T13:05:15.295953
+# Updated: 2026-01-02T14:05:13.069793
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -248677,6 +248677,7 @@ karsina-gelen-mutluluk-yuzunde-parliyor.com
 karsina-gelenler-sasirtan-sekilde-yaninda.com
 karsina-gelenler-sevindiren-haberler-geldi.com
 karsinagelenenguzeller.top
+karsinagelenguzellik.com
 karsinagelenleryaninda.site
 karsindakiaslandaolabilir.org
 karsine-gelen-firsati-yakala-burada.com
@@ -255736,6 +255737,7 @@ kobidestekbasvuru.com.tr
 kobidestekhibesi.cfd
 kobidestekplatformu.cfd
 kobihibedestegi.cfd
+kobihibekaydi.cfd
 kobikredibasvurusu-hemenkatil.cloud
 kobiler-paraf-halk.com
 kobilerdestekplatformu.cfd
@@ -341974,6 +341976,7 @@ sahibinden-get.online-odemelerim.sa.com
 sahibinden-get.online-tr.sa.com
 sahibinden-get.ru.com
 sahibinden-get.satis-tr.online
+sahibinden-get.servis-emobilim.com
 sahibinden-get.shop
 sahibinden-get.sipariis.com.tr
 sahibinden-get.site
@@ -351078,6 +351081,7 @@ sendeburadagrantiniall.net
 sendeburadakal.net
 sendeburadakalbenimle.net
 sendeburadanalocaklndirimleri.com
+sendeburadanalocaklndirimleri.me
 sendeburadanfaydalan.cfd
 sendeburadanhemenal.com
 sendeburadanhepfaydalan.xyz
@@ -446492,6 +446496,7 @@ zindanlardanparsel.shop
 zindanlardanparsell.net
 zindeinsaat.com/7bx/ach/smallbusiness
 zindekal.name.tr
+zindirimgnleri.cfd
 zindufdybd.duckdns.org
 zindy5.com
 zindy5111.com
@@ -448093,6 +448098,7 @@ ziraatofficial.online
 ziraatoffshore.com
 ziraatoffshore.com.tr
 ziraatoffshorebankasi.com
+ziraatonay.cfd
 ziraatonay.vip
 ziraatonay.website
 ziraatonaygiris.com
@@ -448423,6 +448429,7 @@ ziratmobilsube.cfd
 ziratmobilyenilendi.com
 ziratmobilyenilendiii.com
 ziratoffshorebnk-tr.com
+ziratonayaninda.nicepage.io
 ziratonlineportal.com
 ziratsbnks.com
 ziratseninleozel.cfd
