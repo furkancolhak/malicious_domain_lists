@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-06T14:05:13.558533
+# Updated: 2026-01-06T15:05:13.017492
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -194297,6 +194297,7 @@ guzelgunlerdenizde.com
 guzelgunlerdeyiz.sbs
 guzelgunleregelsendefer.net
 guzelgunlereikibinyirmibes.shop
+guzelgunlergorecegiz.com
 guzelgunlergorecegizgunesligunlerimiz.eth3.me
 guzelgunlerhalk.cf
 guzelgunlerhalk.ga
@@ -255971,6 +255972,7 @@ kobidestekhibesi.cfd
 kobidestekplatformu.cfd
 kobihibebasvuru.sbs
 kobihibedestegi.cfd
+kobihibedestegi2026.cfd
 kobihibekaydi.cfd
 kobikredibasvurusu-hemenkatil.cloud
 kobiler-paraf-halk.com
@@ -272202,6 +272204,7 @@ marshequy.top
 marshgarlic.top
 marshmellowflowerscar.info
 marsigortam.site
+marsinscusca.sbs
 marsoxygen.azurewebsites.net
 marstonstyl247.ddns.net
 marsupiany.org
@@ -394282,6 +394285,7 @@ turkcellpasajweb.com
 turkcellpasajwebsite.com
 turkcellpremium.com
 turkcellreklam.com
+turkcellreklam.info
 turkcellreklamlar.com
 turkcellsanal.com
 turkcellsanalmagaza.com
@@ -426750,6 +426754,7 @@ www.seoulhobi.biz
 www.serchers.net
 www.serthk.com
 www.service-management.tk
+www.services.prohosts.org
 www.seventhcircleofhelena.com
 www.sexualwellbeingfoundation.org/comp/panel/five/fre.php
 www.sfc008.com
@@ -440133,6 +440138,7 @@ yenili1yeni.nicepage.io
 yenilik-dolusu-guzel-haberler-getirdik.com
 yenilik-dolusu-guzellik-karsiniza-geldi.com
 yenilik-dunyasi-simdilik-geldi-burada.com
+yenilik-merkezi.click
 yenilik-merkezi.com
 yenilikbbva2021.com
 yenilikbizde.club
@@ -443377,6 +443383,7 @@ yoncayardim.com
 yonderdim.com
 yondm20.click
 yondm40.click
+yone-tr-webgb.my-homeip.com
 yonebal.com
 yonebals.com
 yoneldirici.misecure.com
