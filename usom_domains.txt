@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-06T12:05:13.706124
+# Updated: 2026-01-06T13:05:15.370656
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -69890,6 +69890,7 @@ babayanli1.zapto.org
 babayayaone.zapto.org
 babayev.zzz.com.ua
 babaylazoryarisirlar.cfd
+babaylazoryarisirlarhaha-bed908460a2f.herokuapp.com
 babaylazoryarisirlarr.cfd
 babb12321231231oboo125.com
 babb21421412424112oboo125.com
@@ -79545,6 +79546,7 @@ bihgs.sg-host.com
 bihgssistemi.sg-host.com
 bihimcellcigiris.tk
 bihteretiler.xyz
+bihtik.sbs
 bihuhzrmho.duckdns.org
 bihupnjddx.duckdns.org
 bii1cmxell.com
@@ -139871,6 +139873,7 @@ ds847f.tcgwl.ru
 dsa2ya.name.tr
 dsaadsdadasdsdbimcellykle.org
 dsaammodytes.info
+dsacs.sbs
 dsad3weqedsa.click
 dsad4weqedsa.click
 dsadaevvt-dsvvt.com
@@ -146932,6 +146935,7 @@ e-turkiyemiz-gov.com
 e-turkiyeportaligovtr.com
 e-turly.com
 e-tuvsorgulamalar.org
+e-tuvturkk.digital
 e-tvbonusalgirislemenu.online
 e-tvibonusalgirislemenu.online
 e-tyode.net
@@ -233678,6 +233682,7 @@ islespotlight.top
 islet-dijitalim.app
 islet-dijitalimiz.app
 isletislem.app
+isletmebilgisi.cfd
 isletmesidev.com
 isllemhizlisonuc.com
 isllemlerogren.app
@@ -235059,6 +235064,7 @@ istbnmlmmkart.net
 istbns1se.com
 istbnvsl1.com
 istbrbizim.ltd
+istbrdansdgdfassaas.mooo.com
 istbrmzw.xyz
 istbrzma.online
 istbsabs.com
@@ -237567,6 +237573,7 @@ izdemirdekar.net
 izdeu.com
 izdfmirrdacia.com
 izdial.com
+izdlssfs.dns.navy
 izdmrbkyemdoldur.net
 izdrmlrlignclr.net
 izdsacvvgncel.net
@@ -237704,8 +237711,10 @@ izkrkelebk.net
 izkrr.net
 izkrtbkyeklemesi.com
 izlasmlsabmanskam.blogspot.com
+izldasgc.blogspot.com
 izldasgsdhd.blogspot.com
 izlddsg.blogspot.com
+izlds6ockslig.dns.navy
 izldskm.blogspot.com
 izlebasvurunutr.com
 izledekudur.cfd
@@ -253061,6 +253070,7 @@ kilometreuzmanim.cfd
 kilometrev.web.app
 kilometrevehasarcom.shop
 kilometrevehasarkaydi.autos
+kilometreveri.web.app
 kilometreverisi.web.app
 kilometreyokeden.cfd
 kilometrosgorgulamahemengovpttsxsaz.com
@@ -255332,6 +255342,7 @@ kmpyn900178.sbs
 kmpynyenliil-mobligr.com
 kmpzagctn.com
 kmqsvrgprtrdoawybohguq.pw
+kmrapor.sa.com
 kmraporlari.sa.com
 kmraporum.sa.com
 kmrcloudfakkpap.website
@@ -257092,6 +257103,7 @@ kosfzv.com
 kosgdestekprojesi.site
 kosgeb-basvuru.click
 kosgeb-destek.duckdns.org
+kosgeb-hibe-basvuru.cfd
 kosgeb-hibe-basvuru.replit.app
 kosgebbasvuru.cfd
 kosgebbasvuru.online
@@ -271231,6 +271243,7 @@ manevimiras.com
 manfiestandroid.com
 manfor.duckdns.org
 mangaarthoteltokyo.com
+mangala.click
 mangalium.com
 mangandeuh.xyz
 mangasiso.top
@@ -271902,6 +271915,7 @@ marketinidan.click
 marketiniucza.sbs
 marketiniz-kapinizda.biz.tr
 marketiniz-kapinizda.com.tr
+marketiniz-kapinizda.tv.tr
 marketiniz.xyz
 marketinizden.cfd
 marketinkapida.biz.tr
@@ -297149,6 +297163,7 @@ odeklyvery-gyy.net
 odem-eleronline2024.online
 odem3h1zmetleri-101d.duckdns.org
 odem3h1zmetleri-101d1.duckdns.org
+odem3h1zmetleri-101d1dd.duckdns.org
 odem3h1zmetleri101d.duckdns.org
 odeme-3d-secure.com
 odeme-5123.com
@@ -362289,6 +362304,7 @@ sokedenkampanyalar.com.tr
 sokedtanwa.com
 sokekstra.pages.dev
 sokeloask.xyz
+sokemalla.sbs
 sokerpower.com
 sokerzkmczfrstlarkxzz.com
 sokeurlllsaeashv.net
@@ -368347,6 +368363,7 @@ stanleylegendaryfirsatlarlaaa.techsolve.sbs
 stanleymarket.biz.tr
 stanleymarket.info.tr
 stanleymarket.net.tr
+stanleynewdawn.xyz
 stanleynextera.xyz
 stanleynexus.xyz
 stanleyparlar.com
