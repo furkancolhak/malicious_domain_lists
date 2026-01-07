@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-07T13:05:13.533017
+# Updated: 2026-01-07T14:05:17.838787
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -32515,6 +32515,7 @@
 8edfw45sacasf237vm90sdl23k.xyz
 8edfw45sacasfdvm90sdl23k.xyz
 8egub9e7s6cz7n.com
+8eh18dhq9wd.click
 8elv6jk.duckdns.org
 8eoue5k2.duckdns.org
 8eptmarket.com
@@ -159017,6 +159018,7 @@ enucuziplikler.company
 enucuzmarketalisverisi.com.tr
 enucuzmarketalisverisi.online
 enucuzmarketalisverisi.xyz
+enucuzmarketurunleri.cfd
 enucuznikeayakkabi.top
 enucuzsayfasi.com.tr
 enucuzubuldum.cfd
@@ -170635,6 +170637,7 @@ finyze.info
 fioha1.net
 fiollool.ga
 fionamcleod.net
+fionx.cyou
 fiookee.com
 fiordmoss.ddns.net
 fiorentcamcycle.redirectme.net
@@ -188495,6 +188498,7 @@ gongsinet.kr/comm/comm_gongsi.asp
 gongtea66.com
 gongzuosousuo.net
 goniec.org
+gonlinemenugirislewbonuslari.online
 gonlinemislemapptr.store
 gonlinemisllemenumuztr.store
 gonlinemisllemmnumtr.store
@@ -197588,6 +197592,7 @@ hakliodemelerimgl.net
 hakliodemem.net
 haklkslasas.com
 hakm285.ddns.net
+hakmanelektronik.com
 hakmartfirsatlari.ml
 hakmsasza.net
 hakohako.ddns.net
@@ -221545,6 +221550,7 @@ idakho.cyou
 idalidcouture.com
 idappleestore.zapto.org
 idappleidappleid.zapto.org
+idaricezadosya.org
 idaricezasorgu.org
 idaricezasorgulama.org
 idaridenetleme.com
@@ -255342,6 +255348,7 @@ kmpnnyaaabsvrrrprmoo.live
 kmpnnyaaabsvrrrprmoo.pro
 kmpnnylrii-kacciirmaa.com
 kmpny.2023araclar.xyz
+kmpny1o1brd.com
 kmpnya-al-ucz-hmen.shop
 kmpnyaaabasvrrrprmsynn.art
 kmpnyaaabasvrrrprmsynn.info
@@ -257691,6 +257698,7 @@ krcaktuel.com.tr
 krcaktuel.info.tr
 krcaktuel.net.tr
 krcaktuel.org.tr
+krcamtlusnlerdiler.top
 krcaocaksiparislerim.xyz
 krcaockzmi.click
 krcaonline.shop
@@ -275177,6 +275185,7 @@ menudijita1lgirisllemenuller1m.com
 menudijitalgirislemenulerim.com
 menudijitalgirisllemenullerim.com
 menugirislemb0nuslari.online
+menugirislewbonuslari.online
 menulerigirisllemb0nuslari.online
 menvisinhbifina.com
 menvnctcooqkootl.com
@@ -290905,6 +290914,7 @@ nexst111.sells-it.net
 nexsuslazim.net
 next-bbva-git-main-new-team-6b1a0f4e.vercel.app
 next-bbva.vercel.app
+next-firsat-webtr.my-homeip.com
 next.my-homeip.com
 next2.my-homeip.com
 nextarabakirala.online
@@ -368481,6 +368491,7 @@ stanleyburdauygun.site
 stanleycarrfour.store
 stanleyclassicc.vip
 stanleydunyasi.xyz
+stanleyechanges.xyz
 stanleyevriliyor.xyz
 stanleyferrto.me
 stanleyferto.me
