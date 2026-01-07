@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-07T17:05:13.233983
+# Updated: 2026-01-07T18:05:13.593395
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2036,6 +2036,7 @@
 101-mayisozelfirsat.online
 101-mayisson.com
 101-mayissongun.com
+101-mobil-online-alisveris.ooguy.com
 101-mobil-tr.com
 101-mobil.com.tr
 101-nisan-indirimleri.com
@@ -11218,6 +11219,7 @@
 190.131.194.90
 190.138.174.85
 190.138.41.31
+190.14.37.10
 190.14.37.139
 190.14.37.210
 190.14.37.50
@@ -21006,6 +21008,7 @@
 3ei5mko.duckdns.org
 3eilefh.duckdns.org
 3eis76d.cn
+3ejbe8eo5f13oiggmqkdkhekknk9c2tlnvzpvrc16hnhi0g4kxtsxef2gh.jgcrrouu.es
 3ek35.com
 3ekim-comtr.art
 3ekim-robofirsat.art
@@ -33596,6 +33599,7 @@
 93.105.185.139
 93.113.131.103
 93.113.206.62
+93.113.25.114
 93.113.25.46
 93.114.128.160
 93.114.133.128
@@ -69840,6 +69844,7 @@ babakigari.com/login/db_template.php
 babakiyen.com
 babakkeduapypl.ddns.net
 babakonda.shop
+babal543e.dns.navy
 babala.sa.com
 babala.xyz
 babalaburda.com
@@ -133427,6 +133432,7 @@ dgena.duckdns.org
 dgenhvryjy.duckdns.org
 dgetevery43.xyz
 dgever.ddns.net
+dgf122x.org
 dgfasdfascqw.click
 dgfcvvinyxto.info
 dgfdfdmgfm.net
@@ -153300,6 +153306,7 @@ egitimyigitkultur.net
 egitimzamani.online
 egiuw.top
 egjor.com
+egk1w.onkttyhqjycn.es
 egkmgcpofg.duckdns.org
 eglaili.tk
 eglence34.my.canva.site
@@ -186366,6 +186373,7 @@ girisimcigenclikburs.org
 girisimcigenclikvakfi.org
 girisimcigenclikvkf.net
 girisimcivakifbank.com
+girisimdestek.cfd
 girisimgiris.net
 girisiminbasvurusuekrani.com
 girisimiz2guncellendi3456.site
@@ -286600,6 +286608,7 @@ my.eiyfmrn.com
 my.en-gb.home-access.online
 my.forms.app/burakyazici
 my.kocfilo.xyz
+my.magicpandas.fun
 my.phostegro.com
 my.refnameit.life
 my1-members1stfcu.duckdns.org
@@ -309089,6 +309098,7 @@ pandadestek20202.com
 pandalphatramerislemleri.blogspot.com
 pandamidestekbasvuru1000tl.com
 pandamilestone.top
+pandaspandas.pm
 pandasubsistence.top
 pandawithrainbow.com
 pandbasvuru.com
@@ -318868,6 +318878,7 @@ poohead2.ddns.net
 pook.mywire.org
 pook.zapto.org
 pool.bmwebm.org
+pool.breakfastidentity.ru
 pool.rawdot.net
 pooldiaz14.duckdns.org
 pooleandpheasant.com
@@ -328042,6 +328053,7 @@ qamkhw.com
 qan1.top
 qandeblari.xyz
 qanokey.com
+qaok5hty3.vraudo.es
 qapara.com
 qapnyf6ay.duckdns.org
 qapwwwedkq.duckdns.org
@@ -328712,6 +328724,7 @@ qmncjgkuh.com
 qmnjgevtqp.duckdns.org
 qmnyukleme.22web.org
 qmobil.com.tr
+qmobill.com
 qmotexhwaj.net
 qmpmnn.duckdns.org
 qmpo.art
@@ -434882,6 +434895,7 @@ xyyrponljb.duckdns.org
 xyyuklegecxy.sg-host.com
 xyz.hxarasxg.xyz
 xyz.vegascheck.net.tr
+xyz.yuzgebhmwu.ru
 xyz1.ddns.net
 xyz123abc.ddns.net
 xyz2.ddns.net
