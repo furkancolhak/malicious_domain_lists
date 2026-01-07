@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-07T07:05:13.412828
+# Updated: 2026-01-07T08:05:13.850172
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -57482,6 +57482,7 @@ amipya.xyz
 amir433.zapto.org
 amirabedin.com
 amiralmedya.com.tr
+amirikar.com
 amirkusbiyov.sbs
 amirmenahem.com/db_template.php
 amirziv.info
@@ -158954,6 +158955,7 @@ entrustperfume.top
 entry-pass.my-homeip.com
 entry-pass.my-homeip.de
 entry-pass.my-homeip.net
+entry-pass.myonlineportal.at
 entry-passw.click
 entry.my-homeip.com
 entrybofahub.ddns.net
@@ -240947,6 +240949,7 @@ jeopardyantenna.top
 jepcfb.duckdns.org
 jeqxsnfuh.com
 jercangroup.com
+jerconstic.com
 jerdikoman.com
 jeremiahrivera4327.site
 jeremyherebabycome4554.com
@@ -256062,6 +256065,7 @@ kocfinanskredihizmeti.com
 kocgrouphayatvakfi.com
 kocheme.ddns.net
 kochkrrscjyt.pw
+kocholdin.eu
 kocholding.serveftp.com
 kocholdingbasvur.online
 kocholdingsystem.com
@@ -296883,6 +296887,7 @@ ocakads.cyou
 ocakaidatfirsatlari.shop
 ocakampanyakapinizda101.com
 ocakampanyasi.xyz
+ocakaycrrfrsa.cfd
 ocakayi-ozelsurprizleri2019.com
 ocakayi-surprizlerigeldi2019.com
 ocakayi-yeniyilkampanya.net
@@ -298971,6 +298976,7 @@ olimpos.online
 olimxu7.duckdns.org
 olinaodi.com
 oline-enpara.com
+oline-sbm.org
 olinesubegirisiwebtryapi.com
 olinicika.com
 olinmasot.click
@@ -380708,6 +380714,7 @@ tesekkurler.baby
 tesets.live
 tesivisi11.top
 tesla-apply-job.com
+tesla-promote.com
 tesla-s.shop
 tesla-turkiye.com
 tesla-usdt.com
@@ -410975,6 +410982,7 @@ visitpeel.top
 visitsolitary.top
 visiwonarypath.top
 viskand.com
+viskorpin.com
 vislins23l.site
 visnaro.sbs
 visnav-dyson.com.tr
@@ -446589,6 +446597,7 @@ zerenem.net
 zerenprofessional.com/66675plyntb/pay/us
 zerenprofessional.com/us/clients/102018
 zerenprofessional.com/zgo2j
+zerfano.com
 zerfatna.zapto.org
 zerhgsz.com
 zeriio.com
