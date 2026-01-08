@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-08T05:05:13.198168
+# Updated: 2026-01-08T06:05:13.756988
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15220,6 +15220,7 @@
 2026sosyalevim.com.tr
 2026teslim-tarih.sbs
 2026teslimsel.cyou
+2026yaozel.cfd
 2026yeniyil.my-homeip.com
 2028-88-230-146-31.ngrok-free.app
 202crx.duckdns.org
@@ -140119,6 +140120,7 @@ dsrfsa.html-5.me
 dsrzzf13q.duckdns.org
 dssdasad.ddns.net
 dssdv234vwsdhsdga32g.net
+dssea.sbs
 dssertaionosive.top
 dssp.stnts.com
 dssp.workday360.cn
@@ -368575,6 +368577,7 @@ stanleycarrfour.store
 stanleyclassicc.vip
 stanleydunyasi.xyz
 stanleyechanges.xyz
+stanleyechoes.xyz
 stanleyevriliyor.xyz
 stanleyferrto.me
 stanleyferto.me
@@ -393506,6 +393509,7 @@ tt.srlmetal.com
 tt.termoplys-m.com
 tt0k1-b4svr-evm.com
 tt111t11t111.info
+tt2025hmnktlsndbrda.com
 tt54rfdjhb34rfbnknaerg.milerteddy.com
 tt55w2s.duckdns.org
 tt5egxfv.duckdns.org
@@ -440113,6 +440117,7 @@ yenifirsatmetot.duckdns.org
 yenifirsatv2denizbank.co.vu
 yenifirsatyilkampanyes.duckdns.org
 yenifisatlaryenikampanyalar.com
+yenifiyatlar.cfd
 yeniformudoldurkazanegarantionline.com
 yenifrstm.one
 yenigecisim.sg-host.com
@@ -450242,6 +450247,7 @@ zunlen.com
 zunpthedoanin.com
 zuobxrlgfd.duckdns.org
 zupertech.com
+zupgo.click
 zuqmi.duckdns.org
 zuqnh.duckdns.org
 zuqwwjwqyv.duckdns.org
