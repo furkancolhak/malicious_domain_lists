@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-08T09:05:14.048637
+# Updated: 2026-01-08T10:05:13.357351
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9198,6 +9198,7 @@
 176.65.144.232
 176.65.144.253
 176.65.148.120
+176.65.148.177
 176.65.148.217
 176.65.148.234
 176.65.148.236
@@ -31430,6 +31431,7 @@
 84.209.52.11
 84.21.170.43
 84.234.96.104
+84.234.96.159
 84.234.96.167
 84.234.96.31
 84.239.43.45
@@ -56350,6 +56352,7 @@ alonebus.top
 alonedespise.top
 aloneladder.net
 aloneone91.hopper.pw
+alonesad.com
 aloneyagura2.duckdns.org
 alongdeal.net
 alongenvirons.com
@@ -113251,6 +113254,9 @@ cmzeph0.duckdns.org
 cmzhjmdzte.duckdns.org
 cmzjekfnej.ru.com
 cmzjekfnej.za.com
+cn-notepadplusplus.com
+cn-obsidian.com
+cn-winscp.com
 cn.mcafee-service.us.com
 cn12115.tmweb.ru
 cn1c4ul5k.duckdns.org
@@ -132034,6 +132040,7 @@ destekplatformu.org
 destekprbduyurutr.com
 destekprduyuru.com
 destekprogrami2025.online
+destekrehberim.cfd
 desteksaglik.xyz
 desteksaglikgirisi.epizy.com
 desteksaglikodemesi.epizy.com
@@ -140512,6 +140519,7 @@ duodenum.notenimbus.com
 duodiscovers.com
 duoduodev.com
 duoenergyluxury.shop
+duooi.com
 duorhytm.fun
 duotonedigital.co.za//db_template.php
 duotonedigital.co.za/db-config-ini.php
@@ -186893,6 +186901,7 @@ github-scanner.shop
 github.expublic.linkpc.net
 github.gitextensions.org
 github.url-mini.com
+github.zh-cns.top
 githubapp.online
 githubapp.tech
 githubassets.akamaixed.net
@@ -188460,6 +188469,7 @@ golobalthemall.xyz
 golofi4752.wixsite.com
 gologisticmx.com
 gololosd.ddns.net
+golomee.com
 goloser.ru
 golti.info
 golyadik.site
@@ -210852,6 +210862,7 @@ hiltonlusubesindeler.online
 hiltonlusubesindeler.xyz
 hiltrox.com
 hilumimu.site
+hiluxo.com
 him35ksd12.store
 himaa.ddns.net
 himdnwc.com
@@ -241415,6 +241426,7 @@ ji8elb3.duckdns.org
 jiagban.com
 jiahd.duckdns.org
 jianfj.top
+jiaweo.com
 jiaxdeh.com
 jiaxin.ddns.net
 jiayzzxvvm.duckdns.org
@@ -242070,6 +242082,7 @@ jokertop1.zapto.org
 jokeskesteratakriom.com
 jokeskesterriom.com
 jokestre.com
+jokewick.com
 jokjur.duckdns.org
 jokotras.ru
 jokpop-pendyng.ddns.net
@@ -242210,6 +242223,7 @@ jou.zapto.org
 jou7a.no-ip.biz
 joujg.icu
 joulensider.pro
+jouloi.com
 joum2iih.duckdns.org
 jouoc675.duckdns.org
 joup25ajw.duckdns.org
@@ -253316,6 +253330,7 @@ kimeracheck.com.tr
 kimeracheck.online
 kimfaceprofilimebakti.com
 kimfirsatister.shop
+kimhate.com
 kimi.name.tr
 kimiga.ru
 kimileri-buralarda-ailesi-buraya-sonandar-mutlu-olacak.com
@@ -266612,6 +266627,7 @@ lovelylara.zapto.org
 lovelyuniv.zapto.org
 lovemael.ddns.net
 loveme.ddns.net
+lovemeb.com
 lovemebygift.ddns.net
 lovemydress.pl
 lovenoip.zapto.org
@@ -293349,6 +293365,7 @@ notenookbook.com
 notepact.top
 notepad-plus-plu.org
 notepad-plus-plus.bonuscos.com
+notepadplusplus.cn
 notepads-plus-plus.org
 notepadxtreme.com
 noteproduce.top
@@ -298928,6 +298945,7 @@ ol9ogemc.duckdns.org
 ol9q6y.duckdns.org
 ola1o1.net
 olababs2014.zapto.org
+olabb.com
 olacakbubayramhizmmet.net
 olacakkgibibekliyecez.com
 olacaklarburada.net
@@ -341570,6 +341588,7 @@ sadkslr5445354.com
 sadlad101com.hopto.org
 sadlavdt-vdvt.com
 sadlink.io
+sadliu.com
 sadma.knrowz.com
 sadnessartillery.top
 sadnessdistortion.top
@@ -348027,6 +348046,7 @@ sbhtnaksdm.net
 sbhvrginiz.info
 sbi.mycardcare.in
 sbibd.net
+sbido.com
 sbierbuducunpderdr.ddns.net
 sbijng.com
 sbikok.top
@@ -364955,6 +364975,7 @@ sorryfordelay.top
 sorryretrospective.top
 sorrysensational.top
 sortable.click
+sortableo.click
 sortedhosted43.hopto.org
 sorteercentrum.hopto.org
 sorteo50.ddns.net
@@ -375687,6 +375708,7 @@ tanwasoked.com
 tanz0n1ya.com
 taoblu.com
 taojfj2.cn
+taokur.com
 taorswjnqquiypvqb.net
 taosha.cc
 tap26subatsiparisleri.cloud
@@ -377533,6 +377555,7 @@ tchazinevemaliye.ip-ddns.com
 tcheklamama.zapto.org
 tchelero-55169.portmap.host
 tchelovekoblako.club
+tchibebasvuru.cfd
 tchizmetiadeleribasvurun-portal.tk
 tchk-1.com
 tchlnos.xyz
@@ -381472,6 +381495,7 @@ the71olderbasvr67katill.site
 the85.us
 theabstractprincess.com
 theafricanwatch.com
+theaigaming.com
 theakbtit.top
 theakirateam.com
 theaktuel-urunler.com
@@ -383028,6 +383052,7 @@ tisortkampanyasi.cf
 tisortkampanyasi.tk
 tisqls52.top
 tissuederegulation.top
+titamic.com
 titanarmyrary.today
 titanc5.net
 titanchecksystem.store
@@ -396723,6 +396748,7 @@ turknewfarm.com
 turknews-online.com
 turknewshub.com
 turknrg.com
+turkobidestek.cfd
 turkocaklaribagis.com
 turkodemenzzmtv.tk
 turkogrencilerbirligi.com
@@ -411873,6 +411899,7 @@ vlskvlsvkslvsnm.com
 vlsy812.duckdns.org
 vltdh-devletscrc.com
 vlttmtr.com
+vlumu.com
 vlupe.cn
 vlvxtlepve.duckdns.org
 vlwwvd.duckdns.org
