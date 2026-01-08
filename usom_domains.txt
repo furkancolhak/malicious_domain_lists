@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-08T17:05:13.989504
+# Updated: 2026-01-08T18:05:14.542665
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -53598,6 +53598,7 @@ al0l.com.tr
 al0l.dnsup.net
 al0l.dynip.org
 al0l.net
+al0l.online
 al0l.site
 al0l.store
 al0laldinaldinfirsatlar.wuaze.com
@@ -153373,6 +153374,7 @@ egm-serec.net
 egm8kak.duckdns.org
 egmadalet.com
 egmadalettc.org
+egmasliceza.org
 egmbbull.com
 egmbilgi.com
 egmbull.one
@@ -210605,6 +210607,7 @@ hia3hz.duckdns.org
 hiajuip4l.duckdns.org
 hiaphuikqi.ddns.net
 hiatus2.ddns.net
+hibe-destegi-basvuru.cfd
 hibe-destekleri.com
 hibe-ramazanayi2021.com
 hibe-yasasi.com
@@ -212021,6 +212024,7 @@ hizliformdoldur-uygulamaindir.tk
 hizliformsbbva.com
 hizliformsbbvagarantitr.com
 hizliformudoldurun.com
+hizlifrsat.com
 hizligarenta.com
 hizligb.com
 hizligc.com
@@ -257813,6 +257817,7 @@ krcaktuel.net.tr
 krcaktuel.org.tr
 krcamtlusnlerdiler.top
 krcaocaksiparislerim.xyz
+krcaocktabslyr.top
 krcaockzmi.click
 krcaockzmnitn.top
 krcaonline.shop
@@ -390923,6 +390928,7 @@ trendyolx.vip
 trendyolxpress.com
 trendyolxs.com
 trendyolyeniadres.com
+trendyolyeniadres.org
 trendyolyeniadresim.com
 trendyolyeniadresim.org
 trendyolyilbasihediyesi.com
@@ -447500,6 +447506,7 @@ ziraat-ceponline.com
 ziraat-cepsubem.com
 ziraat-cepsubesi.org
 ziraat-ceptesube.com
+ziraat-com-kr.cfd
 ziraat-com-kt.cfd
 ziraat-com.cfd
 ziraat-combo-bireysel.com
