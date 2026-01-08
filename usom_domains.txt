@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-08T08:05:13.670095
+# Updated: 2026-01-08T09:05:14.048637
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -11556,6 +11556,7 @@
 193.142.146.203
 193.142.146.21
 193.142.146.239
+193.142.146.30
 193.142.147.59
 193.142.30.154
 193.142.30.17
@@ -77535,6 +77536,7 @@ bek.ae/wp-includes//connection.php
 bek.ae/wp-includes//ixr/connection.php
 beka.click
 beka.zapto.org
+bekaad.click
 bekb0actualiseren.duckdns.org
 bekbologme.ddns.net
 bekboportallogin.ddns.net
@@ -215453,6 +215455,7 @@ hoppy.jax-link.click
 hopsasas22.hopto.org
 hopservicemanage.hopto.org
 hopsl3.com
+hoptek.click
 hopthelilenti.site
 hoptklms.org
 hoptrakds.xyz
@@ -235883,6 +235886,7 @@ istnrw.com
 istns.net
 istnsaad.ml
 istnsbdsddsulbruadsa.store
+istnsbdulbruadsa.store
 istnsz.net
 istntlkaart.net
 istnullkarttm.net
@@ -277280,6 +277284,7 @@ milfcheeks.com
 milfhunter.duckdns.org
 miliaraic.ru
 miliarder.store
+milionariotr.store
 militancyclearing.top
 militancygleam.top
 militancyhumiliation.top
@@ -348870,6 +348875,7 @@ sdspe4uxsl1rs0spglk.ddns.net
 sdspropro.co.ua
 sdss-inddaaarisd.sbs
 sdssdcfrstlndrmlr.xyz
+sdssr.sbs
 sdsuxk-work.shop
 sdtbest.blogspot.com
 sdthgsz.com
@@ -355509,6 +355515,7 @@ shoploves.top
 shoplureklam14.xyz
 shoplvndrhaldi.com
 shopmira.store
+shopnova.art
 shopopp-2912.click
 shopoutdoorsrus.com
 shopoxbow.club
@@ -368573,6 +368580,7 @@ stanley499atermos.com
 stanley666superindirimgelidibrddd.com
 stanley666superindirimgelirrrrr.com
 stanleyafterdark.xyz
+stanleyafterrise.xyz
 stanleyalidnkacrma666dann.com
 stanleyawake.xyz
 stanleyburdagel.xyz
@@ -437958,6 +437966,7 @@ yar7-yukleme.22web.org
 yaradanasoryaradandanoturu.fit
 yarakilometre.cfd
 yarakus5g6gg.ddns.net
+yaramamerhem.farkxvar.xyz
 yaraminkafasinahosgeldniz.online
 yaran.co
 yaranpamu.buzz
