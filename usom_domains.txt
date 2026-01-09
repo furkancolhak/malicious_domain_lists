@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-09T20:05:14.432815
+# Updated: 2026-01-09T21:05:14.305609
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -297340,6 +297340,7 @@ ocksdjahkdfjhsa32132.com
 ocktakrcazmni.cfd
 ocktas0nlar.shop
 ocktasguk.shop
+ockzamni.top
 oclinemi.com
 ocljx.com
 oclk-tan-yni.cfd
@@ -424959,6 +424960,7 @@ www-isbankampanya.com
 www-isbankampanyam.com
 www-isbankasi-kartaidatiade.com
 www-isbankasi-kartiade.com
+www-isbankasi-tr.com
 www-isbankasi.tk
 www-isbankasicep.com
 www-isbankcekilisbasvuru.com
@@ -450441,6 +450443,7 @@ zugh.us
 zughvyug.org
 zugzwangaeonian.com
 zuh3vcyskd4gipkm.onion
+zuhaahhahhkikikohuh-1da57f9c72b9.herokuapp.com
 zuhayrcoder.com
 zuhgerteyte.click
 zuhnminecraftmusic.hopto.org
