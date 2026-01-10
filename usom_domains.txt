@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-10T20:05:20.146698
+# Updated: 2026-01-10T21:05:13.852696
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -226249,6 +226249,7 @@ indirim-katalog-haziran.com
 indirim-kataloglarimiz.com.tr
 indirim-kazanim.com
 indirim-kazanim.xyz
+indirim-magza-a-1o1siparis.cfd
 indirim-marketi-a1o1.net
 indirim-maviiiddee-sepetim.com
 indirim-merkezi.online
@@ -231581,6 +231582,9 @@ is-bankasi.site
 is-bankhediyebuyil.com
 is-bankhediyembenim.com
 is-banklim.com
+is-basvuru.click
+is-basvuru.com
+is-basvuru.xyz
 is-besl.net
 is-bireysel.my-homeip.com
 is-bireysel.my-homeip.net
@@ -270837,6 +270841,7 @@ malicako.top
 malicc.site
 malicction.top
 maliceza.net
+malicezatr.org
 malicioussegregate.top
 maliciousthorny.top
 maliciousturbulent.top
@@ -314756,6 +314761,8 @@ paxobuy.com
 paxorilla.store
 paxos-video-interview.com
 paxosassessments.com
+paxyn-10-1denflrslarsunarr.sbs
+paxyn-stiye-sizleri-yonlendirir.cfd
 pay-aktif.com.tr
 pay-apymyou.ddns.net
 pay-bank.workers.dev
@@ -441688,6 +441695,7 @@ yetisen-aliyor-gel-sende-al-al-al.xyz
 yetisen-aliyor.com.tr
 yetisenalirkacmaz.com.tr
 yetisenalirkacmaz.info
+yetisenalirkacmaz.online
 yetisenaliyorsindionlinekcmzxz.com
 yetiseniyialir.cfd
 yetisenkapiyor.sbs
