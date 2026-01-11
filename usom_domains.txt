@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-11T13:05:14.269404
+# Updated: 2026-01-11T14:05:17.243969
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15213,6 +15213,7 @@
 2025yilikampanyasizlere.com
 2026-yanizda-olacak.sbs
 2026bvsnrsmdikyt.sbs
+2026evfirsati.sbs
 2026evimprojesi.com.tr
 2026hedefvizyon.online
 2026hediyesi.cfd
@@ -62319,6 +62320,7 @@ aralikfirsatikapinagelsin.online
 aralikfirsatimiz.servehttp.com
 aralikfirsatimla.servehttp.com
 aralikfirsatlar.com.tr
+aralikfirsatlar.org.tr
 aralikfirsatlar101.xyz
 aralikfirsatlargunleri.com.tr
 aralikfirsatlargunleri.online
@@ -163733,6 +163735,7 @@ evinizingerekenherseymarkettencok-ucuz.cfd
 evinizinmarketbutcesinikoruyun.cfd
 evinizinmutfakmasraflarinidengeleyenmarket.cfd
 evinizintekhazirgidaalisverisi.cfd
+evinizolsun.click
 evinolsun.click
 evinternetabonelikvebasvurumerkezi.site
 evinternetabonelikvebasvurumerkezii.site
@@ -235140,6 +235143,7 @@ istanbulumut.online
 istanbuluncanavari.com
 istanbulungucu.com
 istanbulunguvercinleri.shop
+istanbulunsizlerindenhab.shop
 istanbuluntarihi.myshopify.com
 istanbulunyasinatasoyu.net
 istanbuluyukle.net
@@ -347176,6 +347180,7 @@ sanaozelfirsat.site
 sanaozelfirsatlar.com.tr
 sanaozelfirsatlardunyasinahemenadiminiatbasvur.com
 sanaozelformudoldur.ga
+sanaozelfrstlr.duckdns.org
 sanaozelhediyekampanyasibasvurusu.online
 sanaozelherseyhemenkatil.online
 sanaozelhizli.xyz
@@ -359607,6 +359612,7 @@ sistemim-odeme.online
 sistemim-odeme.site
 sistemimmerkez.net
 sistemimodemeler.org
+sistemin.nicepage.io
 sistemini-tamamla.com
 sistemini-tamamladin.com
 sisteminizdevirusbulundu.com
@@ -437981,6 +437987,7 @@ yapimobill.com.tr
 yapimobill.net.tr
 yapimobill.org.tr
 yapimobill.tr
+yapimobille.com.tr
 yapimobille.org.tr
 yapimobiller.xyz
 yapimobilsube-destek.com
@@ -447748,6 +447755,7 @@ ziraat-cepsubesi.org
 ziraat-ceptesube.com
 ziraat-com-kr.cfd
 ziraat-com-kt.cfd
+ziraat-com-tt.cfd
 ziraat-com-xy.cfd
 ziraat-com.cfd
 ziraat-combo-bireysel.com
