@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-12T17:05:13.703890
+# Updated: 2026-01-12T18:05:14.045954
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2047,6 +2047,7 @@
 101-oglenkacmaz10.com
 101-oglenkapinda.com
 101-online-akutelmayis.com
+101-online-ozel.ooguy.com
 101-online-siparis-ver-mobilde-bireysel-tr.mooo.com
 101-online-sponsor-ozel-siparis-ver-tr-cep.com
 101-online.net
@@ -4524,6 +4525,7 @@
 112.122.227.241
 112.126.94.107
 112.133.194.254
+112.134.208.214
 112.140.185.246
 112.17.106.99
 112.17.190.176
@@ -6920,6 +6922,8 @@
 146.70.116.20
 146.70.118.226
 146.70.121.88
+146.70.124.165
+146.70.124.188
 146.70.125.119
 146.70.125.68
 146.70.125.79
@@ -33699,6 +33703,7 @@
 93.89.236.186
 93.95.102.25
 93.95.112.50
+93.95.112.51
 93.95.112.52
 93.95.112.53
 93.95.112.54
@@ -153093,6 +153098,7 @@ efsanevigrnti.duckdns.org
 efsanevihediyeler.com
 efsanexsezonsonu101.xyz
 efsaneyeni-yilfirsatlari.shop
+efsaneyenilikleryaninda.com
 efsaneyeniyil-firsatlari.shop
 efsaneyeniyilfirsatlari.shop
 efsannemarttiindirimleri.com
@@ -202148,6 +202154,7 @@ hayalindeki-heyecan-dolusu-yenilik-burda.com
 hayalindeki-ucuzluk-kapiniza-geliyor.com
 hayalindeki-yasam-burada-gerceklesiyor.com
 hayalindeki-yenilikler-yuzune-nese-getirdi.com
+hayalindeki.com
 hayalindekidunya.com
 hayalindekiguzellikler.top
 hayalindekikapinageldi.cfd
