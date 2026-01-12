@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-12T06:05:13.643714
+# Updated: 2026-01-12T07:05:13.222860
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -100848,6 +100848,7 @@ burgan-bk.com
 burgan-bnk.tk
 burgan.netsbnks.com
 burgan2ban3.site
+burganadmin.2mpro.trade
 burganbank-guncellestirme.fm
 burganbank-magaza.vg
 burganbank.info
@@ -100881,6 +100882,7 @@ burghrcrf.cfd
 burglardrome.top
 burglarfascism.top
 burglaryalign.top
+burgnyatirimtr.com
 burgupazarlama.tk
 burhanburcak.cfd
 burhanitradinglimited.co.uk/wp-config-ini.php
@@ -277350,6 +277352,7 @@ migroskapinda.com
 migroskapinda.duckdns.org
 migroskopmarket.com
 migrosmarket.one
+migrosmarket.pro
 migrosmarket.store
 migrosn1onlin-devcmua-kanpnyalarnztcl1.b-cdn.net
 migrosn1onlin-devcmua-kanpnyalarnztyv734.b-cdn.net
@@ -342094,6 +342097,7 @@ safsafjksfak214.com
 safsafkjfsa124.com
 safsaflk21512.xyz
 safsazasxsawqrwq.app
+safser.click
 safsevza20145.wordpress.com
 safsfafq-ssdgggggg.space
 safsfavxzvv-wqvsdbfd-fqfasdsdbbsd.website
@@ -373870,6 +373874,7 @@ swdvrcftjt.xdk8ax.cn
 swe-trans.tk
 swearcounteraction.top
 sweardeplete.cn
+sweasr.click
 sweatband.top
 sweaterlongevity.top
 sweatershops.com
