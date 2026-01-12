@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-12T09:05:15.581583
+# Updated: 2026-01-12T11:05:14.158326
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -61215,6 +61215,7 @@ arabsdeals.com/wp-config-ini.php
 arabsigortayenii.xyz
 arabskmsorglma.xyz
 arabulucudosya.org
+arabuluculukceza.com
 arabuluculukegm.org
 arabworldnews.info
 arabxmuayne.org
@@ -183617,6 +183618,7 @@ genisailelericinhesaplikampanyalar.cfd
 genisfilo.com
 genisfilo.online
 genisgecis.is-best.net
+genisleme-tr-ing-btr.my-homeip.com
 genismarketim.com
 geniusinnvest.com
 geniusmusicalbumsdata.com
@@ -234275,6 +234277,7 @@ issstyaannbullkrttykleme.blogspot.com
 isssungggbsvrrr.cloud
 isssyukleeeee.net
 isstanbbulkartbasvvr.org
+isstanblfdm.com
 isstanbuldlum.net
 isstanbuldulum.net
 isstanbulkartimayukle.net
@@ -236067,12 +236070,14 @@ istnns.net
 istnnv.net
 istnnz.net
 istnr.net
+istnrbdfdsfdsfdsbursad.store
 istnrbudsbursad.store
 istnrbudsfsddsbursad.store
 istnrw.com
 istns.net
 istnsaad.ml
 istnsbdsddsulbruadsa.store
+istnsbduasdlbrusdhezm.store
 istnsbdulbruadsa.store
 istnsz.net
 istntlkaart.net
@@ -243776,6 +243781,7 @@ k22012.c1.biz
 k22asdhashdashdashdahsd.site
 k22ashdahsdhashdahsdhashdsda.click
 k234s.ascotsprue.com
+k23ashdahsdhashdhashdahshd.click
 k24y4vo.duckdns.org
 k25218e252a03jox7hk.ddns.net
 k25ci3z.duckdns.org
@@ -277933,6 +277939,7 @@ miqihunigs.info
 miqueias123.duckdns.org
 mir.tyg.mybluehost.me
 mir4.ddns.net
+mira.ceo
 mirabionix.com
 miracbxmcllseninle.com
 miraccell1.cf
@@ -344655,6 +344662,7 @@ sahibinden.mom
 sahibinden.name
 sahibinden.net-guvenliodeme.cf
 sahibinden.nl
+sahibinden.ode-al-hizmeti.com
 sahibinden.odeme-hizmeti.com.tr
 sahibinden.odeme-ilanlarim.sa.com
 sahibinden.odeme-kampanya.com
@@ -347148,6 +347156,7 @@ sanalmarketin.com
 sanalmarketin.com.tr
 sanalmarketinyaninda.online
 sanalmarketmgros.com
+sanalmarketmigros.one
 sanalmarketp-ttavm.com
 sanalmarketsokcepte.online
 sanalmarkett.site
@@ -392030,6 +392039,7 @@ trmardsama.blogspot.com
 trmarfsfgs.shop
 trmarketaralik.com.tr
 trmarketaralik.net.tr
+trmarketaralik.org.tr
 trmarsrgulamaa.com
 trmasak.com
 trmasak.org
