@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-13T08:05:13.724639
+# Updated: 2026-01-13T09:05:13.769805
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -57627,6 +57627,7 @@ amongporridge.top
 amongreign.top
 amongstwork.top
 amongususmos.duckdns.org
+amonntree.com
 amonosdeviaje.com
 amooy.com
 amooy.com/webservice/db_template.php
@@ -110018,6 +110019,7 @@ cheat.ddns.net
 cheatengine.ddns.net
 cheatjeka.hopto.org
 cheatmodernwarfare.com
+cheatmynft.com
 cheatobzor.ddns.net
 cheatonline.duckdns.org
 cheats-r.ddns.net
@@ -285959,6 +285961,7 @@ municipalityilluminate.top
 muniipalcorrsion.top
 munipolare.site
 munitioners.com
+munodvdpbi.cfd
 munodvdpbi.sbs
 munurfitness.net
 munurhocafitness.net
@@ -288161,6 +288164,7 @@ n877o.0unpol.com
 n8a88e.duckdns.org
 n8cwww0sa.duckdns.org
 n8f1wtb.duckdns.org
+n8n-license-validator.onrender.com
 n8z3ohm.duckdns.org
 n9-jobs.com
 n908sdzc1.duckdns.org
@@ -296417,6 +296421,7 @@ nw3c7lt8.duckdns.org
 nw47dzmxw.duckdns.org
 nwa-oma.ml
 nwa-oma2.ml
+nwabzapato.top
 nwafsfhws.blogspot.com
 nwal.zapto.org
 nwapi.oss-cn-hangzhou.aliyuncs.com
@@ -361821,6 +361826,7 @@ smi5ruaq.duckdns.org
 smile-glory.com
 smile234.xyz
 smileagte.zapto.org
+smileccoconut.sbs
 smileg2te.ddns.net
 smileissuea.top
 smilejoke.ddns.net
