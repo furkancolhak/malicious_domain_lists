@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-15T12:05:13.626429
+# Updated: 2026-01-15T13:05:15.774789
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15238,6 +15238,7 @@
 2026knutun.wordpress.com
 2026konutbasvuru.sbs
 2026konutbasvurum.sbs
+2026konuthatti.sbs
 2026konutislem.sbs
 2026konutportal.sbs
 2026konutprojesi.sbs
@@ -205638,6 +205639,7 @@ hemenislemm.net
 hemenislemmbasv00.online
 hemenislemmerkezi.app
 hemenislemmx.sg-host.com
+hemenislemnkkntasi.online
 hemenislemntkonasi.net
 hemenislemntonkasni.online
 hemenislemosnutlktaktan.blogspot.com
@@ -255667,6 +255669,7 @@ kmjlx.duckdns.org
 kmjs26golds.xyz
 kmjuythg.shop
 kmjyhgyj.shop
+kmkac.sa.com
 kmkanlikbasvuruservisinde.com
 kmkantem1-67863c131eb7.herokuapp.com
 kmkavbilgi.sbs
@@ -329276,7 +329279,6 @@ qjihss3.duckdns.org
 qjjvp53.duckdns.org
 qjkwrrmlthwc.storage.googleapis.com
 qjlvc.uqauv.cn
-qjmotors.com.tr
 qjmto.com
 qjncjs.xyz
 qjnuvtcmua.duckdns.org
@@ -343167,6 +343169,7 @@ sahibinden-get.e-paramguvende.online
 sahibinden-get.e-ticaretservisi.com
 sahibinden-get.ealimguvenceli.com
 sahibinden-get.ealimmobil.com
+sahibinden-get.eservisalimlar.com
 sahibinden-get.guvenilir-odeme.com
 sahibinden-get.guvenli-alisverislerim.sa.com
 sahibinden-get.ilanlarimiz.com.pl
@@ -344023,6 +344026,7 @@ sahibinden-paramguvende.guvenliservis.com.tr
 sahibinden-paramguvende.hizli-tr.com.tr
 sahibinden-paramguvende.hizmet-online.com.tr
 sahibinden-paramguvende.hizmetler-tr.com.tr
+sahibinden-paramguvende.ilan-onay-tr.online
 sahibinden-paramguvende.ileguvenli-al.com
 sahibinden-paramguvende.info
 sahibinden-paramguvende.manuel-alim.net
