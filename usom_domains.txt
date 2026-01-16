@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-16T09:05:14.640367
+# Updated: 2026-01-16T10:05:12.242456
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -147964,6 +147964,7 @@ eakdresi-turkiyegovttr.com
 eakgirisiadedevleti.com
 eakitrkiye.com.tr
 eaktarmamerkezigirisi-kurumsaltalepadresi.com
+eakyz.click
 ealbaraka.com
 ealdat.com
 ealdirectiveteam.info
@@ -160455,6 +160456,7 @@ eradicateerrand.top
 eradicatejargon.top
 eradicationturbulent.top
 erakorislandresortspa.forum
+erakyz.click
 eramazanayi-destek.com
 eramazanayi-destekpaketi.com
 eramekanixd.com
@@ -161296,6 +161298,7 @@ eskartyuklemzxdohzmeti.net
 eskaxa.site
 eskbc5ly.duckdns.org
 eskdcajkdstyddx.su
+eski-islem-ucretlerini-sorgula.sbs
 eskici99.online
 eskiden-dogru-hepimiz-cana-yakiniz.com
 eskiden-haber-bizimle-cana-dogru.com
