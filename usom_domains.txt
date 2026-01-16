@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-16T05:05:13.519971
+# Updated: 2026-01-16T06:05:13.393977
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -44394,6 +44394,7 @@ adayislemleri.sa.com
 adaylar-sistemi.org
 adayodeme-sistemleri.net
 adayolusum-sistemleri.net
+adaysecim2026.com
 adaysistem-islemlerin.org
 adayyuksekurumlarin.net
 adb-yukleme.22web.org
@@ -70828,6 +70829,7 @@ bakyem34.net
 bakyemm.net
 bakyeykleesendee.net
 bakyeyuklemeler.net
+bakyz.click
 balaateen.co.za/less/db-config-ini.php
 balaateen.co.za/less/db_template.php
 balaateen.co.za/less/wp-config-ini.php
@@ -228854,6 +228856,7 @@ instaldevloperacc.duckdns.org
 instalinfrin.top
 instalivechat.edu.pl
 instalker.org
+install-1.info
 install-anydesk.com
 install-anydeslk.com
 install-flashplayer.zapto.org
@@ -238174,6 +238177,7 @@ izehbruc.com
 izeldasbcvc.blogspot.com
 izeldasknknbr.blogspot.com
 izeldasonlineca.dns.navy
+izeldssanyi.blogspot.com
 izelgececic.dns.navy
 izelgecexxxs.blogspot.com
 izelgisizmir.net
@@ -238194,6 +238198,7 @@ izeltasf0r543sq.duckdns.org
 izeltasfir101xcom.ddns.net
 izeltasfirsat.com.tr
 izeltasfirsat.online
+izeltasfirsatialc.dns.navy
 izeltasfirsatlari.online
 izeltasfirsl543q.duckdns.org
 izeltasfiyatindir.xyz
@@ -343906,6 +343911,7 @@ sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.hizliveguvenlionlinealisveris.com.tr
 sahibinden-param-guvende.ilan-bilgi.online
 sahibinden-param-guvende.ilan-detay.online
+sahibinden-param-guvende.ilan-guvenli.online
 sahibinden-param-guvende.ilan-onay-tr.online
 sahibinden-param-guvende.ilan-onay.online
 sahibinden-param-guvende.ml
@@ -347729,6 +347735,7 @@ sanatvetasarimdunyasindayangelen.xyz
 sanayakisaniyap.eu
 sanayi-sorgu.org
 sanayitr.info
+sanayizeldas.dns.navy
 sanballat.live
 sanbleutjrsd.ddns.net
 sanbntrs.click
@@ -353604,6 +353611,7 @@ sercureoolineed.ddns.net
 serdargroup.fun
 serdavakfi.com
 serderipinar-23.net
+serdf.click
 serdiklerinden-ilkkez-bukadar-yakinda-durdurulur.com
 sere.basvurm-desdek-kampanyasi-bireysel.xyz
 sere.bireye-ozel-basvur-destek-kampanya.xyz
@@ -432376,6 +432384,7 @@ xn--gmailalmsatm-74be.net
 xn--gncelgiritr724-gsb60n.dev
 xn--gncelhaberlerokugiriyap-cpc15kn8a.app
 xn--gnde5paketsigaraiciyom1-cpc.com
+xn--gnderibilgi-rfb.com
 xn--gnnhediyesifinansda-59bb.com
 xn--goldcagrieleman-mlc.com.tr
 xn--google.ml
