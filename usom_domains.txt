@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-18T17:05:13.068132
+# Updated: 2026-01-18T18:05:18.059901
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -195078,6 +195078,7 @@ gwekigekkoi1.website
 gwelecco.com
 gwemrphyutdi.pw
 gweneverejessamyn.net
+gwenugirisllewbonuslari.online
 gweyei.org
 gwfbad.com
 gwfffnmhlhcx.space
@@ -288410,6 +288411,7 @@ n-1o1comtr.online
 n-ational-australia-online.com
 n-bntdestektr.com
 n-e-t.site
+n-grn-tin-vb.my-homeip.com
 n-hizlislemgirisimimenu.online
 n-i-s-a.net
 n-is-an-frs.sbs
@@ -322695,6 +322697,7 @@ profildekiler.click
 profildekiler.com
 profile-4f0e-461b-80be-7e2af0c949a8.cfd
 profile-4f0e-461b-90be-7e2af0c949a8.cfd
+profile-5e1a-b903-4f2c-9a7e5d1c8b44.sbs
 profile-a9c2-7d4f-1b8e-3f6a9c2d7e10.sbs
 profile-bakanibul.tk
 profile-kimler-bakti.com
