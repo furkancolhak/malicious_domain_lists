@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-18T07:05:16.247019
+# Updated: 2026-01-18T08:05:13.850432
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -277785,6 +277785,7 @@ migros-hizla-tikla.com.tr
 migros-hizla-tikla.xyz
 migros-indirim.com.tr
 migros-mall.com
+migros-marketcepte.vercel.app
 migros-mobilmarket.vercel.app
 migros-onlineextra.vercel.app
 migros-sanalalisveris.com.tr
