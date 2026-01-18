@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-18T11:05:14.392641
+# Updated: 2026-01-18T12:05:16.231226
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -159067,6 +159067,7 @@ enpaypapara1.com
 enpera.site
 enpnve.top
 enpopiler.name.tr
+enpopulermarketlerinindirimlikataloglari.cfd
 enppara.com
 enpragirispromosyon.sbs
 enprakazanmafirsatinikacirma.net
@@ -170862,6 +170863,7 @@ findercammer.tk
 finderlight.online
 findexkredim.com
 findexkredim.shop
+findexpuan.xyz
 findextrader.com
 findfree-people-friends.com//db_template.php
 findideallife.com
@@ -194425,6 +194427,7 @@ guvenliodemeislemleri.com
 guvenliodemek.tk
 guvenliodemeler.cf
 guvenliodemeler.com
+guvenliodemeler.store
 guvenliodemeler.tk
 guvenliodemeleri.gq
 guvenliodemeleriniz.online
@@ -249053,6 +249056,7 @@ karacasonkasim-ozelfirsatlar.xyz
 karacastore.net.tr
 karacastore.org.tr
 karacatabak.free.site.pro
+karacatc.cfd
 karacatr.biz.tr
 karacatr.com
 karacatr.com.tr
@@ -354543,6 +354547,7 @@ servismikro.nichesite.org
 servismikro.xyz
 servismobil.xyz
 servisodeme.sg-host.com
+servisofsistemlogingirisinfosystemdemocrasy.com
 servisonayonline.top
 servispakettlyuklemeyeriservisi.org
 servisplatformu.xyz
