@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-19T13:05:15.623738
+# Updated: 2026-01-19T14:05:13.290228
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2505,6 +2505,7 @@
 101hemenkapilarinizdasizinle.ptt-gonderitakip.com
 101hemenkapindasizinle.com
 101hemenkapinizda.com
+101herseyburadaonlineozel.rf.gd
 101hizliislemler.cfd
 101hizlimarketleri.online
 101hizlimarketleri.xyz
@@ -50251,6 +50252,7 @@ akb-kmpsmtstfrstkmm.za.com
 akb-krdbsr.com
 akb-nk.com
 akb-nktavnsfrstlari.za.com
+akb-rk.com
 akb-yilbasi-ozel-basvuru-sayfasi.xyz
 akb.aksanal.site
 akb.basvurum-kolay.site
@@ -235845,6 +235847,7 @@ istdolum.net
 istdolumkartykm.net
 istdolumyeri.net
 iste-firsatlar.com
+iste-kampanya.my-homeip.com
 iste-kapinda.site
 iste-menuler.online
 iste-mobil-subecilik.com
@@ -395262,6 +395265,7 @@ tumkullanicilarasuzukiceklisidenzv6basvuru.net
 tumkullanicilaratrockaznmafirsatisimdibasvur.net
 tumkullanicilaratrockaznmafrsatisimdibasvur.net
 tumkullanicilarimizaq3audikazanmafirsati.net
+tummarketlerin-guncel-kataloglari.cfd
 tummarketlerinindirimlikataloglarilistesi.cfd
 tummerata.com
 tummuz-katalogcusu-com.site
@@ -418524,6 +418528,7 @@ website6634654.nicepage.io
 website665454654565.nicepage.io
 website665454654df4234.nicepage.io
 website66555242414.nicepage.io
+website665656556.nicepage.io
 website665s12.nicepage.io
 website665z22f.nicepage.io
 website666454211.nicepage.io
