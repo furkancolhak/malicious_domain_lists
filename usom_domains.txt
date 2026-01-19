@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-19T08:05:14.412288
+# Updated: 2026-01-19T09:05:14.255027
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3301,6 +3301,7 @@
 103.39.109.239
 103.39.109.252
 103.39.110.193
+103.39.222.143
 103.40.112.228
 103.41.177.43
 103.41.177.58
@@ -7392,6 +7393,7 @@
 151.242.30.13
 151.242.58.76
 151.243.213.234
+151.243.213.58
 151.245.104.90
 151.38.146.180
 151.80.142.33
@@ -7775,6 +7777,7 @@
 157.245.100.177
 157.245.173.210
 157.245.193.91
+157.245.197.39
 157.245.243.62
 157.245.245.116
 157.245.3.251
@@ -7837,6 +7840,7 @@
 158.69.236.51
 158.69.236.54
 158.69.39.138
+158.94.208.27
 158.94.209.180
 158.94.209.23
 1580044.ddns.net
@@ -11392,6 +11396,7 @@
 192.225.226.217
 192.227.147.133
 192.227.147.152
+192.227.152.84
 192.227.176.100/lmaowtf/
 192.227.190.11
 192.227.211.219
@@ -11778,6 +11783,7 @@
 193.32.162.27
 193.32.162.34
 193.32.162.74
+193.32.162.76
 193.32.163.166
 193.32.208.24
 193.33.153.62
@@ -21794,6 +21800,7 @@
 41.216.183.49
 41.216.188.205
 41.216.188.218
+41.216.188.36
 41.216.189.234
 41.216.189.88
 41.228.22.180
@@ -47138,6 +47145,7 @@ ahkok.ddns.net
 ahkshkgzlsr.jumpingcrab.com
 ahlam1212.ddns.net
 ahlatcikuyumculukaltin.com
+ahlatciwebyatirim.com
 ahlatyatirimkiymetler.com.tr
 ahlbrandt.eu
 ahlform.online
@@ -132913,6 +132921,7 @@ devlet-kapisidestekbasvuru.com
 devlet-kart-iade-girisi.com
 devlet-kobiyardimi.com
 devlet-kredikartlar-aidatsorgulama.app
+devlet-kredisi.com
 devlet-krediyardimi.com
 devlet-kurul-kararname.epizy.com
 devlet-mobilsosyaldestek.com
@@ -232127,6 +232136,7 @@ is-drsssswws.sbs
 is-dtfrskm.sbs
 is-dtkmsps.sbs
 is-firsatbasvursu-tr.com
+is-firsatlari.my-homeip.com
 is-formu-basvur-bireysel-online.ml
 is-frsst2rrr.xyz
 is-gir.my-homeip.com
@@ -253607,6 +253617,7 @@ kiknliogn.webflow.io
 kiko2.zapto.org
 kiko89.zapto.org
 kikomilanos.com
+kikonat.com
 kikosmilamos.com
 kikoxd.ddns.net
 kikvtojeil.duckdns.org
@@ -377066,6 +377077,7 @@ tarimkredimagazam.cfd
 tarimkredimarket.cfd
 tarimkredimarketim.cfd
 tarimkredimarketleri.cfd
+tarimkrediyemkooperatifleri.org
 tarimmarket.online
 tarimmarket24.com
 tarimmarketcep.cfd
