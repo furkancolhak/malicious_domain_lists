@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-19T09:05:14.255027
+# Updated: 2026-01-19T10:05:13.623503
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -168994,6 +168994,7 @@ fenthishubs.store
 fentivv.com
 fentq.org
 fentraazenfe.com
+fenulqora.com
 fenvefizikdusunceler.xyz
 fenzor.com
 feodosh.hopto.org
@@ -255797,6 +255798,7 @@ kmcsorgulas.com
 kmcsorgusu-5287da00d79c.herokuapp.com
 kmcssorgulama1.com
 kmdcs.com
+kmdenetim.web.app
 kmdenhizmet.shop
 kmdenizbank.com
 kmdeogrenhizmeti.cfd
@@ -255889,6 +255891,7 @@ kmhgfgfs.shop
 kmhgfvgbn.shop
 kmhhgfgh.shop
 kmhhla.top
+kmhizlisorgu.sa.com
 kmhizmet.web.app
 kmhizmeti.sa.com
 kmhizmett.shop
