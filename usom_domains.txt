@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-20T17:05:13.195022
+# Updated: 2026-01-20T18:05:13.770412
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -35540,6 +35540,7 @@ a-101-market.online
 a-101-marketf.shop
 a-101-marketindirim.com
 a-101-oniline-mrket.sbs
+a-101-onlilne-flrsatiar.sbs
 a-101-online-ozel.website
 a-101-online-sepetim.com.tr
 a-101-online-sepetim.online
@@ -45157,6 +45158,7 @@ adreseteslimmax.online
 adreseyonlendir.cfd
 adreseyonlendir.sbs
 adresguncelletrendyol.com
+adresgunceltrendyol.com
 adresguvenli.digital
 adreshepsiburada.com
 adresi.b-cdn.net
@@ -103831,6 +103833,7 @@ cahide.b-cdn.net
 cahide.click
 cahide1453palazzo.xyz
 cahide1453reservasyon.online
+cahide1453rezervasyon.sbs
 cahide1453rezerve.online
 cahidee1453palazzo.xyz
 cahideepalazzo.xyz
@@ -103838,6 +103841,7 @@ cahideepalazzoo.xyz
 cahideglence.vercel.app
 cahideistanbul1453.com
 cahidemaslak.vercel.app
+cahidemaslak1453reservasyon.online
 cahidemaslak1453rezervasyon.online
 cahidemaslak1453rezerve.online
 cahidemaslakkrezervasyon.com
@@ -194770,6 +194774,7 @@ guvens.online
 guvensigortaciniz.net.tr
 guvensigortaciniz.org.tr
 guvensigortakasko.net.tr
+guvensigortaliteslimat.baby
 guvensigortaniz.com
 guvensigortaofisi.com.tr
 guvensigortaofisi.net.tr
@@ -206523,6 +206528,7 @@ hepsiapp.web.app
 hepsibahis0615.com
 hepsibanakalsin23.digital
 hepsibedava.info
+hepsiberaberyaninageldi.com
 hepsibgunacil-kampanyaduyurusunaozel.tech
 hepsibiarada-ekpaket-turkcell.com
 hepsibirarada-20gb-turkcell.com
@@ -230878,6 +230884,7 @@ intpostulare.online
 intpotes.online
 intqnbfinans.com
 intqua.online
+intr-et-gid-isi.cfd
 intra.cfecgcaquitaine.com
 intra.cfecgcaquitaine.com/mjdyeuhs32
 intraktfislemler.net
@@ -279757,6 +279764,7 @@ mobikartaidat-iadeleri.com
 mobil--finans2019.com
 mobil--qnbfinans.com
 mobil--qnbiade.com
+mobil-101-de-bugune-ozel-firsatlar-tr.mooo.com
 mobil-101-indirimli-urunler-tr.mooo.com
 mobil-101-online-ozel-firsatlar.linkpc.net
 mobil-101-online.app
@@ -298059,6 +298067,7 @@ ocakfirsatlarikapinagelsin.xyz
 ocakfirsatlarindirim.net
 ocakfirsatlarisonay.hopto.org
 ocakfiyatlari.cfd
+ocakflrsatiburadan.shop
 ocakflrsatimizbu.com
 ocakgunleri.sbs
 ocakhaftasi-burada.tr
@@ -315138,6 +315147,7 @@ pasabeydestek.org
 pasacoktatli.xyz
 pasadenapetrol.com
 pasagemagaza.com
+pasagemagaza.sbs
 pasagemagazasi.com
 pasagemzam.xyz
 pasagereklam.com
@@ -319803,6 +319813,7 @@ polipkuru.bid
 polipkuru.win
 polipolpoasdt.vercel.app
 poliru.zapto.org
+polis-tr-155.online
 polis24trgovtl.shop
 polisgeldixy.duckdns.org
 polisgunlukleri.xyz
@@ -337995,6 +338006,7 @@ return-room.at.ply.gg
 return342.xyz
 returndisclose.top
 returndizzy.top
+returnhesap.com
 returnht.hopto.org
 returnsquare.top
 retweethavuzu.org
@@ -350175,6 +350187,7 @@ seasonjuvenile.top
 seasonmalnutrition.top
 seasonnature.net
 seasonplease.net
+seasonunveil.homes
 seasonzigzag.top
 seasv.vercel.app
 seatrackline.com
@@ -369835,6 +369848,7 @@ stanleyafterrise.xyz
 stanleyafterzero.xyz
 stanleyalidnkacrma666dann.com
 stanleyawake.xyz
+stanleyazo.xyz
 stanleybaseline.xyz
 stanleyburdagel.xyz
 stanleyburdauygun.site
@@ -446672,6 +446686,7 @@ yuwuovefdx.duckdns.org
 yuxflt9.duckdns.org
 yuxhai6a.net
 yuxinproteins.com
+yuxzxyixlnxindxr2mlxrm.site
 yuyang0608.ddns.net
 yuyl.top
 yuyubeybi.net
