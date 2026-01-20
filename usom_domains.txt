@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-20T20:05:13.358279
+# Updated: 2026-01-20T21:05:14.211747
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1966,6 +1966,7 @@
 101-de-hemen.com
 101-de-indirimli-firsat-urunler.mooo.com
 101-de-indirimli-firsatlar-online-ozel-tr.mooo.com
+101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
 101-de-online-ozel-indirimler-tr.mooo.com
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
@@ -49691,6 +49692,7 @@ aisimple.top
 aisirif-sfriaiis-sifieidi.lol
 aisizhushou.com
 aisksdjsijdsknshak.icu
+aisleadvisor.gifts
 aisleosymn.com
 aisoraplus.com
 aisozsymbsvur.net
@@ -60670,6 +60672,7 @@ appliancebeak.top
 appliancelounge.top
 appliancemother.top
 appliancepartsxpress.com
+applibuy.com
 applicantbotany.top
 applicantdissent.top
 applicatehuis.info
@@ -64859,6 +64862,7 @@ assemblyturtle.top
 assembrevenge.top
 assembslyais.shop
 assensation.top
+assenvix.com
 assepettindekampanya.click
 asseqvsbsleh.wcnv20.cn/instagram-me
 assertendow.top
@@ -95330,6 +95334,7 @@ bodtrip.com
 bodubor.duckdns.org
 bodvx7.duckdns.org
 body30042.zapto.org
+bodyboostkitchen.com
 bodyclassics.org
 bodycommon.top
 bodydetergent.top
@@ -96275,6 +96280,7 @@ bookingverification.world
 bookingverificationnumber342456.com
 bookitconfirmed.com
 bookitlab.tech
+bookkeepbreeze.com
 bookkeepersewfer.info
 bookkeepingbypros.com
 booklethouse.com
@@ -161713,6 +161719,7 @@ estcostpostyes154.site
 estcostpostyes56.site
 este.acalaman.com
 estedominaya.duckdns.org
+esteelo.site
 esteemcommendation.top
 esteemgland.top
 esteemmilestone.top
@@ -173554,6 +173561,7 @@ fite.aefrant.com
 fitehook.com
 fitfh-3r0d0x.hopto.org
 fitforklife.com
+fitfuel-hub.com
 fitga.ru
 fitilibombala.blogspot.com
 fitislem.22web.org
@@ -278418,6 +278426,7 @@ mindcore-elevation.online
 mindcraftstore.com
 minddbinder.com
 mindfuei.com
+mindfulmacro.com
 mindservo.com
 mindsetabiguous.top
 mindsetydit.org
@@ -282962,6 +282971,7 @@ monespaceclientlcl.duckdns.org
 monetary-veil.online
 monetaryarea.top
 monetrzx11.app
+monexolira.com
 money-frn.net
 money-gram.click
 money-gram27.click
@@ -283169,6 +283179,7 @@ monusmubonus.org.tr
 monusorge.com
 monwealth.top
 monyforpeople.online
+monzexo.com
 monzo-card-support.com
 monzo-check.com
 monzo-notice.com
@@ -400174,6 +400185,7 @@ ubabank-ng.com
 ubacbcutcd.duckdns.org
 ubadrium.com
 ubanisationyrmid.top
+ubankgiris.com
 ubavmbcbqlo4er7.ddns.net
 ubbvfdv.top
 ubchm2q0ilu2efyrcripovc.ddns.net
@@ -405572,6 +405584,7 @@ vacetin.pro
 vaclicinni.xyz
 vacsystempolicy.com
 vacu.ddns.net
+vacuhub.com
 vacui.ddns.net
 vacuole.vughgnnfg.com
 vacuumperplex.top
@@ -437227,6 +437240,7 @@ yaniyorumyanginvarrr.click
 yanlamayiseverun.surf
 yanlarda-bizgibi-kimselere-katildigin-iyisine-bakar.com
 yanlarina-kalanada-bugibin-oluruz.cfd
+yanlarusturacanotaskes.xyz
 yanlasigortam.net
 yannetgecis.is-best.net
 yanparglobal.com
@@ -445037,6 +445051,7 @@ yolgecisodemesi.info
 yolgecisodemesleri.info
 yolgecisveznesi.xyz
 yolgecsotohgs.duckdns.org
+yolgezgin.com
 yolharitasi.space
 yolhgczwkg.duckdns.org
 yolhgdbzok.duckdns.org
@@ -445112,6 +445127,7 @@ yolofish.zapto.org
 yololive.sbs
 yolololo.ddns.net
 yoloyo.click
+yolrehber.com
 yolsorgulamanoniz.click
 yoltalimat.com
 yoltrgecis.blogspot.com
