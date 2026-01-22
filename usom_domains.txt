@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-22T14:05:13.990093
+# Updated: 2026-01-22T15:05:15.453340
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -47066,6 +47066,7 @@ ahahvc.duckdns.org
 ahakip321.ddns.net
 ahalis2dal2.site
 ahamo.name.tr
+ahanda.click
 ahandaburda.mom
 ahaoh.ddns.net
 ahaphweeaa.com
@@ -67259,6 +67260,7 @@ avismi.com.tr
 avismmssmsorange.duckdns.org
 aviso-bbvaonline.com
 aviso-clientes.com
+avisodeme.com
 avisofficial.com
 avisoimportante2022.ddns.net
 avisonliine.com
@@ -79418,6 +79420,7 @@ bhqytkowvc.duckdns.org
 bhraman.org
 bhrckls-ktlhmn232.space
 bhrdabnlrynigldialmynmk.com
+bhrfrsltlsksjfjsa.sbs
 bhrimsptfo.duckdns.org
 bhro5v.duckdns.org
 bhrprs.duckdns.org
@@ -156531,6 +156534,7 @@ emeklimizgiris.com
 emeklingiris.com
 emeklingirisi.com
 emeklipromosyon.duckdns.org
+emeklipromosyonbasvur.cfd
 emeklipromosyonu.cfd
 emekliramiysi.pw
 emekliveciftcikrdibsvr.fixip.org
@@ -181778,6 +181782,7 @@ garentabireysel.com
 garentabizim.com
 garentabizimdir.com
 garentacaarr.shop
+garentacar.com
 garentacar.net
 garentacarfilo.com
 garentacarkirala.com
@@ -185482,6 +185487,7 @@ ggertyuudgk.ddns.net
 ggezxdni.net
 ggf11.xyz
 ggf11best.blogspot.com
+ggfdsjkgfskjdfhjsdjhfdsdfs.sbs
 ggfetfsdfsdfsdddf.shop
 ggfsfasfasfvvv.duckdns.org
 ggg-ds-dh-hds-5-25-21----521-251-rwfs-aeh-dss.com.tr
@@ -248493,6 +248499,7 @@ kapida-863cb44c7c12c-c4a3695-fc06xaqwi-6ac8e211.xyz
 kapida-863cb4ca4ac7c12c-c4a3dd6acc95-fc06xaqwi-6ac8e211.com.tr
 kapida-863cc447c12c-c4a1d3695-fc063xadsqwi-6dac8e.com.tr
 kapida-9k4xwz2m.sbs
+kapida-9x7k2mqz.sbs
 kapida-a-1-0-1.store
 kapida-a101.online
 kapida-a101.site
@@ -370051,6 +370058,7 @@ stanleylegendaryfirsatlarlaaa.techsolve.sbs
 stanleymarket.biz.tr
 stanleymarket.info.tr
 stanleymarket.net.tr
+stanleymatrix.xyz
 stanleymerdo.xyz
 stanleyneonshift.xyz
 stanleynewdawn.xyz
@@ -377267,6 +377275,7 @@ tapubilgialan.web.app
 tapucugeldi.xyz
 tapucum.net
 tapucupasa.xyz
+tapudsrksbrusad.com
 tapuharci.net
 tapuharciyatirs.net
 tapuislemlerim.net
@@ -442297,6 +442306,7 @@ yeniticaret.xyz
 yenitokibasvurum.sbs
 yenitrednler.online
 yenitrednler.store
+yenitrendyoladresim.com
 yenitrirtibat-pagehomeplatform.com
 yenitrmfk.net
 yeniturkiyegvtr.com
@@ -442783,6 +442793,7 @@ yeniyilkampanyasibasvuruekrani.website
 yeniyilkampanyasii2025.com
 yeniyilkapida.store
 yeniyilkapmaniafirsatlari.com
+yeniyilkosgeb.com
 yeniyilkredinizdenizden.com
 yeniyilkutlamalarbnncr.online
 yeniyilkutlamalari.com
