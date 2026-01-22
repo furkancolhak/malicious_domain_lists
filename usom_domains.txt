@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-22T19:05:15.702082
+# Updated: 2026-01-22T20:05:16.774623
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -140461,6 +140461,7 @@ dsfkjdsjkadjkdasd.net
 dsfljsdfjewf.info
 dsfnnxx3.net
 dsfsddsfds.click
+dsfsdjh342sdjhsdf.sbs
 dsfsdsafnmn.net
 dsfvdolktp.duckdns.org
 dsfylhq4.duckdns.org
@@ -168471,6 +168472,7 @@ fbiawbintrnsvbbesivknpanylarintfsy266.b-cdn.net
 fbid4564581243.com
 fbid5465498545613.sbs
 fbid81e3a9b4d520.sbs
+fbidgarantim5465048004506.me
 fbimcell.com
 fbinancekampanyanizgiris.ml
 fbinancekampanyanizgiris.tk
@@ -192067,6 +192069,7 @@ guardiancredit.hopto.org
 guardiancustody.top
 guardianhacker.zapto.org
 guardianmasculine.top
+guardianportfolio.com
 guardianrotate.top
 guardiaodetroiamenu.ddns.net
 guardittech.com
@@ -235699,6 +235702,7 @@ istanbulluoln.click
 istanbulluolrsmdfsk.store
 istanbulluolsakmi.click
 istanbulluolunhemen.com
+istanbulluolunhemennn.com
 istanbulluolunlann.com
 istanbulluolunnn.com
 istanbulluolunnnnhemen.com
@@ -350364,6 +350368,7 @@ seasonnature.net
 seasonplease.net
 seasonunveil.homes
 seasonzigzag.top
+seassyr.com
 seasv.vercel.app
 seatrackline.com
 seavibesco.com
@@ -370032,6 +370037,7 @@ stanleyafterdark.xyz
 stanleyafterrise.xyz
 stanleyafterzero.xyz
 stanleyalidnkacrma666dann.com
+stanleyaurora.xyz
 stanleyawake.xyz
 stanleyazo.xyz
 stanleybaseline.xyz
@@ -429967,6 +429973,7 @@ wysok.zapto.org
 wyspuryayd.duckdns.org
 wystrix.com
 wyuklemelerw.sg-host.com
+wyusloaxin.icu
 wywloyygxckkita.cn
 wywns2ie4.duckdns.org
 wywy44.ddns.net
