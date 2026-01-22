@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-22T08:05:13.768155
+# Updated: 2026-01-22T09:06:11.082114
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -30158,6 +30158,7 @@
 79.141.160.78
 79.141.160.83
 79.141.161.176
+79.141.162.189
 79.141.163.179
 79.141.164.241
 79.141.166.39
@@ -107770,6 +107771,7 @@ celmekl.workers.dev
 celmiucqgv.duckdns.org
 celnoria.site
 celpasaj.com
+celpersx.click
 celsiusrusty.top
 celsodns.zapto.org
 celsperial.hopto.org
@@ -156488,6 +156490,7 @@ emekli-cekilis-promosyon.store
 emekli-kampanyamiz.com
 emekli-promo-basvur.com
 emeklibasvurum.com
+emeklibilgilendirme.cfd
 emeklicampagn.com
 emekliciftcikrdibsvurr.duckdns.org
 emeklidegerlendirme.com
@@ -203191,6 +203194,7 @@ hazinelialtinfirsati.com
 hazinemali.cf
 hazinemaliyeeiade1.com
 hazinemaliyeodeme.com
+hazinemaliyetr.org
 hazineonline.hdirwanda.org
 hazinetrgirisuktr.com
 hazinetrgovuktr.com
@@ -248566,6 +248570,7 @@ kapida-haftalikx.com.tr
 kapida-haftax.com
 kapida-haftax.com.tr
 kapida-link.com.tr
+kapida-m8q7z2x1.bond
 kapida-market-online.name.tr
 kapida-market-online.xyz
 kapida-market.app
@@ -249269,6 +249274,7 @@ karacaindirimlerii.shop
 karacaindirrim.com
 karacaindirrim.xyz
 karacaindisirim.com
+karacaistnbl.cfd
 karacaistnye.cfd
 karacakacirma.com.tr
 karacakacirma.xyz
@@ -273130,6 +273136,7 @@ marketlerhgs.site
 marketleri-online-siparis-hizmeti-tr.online
 marketleri-tr-siparis.online
 marketleri-tr.com
+marketlerin-guncel-aktuel-katalog-listesi.cfd
 marketlerinizdenmis.cfd
 marketleriseviyozsizdesevin.com
 marketlerzinciirndekifirsalar.cfd
@@ -297872,6 +297879,7 @@ obillet.net
 obilok.xyz
 obimcell.net
 obimcelli.com
+obinance.exchange
 obinwa.ddns.net
 obiqwmdjs.com
 obirgunkocaninelinegecer.club
@@ -356000,6 +356008,7 @@ sgkprimborcuodeme.com
 sgkprimborcuodemxhzmetleri.net
 sgkpriminiodem.net
 sgkprimodeme.com
+sgkpromosyon.cfd
 sglgln01aldilgln4brdnn.com
 sglkbknlguygulama.club
 sgmc6xd.duckdns.org
@@ -370092,6 +370101,7 @@ stanleyverto.me
 stanleyvk.click
 stanleyvoidpath.xyz
 stanleywback.xyz
+stanleywbacking.xyz
 stanleywery.xyz
 stanleyyakinda.xyz
 stanleyzeropoint.xyz
@@ -383775,6 +383785,7 @@ thtbimcellhizmet.com
 thtxwrlksiyb.space
 thuglife.no-ip.biz
 thuiorkaur.net
+thularp-yolgisehizmetleri.com
 thulasmanga.co.za
 thulligend.com
 thumbcoalition.top
