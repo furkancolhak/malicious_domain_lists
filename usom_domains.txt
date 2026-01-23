@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-23T14:05:16.756338
+# Updated: 2026-01-23T15:05:14.453890
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -22809,6 +22809,7 @@
 45.32.13.180
 45.32.132.166
 45.32.141.138
+45.32.153.218
 45.32.158.232
 45.32.158.54
 45.32.174.105
@@ -44477,6 +44478,7 @@ adayislemleri.sa.com
 adaylar-sistemi.org
 adayodeme-sistemleri.net
 adayolusum-sistemleri.net
+adayrandevulari.com
 adaysecim2026.com
 adaysistem-islemlerin.org
 adayyuksekurumlarin.net
@@ -128251,6 +128253,7 @@ denizbankvt.net
 denizbankvt.org
 denizbankweb-anketleri.com
 denizbankweb.tk
+denizbankweb.z6.web.core.windows.net
 denizbankwebbankaciligi.com
 denizbankwebkatilim.com
 denizbankwebsube.com
@@ -169406,6 +169409,7 @@ ffffffffffffffffffssasffs.sbs
 fffffffggggg.top
 ffffrrsttt4.dns.navy
 fffrmsztzg.duckdns.org
+fffssga.net
 fffswsadsa.sbs
 ffgdfgdfdgdfgdfg3.click
 ffgfnliu.duckdns.org
@@ -256431,6 +256435,7 @@ kmpny.2023araclar.xyz
 kmpny1o1brd-xyz-962813.hostingersite.com
 kmpny1o1brd.com
 kmpnya-al-ucz-hmen.shop
+kmpnyaaaaprsmnynbsvrrr.art
 kmpnyaaaaprsmnynbsvrrr.info
 kmpnyaaabasvrrrprmsynn.art
 kmpnyaaabasvrrrprmsynn.info
@@ -339433,6 +339438,7 @@ rnail.rnid.ru.inro.link
 rnandevvunzur.net
 rnaqfpsraonrumx.ru
 rnarport.com
+rnarriotthotels.com
 rnastercard.de
 rnavuvakti.net
 rnb.zapto.org
@@ -339536,6 +339542,7 @@ rnhqomkmkb.duckdns.org
 rnicrosoft.com
 rnifbxsmci.duckdns.org
 rnil.am
+rnitsubishielectric.com
 rnivznvbkt.duckdns.org
 rnjfbzwkhh.duckdns.org
 rnjyurqolh.duckdns.org
@@ -429876,6 +429883,7 @@ wwwww6ogsodemelrvomtrotg.icu
 wwwwwhgspttavm.net
 wwwwwwhgskgsodemelertrgov.org
 wwwwwwnnnnnn.top
+wwwwwwwwwweeeeebsuppooorrrtt89999040.s3.eu-central-4.ionoscloud.com
 wwwwwwwwwwwphonesites.com
 wwwwwwwwwwwwwwerruuu.blogspot.com
 wwwwwwwwwwwwwwwphonesites.com
