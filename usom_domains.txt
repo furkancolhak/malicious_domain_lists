@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-24T12:05:14.090696
+# Updated: 2026-01-24T13:05:14.608881
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15325,6 +15325,7 @@
 2026tokievim.sbs
 2026tokigiris.sbs
 2026tokikayit.sbs
+2026tokim.sbs
 2026topluev.sbs
 2026yaozel.cfd
 2026yeniev.sbs
@@ -44513,6 +44514,7 @@ adayolusum-sistemleri.net
 adayrandevulari.com
 adaysecim2026.com
 adaysistem-islemlerin.org
+adaytercihler.com
 adayyuksekurumlarin.net
 adb-yukleme.22web.org
 adb.androidadbserver.com
@@ -157624,6 +157626,7 @@ en-ebasvuru-giris.com
 en-ekatilim-bmw.com
 en-fordmondeo-ebasvurformu.com
 en-gb-wordpress.org
+en-guncel-market-brosurleri-ve-kampanyalar.cfd
 en-guzel-anilar-bera-siz-ler-burada-bulunan.com
 en-guzel-anilar-beraber-siz-kuvvet-bulunan.com
 en-guzel-anilarinizi-bizimle-hep-burada-gitmeden-donmeyin.com
@@ -172986,6 +172989,7 @@ firsatlaritemuzayii.online
 firsatlaritemuzayii.xyz
 firsatlarixyzkovalamakburda.online
 firsatlariyakala.cubepavid.cfd
+firsatlariyakalama.brillswych.sbs
 firsatlariyakalamaca.site
 firsatlariyakalamak.blogspot.com
 firsatlariyakalamakicinhemengel.online
@@ -173015,6 +173019,7 @@ firsatlarkapida2025.site
 firsatlarkapidaanindasepette.com.tr
 firsatlarkapidaanindasepette.online
 firsatlarkapidaanindasepette.xyz
+firsatlarkapidas.com
 firsatlarkapidasadeceonlinee.shop
 firsatlarkapidax.shop
 firsatlarkapinageldi.site
@@ -197527,6 +197532,7 @@ haftasonufirsatlarimiz.com
 haftasonufirsatlarionlineozel101.com
 haftasonufirsatllariimizaldinaldiinn.com
 haftasonufisratlara.duckdns.org
+haftasonuflrsatlari.shop
 haftasonuhediye-dagitimlari-paribu-tr.tk
 haftasonuhediyebasvurulari-paribu-tr.tk
 haftasonuindirim.com.tr
@@ -203346,6 +203352,7 @@ hazinekazandiriyor.com
 hazinekazaniyoruz.com
 hazinelialtinfirsati.com
 hazinemali.cf
+hazinemali.org
 hazinemaliyeeiade1.com
 hazinemaliyeodeme.com
 hazinemaliyetc.org
@@ -207041,6 +207048,7 @@ hepsinatinanl2iw.sa.com
 hepsindeindirimmtr.com
 hepsindengectikkkk.com
 hepsine-bizde-yeniden-gosterdik-bil.com
+hepsinegelenlerhazir.com
 hepsinibeklemehemenal.com
 hepsiniburada.ir
 hepsinisakladimki.net
@@ -235430,6 +235438,7 @@ istanbulcubakim.pro
 istanbulcuma.net
 istanbulcumartesigunu.net
 istanbulcumartesiindirimi.net
+istanbulcumhizlilari.space
 istanbulcuolmasdintamzamni.store
 istanbulcuyuzbiz.online
 istanbulcxna.xyz
@@ -257230,6 +257239,7 @@ kobetwofour.buzz
 kobguejgfe.duckdns.org
 kobi-bugunfirsatisendekazan1.cloud
 kobi-halk-subem.com
+kobi-hibedestegi.com
 kobi-kredi.com
 kobi-krediformu.com
 kobi-paraf-hediye.com
@@ -257245,6 +257255,7 @@ kobihibedestegi.cfd
 kobihibedestegi2026.cfd
 kobihibekaydi.cfd
 kobikredibasvurusu-hemenkatil.cloud
+kobikrediformu.com
 kobiler-paraf-halk.com
 kobilerdestekplatformu.cfd
 kobinet.my-homeip.com
@@ -322698,6 +322709,7 @@ prison-gov-bd.dwnlld.info
 prisonersprinkle.top
 prisonfarm.top
 prisonfinfel.grupobonfim.org
+pristblardasnasdasd.mooo.com
 pristine.beebeatoplayer.com
 pristineglobalinvestmentbank.com
 pritastromana.top
@@ -399242,6 +399254,7 @@ tuvturkilearac.net
 tuvturkileodemexhzmeti.net
 tuvturkiye.com
 tuvturkiye.digital
+tuvturkiyez.com
 tuvturkj-muayene.net
 tuvturkk-rezervasyon.com
 tuvturkk-tr.net
@@ -399252,6 +399265,7 @@ tuvturkle-odeme.net
 tuvturklekilicdaroglu.net
 tuvturkleodel.net
 tuvturkleodemelibb.net
+tuvturklr.digital
 tuvturkluloaw.net
 tuvturklx.digital
 tuvturkm.digital
@@ -405288,6 +405302,7 @@ uzlasmadosyasisorgusu.com
 uzlasmadosyasorgu.com
 uzlasmadosyasorgu.org
 uzlasmadosyasorgulat.com
+uzlasmadosyatakip.org
 uzlasmaesorgu.org
 uzlasmagirisuyap.com
 uzlasmahukuksorgu.com
@@ -442278,6 +442293,7 @@ yenilenenhalksube.cf
 yenilenenhalksube.ga
 yenilenenhalksube.ml
 yenilenenhalksube.tk
+yenilenenhayatinda.com
 yenileneninternetbankacilik.com
 yenileneninternetbankacilik.net
 yenileneninternetbankacilik.org
