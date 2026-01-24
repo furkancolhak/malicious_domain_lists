@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-24T18:05:15.084899
+# Updated: 2026-01-24T19:05:13.427773
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -201452,6 +201452,7 @@ harcaharcabitmez.website
 harcaharcabitmez.world
 harcaharcabitmez101-siparis.com.tr
 harcaharcabitmez101.com.tr
+harcaharcabitmez101.my-homeip.com
 harcaharcabitmez101.net
 harcaharcabitmez101.online
 harcaharcabitmez101.xyz
@@ -235462,6 +235463,7 @@ istanbulcxna.xyz
 istanbulda3d3.blogspot.com
 istanbuldabelbimlisin.vercel.app
 istanbuldankaldim.shop
+istanbuldanoldum.shop
 istanbuldanucamgelbsvr.sbs
 istanbuldasin.net
 istanbuldasin.site
@@ -399296,6 +399298,7 @@ tuvturkleodel.net
 tuvturkleodemelibb.net
 tuvturklr.digital
 tuvturkluloaw.net
+tuvturklw.digital
 tuvturklx.digital
 tuvturkm.digital
 tuvturkmuayenearac.com
