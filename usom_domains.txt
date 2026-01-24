@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-24T09:05:14.714673
+# Updated: 2026-01-24T10:05:13.919570
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -74173,6 +74173,7 @@ basvurukredisidenizbank.co.vu
 basvurukreditmpay.online
 basvurukullanimekrani.com
 basvurukullannilabilirlikekrani.com
+basvurukurumsalapp.icu
 basvurukurumsalcenter.icu
 basvurukurumsalform.icu
 basvurukurumsalgiris.icu
@@ -192641,6 +192642,7 @@ guncel-kmp-zmni.shop
 guncel-konut-basvurusu.blogdns.net
 guncel-kredi-firsatlari.net
 guncel-market-indirimleri-ve-aktuel-urunler.cfd
+guncel-market-kampanyalari-ve-aktuel-listesi.cfd
 guncel-market-tr.site
 guncel-maxipuan-tr.space
 guncel-nisanfirsat.com.tr
@@ -410033,6 +410035,7 @@ velositty.com
 veloves.com
 veloxcart.store
 veloxrealestateng.com
+velpersx.click
 velstrox.com
 velsweebsodeme.net
 velthara.store
@@ -431352,6 +431355,7 @@ xislemsizlerle.com
 xisteceptee.sg-host.com
 xistroom.ddns.net
 xiterzinho.ddns.net
+xitix.click
 xitobecujopu.biz
 xitr66.duckdns.org
 xitvwpkgnv.duckdns.org
