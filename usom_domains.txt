@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-24T06:05:13.510955
+# Updated: 2026-01-24T07:05:13.721116
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -112153,6 +112153,7 @@ citisupportsyouna.hopto.org
 citiupdtt.hopto.org
 citiverffy.ddns.net
 citiverifycenter.ddns.net
+citix.click
 citiz3nsbank.ddns.net
 citizansauth035.duckdns.org
 citizeinsbank.ddns.net
@@ -293329,6 +293330,7 @@ nitalastarakalatacamataleritabakamaladures.net
 nitehushpro24.com
 nitelikleriniz.online
 nitindhanji.com
+nitix.click
 nitrahud.shop
 nitranyypg.duckdns.org
 nitrog.ddns.net
@@ -361112,6 +361114,7 @@ siteturkcell.com
 sitewebvakfo.cfd
 siteye-git.sbs
 siteye-yonlndirici.sbs
+siteyeyolculuk2026.cfd
 siteyeyonlendirildiniz.gleeze.com
 siteyonlendir.com
 sithchibb.com
@@ -437295,6 +437298,7 @@ yae01h2m.duckdns.org
 yaebal1.ddns.net
 yaepa1o1.com
 yafikredi.com
+yag-kampanyasi-basladi-2026.cfd
 yag101.online
 yagami3g.zapto.org
 yagap9.duckdns.org
@@ -448241,6 +448245,7 @@ zavasy.net
 zavasy.xyz
 zavayo.mobi
 zavdanismanlikvearacilik.net
+zavdcva4.dns.navy
 zavebveti.store
 zavetin.pro
 zavfer.online
