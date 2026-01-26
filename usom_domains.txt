@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-26T08:05:14.590352
+# Updated: 2026-01-26T09:05:14.403613
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16350,6 +16350,7 @@
 217.144.189.35
 217.148.142.19
 217.154.251.149
+217.154.51.200
 217.154.83.80
 217.159.236.105
 217.160.0.246
@@ -22746,6 +22747,7 @@
 45.156.27.235
 45.156.85.140
 45.156.87.115
+45.156.87.198
 45.159.209.228
 45.159.223.177
 45.159.248.110
@@ -75061,6 +75063,7 @@ basvuruu-formiade.com
 basvuruuadreesinizz99.starlightforge.online
 basvuruugrnnkampanyaaa.info
 basvuruugrnnkampanyaaa.pro
+basvuruugrntttkmonya.info
 basvuruugrntttkmpnnya.art
 basvuruugrntttkmpnnya.pro
 basvuruugrntttkmpnnya.xyz
@@ -139511,6 +139514,7 @@ dothidella.com
 dotretaliation.top
 dottrickle.top
 dou.crownaqua.com
+douaj.cn
 douate.com
 double-wing.de
 double3573.xyz
@@ -156632,6 +156636,7 @@ emekli-cekilis-promosyon.store
 emekli-kampanyamiz.com
 emekli-promo-basvur.com
 emeklibasvurum.com
+emeklibilgi.cfd
 emeklibilgilendirme.cfd
 emeklicampagn.com
 emekliciftcikrdibsvurr.duckdns.org
@@ -156662,6 +156667,7 @@ emeklipromosyon.duckdns.org
 emeklipromosyonbasvur.cfd
 emeklipromosyonbasvuru.cfd
 emeklipromosyonu.cfd
+emeklipromosyonusgk.cfd
 emeklipromsyon.cfd
 emekliramiysi.pw
 emeklisgkpromosyon.cfd
@@ -222937,6 +222943,7 @@ ienparatre.icu
 ienubfzxa.com
 ieoh9ad4r.duckdns.org
 ieoi3a3.t0qe7.com
+ieor.cn
 iepfvi.top
 ieplcpdlmxycgsa.cn
 iepnsuftenf.com
@@ -223396,6 +223403,7 @@ ihazinegovtrts43.b-cdn.net
 ihazinegovtrts48.b-cdn.net
 ihazinegovtrts515.b-cdn.net
 ihbar.sikayetmerkezitr.ru.com
+ihbar111111111106598357832.surge.sh
 ihbardenetim-merkezi.tk
 ihbarkemiditenyuu.com
 ihbarlar.ru.com
@@ -234154,6 +234162,7 @@ isjasddjasdqweqe.shop
 isjep.com
 isjt9a3.duckdns.org
 isk-bassvurru.click
+iskaarttt.shop
 iskaertlawsmwerw.net
 iskampanya-edevle-bireybasvuru-online.ml
 iskampanya-yilsonu-ozelbireysel-com.ml
@@ -248395,6 +248404,7 @@ kampnynzpayfxde.com
 kampnysepete.one
 kampnysepete.online
 kampnyyaaacekilisssstoggg.cloud
+kampnyyaabasvrrprmsynn.art
 kampnyyaabasvrrprmsynn.info
 kampnyyaabasvrrprmsynn.live
 kampnyyaabasvrrprmsynn.pro
@@ -280380,6 +280390,7 @@ mobil-giris-ll.tk
 mobil-giris-tr.com
 mobil-giris-turkiye.org
 mobil-giris.com.tr
+mobil-giris.info
 mobil-giris.my-homeip.com
 mobil-giris.site
 mobil-giris.xyz
@@ -443230,6 +443241,7 @@ yeniyilyeniayyenigun.com
 yeniyilyenifirsatbkm.com
 yeniyilyenifirsatlarqnb.cf
 yeniyilziraat.com
+yeniyimyerimdeyim-3e4502fbac2f.herokuapp.com
 yeniylmatkpligcsin.xyz
 yeniyni2.net
 yeniyni3.net
