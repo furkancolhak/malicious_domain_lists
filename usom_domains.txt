@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-26T14:05:15.646718
+# Updated: 2026-01-26T15:05:14.110655
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -26154,6 +26154,7 @@
 5753cm.duckdns.org
 5754756367547867.cloud
 575554567455.cloud
+575727513223.click
 5778.hopto.org
 578-7-7-1-1.com
 578-7-7-1-7.com
@@ -123803,6 +123804,7 @@ danchan.ddns.net
 dancingowlcoffee.com
 dandesdfefges2301.site
 dandikspkttenmssicikti.net
+dandini.click
 dandinitursu.site
 daneil.ddns.net
 danfe.is-certified.com
@@ -277019,6 +277021,7 @@ mertkurumlari.com
 mertltd.site
 mertotocikmaparca.com.tr
 mertrs.club
+mertsalvo1948.org
 mertuymadikgiyim.liveblog365.com
 merudlement.com
 merueni.pro
@@ -370428,6 +370431,7 @@ stanleyhavada.xyz
 stanleyhorizon.xyz
 stanleyignite.xyz
 stanleyindirim.shop
+stanleyizeltas1749.me
 stanleykafayiasti.xyz
 stanleykampanyam.store
 stanleykrty.xyz
@@ -370449,6 +370453,7 @@ stanleynextstate.xyz
 stanleynextstep.xyz
 stanleynextstepp.xyz
 stanleynexus.xyz
+stanleynova.xyz
 stanleynucleus.xyz
 stanleyorbit.xyz
 stanleyparlar.com
@@ -440449,6 +440454,7 @@ yarininveotesinindunyasi.com
 yarininyenidunyasii.com
 yariniyiol.online
 yarinkapinda.sbs
+yarinkapindax.com
 yarinkargo-a101.website
 yarinlar-guzellessin.net
 yarinlaradestekvakfi.com
