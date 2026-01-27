@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-27T05:05:13.939854
+# Updated: 2026-01-27T06:05:14.246315
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1012,6 +1012,7 @@
 0faiz-basvurular.com
 0faiz-basvuruyap-akbank.github.io
 0faiz-direckt.site
+0faiz-garanti-kredin.replit.app
 0faiz-isbnssww.sbs
 0faiz-kredi.replit.app
 0faiz-kredii.hopto.org
@@ -35630,6 +35631,7 @@ a-101-online-sepetim.online
 a-101-onlineislem.net.tr
 a-101-onlineislemler.com.tr
 a-101-perakende.online
+a-101-san-al-mar-ket.sbs
 a-101-sanal.com.tr
 a-101-sanal.xyz
 a-101-sanial-markel.sbs
@@ -101038,6 +101040,7 @@ buraorasa.site
 burapaketyuklememerkezi.org
 buraqgy.duckdns.org
 buraqlubricant.com
+burasdims.cfd
 burasi.2kool4u.net
 burasibenim.xyz
 burasibimcelll.com
@@ -120243,6 +120246,7 @@ crfonlineozeller.online
 crfonlineozelurunler.online
 crfonlinmrkts.cfd
 crfoousafirsattlarxi.duckdns.org
+crfourindirim-firsatlari.online
 crfozelurunler.cfd
 crfozelurunler.online
 crfozelurunler.xyz
@@ -437442,6 +437446,7 @@ y4wrkm5s6gepdt0uihxfo8.duckdns.org
 y4yr9f5u.duckdns.org
 y4yxabcn3tqng0y.ddns.net
 y5.ms
+y515.com
 y54vxm8p.duckdns.org
 y5hdcf.icu
 y5j636.duckdns.org
