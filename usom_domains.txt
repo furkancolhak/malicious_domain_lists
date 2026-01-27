@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-27T07:05:13.782656
+# Updated: 2026-01-27T08:05:12.570061
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -87230,6 +87230,7 @@ bireyselak.cf
 bireyselak.net
 bireyselakbankcilik.com
 bireyselakbankk.com
+bireyselalimlarim.com
 bireyselavrobolgecuzdankayitsorgulama.line.pm
 bireyselbahar-acikdenizv2denizbank.com
 bireyselbaharvakifgiris.digital
@@ -169331,6 +169332,7 @@ feqwbo.top
 fer3aun.ddns.net
 feracamasdlesd.com
 ferahcagrimerkezi.com
+ferahlik.com
 ferahsigorta.net
 feralenirmes.com
 ferallmont.com
@@ -365498,6 +365500,7 @@ sonfirsaticintikla.wiki
 sonfirsatikacirma.com
 sonfirsatikacirma.net
 sonfirsatim.com.tr
+sonfirsatindirimleri-kapinda.online
 sonfirsatindirimlerimayis.com.tr
 sonfirsatjenarators.shop
 sonfirsatkampanya.com
