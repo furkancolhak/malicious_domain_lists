@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-27T13:05:14.299436
+# Updated: 2026-01-27T14:05:14.176459
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -248894,6 +248894,7 @@ kapida-aktuel.name.tr
 kapida-aldin.com.tr
 kapida-byrm-eksstraa.com
 kapida-ca3bn4-inds3ml4r.cfd
+kapida-connecta.cyou
 kapida-eniyiixndrmlrmbunlarbnm.click
 kapida-firsat-urun.com.tr
 kapida-firsat.com.tr
@@ -298586,6 +298587,7 @@ ocakin-bitisindeyizz.shop
 ocakindirimi.cfd
 ocakindirimifirsat.net
 ocakindirimlerikacmiyor.sbs
+ocakindirimlerisokmarket.cfd
 ocakindirims.com
 ocakindirims.xyz
 ocakkacirma8.online
@@ -342745,6 +342747,7 @@ sabasahahah.com
 sabbaticalsail.com
 sabbverification.com
 sabdja.3utilities.com
+sabedqaw2bdq.blogspot.com
 sabellenladen.duckdns.org
 sabeyler.net
 sabhislem.app
@@ -356494,6 +356497,7 @@ sgkpriminiodem.net
 sgkprimodeme.com
 sgkpromosyon.cfd
 sgkpromosyonu.cfd
+sgkpromosyonu.click
 sgkpromosyonu.site
 sglgln01aldilgln4brdnn.com
 sglkbknlguygulama.club
@@ -372386,6 +372390,7 @@ sube-garantibbva-tr.com
 sube-garantibbva.buzz
 sube-garantibbva.click
 sube-garantibbva.com
+sube-garantibbva.gt.tc
 sube-garantibbva.ru.com
 sube-garantibbva.sa.com
 sube-garantibbva.top
@@ -391812,6 +391817,7 @@ transportationscrap.top
 transportationsodium.top
 transportationsrec.icu
 transportationsrecov.icu
+transportcard.icu
 transportdisclose.top
 transporteshormigon.com
 transportlogistcs.com
@@ -392755,6 +392761,7 @@ trendyola.icu
 trendyoladres.com
 trendyoladres.net
 trendyoladres.org
+trendyoladresiguncel.com
 trendyoladresim.com
 trendyoladresim.net
 trendyoladresim.org
@@ -399525,6 +399532,7 @@ tuvturkiyez.com
 tuvturkj-muayene.net
 tuvturkk-rezervasyon.com
 tuvturkk-tr.net
+tuvturkl-d.digital
 tuvturkl.digital
 tuvturkl.gac.gov.lr
 tuvturkle-muayene.net
@@ -447143,6 +447151,7 @@ yupobabanevevidelogda.net
 yupstocks.com
 yuqagcfk.com
 yuqbvfopicmp.xyz
+yuqfhjnzxgvywsafpwqs.today
 yuqmj.duckdns.org
 yuqnjhhwsr.duckdns.org
 yuqoeczwso.duckdns.org
