@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-27T03:05:14.193456
+# Updated: 2026-01-27T04:05:13.762094
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2011,6 +2011,7 @@
 101-kacmaz3.art
 101-kacmazfirsatlaroglen.com
 101-kacmazfirsatsabah.com
+101-kampanya-firsat.ddns-ip.net
 101-kampanya-zamani.com.tr
 101-kampanya.online-internet-alisverisi.com.tr
 101-kampanyalar-online.duckdns.org
@@ -75015,6 +75016,7 @@ basvurutescil.xyz
 basvuruteyitet.com
 basvurutoki.com
 basvurutoki.digital
+basvurutoki.info
 basvurutoki.pro
 basvurutoki.site
 basvurutokievim.com
@@ -87830,6 +87832,7 @@ bireyselonlinekampanya-basvurm-com.ml
 bireyselonlinekampanya-basvurm-com.tk
 bireyselonlinekredivakif.xyz
 bireyselonlinemobilozel.tk
+bireyselonlineplatform.com.tr
 bireyselonlineplatformdeniz-com.cf
 bireyselonlineplatformdeniz-com.gq
 bireyselonlineplatformdeniz-com.ml
@@ -186497,6 +186500,7 @@ giris-formiadehizmeti-portal.tk
 giris-garanti-cep.com
 giris-garantibbvamobil.ip-ddns.com
 giris-garantibnkkmobilll.ip-ddns.com
+giris-garantibnkksubee.ip-ddns.com
 giris-garantih.tk
 giris-garrantibnkmobil.ip-ddns.com
 giris-geriodemesorgu-ekrani.sbs
@@ -196395,6 +196399,7 @@ haber-home.site
 haber-kapital.life
 haber-kartinizinislemlerigovtr.org
 haber-konut-basvuru.com
+haber-kusu.com
 haber-leer.site
 haber-man.club
 haber-nerde.club
@@ -259856,6 +259861,7 @@ kredimhazir.sbs
 kredimhazirgovttr.com
 kredimhesaplama.com
 kredimhizmetleri.com
+krediminayi.live
 kredimizva-kifta.xyz
 kredimizvakifbankhrc.tk
 kredimizvakifbanklds.tk
@@ -336616,6 +336622,7 @@ rehberdennumarasorgulama.net
 rehberkuranhedefturan.site
 rehberlik.click
 rehberlikvearastirmamerkezi.com.tr
+rehbermobil.site
 rehberoldu.net
 rehearsalplaintiff.top
 rehearsalsalutation.top
@@ -378641,6 +378648,7 @@ tcampaigns.vip
 tcaretkatlmsndebasvurhmn.duckdns.org
 tcasliceza.org
 tcavukatportal.com
+tcavukatportal.net
 tcb-baskanli-uygulama-sayfasi.com
 tcbakanlik.com
 tcbakanliklar.com
@@ -406075,6 +406083,7 @@ v4denizzbanksubecom.tk
 v4grisitesi.com
 v4h9c52.duckdns.org
 v4hzo7mg.duckdns.org
+v4qk8x6m2n7s9b5h3a.cfd
 v4rbb3a.duckdns.org
 v4rgchjode.blogspot.com
 v4rgi0demehizmetleri.net
