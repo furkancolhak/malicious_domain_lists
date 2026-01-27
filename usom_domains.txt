@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-27T18:05:14.508393
+# Updated: 2026-01-27T19:05:13.749011
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -105365,6 +105365,7 @@ careersworld.org
 careervsjob.com
 careerwitch.top
 carefaoursa.com.tr
+careferland.it.com
 careffauorsa.online
 careffeours.online
 careffouerrsa.com
@@ -156721,6 +156722,7 @@ emeklipromosyonbasvur.cfd
 emeklipromosyonbasvuru.cfd
 emeklipromosyonbasvuru.click
 emeklipromosyonbasvuru.online
+emeklipromosyonkampayasi.click
 emeklipromosyonu.cfd
 emeklipromosyonusgk.cfd
 emeklipromsyon.cfd
@@ -248514,6 +248516,7 @@ kampspn23.com
 kamptanyaliurgunlerism.com
 kampuno.xyz
 kampvergix.net
+kampxnyamxotrlxrmbnm.cfd
 kampya-bireysel-basvur-com.cf
 kampya-bireysel-basvur-com.ga
 kampya-bireysel-basvur-com.gq
@@ -248960,6 +248963,7 @@ kapida-x9m2k7a8.bond
 kapida-x9m2z7qw.cfd
 kapida-x9q72mka.cfd
 kapida-xn.com.tr
+kapida-youvia.cyou
 kapida.mobi
 kapida1-0-1.store
 kapida10.store
@@ -249585,6 +249589,7 @@ karacacom.cfd
 karacada-firsatgunu.com
 karacadabykndrlmler.shop
 karacadagdernegi.com
+karacadamutlugunler.com
 karacadan-harikalar-sofraniza-kadar-gelir.com
 karacaduyurruu.com.tr
 karacaemirganshop.shop
@@ -292444,6 +292449,7 @@ newyear7250.duckdns.org
 newyearandcampaignjanuary.cloud
 newyearbilet.com
 newyearcircus.ru
+newyearcleaning.one
 newyearddnsaddressupdatelink.duckdns.org
 newyearjanuarycampaign.cloud
 newyearlastdeals.cloud
@@ -370536,6 +370542,7 @@ stanleyferrto.me
 stanleyferto.me
 stanleyflux.xyz
 stanleyforge.xyz
+stanleyforgecore.xyz
 stanleyfrsattermosburda.com
 stanleyfrst666aldnadinsizden.com
 stanleygelhemen.xyz
@@ -389762,6 +389769,7 @@ tr-name6.site
 tr-namea.website
 tr-nameb.website
 tr-namec.website
+tr-net-bva.my-homeip.com
 tr-net-de.website
 tr-net.site
 tr-net.space
