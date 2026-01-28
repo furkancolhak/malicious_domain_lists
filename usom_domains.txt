@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-28T06:05:14.545129
+# Updated: 2026-01-28T07:05:15.586319
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -344305,6 +344305,7 @@ sahibinden-get.e-ticaretservisi.com
 sahibinden-get.ealimguvenceli.com
 sahibinden-get.ealimguvencem.com
 sahibinden-get.ealimmobil.com
+sahibinden-get.emobilservislerim.com
 sahibinden-get.eservisalimlar.com
 sahibinden-get.eurun-servis-hizmetler.com
 sahibinden-get.eurunlerhizmetiniz.com
@@ -361470,6 +361471,7 @@ sithole.net
 sitimemergo.pro
 sitioconectado.com
 sitistntv.com
+sitix.click
 sitmanifestation.top
 sito276.zapto.org
 sitonyourface.ddns.net
@@ -435069,6 +435071,7 @@ xn--sahbndenparamguvvendeila-svdb.net
 xn--sahibinden-guvenli-sat-7ld81i.com
 xn--sahibinden-gvenli-deme-cic1l.com
 xn--sahibinden-gvenli-e3b.ileal.com.tr
+xn--sahibinden-ilan-mlc.tr-get-servislerim.com
 xn--sahibinden-ilannz-qvcb.xn--breysel-rfb.com.tr
 xn--sahibinden-para-gvende-8lc.com
 xn--sahibinden-param-gvende-ilan-j7c.com.tr
