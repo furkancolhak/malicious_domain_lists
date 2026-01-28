@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-28T14:05:16.542775
+# Updated: 2026-01-28T15:05:13.852812
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -168752,6 +168752,7 @@ fbiabn-svbbesinv1knpanylarinb784.b-cdn.net
 fbiawbintrnsvbbesivknpanylarintfsy266.b-cdn.net
 fbid4564581243.com
 fbid5465498545613.sbs
+fbid57476496876.com
 fbid81e3a9b4d520.sbs
 fbidgarantim447048004506.me
 fbidgarantim5465048004506.me
@@ -236343,6 +236344,7 @@ istasyonmuayene.blogspot.com
 istasyonrandevu.com
 istatat.shop
 istationmuayn.net
+istatistik-gr-n.my-homeip.net
 istavnbullkarrt.com
 istawkdx.net
 istb-n.blogspot.com
@@ -249088,6 +249090,7 @@ kapida-siparisim.com
 kapida-siparisim.com.tr
 kapida-siparislerim.com.tr
 kapida-siparisx.com.tr
+kapida-socialy.cyou
 kapida-sok.com.tr
 kapida-son-firsatlar.com.tr
 kapida-sonfirsatlar.com.tr
@@ -257634,6 +257637,7 @@ kocs.top
 kocsigortam.com
 kocsigortla.net
 kocsistema.info
+koctas-torkun.com
 koctas.cyou
 koctas.icu
 koctas.sbs
@@ -389532,6 +389536,7 @@ tr-get-islem.online
 tr-get-islemler.online
 tr-get-odeme-bilgi.online
 tr-get-secure.online
+tr-get-servislerim.com
 tr-get-siparis-secure.online
 tr-get-siparis.online
 tr-get-siparislerim.online
