@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-28T11:05:13.294609
+# Updated: 2026-01-28T12:05:13.538301
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3017,6 +3017,7 @@
 102.165.46.28
 102.165.51.106
 102.165.51.80
+102.253.0.7
 102.33.1.144
 102.36.150.232
 102.65.38.185
@@ -70713,6 +70714,7 @@ baharfirsatidenizde.com
 baharfirsatidenizlegeldi.com
 baharfirsatikacmaz.online
 baharfirsationline.com.tr
+baharfirsatlari.sbs
 baharfirsatlari101.com.tr
 baharfirsatlari101.xyz
 baharfirsatlaria1o1dee.shop
@@ -79226,6 +79228,7 @@ beyazidsubesindeler.online
 beyazidsubesindeler.xyz
 beyazisikvakfi.com
 beyazisikvakfi.site
+beyazitli.click
 beyazkirmizi.xyz
 beyazkoc.store
 beyazkoc.xyz
@@ -90965,6 +90968,7 @@ bklmnvkcell.com
 bklog.copludozoa.ru
 bklrdansankardsan.bond
 bklslvsmlcsmdm.com
+bklsntryskal.mooo.com
 bkm-aidat-iadesi-govtr.tk
 bkm-aidatiade.tk
 bkm-aiddinodemlrniz.com
@@ -135999,6 +136003,7 @@ dijitalvakifkredimhazir.co.vu
 dijitalvakifportal.co.vu
 dijitalvakifsubem.xyz
 dijitalvarlarin-ziraatbireysel.com
+dijitalvarlik-bireyselziraatweb.com
 dijitalvarlik-denizacik.com
 dijitalvarlik-ziraat.com
 dijitalvarlik-ziraatbireysel.com
@@ -173124,6 +173129,7 @@ firsatlariniz1o1de.com
 firsatlarinizayaginiza.xyz
 firsatlarinizdenizleguzel.xyz
 firsatlarinizfaisizbugun.online
+firsatlarinizikacirma.com
 firsatlarinizkaracada.com
 firsatlarinizladenizlehersey.xyz
 firsatlarinizlaguzellik.xyz
@@ -234965,8 +234971,10 @@ islespotlight.top
 islet-dijitalim.app
 islet-dijitalimiz.app
 isletislem.app
+isletme-yardimi.com
 isletmebilgisi.cfd
 isletmedestegi.click
+isletmedestegi.com
 isletmedestekleri2026.cfd
 isletmesidev.com
 isllemhizlisonuc.com
@@ -236933,6 +236941,7 @@ istnblkartyukleme.net
 istnblkartyuklle.tech
 istnblkkrtx.net
 istnblknltnamln.online
+istnblkratdf.shop
 istnblkrltsndntans.online
 istnblkrt-geldk.net
 istnblkrt-ykle.net
@@ -249767,6 +249776,7 @@ karacamutfaktad1.denemepaketi.com
 karacan.sbs
 karacanisan-kampanya.com.tr
 karacannelergunu.com
+karacaocakta.com
 karacaonline.biz.tr
 karacaonline.net.tr
 karacaonline.org
@@ -251748,6 +251758,7 @@ katlmvakfgirsi.com
 katmambatk.xyz
 katmanli.org
 katmarsh.com
+katoix.click
 katollogmenugiriisllemllerim.com
 katolog-temmuzun.com
 katologfirsatlari.net
@@ -257928,6 +257939,7 @@ kolaysipris.com
 kolaysiprs.click
 kolaysirasnde.click
 kolaysorgula12-5535cc3fe3ec.herokuapp.com
+kolaysrgma.online
 kolayssipars.xyz
 kolaysubee.dev
 kolaytakipcisatinal.com
@@ -298782,6 +298794,7 @@ ocakozelkapida.online
 ocakpromosynlaridagitildi.vercel.app
 ocaksepetim.cfd
 ocaksepetimozel.cfd
+ocaksokaktuelurunler.cfd
 ocaksokmarketindirimleri.cfd
 ocakson01.shop
 ocakson101kapida-yenikmpanya.site
@@ -370808,6 +370821,7 @@ stanleywback.xyz
 stanleywbacking.xyz
 stanleywery.xyz
 stanleywrky.xyz
+stanleywwe.xyz
 stanleyyakinda.xyz
 stanleyzeropoint.xyz
 stanly-carrefoursa.vercel.app
@@ -378134,6 +378148,7 @@ tarimziraati.xyz
 tariqalr.zapto.org
 tarizoriosteirt.webflow.io
 tarjetaciudadanafuengirola.com
+tarkanli.click
 tarlabasi3d.xyz
 tarladantencerene.xyz
 tarlshgs.com
@@ -401147,6 +401162,7 @@ ucakbiletiresmi.website
 ucanadam.host
 ucanakacana.cfd
 ucanbe.tk
+ucanclickkk-91cce517e495.herokuapp.com
 ucarecdn.com/ef82f77a-4bb2-4546-9212-be8dbced806f/evdekal.apk
 ucaybasvural.com
 ucaydadeniz-basvuru.online
@@ -401371,6 +401387,7 @@ ucuzdur.net
 ucuzepin.net
 ucuzevinterneti.com
 ucuzfirsatlarburdasizinle.duckdns.org
+ucuzfirsatlarkapida.com
 ucuzfiyatlara1o1de.duckdns.org
 ucuzgidakacirma.com
 ucuzgidaurunler.com
@@ -446730,6 +446747,7 @@ yrkeafdidqwjegksaewgonline.live
 yrksxmv432.com
 yrl1best.blogspot.com
 yrldydrmbngkni.net
+yrlmlatocaskkanm.blogspot.com
 yrlmz.xyz
 yrloxx9vh.duckdns.org
 yrmaltocak.duckdns.org
