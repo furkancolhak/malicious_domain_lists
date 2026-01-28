@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-28T16:05:15.083427
+# Updated: 2026-01-28T17:05:13.597787
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -123765,6 +123765,7 @@ dakalabou.ddns.net
 dakareypa.ru
 dakarik.com
 dakbank.net
+dakdjdhsjahag1.cfd
 daketheblame.pro
 dakika-firsat-webnext.my-homeip.com
 dakikacicek.site
@@ -184527,6 +184528,7 @@ geranti.my-homeip.com
 geranticep.online
 geranticep.shop
 geranticepden.shop
+gerantide-merkez.my-homeip.net
 gerantidenislemler.shop
 gerantim-suben.shop
 gerantimobilden.shop
@@ -249058,6 +249060,7 @@ kapida-eniyiixndrmlrmbunlarbnm.click
 kapida-firsat-urun.com.tr
 kapida-firsat.com.tr
 kapida-firsat.net
+kapida-frienda.cyou
 kapida-gunler.sbs
 kapida-hafta-siparis.com.tr
 kapida-haftalikx.com.tr
@@ -298833,6 +298836,7 @@ ocakmbl.cfd
 ocakmblsbe.sbs
 ocakmtw.net
 ocakozelkapida.online
+ocakozelsokindirimleri.cfd
 ocakpromosynlaridagitildi.vercel.app
 ocaksepetim.cfd
 ocaksepetimozel.cfd
@@ -343274,6 +343278,7 @@ sadeceonlbnscv.blogspot.com
 sadeceonlfirstdds.duckdns.org
 sadeceonlideyikgenela.duckdns.org
 sadeceonlifozelfirsatlar.blogdns.org
+sadeceonlifresaltryt.mooo.com
 sadeceonlimnsdefdirstlarmtrt.blogspot.com
 sadeceonlina1101.duckdns.org
 sadeceonline.duckdns.org
@@ -370794,6 +370799,8 @@ stanleynextstepp.xyz
 stanleynexus.xyz
 stanleynova.xyz
 stanleynucleus.xyz
+stanleynwstep.xyz
+stanleynwword.xyz
 stanleyorbit.xyz
 stanleyparlar.com
 stanleyphase.xyz
@@ -394996,6 +395003,7 @@ trt-geriodememerkezi.ga
 trt-haber-ajans-i.org
 trt-haber-ajansi.org
 trt-haber-basvuru.org
+trt-haber-merkez.my-homeip.net
 trt-haber-web-gov.com
 trt-haber-web.com
 trt-haber-web.org
