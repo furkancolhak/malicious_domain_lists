@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-29T15:05:13.505152
+# Updated: 2026-01-29T16:05:13.967582
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -120827,6 +120827,7 @@ crvsx.zapto.org
 crvsxp.zapto.org
 crxokisfqslgfqhcn.org
 crxqd.com
+cry-en-gr.my-homeip.net
 cry-havok.org
 cryapteoaing.org
 crybimcell.com
@@ -261062,6 +261063,7 @@ kullanicimerkezim.net
 kullanicisitesi.com
 kullanimsozunuzeozel.com.tr
 kullanimsozunuzeozel.xyz
+kullanpromosyonceplekuveyt.life
 kulsaf2asde.com
 kulsams.com
 kult.mydiscussion.net
@@ -280554,6 +280556,7 @@ mobil-aidatlar-girisedevlet.com
 mobil-aidatlar-onlinebilgilerimgovtr.com
 mobil-aidatsistemi-bankalargovtr.com
 mobil-ak-eylulfirsati.click
+mobil-ak.sbs
 mobil-akbank-basvuruyap.github.io
 mobil-akbank.duckdns.org
 mobil-akbank.lat
@@ -316231,6 +316234,7 @@ password-esential.buzz
 password-esential.click
 password-esential.mom
 password-esential.store
+password-i-sube.my-homeip.net
 password-isube-login.my-homeip.net
 password-jsube.my-homeip.com
 password-proxy-redirect.com
@@ -370866,6 +370870,7 @@ stanleygunleri.com.tr
 stanleygunleri.name.tr
 stanleyh2flowtermossatissiparisiniz.eticret.icu
 stanleyh2flowtermossatissiparisinizz.eticret.icu
+stanleyhakan.xyz
 stanleyhavada.xyz
 stanleyhorizon.xyz
 stanleyignite.xyz
@@ -389653,6 +389658,7 @@ tr-get-ilanlarim.com
 tr-get-islem.online
 tr-get-islemler.online
 tr-get-odeme-bilgi.online
+tr-get-odeme.com
 tr-get-secure.online
 tr-get-servislerim.com
 tr-get-siparis-secure.online
@@ -449970,6 +449976,7 @@ zira-attbankasi.com
 zira1at-1.click
 zira4t-firsat-zamani.duckdns.org
 ziraa-tofficalfirsat.com
+ziraaaat--us.cfd
 ziraaaaturkye.com
 ziraaat-onlinepb.com
 ziraaat.ml
