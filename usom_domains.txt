@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-29T18:05:12.680827
+# Updated: 2026-01-29T19:05:15.465578
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -44561,6 +44561,7 @@ adayanismakadim.site
 adaybasvuru.net
 adaybasvuru.online
 adaybasvuru.org
+adaybasvurunuz.sbs
 adayicinbasvruekrani.top
 adayislemin.com
 adayisleminiz.com
@@ -64062,6 +64063,7 @@ asd123fsf.duckdns.org
 asd1axa1x5a.digital
 asd213312d21d.click
 asd222ga.strangled.net
+asd2e3w4e.nicepage.io
 asd33r.is-best.net
 asd435sadasr234sad324adsd234asd.ws
 asd444.ddns.net
@@ -168730,6 +168732,7 @@ fb-promotion.info
 fb-promotion.sbs
 fb-radicrat.sbs
 fb-radicret.sbs
+fb-redicarit.com
 fb-redicrat.sbs
 fb-redicret.com
 fb-redirect.click
@@ -219879,6 +219882,7 @@ i-nstagram.gq
 i-nstagram.tk
 i-onlineodeme.sa.com
 i-paribu.com
+i-password-sube.my-homeip.net
 i-pfsggsafsa.sbs
 i-pttgov.top
 i-qnbcardfinans.com
@@ -245020,6 +245024,7 @@ k3yhol3.ddns.net
 k3yikamaoto.shop
 k3zgi.ddns.net
 k3zmxn1.duckdns.org
+k40asdhahsdhashdahshdahshdashdhas.click
 k41krsc.duckdns.org
 k4214921421.shop
 k43gk3k4gk34.xyz
@@ -249893,6 +249898,7 @@ karacaonlineozel.org.tr
 karacaozelindirim.com
 karacapazari.biz.tr
 karacapazari.com.tr
+karacasevincli.com
 karacashop.store
 karacasite.hazirsite.pro
 karacasonbaharzamani.com
@@ -272420,6 +272426,7 @@ maliyegovtrltr848.com
 maliyegovtrltr860.com
 maliyegovtrltr862.com
 maliyegovtrltr873.com
+maliyehazine.net
 maliyehazinebakanligi.com
 maliyehazinebakanligirt.com
 maliyehazinebakanligirtcv.com
@@ -333334,6 +333341,7 @@ qwxcqec.duckdns.org
 qwxniwspl.io
 qwxzyl.com
 qwycccssad.duckdns.org
+qwyuxzhbjewqpwqflgsdsd.life
 qx-pttgov.top
 qx3s3yj.duckdns.org
 qx46tda37.duckdns.org
@@ -344571,6 +344579,7 @@ sahibinden-get.ealimguvenceli.com
 sahibinden-get.ealimguvencem.com
 sahibinden-get.ealimmobil.com
 sahibinden-get.emobilservislerim.com
+sahibinden-get.eonayservishizmetin.com
 sahibinden-get.eservisalimlar.com
 sahibinden-get.eurun-servis-hizmetler.com
 sahibinden-get.eurunlerhizmetiniz.com
