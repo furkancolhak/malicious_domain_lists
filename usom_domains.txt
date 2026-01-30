@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-30T06:05:14.891756
+# Updated: 2026-01-30T07:05:13.559896
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -161949,6 +161949,7 @@ esnaflar-ciftci-webtr-giris.com
 esnek-hesap.com
 esnek-limit.net
 esnemreprs.ws
+esnfytrmtfcg10000.cfd
 esnom2.top
 esnoptdkkiirzewlpgmccbwuynvxjumf.name
 esnupote.site
@@ -308585,6 +308586,7 @@ otuzgbhediyen-hemenal.com
 otuzgbhediyencepte.com
 otuzgbhediyenihemenal.com
 otuzliraseninolsun.com
+otuzocakkampanyat.duckdns.org
 otuztlbedavabonus.top
 otv9kckk.duckdns.org
 otvaok.xyz
@@ -450002,6 +450004,7 @@ zincirmarketlerinfirsatkatalogu.com.tr
 zincirmarketsonfirsatlari.com
 zincirmarketsonfirsatlari.com.tr
 zincirmarktleri.com
+zincirsok.cfd
 zindanlardanparsel.net
 zindanlardanparsel.shop
 zindanlardanparsell.net
