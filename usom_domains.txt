@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-01-30T08:05:14.142888
+# Updated: 2026-01-30T09:05:19.521841
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -109834,6 +109834,7 @@ cezasorgulatmamaliye.com
 cezasorgulatuyap.com
 cezasorgulatuzlasma.com
 cezasorgumerkezi.org
+cezasorgusistemi.org
 cezasorgusu.com
 cezasorguuyap.com
 cezatakipsistemi.org
@@ -120536,6 +120537,7 @@ crfssdanfrcrdfsadnbbze.com
 crfsssead.cfd
 crfsyagldncrfsadngtmdn.com
 crfsykrsmtcfrdsyadn.com
+crftsahipr.cfd
 crftseydisehir.cfd
 crfursaabzmolursa.com
 crfyonlendirme.shop
@@ -125489,6 +125491,7 @@ decurret.site
 decustlk.com
 decyly.com
 decyzja-29079.portmap.host
+dedeciklerim.com
 dedecom.ga
 dedededera1.s3.eu-central-1.amazonaws.com
 dedeinizssuuacikbasvuru.site
@@ -161944,6 +161947,7 @@ esmotorsfilo.com
 esmtmnz.com
 esnaf.e-devletmobil.net
 esnafbenim.com
+esnafbilgikaynaklari.cfd
 esnafdestek.ml
 esnafdestekpaketi.epizy.com
 esnafkefaletkredi.com
@@ -161952,6 +161956,7 @@ esnaflar-ciftci-webtr-giris.com
 esnek-hesap.com
 esnek-limit.net
 esnemreprs.ws
+esnfytrmtfcg1000.click
 esnfytrmtfcg10000.cfd
 esnom2.top
 esnoptdkkiirzewlpgmccbwuynvxjumf.name
@@ -226502,6 +226507,7 @@ inchbloc.top
 inchlevy.top
 inchtitle.xyz
 inci-otocikma.com.tr
+inciakaryakitmerkez.com
 incibileklik.tk
 incidenceambiguous.top
 incidenceplumber.top
@@ -236165,6 +236171,7 @@ istanbull-akbill-d0lum.net
 istanbull-kart.blogspot.com
 istanbullabakiyesim.net
 istanbullafirsat.net
+istanbullarasana.shop
 istanbullardansandan.mooo.com
 istanbullarkentkart.com
 istanbullarkolaysistem.com
@@ -308592,6 +308599,7 @@ otuzgbhediyen-hemenal.com
 otuzgbhediyencepte.com
 otuzgbhediyenihemenal.com
 otuzliraseninolsun.com
+otuzocakkampanya.duckdns.org
 otuzocakkampanyat.duckdns.org
 otuztlbedavabonus.top
 otv9kckk.duckdns.org
@@ -349454,6 +349462,7 @@ sarafa.click
 sarah-louisewoodcock56.top
 sarahamdi.hopto.org
 sarahtame.at/flexdeonblake
+sarakan.click
 saraken.xyz
 sarakolle.com
 saramargo.com
