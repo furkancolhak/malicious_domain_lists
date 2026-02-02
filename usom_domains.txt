@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-02T16:05:13.780660
+# Updated: 2026-02-02T17:05:13.083470
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -23451,6 +23451,7 @@
 4568416854819654669814.com
 4568892376.cloud
 456mea6.duckdns.org
+4574368356348654.cfd
 457467.com
 45754685678431.cloud
 4575783445.com
@@ -107622,6 +107623,7 @@ cebinde-sokbavul.com.tr
 cebinde.app
 cebinde.basvurular-burada.in
 cebinde.sok-serinleten-yaz.com
+cebindedegilhemenkapinda.com
 cebindeeylul.biz.tr
 cebindeeylul.com.tr
 cebindeeylul.info.tr
@@ -169009,6 +169011,7 @@ fbkisal.cc
 fbku.com
 fbl.5jbl2j.com
 fbl.com.sg
+fblicdks11.sbs
 fblogin.me
 fblqd.com
 fbmknr.cyou
@@ -202507,6 +202510,7 @@ harikaninadresiburasi.xyz
 harikaramzanfirdatlari.com.tr
 harikaramzanfirdatlari.xyz
 harikasaatlerbasladi.com
+harikasekildeyaninageldi.com
 harikasevilenkampanyalar.com.tr
 harikasevilenkampanyalar.xyz
 harikasevilenkampanyalarsizlerle.com.tr
@@ -230024,6 +230028,7 @@ instax9.me
 instazero.com
 instazers.com
 instctmaicious.top
+instdirimgunleri.com
 instegram-copyright-help.ml
 instegram.co
 instegram.ddns.net
@@ -236792,6 +236797,7 @@ istcmbellllodeeeee.blogspot.com
 istcnibllkart.com
 istcnmbelell.net
 istcnnnbulum.net
+istcufpafkuf.xyz
 istcumayukle.ml
 istcvkvvvodlemc.net
 istcxnblgtten.net
@@ -236821,6 +236827,7 @@ iste-yazkampanyam.com
 iste99yilimiz.com
 istealisveris.site
 isteanbueal.webredirect.org
+isteanbueals.webredirect.org
 istebasvurularinizonaylipromo-iscep.cloud
 istebilgisizingir.duckdns.org
 istebilgisizinle.com
@@ -345489,6 +345496,7 @@ sahibinden-ilanlarim.net
 sahibinden-ilanlarim.onizlemeyap.com
 sahibinden-ilanlarim.online-tr.sa.com
 sahibinden-ilansatis.org
+sahibinden-ilantr.guvenli-alisverislerim.sa.com
 sahibinden-ilanver.com
 sahibinden-ile-guvenle-ode.ilaninizguvende.com
 sahibinden-ile-guvenli-odeme.ilanadimi.com
@@ -368886,6 +368894,7 @@ specialnan.date
 specialofferbnnannce.life
 specialofferbnnannce.site
 specialofferbnnannce.space
+specialofferplace.com
 specialoffersnows.shop
 specialopportunityyourdoortoday.cloud
 specials.zapto.org
@@ -371458,6 +371467,7 @@ stanleyupgraded.xyz
 stanleyuplift.xyz
 stanleyvault.xyz
 stanleyvector.xyz
+stanleyvectora.xyz
 stanleyvectorial.xyz
 stanleyvenge.click
 stanleyverse.xyz
@@ -441189,6 +441199,7 @@ yaratici.name.tr
 yaraticidunyasi.online
 yaraticilikvakfi.com
 yaraticitarif.name.tr
+yarattinsorunlarfarkettmbenimlezorunvar.org
 yard.claybaster.top
 yardbachelor.top
 yardbhop.top
