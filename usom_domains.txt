@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-02T21:05:13.679354
+# Updated: 2026-02-02T22:05:13.356374
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -162101,6 +162101,7 @@ esnaflar-ciftci-webtr-giris.com
 esnek-hesap.com
 esnek-limit.net
 esnemreprs.ws
+esnfytrmtdstk.cfd
 esnfytrmtfc1000.cfd
 esnfytrmtfc1000.click
 esnfytrmtfcg1000.click
@@ -171525,6 +171526,7 @@ finansruzgari.org
 finanssal.com
 finanssal.pages.dev
 finanssbank.com
+finanssektoru.info
 finanssifirfaizle.online
 finanssohbet.world
 finanssorgulamak.site
@@ -235859,6 +235861,7 @@ istanblllkart.net
 istanblllkart.space
 istanblllkartqaw.org
 istanbllssa.tk
+istanblluollunnburdan.com
 istanblluolrsn.com
 istanblluolrsusuna.com
 istanblluuyklem.net
@@ -239400,6 +239403,7 @@ izeltasindirim.site
 izeltasindirimgunu.xyz
 izeltasindirmleri.xyz
 izeltasinidirimdee.com
+izeltaskandilc.dns.navy
 izeltasmekanikcitakimcanta-seti.blogspot.com
 izeltasmekanikcitakimcantaseti.blogspot.com
 izeltasmekaniktakimcantasi.blogspot.com
@@ -239434,6 +239438,7 @@ izeltrasmekanicifirsati.blogspot.com
 izeltrasmekanikcifirsati.blogspot.com
 izelts042101.blogspot.com
 izeltsfirs032tl.blogspot.com
+izeltskandil.dns.navy
 izeltskeedr.dns.navy
 izeltsmc.dnsup.net
 izeltstasmagza.xyz
@@ -277558,6 +277563,7 @@ merkezi-telif-destek.cf
 merkezi-telif-destek.ml
 merkezi-tr.com.tr
 merkezi-tr.sbs
+merkezi.mefound.com
 merkeziadeleriniz.net
 merkeziadeleriniz.org
 merkeziadem.net
@@ -348756,6 +348762,7 @@ sajagdaesad.click
 sajdaazhari2801.hopto.org
 sajdasggae.click
 sajdfue.com
+sajdjdsfkdsjfksdjsakdsa.cyou
 sajebut12421.wordpress.com
 sajebut124219.wordpress.com
 sajhfkew.com.tr
