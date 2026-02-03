@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-03T18:05:13.619301
+# Updated: 2026-02-03T19:05:14.944457
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -148106,6 +148106,7 @@ e-yardimal.net
 e-yardimbasvru.online
 e-yardimkampanyasi.com
 e-yardimsaglikhalkpandemi.com
+e-yaygin-meb.com
 e-yaygin.org
 e-yazmaodeme.net
 e-ydode.net
@@ -169033,6 +169034,7 @@ fbiabasvbintrnsvbbesinvknpanylarintkb723.b-cdn.net
 fbiabavnk2-wbintrn-svbbesinv-knpanylarintfkn302.b-cdn.net
 fbiabn-svbbesinv1knpanylarinb784.b-cdn.net
 fbiawbintrnsvbbesivknpanylarintfsy266.b-cdn.net
+fbid1421352.com
 fbid4362412362354234.com
 fbid436272362354234.com
 fbid4564581243.com
@@ -363498,6 +363500,7 @@ sksitesi.com
 skskskllakkssaa.com
 sksksksksk.click
 skslkflskflskfl.blogspot.com
+skslskslskslkslskslk.me
 sksmjweyjbrq.pw
 skt9.iosgaxx423.xyz
 skta2.net
@@ -382277,6 +382280,7 @@ tektiklakapindaa101kampny.xyz
 tektiklakredim.com
 tektiklakredims.com
 tektiklaramazanindirmleri.click
+tektiklasepette.me
 tektiklasiqortayaptir.com.tr
 tektiklayaninda.online
 tektikonlineislem.net
