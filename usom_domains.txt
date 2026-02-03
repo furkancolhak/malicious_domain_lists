@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-03T08:05:12.412481
+# Updated: 2026-02-03T09:05:14.158900
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -17797,6 +17797,7 @@
 26ocakdrinkarislerin.cloud
 26ocakfirsatlari.shop
 26ocaksiparislerin.cloud
+26ocaktasiparislerver.cloud
 26pu6aj24.duckdns.org
 26qw8.hicx0.com
 26s44jt.duckdns.org
@@ -21614,6 +21615,7 @@
 3sqconcgo.duckdns.org
 3sr1b5y.duckdns.org
 3st-bzl.net
+3subatfirsatlarikacirma.cfd
 3sxbpfl.duckdns.org
 3sxbyje.duckdns.org
 3sxht-gld1.net
@@ -27484,6 +27486,7 @@
 64.188.19.117
 64.188.25.205
 64.188.25.206
+64.188.64.137
 64.190.113.214
 64.190.113.25
 64.190.113.31
@@ -33572,6 +33575,7 @@
 91.92.242.13
 91.92.242.14
 91.92.242.183
+91.92.242.30
 91.92.242.85
 91.92.243.233
 91.92.243.49
@@ -197922,6 +197926,7 @@ haftaninonlinesatislarrcampany.xyz
 haftaninotobuzdolabiyil.xyz
 haftaninpreiumurunleri.com.tr
 haftaninsecili.sbs
+haftaninseciliurun.sbs
 haftaninsiparislri.duckdns.org
 haftaninsoku.cfd
 haftaninsonfirsatalri.com.tr
@@ -237265,6 +237270,7 @@ istmdfmsndfjk.net
 istmdsldfk.com
 istmerkestoplansizherkes.com
 istmfathtermadam.net
+istmhkbcxbn.com
 istmhkhmn.com
 istmhkncv.com
 istmhknmc.com
@@ -258508,6 +258514,7 @@ kolycageliyorsnzsds.com
 kolylklaismnz.com
 kolyolyardmkm.click
 kolypsotract.net
+kolysrlama.work
 kom-odemeler.online
 kom4ltkmpsan.cfd
 komaextra.zapto.org
@@ -259213,6 +259220,7 @@ kosgebhibebasvuru.com
 kosgebhibebasvurusu.cfd
 kosgebhibebasvurusu.com
 kosgebhibeonline.com
+kosgebhizmetleri.com
 kosgebiskur.com
 kosgebkredibasvur.com
 kosgebkredidestegi.com
@@ -293022,6 +293030,7 @@ newspapercomet.top
 newspaperoptical.cn
 newspaperrevolt.top
 newspk.ddns.net
+newsplaing.digital
 newspointview.com
 newspttgov.click
 newsr.duckdns.org
