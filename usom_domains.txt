@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-03T17:05:14.370286
+# Updated: 2026-02-03T18:05:13.619301
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -22042,6 +22042,7 @@
 42595362444915756.com
 425rt.rapiddns.ru
 425t1j.duckdns.org
+4267168356348654.cfd
 42718u.duckdns.org
 427221535486384.com
 427733380.goloser.ru
@@ -64181,6 +64182,7 @@ asdajkj432432cnann.com
 asdaksjdlckxcxc.net
 asdaryder.duckdns.org
 asdas1252qwdqwsd215612.com
+asdas3124rfdas.icu
 asdas6d54asd4.net
 asdasasdasdquez.net
 asdasasdquez.net
@@ -149090,6 +149092,7 @@ ebasvuru-iadeniz.com
 ebasvuru-iscep.com
 ebasvuru-iscepmobil.com
 ebasvuru-merkezi.com
+ebasvuru-online-rtr.cfd
 ebasvuru-pandemidestek-turkiyegov.com
 ebasvuru-pandemidestek-turkiyegovtr.com
 ebasvuru-qnb-finans.com
@@ -218253,6 +218256,7 @@ hssrsrkydsns.click
 hsssgs-odemem.net
 hsssrfssndns.click
 hsssrsrkyyds.click
+hssstannxrandevvu.org
 hssxshsyukle.xyz
 hst1gkasm0gkla1sd.com
 hstaneyegel.net
@@ -249553,6 +249557,7 @@ kapida-trustio.bond
 kapida-urun-aldin.com.tr
 kapida-urun-reklam.com.tr
 kapida-urun-xn.com.tr
+kapida-vireon.cfd
 kapida-w101.com.tr
 kapida-web.com.tr
 kapida-x8m2r9q7.bond
@@ -254309,6 +254314,7 @@ kgmagvo.cfd
 kgmagvo.sbs
 kgmagvo.top
 kgmagvoc.top
+kgmaig.top
 kgmajans2023.com
 kgmajs2022.net
 kgmavbilgihgsbrcodeislemler.duckdns.org
@@ -254494,6 +254500,7 @@ kgmtr-gov.icu
 kgmtr-govu.top
 kgmtr.org
 kgmtr.top
+kgmtrgov.cyou
 kgmtrgov.help
 kgmtrgov.top
 kgmtrr.cc
@@ -407412,6 +407419,7 @@ vacsystempolicy.com
 vacu.ddns.net
 vacuhub.com
 vacui.ddns.net
+vacum-pixel.cyou
 vacuole.vughgnnfg.com
 vacuumperplex.top
 vacuuzy.click
@@ -420569,6 +420577,7 @@ website6609760.nicepage.io
 website6615411.nicepage.io
 website66154112.nicepage.io
 website6615423.nicepage.io
+website6616875.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
