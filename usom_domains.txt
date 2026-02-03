@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-03T14:05:14.229963
+# Updated: 2026-02-03T15:05:13.610559
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7891,6 +7891,7 @@
 158.94.209.180
 158.94.209.23
 158.94.209.3
+158.94.210.38
 1580044.ddns.net
 158123665669933334485643923.net
 158123665669933338564923.net
@@ -17866,6 +17867,7 @@
 2704523532532.xyz
 270486327.cloud
 270bimcell4444kamoanya.org
+27105736639.cloud
 2711560276.cloud
 2715465165165.cloud
 271703744.cloud
@@ -25921,6 +25923,7 @@
 544545454545454454.space
 54455466458956465498498165561.cloud
 5445588515.com
+5446134434335.com
 54523119191.cloud
 5452353232521.shop
 54545454todaysgift.cloud
@@ -39541,6 +39544,7 @@ abc145258.com
 abc1990.ddns.net
 abc44.xyz
 abc44best.blogspot.com
+abc987xyz456.icu
 abcabc2002692.ddns.net
 abcankgirs.jumpingcrab.com
 abcb186.duckdns.org
@@ -62949,6 +62953,7 @@ araskargotakibim.com
 araskargotakibin.com
 araskargotakip.com
 araskargotakip.org
+araskargotr.bond
 araskarrgotakip.org
 araskiralama.net
 araskrgo.com
@@ -70849,6 +70854,7 @@ baharfirsatlari101.com.tr
 baharfirsatlari101.xyz
 baharfirsatlaria1o1dee.shop
 baharfirsatlariaktr.com
+baharfirsatlariyakala.cfd
 baharfirsatlariyapidan.duckdns.org
 bahargeldia101kampanyasisupurge.xyz
 bahargeldia101kampanyassi.xyz
@@ -102111,6 +102117,7 @@ buyukkampanyamerkezi.cfd
 buyukkindirimurunnlerii.com
 buyuklerkonus.online
 buyukmarketindirim.click
+buyukocakfrrsat.sbs
 buyukosmanlidevletim.site
 buyukotelabant.com
 buyukpatlama.net
@@ -113490,6 +113497,7 @@ clonthis2.xyz
 clonthis3.xyz
 cloors-exramen.com
 clooudarity.com
+clopanel.com
 clopser.com
 clork.ru
 clos.my-style.in
@@ -162117,6 +162125,7 @@ esnafdestekpaketi.epizy.com
 esnafkefaletkredi.com
 esnafkrdibsvrhsnwz.net
 esnaflar-ciftci-webtr-giris.com
+esnafytrmtdstek.cfd
 esnek-hesap.com
 esnek-limit.net
 esnemreprs.ws
@@ -280406,6 +280415,7 @@ mlmigebrxx.duckdns.org
 mlmklamsbweqfasf.net
 mlmmkihwbz.duckdns.org
 mlmploginaspx.ddns.net
+mlmsds.online
 mlmt1best.blogspot.com
 mlmzyklemee.net
 mln9aonpb.duckdns.org
@@ -292314,6 +292324,9 @@ netisube-qnbfinansbank.com
 netkayitresmigiristok-i-govtr.com
 netkirlama.site
 netklop.life
+netkoruma-bbva.cfd
+netkoruma-bbva.com
+netkoruma-bbva.sbs
 netkoruma-bbva.xyz
 netkoruma-garanti.cfd
 netkoruma-garanti.com
@@ -345151,6 +345164,7 @@ sahibinden-get.online-odemelerim.sa.com
 sahibinden-get.online-tr.sa.com
 sahibinden-get.r-onaylihizmetin.com
 sahibinden-get.r-onayliservisin.com
+sahibinden-get.r-onayliservislerin.com
 sahibinden-get.ru.com
 sahibinden-get.satis-tr.online
 sahibinden-get.satislarim-odeme-servisi.com
@@ -365746,6 +365760,7 @@ sokmarketsponsorlu.cfd
 sokmarketsubat.cfd
 sokmarketsubataktuelurunler.cfd
 sokmarketsubatfirsatlari.cfd
+sokmarketsubatfirssatlari.cfd
 sokmarketsubatsepetim.cfd
 sokmarkett.duckdns.org
 sokmarkettekitiklakapinda.cfd
@@ -405830,6 +405845,8 @@ uwcgxwvqxvnbtvh.cn
 uwcvkearaxwirbxgp.org
 uwdh26dug.duckdns.org
 uwdlem.top
+uwehgncxmvkspqwefmd.today
+uwehgncxmvkspqwefmds.live
 uwgaioshl.com
 uwgvdrnycjqqqsd.ru
 uwgyjebaewhtjhh.cn
@@ -406530,6 +406547,7 @@ uythgs.rf.gd
 uytiovklulvulu.ddns.net
 uytricmpreprom.com
 uytsp.html-5.me
+uytv-glr-n-tvb.my-homeip.net
 uyueririckn.top
 uyukle.com
 uyukle.inf
@@ -441742,6 +441760,7 @@ yasaluygulama2.com
 yasaluygulama22.com
 yasamadestek.org
 yasamagacivakfi.org
+yasamakkkkosturmak.org
 yasamaktayim.click
 yasamalaniiiiiiiim.online
 yasamalkan.cfd
@@ -442741,6 +442760,7 @@ yelyotech.pics
 yemek-takim-tr.cfd
 yemek-time.net
 yemek-time.org
+yemekcom.net
 yemekkartihalkbank.com
 yemeklerimlezzetli.blogspot.com
 yemeklsepeti.com
