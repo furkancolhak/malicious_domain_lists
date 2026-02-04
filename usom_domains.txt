@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-04T18:05:14.023255
+# Updated: 2026-02-04T19:05:13.975531
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -52102,6 +52102,7 @@ aklinageldiysehemencek.click
 aklinageldiysehemencek3.click
 aklinageldiysehemencek4.click
 aklinda-cebinde-dilinde.com
+aklindadegilhemenkapinda.com
 aklindadilindecebindeparibubasvuruhediye-tr.tk
 aklindakiguckapinda.com
 aklindakiparibudan.com
@@ -78271,6 +78272,7 @@ belgeodemeleriniz.com
 belgeonaydogrula.org
 belgepqsqport.net
 belgetunceli.net
+belgeyonetim.xyz
 belgimislem.xyz
 belgium-myservice.ddns.net
 belgom.duckdns.org
@@ -132186,6 +132188,7 @@ dertlikaygisiz04.com
 dertoldudomainsizlikusom.com
 dertqere1.xyz
 dertsizlerde-bakargibi-yanlisa-olusmadan-bilemezlerden.cfd
+dertvesikinti.xyz
 dertyert.info
 dertykate.zapto.org
 deruizx.com
@@ -218913,6 +218916,7 @@ hukuktr.org
 hukukuzlasma.com
 hukukwebtr-ihlalsorgu.com
 hukumaru.nobody.jp
+hukumsuz.de
 hulihuli.net
 huliop.shop
 huliplokle.click
@@ -267707,6 +267711,7 @@ lntrvergdmee.net
 lnuor.com
 lnv3b68.xdk8ax.cn
 lnvnvwrkss.duckdns.org
+lnvt-to-b-g-rn.my-homeip.net
 lnwkvmanvvlnfpx.ru
 lnwxfq.qz94.com
 lnxdf5.duckdns.org
@@ -335378,6 +335383,7 @@ randevu-islem.net
 randevu-merkezi.net
 randevu-merkezimiz.com
 randevu-merkezlerimiz.com
+randevu-mhrs-takvim.cfd
 randevu-muayene.net
 randevu-nvi.online
 randevu-nvlkyty.net
@@ -367645,6 +367651,7 @@ sorgu.city
 sorgu.click
 sorgu.dev
 sorgu.digital
+sorgu.eturkiye.cv
 sorgu.fr
 sorgu.fun
 sorgu.khalexmarka.xyz
@@ -367661,6 +367668,7 @@ sorgu.site
 sorgu.space
 sorgu.us
 sorgu.world
+sorgu.wtf
 sorgu.xyz
 sorgu81.plus
 sorguadresi.site
