@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-04T10:05:14.078939
+# Updated: 2026-02-04T11:05:14.047326
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5807,6 +5807,7 @@
 134.209.48.14/bins
 134.209.48.68
 134.209.59.104/lmaowtf/
+134.209.69.155
 134.209.71.79/bins
 134.209.76.96
 134.209.79.98/bins
@@ -16694,6 +16695,7 @@
 223.25.247.240
 223.27.35.244
 223.30.98.169
+223.6.249.141
 22312313213.duckdns.org
 22314521332.com
 22317b7a.dj-hd5kfu.shop
@@ -23824,6 +23826,7 @@
 47.84.183.3
 47.84.79.46
 47.84.82.8
+47.86.33.195
 47.88.168.242
 47.88.190.200
 47.88.21.111
@@ -24727,6 +24730,7 @@
 5.101.157.80
 5.101.67.143
 5.101.86.55
+5.109.182.231
 5.11.83.214
 5.114.92.156
 5.129.216.16
@@ -27645,6 +27649,7 @@
 65.108.96.201
 65.109.131.183
 65.109.162.8
+65.109.182.231
 65.109.241.185
 65.109.25.109
 65.109.3.34
@@ -31021,6 +31026,7 @@
 8.218.194.192
 8.218.222.216
 8.218.240.85
+8.218.43.248
 8.218.44.75
 8.218.68.96
 8.219.117.239
@@ -153216,6 +153222,7 @@ edv-ilanguncele.site
 edv-ilangunceleme.site
 edv-ilanonaylama.site
 edv-tap-ravportal.com
+edv-tapuonlinerandvusu.com
 edv-tapuonlinerdv.com
 edv-tapuonlinerdv.online
 edv2021-iade-hizmetleri.xyz
@@ -257471,6 +257478,7 @@ kmpnyayeniyilxc.blogspot.com
 kmpnybrd-com-tr-525749.hostingersite.com
 kmpnybrd.com
 kmpnyhmnbrd1o1.com
+kmpnyhmnbrd1o1.info
 kmpnylrbrdsizlerle.space
 kmpnylrsonayuz.shop
 kmpnynzsizlerleburada.com
@@ -348436,6 +348444,7 @@ sahibindenparamguvendetr.alisveris-tr.sa.com
 sahibindenparamguvendetr.cf
 sahibindenparamguvendetr.com
 sahibindenparamguvendetr.e-tr-odeme.sa.com
+sahibindenparamguvendetr.guvenli-alisverislerim.sa.com
 sahibindenparamguvendetr.net
 sahibindenparamguvendetr.odeme.sa.com
 sahibindenparamguvendetr.online-alisveristr.sa.com
@@ -371215,6 +371224,7 @@ ssylnacpauleqog.ru
 ssynergy.in
 ssyukleme.mywire.org
 sszflsxvof.duckdns.org
+st-gl-rn-kv.my-homeip.net
 st-ksn-kpda.online
 st-members1stfcui.duckdns.org
 st-twp.cloud
@@ -432676,6 +432686,7 @@ xhasrlama.com
 xhaxo.com
 xhbsexirmlbgdph.su
 xhc6poyno.duckdns.org
+xhcjmm.help
 xhcofyi.com
 xhdgt.com
 xhdoejcpm.com
