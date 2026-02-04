@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-04T05:05:13.849296
+# Updated: 2026-02-04T06:05:14.591247
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -100033,6 +100033,7 @@ budgzp.cn
 budibodataktiko.com
 budintrewpe.com
 budison-oklarly.com
+budportfolio.com
 budqetanahtar.online
 budqetarabakijrala.net
 budqetaracckiralama.com
@@ -249582,6 +249583,7 @@ kapida-x9m2z7qw.cfd
 kapida-x9q72mka.cfd
 kapida-xn.com.tr
 kapida-youvia.cyou
+kapida-zenorix.cfd
 kapida.mobi
 kapida1-0-1.store
 kapida10.store
@@ -250304,6 +250306,7 @@ karacaonlineozel.org.tr
 karacaozelindirim.com
 karacapazari.biz.tr
 karacapazari.com.tr
+karacasali.com
 karacasalikapi.com
 karacasevincli.com
 karacashop.store
@@ -336595,6 +336598,7 @@ receve-app-page.duckdns.org
 receve-page-meta.duckdns.org
 receve-page-standars.duckdns.org
 receve-tage-post.duckdns.org
+recexe.com
 rechargefr.hopto.org
 rechecksecurity52.hopto.org
 recheckyourarrival.com
@@ -377878,6 +377882,7 @@ tacticcognition.top
 tacticrider646.top
 tactileca.com
 tactipath.icu
+tactroute.com
 tadaamme.com.tr
 tadaronneeng.ddns.net
 tadawol.ddns.net
@@ -385428,6 +385433,7 @@ thuurkeninbays.net
 thuzzonn.ddns.net
 thvsr.com
 thwghale.duckdns.org
+thwise.com
 thwit.ddns.net
 thxhdebffghx.site
 thxrq.com
@@ -450677,6 +450683,7 @@ zimbra-admin-3255e9.webflow.io
 zimbra-beta.info
 zimbra-turkey-domain-tr.a0001.net
 zimbra-web-03ee42.webflow.io
+zimbra.garantibbvakredibasvuru.com
 zimbra.y2kportfolio.com
 zimbra2-0-5.webflow.io
 zimbraadmin-340df7.webflow.io
