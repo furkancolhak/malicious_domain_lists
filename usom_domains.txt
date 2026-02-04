@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-04T19:05:13.975531
+# Updated: 2026-02-04T20:05:12.215480
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -26166,6 +26166,7 @@
 5656562321.site
 5660imvce.duckdns.org
 56632563.duckdns.org
+56646551752.click
 5664bildirimleri.net
 5664smsleri.net
 56652656622625626265j545.duckdns.org
@@ -78270,6 +78271,7 @@ belgekoruma.pro
 belgemaktif.com
 belgeodemeleriniz.com
 belgeonaydogrula.org
+belgeportali.xyz
 belgepqsqport.net
 belgetunceli.net
 belgeyonetim.xyz
@@ -97828,6 +97830,7 @@ brdangloprdansans.lat
 brdankacmaz.com
 brdankcmazk.com
 brdanlardansandaseasn.bond
+brdanlardsnasdsasa.mooo.com
 brdansknzbnrynlasdew.bond
 brdansnkzynlnyrz.icu
 brdansrglayacksinsnde.mooo.com
@@ -148012,6 +148015,7 @@ e-turkiyeportaligovtr.com
 e-turly.com
 e-tuvsorgulamalar.org
 e-tuvturkbayi.digital
+e-tuvturkbayilik.digital
 e-tuvturkk.digital
 e-tvbonusalgirislemenu.online
 e-tvibonusalgirislemenu.online
@@ -177631,6 +177635,7 @@ fsayen.duckdns.org
 fsb.com.bd
 fsblehkimc.storage.googleapis.com
 fscfagalys.info
+fsclrnmslclfsx.mooo.com
 fsdafdsfdsaflkjkxvzcuifsad.azureedge.net
 fsdasawwfs.xyz
 fsddm.xubee.ru
@@ -187982,6 +187987,7 @@ giriss-adresleri.cf
 giriss-adresleri.gq
 giriss-adresleri.ml
 giriss-akbnkkx.com
+giriss-basvurular.cfd
 giriss-iadresleri.space
 giriss-web-e-devlet-iade-gov-tr.com
 girissayfabaslangiconline.site
@@ -236708,6 +236714,7 @@ istanbulsa.net
 istanbulsdks.com
 istanbulsenicokbozmus.shop
 istanbulsenin.online
+istanbulservsbas.shop
 istanbulsfkoh.com
 istanbulsistemibb.net
 istanbulsizinizindjddd.com
@@ -364768,6 +364775,7 @@ sndbnlrdrpymcbkglgtt.cfd
 sndbnmgbiolmamlisin.cfd
 sndbrdasngeldnasd.icu
 sndbrdngmnkpmlsin.icu
+snde-alsvrslrde.com
 snde-basvurtakipkampanyasina.com
 snde-hemenbasvurbizekatilkmpanyasi.com
 snde-hemenbasvurkmpanyasiburada.com
@@ -400667,6 +400675,7 @@ tuvklrk.digital
 tuvktrdkodeme.net
 tuvktueksxaracmuyabe.net
 tuvkturkt.digital
+tuvkturt.digital
 tuvkurt-tr.net
 tuvkurt.net
 tuvkurt.org
