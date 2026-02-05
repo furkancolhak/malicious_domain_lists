@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-05T19:05:14.581664
+# Updated: 2026-02-05T20:05:13.992938
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6370,6 +6370,7 @@
 142.44.251.77
 142.79.237.163
 142.91.104.188
+142.91.105.172
 142.93.105.254/bins/
 142.93.115.5
 142.93.119.175
@@ -6964,6 +6965,7 @@
 146.19.247.28
 146.19.254.238
 146.190.119.189
+146.190.152.219
 146.190.162.187
 146.190.208.30
 146.190.217.5
@@ -7824,6 +7826,7 @@
 157.230.29.4
 157.230.31.237
 157.230.33.8
+157.230.34.45
 157.230.4.241/bins
 157.230.60.227
 157.230.8.75
@@ -7835,6 +7838,7 @@
 157.245.100.177
 157.245.173.210
 157.245.193.91
+157.245.194.54
 157.245.197.39
 157.245.243.62
 157.245.245.116
@@ -7958,6 +7962,7 @@
 159.203.122.42
 159.203.141.208
 159.203.143.205
+159.203.164.101
 159.203.178.250
 159.203.2.6
 159.203.232.29
@@ -7985,6 +7990,7 @@
 159.65.146.80
 159.65.155.170/bins
 159.65.155.229
+159.65.156.200
 159.65.157.109/bins
 159.65.168.103
 159.65.169.108
@@ -9404,6 +9410,7 @@
 178-9595-4848-7585.site
 178.125.204.198
 178.128.107.204
+178.128.109.37
 178.128.122.4/ab4g5/
 178.128.171.206
 178.128.173.178/bins
@@ -9422,6 +9429,7 @@
 178.128.248.18/bins
 178.128.27.205
 178.128.34.20
+178.128.60.22
 178.128.60.34
 178.128.64.37/bins/
 178.128.76.186/lmaowtf
@@ -11136,6 +11144,7 @@
 188.127.243.147
 188.127.243.148
 188.127.243.193
+188.127.251.171
 188.127.254.114
 188.127.254.44
 188.130.206.168
@@ -11157,6 +11166,7 @@
 188.165.89.123
 188.166.161.193
 188.166.182.13
+188.166.210.146
 188.166.236.38
 188.166.41.194
 188.166.68.21
@@ -15661,6 +15671,7 @@
 208.85.17.52
 208.85.18.4
 208.85.20.130
+208.85.21.30
 208.91.197.46
 208.97.106.10
 208.97.139.112
@@ -16457,6 +16468,7 @@
 217.61.6.155
 217.61.7.163
 217.69.1.128
+217.69.11.60
 217.69.3.218
 217.69.8.136
 217.79.179.14
@@ -20273,6 +20285,11 @@
 36.226.6.186
 36.230.4.77
 36.234.139.215
+36.255.98.152
+36.255.98.159
+36.255.98.160
+36.255.98.165
+36.255.98.179
 36.77.107.252
 36.85.110.142
 36.85.205.114
@@ -27332,6 +27349,11 @@
 62.233.57.94
 62.4.16.167
 62.4.31.161
+62.60.131.180
+62.60.131.184
+62.60.131.187
+62.60.131.191
+62.60.131.204
 62.60.134.177
 62.60.152.226
 62.60.154.106
@@ -40078,6 +40100,7 @@ abvsecurity.co.za/db-config-ini.php
 abvsecurity.co.za/wp-config-ini.php
 abwehrphas.sa.com
 abwrqw.blogspot.com
+abwxjp5.me
 abxess.com
 abxg1g11.duckdns.org
 abxh6a4g2.duckdns.org
@@ -97638,6 +97661,7 @@ brachiopode.com
 brackesoveeigty.top
 bracket86.xyz
 bracketcaution.top
+brackusi0n.live
 bracs-lion.online
 brad-xrp.online
 bradaaktifindrmler.duckdns.org
@@ -138629,6 +138653,7 @@ dofusseller.ddns.net
 dofuviiy.com
 dog-repair-shower.com
 dog-training-technique.com
+dog3rj.tech
 doga-ile-huzur-kosesi.top
 dogada-huzur-bul-keyfini-sur.top
 dogada-kamp-keyfi-seni-bekliyor.top
@@ -157372,6 +157397,7 @@ emeryconsult.com/9hgfdfyr6
 emesispushship.pro
 emettermalspa.com
 emeyinecesgaysis.site
+emezonhe.me
 emg-detaysorgula.org
 emg-iadebasvuruportale.online
 emg-sorgulama.net
@@ -190644,6 +190670,7 @@ gourdiness.com
 gourmet-getaways.webflow.io
 goutmed-hq.com
 gouv-lmpot.ddns.net
+gouvn.me
 gov-atr.top
 gov-az.herokuapp.com
 gov-bankaiade.com
@@ -194952,6 +194979,7 @@ guvenli-alisverisler.com.tr
 guvenli-alisverisleri.com
 guvenli-alisverislerim-tr.online
 guvenli-alisverislerim.online
+guvenli-alisverislerim.sa.com
 guvenli-alisverislerim.tk
 guvenli-alisverislerimadresim.tk
 guvenli-alisverislerimbilgiler.tk
@@ -275383,6 +275411,7 @@ matraca.cc
 matraxe.com
 matriksyatirim.com
 matrix-partners.theworkpc.com
+matrix.cymru
 matrix123.ddns.net
 matrixane.com
 matrixhack9.ddns.net
@@ -285937,6 +285966,7 @@ msohu.online
 msohu.shop
 msol.live
 msolixvusc.duckdns.org
+msonline.help
 msonline.live
 msonlinecenter.com
 msorguss.web.app
@@ -319764,6 +319794,7 @@ pickmasty.top
 pickordeal.top
 pickupbnv02934.ddns.net
 pickupenglishonline.com
+pickupweb.me
 pickwick-poppins.com/9ghf45jhg
 pickyinversion.top
 pickzyzo.shop
@@ -322381,6 +322412,7 @@ postahs.help
 postaisyerin.xyz
 postakargo.site
 postakazentes.net
+postal-form.on.shiper.app
 postal-mail.hopto.org
 postalecerticodep.hopto.org
 postalefr.ddns.net
@@ -323002,6 +323034,7 @@ pr-ii-bu-aa.xyz
 pr-ii-bu-ab.xyz
 pr-ii-bu-ac.xyz
 pr0b4yi.is-best.net
+pr0fu5a.me
 pr0st0br0.info
 pr0xy.zapto.org
 pr0xyy.ddns.net
@@ -330914,6 +330947,7 @@ q6s0s0e0o03xwdkd1rq67vg.ddns.net
 q6tu7glupwyy.storage.googleapis.com
 q6xhqt4rd.com
 q708yecy.duckdns.org
+q74vn.live
 q76bnqh8v.duckdns.org
 q7c32rz.duckdns.org
 q7ld6uu7q.duckdns.org
@@ -356316,6 +356350,7 @@ servetvebasari.online
 serveur202323.ddns.net
 servexplore.xyz
 servgameslupi.hopto.org
+servgate.me
 servhost.hopto.org
 serviactivas3552.tonohost.com
 servic3amz-informati0ns.duckdns.org
@@ -386004,6 +386039,7 @@ tickets-ska.com
 tickets-spartak.com
 tickets-surganova.com
 tickets-zveri.com
+tickets.pfoten-prinz.de
 ticketscircus.spb.ru
 ticketscomedy.ru
 ticketsevent-uae.com
@@ -450099,6 +450135,7 @@ zamoncesiindirimler.online
 zampones.vila-real.com
 zamsiz-gordugun-hersey-biraz-daha-var.com
 zamsizhzmetnde.net
+zamstats.me
 zanaatgaranti.xyz
 zanbntrs.click
 zancetom.com
@@ -453975,6 +454012,7 @@ zrdjxqb.com
 zretin.pro
 zrez5u1l.duckdns.org
 zrgirisadres.vercel.app
+zrheblirsy.me
 zrhniegwylrs.pw
 zrhnijxvl.com
 zriaatbank.com
