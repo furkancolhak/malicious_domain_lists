@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-05T20:05:13.992938
+# Updated: 2026-02-05T21:05:16.165105
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5959,6 +5959,7 @@
 138.197.179.100
 138.197.24.249
 138.197.34.162
+138.197.44.208
 138.197.78.18
 138.197.99.34
 138.199.156.22
@@ -11081,6 +11082,7 @@
 187-224-312-2-1.store
 187-5-7-1-2-1.cloud
 187.0.128.86
+187.108.1.130
 187.116.126.216
 187.130.251.249
 187.130.251.249/img/bson021.dat0
@@ -11803,6 +11805,7 @@
 193.233.134.136
 193.233.161.137
 193.233.161.163
+193.233.175.213
 193.233.193.45
 193.233.20.11
 193.233.20.138
@@ -16153,6 +16156,7 @@
 212.32.237.90
 212.32.237.92
 212.33.237.86/images/1/report.php
+212.34.138.4
 212.47.243.146
 212.51.142.238
 212.60.5.129
@@ -22916,6 +22920,7 @@
 45.227.255.214
 45.227.255.215
 45.227.255.216
+45.234.176.202
 45.234.248.66
 45.238.103.237
 45.241.152.155
@@ -23705,6 +23710,8 @@
 46.29.166.83/ab4g5
 46.29.167.45
 46.29.234.41
+46.29.238.123
+46.29.238.160
 46.3.223.174
 46.30.190.98
 46.32.47.226
@@ -32157,6 +32164,7 @@
 87.121.45.29
 87.121.45.42
 87.121.45.45
+87.121.47.15
 87.121.47.63
 87.121.69.25
 87.121.84.111
@@ -33383,6 +33391,7 @@
 91.107.174.190
 91.107.221.88
 91.108.240.52
+91.108.244.85
 91.109.178.14
 91.109.180.3
 91.109.180.4
@@ -34384,6 +34393,7 @@
 95.164.5.209
 95.164.5.41
 95.164.53.100
+95.164.53.64
 95.164.9.196
 95.168.161.213
 95.169.180.122
@@ -55365,6 +55375,7 @@ alevsdvdsglk-bs.net
 alevsdvdsglk-bs12.net
 alevxxbizmr.net
 alex-botnet.xyz
+alex-fabow.online
 alex-frost.com/assets/db_template.php
 alex-mendez-fire.info
 alex.hopto.org
@@ -203830,6 +203841,7 @@ hayatin-son-gelen-duraklari-ugra.com
 hayatin-surprizlerinden-beklentiniz.com
 hayatin-tadina-varmak-icin.top
 hayatinbaglantilarlaornenyanizi.xyz
+hayatindakiguzelanlar.com
 hayatindakiguzellikler.com
 hayatindakiler.com
 hayatindakimutluluklar.com
@@ -267232,6 +267244,7 @@ lkjsdhgoi.vicp.co
 lkjwkwgguu.duckdns.org
 lkkbbt.online
 lkkjkjkkkcv.com
+lkkkafffas.com.tr
 lkkogltoyof4.xyz
 lkkoi.duckdns.org
 lkl4zuyu.duckdns.org
@@ -296711,6 +296724,7 @@ ntdfgisgh.com.tr
 ntdpirmtpfnxpor.com
 ntdvltgirsgov.org
 ntdvltgirsgov.store
+nte2srryro7jecki.public.blob.vercel-storage.com
 nterceptroofings.com
 nterprisegrid.com
 ntfaturaodeme.com
@@ -300613,6 +300627,7 @@ odiqmjk3.duckdns.org
 odjdnhsaj.com
 odjhnbvb.wcnv20.cn/instagram-me
 odjtfmcz.com
+odkealkasdksajds.cyou
 odkhcmjq.com
 odkmtbuecjbhe.net
 odkydl4.cn
@@ -352190,6 +352205,7 @@ sec-pttavm.com.tr
 sec-pttavm.info.tr
 sec-redirect.zapto.org
 sec-sahibinden.com.tr
+sec-t2.fainerkern.ru
 sec-tr.website
 sec-ure01verify.zapto.org
 sec-ure05al0g.hopto.org
@@ -376777,6 +376793,7 @@ svbseloxpzts.net
 svbseloxsali.club
 svbseloxsali.co
 svbseloxsali.com
+svc-int-api-identity-token-issuer-v2-mn.in.net
 svc.ponethus.com
 svcdgb3n1bi63pkrylq.ddns.net
 svch0st.zapto.org
@@ -389856,6 +389873,7 @@ tovddph6z.duckdns.org
 tovegans.com
 tovima.live
 tovrcms.ga
+tovz.life
 tow432.xyz
 towardbeware.top
 towarddelicacy.top
@@ -400899,6 +400917,7 @@ tuvrtdrk-muayeneal.net
 tuvrtdrkxgl.net
 tuvrtrkm-islem.net
 tuvrtrlk.digital
+tuvrtuk.digital
 tuvs-turkoodeme.net
 tuvsaraccmuyenee.net
 tuvssmuaaayneneeessr.net
