@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-05T15:05:14.106410
+# Updated: 2026-02-05T16:05:14.868786
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3637,6 +3637,7 @@
 104.248.167.144
 104.248.169.149
 104.248.187.115/bins
+104.248.194.233
 104.248.202.104
 104.248.205.66
 104.248.207.14/ab4g5/
@@ -17787,6 +17788,7 @@
 26cansinsipariser.cloud
 26detk4l543rnler3.blogspot.com
 26e05ug.duckdns.org
+26edd0a4.ddns.net
 26ekimdekiler.com
 26ekimerkenkatalog.com
 26eylulindirimleri.com
@@ -33859,6 +33861,7 @@
 9299954564.cloud
 92999564654.cloud
 92b29893g2920hg387.duckdns.org
+92c5d3b3.ddns.net
 92cwz9.duckdns.org
 92g938uextmgvb7rllv8wcad.biz
 92gbhs.duckdns.org
@@ -133450,6 +133453,7 @@ devindirimdesonsaatler.com
 devindirimgunleri.com
 devindirimimlifirsatlarim.com
 devindirimkarac.sa.com
+devindirimlerbuyukfirsatlar.cfd
 devindirimlersezonsonnu101.xyz
 devindirimliurunlerim.com
 devindirimpaketleri.com
@@ -159337,6 +159341,7 @@ enlighteningdegeneration.top
 enlighteningnotoriety.top
 enlightenmentfact.top
 enlimit.fun
+enlimit.homes
 enlimit.shop
 enlimit.site
 enlimit.store
@@ -167381,6 +167386,7 @@ f1.pipen.at
 f10317.xyz
 f103c913.jdhuwoskz.cloud
 f12.control4r1344.nl
+f13.ddnsking.com
 f16-tc.net
 f1625.thyte0.com
 f16zakitchenboy1.com
@@ -253032,6 +253038,8 @@ kbank.pro
 kbank.vip
 kbb25.com
 kbbbn.duckdns.org
+kbbpissmqs.conningstone.net
+kbbpissmqs.hbmc.net
 kbd.visiongrupltd.com
 kbd1nn4gf.duckdns.org
 kbditjfsdl.duckdns.org
@@ -257060,6 +257068,7 @@ klnhgss.com
 klni.tr
 klnipzvegniorsajdr.net
 klnjsfkhjasfabfa432321.space
+klnptruu.space
 klnsanbuisness.blogspot.com
 klntkltnkltnklt.net
 klocinski.com
@@ -267173,6 +267182,7 @@ lklkkx.click
 lklklklkljknbknnlk.net
 lklkwdw.click
 lkllkllkllkllklkllkk.net
+lklptttt.space
 lklslrglmla.click
 lkmanjslaqa.com
 lkmanjslaqa.mermerfatihlerimde.com
@@ -295647,6 +295657,7 @@ nooncram.top
 noondomhoasdasdxvzxadsduse.shop
 nooneknows12.ddns.net
 noonepa.tk
+noonrpxv.privatedns.org
 noonweb.online
 nooo77.zapto.org
 nooo88.zapto.org
@@ -306984,6 +306995,7 @@ onnlinee-vtnnds-hiizmt101.ga
 onnlinehgsyukllemecim.com
 onnlne-bsvvrm-yap.com.tr
 onnlqr8r.duckdns.org
+onnmuoru.privatedns.org
 onnopqojyyyr.xyz
 onnqjkiige.duckdns.org
 onnumara.click
@@ -363843,6 +363855,8 @@ sktrgtaptl-a02e581833fe.herokuapp.com
 sktrpeerssmbefrstlrsmdikpida.tech
 sktrutx.com
 sktsltsksktsltklm.net
+skttxrdwucbw.conningstone.net
+skttxrdwucbw.hbmc.net
 skulbntr.online
 skull247.cf
 skullisland.ml
@@ -376806,6 +376820,7 @@ svvl.store
 svvskc.de
 svwra1rl.duckdns.org
 svxejxxyswldldfwy.com
+svyeahjfu.pbhjby
 svyktepnlz.duckdns.org
 sw0hmu5a.duckdns.org
 sw0mxne.uflzmcc.cn
@@ -377657,6 +377672,8 @@ szxgitxmgjhzdst.com
 szyj9u8.duckdns.org
 szzeozllkpmyntkrarfsrstlr.online
 szzeozllkpmyntkrarfsrstlr.xyz
+szzqwggurg.conningstone.net
+szzqwggurg.hbmc.net
 t-1o1comtr.online
 t-5564644515.cloud
 t-a-v-m-p-t-t.shop
@@ -377907,6 +377924,7 @@ t0zv563p3rrmcspg2x76.xyz
 t1-edevletodeme.com
 t1.cloudshielding.xyz
 t1169o.duckdns.org
+t13.ddnsking.com
 t14esv0u.duckdns.org
 t1545jc4.duckdns.org
 t15lh52zh.duckdns.org
@@ -403196,6 +403214,8 @@ ui-un.com
 ui101s.ddns.net
 ui12232m.duckdns.org
 uiahlz.com
+uiavuflyjqodj.conningstone.net
+uiavuflyjqodj.hbmc.net
 uibyveg.com
 uicaleqaor.top
 uid.zapto.org
@@ -416738,6 +416758,8 @@ vsrttuigef.duckdns.org
 vsrxs0ol.duckdns.org
 vssergisodmeller.net
 vssergisodmellerii.net
+vssmqppaup.conningstone.net
+vssmqppaup.hbmc.net
 vsst247.com
 vstgbqpqtsnm.com
 vstml4iwx.duckdns.org
@@ -416838,6 +416860,7 @@ vtvvvulkwx.duckdns.org
 vtwxvlmwvx.duckdns.org
 vtx14v.duckdns.org
 vtxhospital.com
+vtykvjbmhkpah.hbmc.net
 vtylqdkoa.com
 vtzqfzwpox.duckdns.org
 vu0kiqo.cn
