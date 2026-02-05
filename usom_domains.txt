@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-05T05:05:15.468264
+# Updated: 2026-02-05T06:05:17.254330
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -39305,6 +39305,7 @@ aafh.org/wp-includes/db_template.php
 aafilidenizim.com
 aafilli-denizim.com
 aafir.enconfhz.com
+aafirsatlar.click
 aafjmtqwaf.duckdns.org
 aagica.ddns.net
 aahamehean.com
