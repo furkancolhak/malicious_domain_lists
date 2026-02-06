@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-06T07:05:14.615698
+# Updated: 2026-02-06T08:05:14.481856
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6627,6 +6627,8 @@
 144.217.174.57
 144.217.92.197
 144.31.2.198
+144.31.221.179
+144.31.221.197
 144.48.241.167
 144.48.241.32
 144.48.243.79
@@ -28346,6 +28348,7 @@
 69.64.147.10
 69.64.32.119
 69.64.35.1
+69.67.173.30
 69.73.144.225
 69.84.240.57
 6904.cloud
@@ -346246,6 +346249,7 @@ sahibinden-param-guvende-securtiy.35-158-174-245.plesk.page
 sahibinden-param-guvende-siparis.com.tr
 sahibinden-param-guvende-siparisver.com.tr
 sahibinden-param-guvende-tr.aktuel-urunleri.sa.com
+sahibinden-param-guvende-tr.guvenli-alisverislerim.sa.com
 sahibinden-param-guvende.22web.org
 sahibinden-param-guvende.31-210-39-247.plesk.page
 sahibinden-param-guvende.35-158-174-245.plesk.page
