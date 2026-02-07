@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-07T12:05:14.366651
+# Updated: 2026-02-07T13:05:13.812353
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -59543,6 +59543,7 @@ anlikpazarfrsat1o1de.com
 anlikpx.com
 anlikrandevu.com
 anlikrandevualdin.org
+anlikrandevusuan.org
 anliksiparis.com.tr
 anliksistembasvuruhhizmetiba.com
 anlikvergiode.net
@@ -254590,6 +254591,7 @@ kgm-goh.com
 kgm-gou.com
 kgm-gov-co.me
 kgm-gov-shop.top
+kgm-gov-tir.bond
 kgm-gov-tr.bond
 kgm-gov-tr.cc
 kgm-gov-tr.com
@@ -254911,6 +254913,7 @@ kgmtr-gov.icu
 kgmtr-govu.top
 kgmtr.org
 kgmtr.top
+kgmtrgom.cyou
 kgmtrgov.cyou
 kgmtrgov.help
 kgmtrgov.top
@@ -335791,6 +335794,7 @@ randevukapisi.com
 randevukapisi.net
 randevukapisimlkb.com
 randevukaydi.com
+randevularanlikmhxrs.org
 randevularim-sistem.org
 randevularimial.net
 randevularimm.online
@@ -335837,6 +335841,7 @@ randevunoktasi.site
 randevunual.online
 randevunual.xyz
 randevunualsirabeklemeyeartikson.net
+randevunuhemenal.org
 randevunuhzlcaallll-gov-tr.net
 randevunutkp.online
 randevunuvaktindeal.net
@@ -373825,6 +373830,7 @@ subatfirsatlari101.net
 subatfirsatlariaktuel.net
 subatfirsatlariburada.pt
 subatfirsatlarikampanyalari.pt
+subatfirsatlarim-aldinaldin.click
 subatfirsatlariyenibasladi.cfd
 subatgeldifirsatlarikacirma.cfd
 subatgidakampn.com
@@ -394482,6 +394488,7 @@ trendyoladresim.net
 trendyoladresim.org
 trendyoladresimguncel.com
 trendyoladresimguncel.net
+trendyoladresimiguncelle.com
 trendyoladresimiyenile.com
 trendyoladresimiyenile.net
 trendyoladresimyeni.net
