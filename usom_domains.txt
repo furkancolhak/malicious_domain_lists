@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-09T16:05:14.192957
+# Updated: 2026-02-09T17:05:12.358324
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -22693,6 +22693,7 @@
 45.144.154.134
 45.144.165.66
 45.144.212.47
+45.144.212.52
 45.144.225.27
 45.144.232.99
 45.144.28.76
@@ -38313,6 +38314,7 @@ a101sonsaate-ozel.online
 a101sponsorlu-g.net.tr
 a101stenleytermoskampanyasi.site
 a101subataozel.online
+a101subatfirsat.com
 a101subatfirsati.online
 a101subatfirsatlari.com
 a101subatfirsatlariimm.shop
@@ -189919,6 +189921,7 @@ gokkalevakfi.site
 gokkusagim.org
 gokld.com
 goklerdengelenbirkararvar.shop
+goklereuzanir.org
 gokmenler.bid
 gokolomanno.xyz
 gokrsxoitd.net
@@ -194137,7 +194140,11 @@ guncelsikayetvar.cf
 guncelsikayetvar.ga
 guncelsikayetvar.info
 guncelsikayetvarr.com
+guncelsikaytlertr-12.sbs
 guncelsikaytlertr-16.sbs
+guncelsikaytlertr-17.sbs
+guncelsikaytlertr-28.sbs
+guncelsikaytlertr-9.sbs
 guncelsikaytlervar-11.sbs
 guncelsikaytlervar-17.sbs
 guncelsikaytvar-tr-22.sbs
@@ -206831,6 +206838,7 @@ hemenarackiralamahizmeti.com.tr
 hemenaracmutlum.com.tr
 hemenaracmutlum.xyz
 hemenaracotokiralama.site
+hemenaracrandevu.web.app
 hemenasatinall.click
 hemenaskq.com
 hemenaslc.click
@@ -231270,6 +231278,7 @@ internet-kuveytturkiye.com
 internet-marketi.sbs
 internet-mobil-alisveris.duckdns.org
 internet-mobil-hesabim.com
+internet-mobil-tr.com
 internet-mobildenizacikbasvuru.com
 internet-mobile-cor.ml
 internet-mobile-finans.com
@@ -237143,6 +237152,7 @@ istanbulvergidairesi.com.tr
 istanbulvergidairesiileindirimli-gov-tr.net
 istanbulvergiodasi.com.tr
 istanbulvezne.xyz
+istanbulvibe.shop
 istanbulvibes.site
 istanbulvillahayat.ml
 istanbulw.net
@@ -238111,6 +238121,7 @@ istpremier.xyz
 istpremium34.blogspot.com
 istprmbe1.com
 istpro-202.tlion.click
+istprow.xyz
 istprsbe.com
 istqnbqlqmonl.ml
 istqnbulkqrtbsvur.online
@@ -254861,6 +254872,7 @@ kgm.pcksac.cc
 kgm.scdqwl.homes
 kgm2023plakam.blogspot.com
 kgm2023plakams.blogspot.com
+kgmaa.top
 kgmad.top
 kgmag.top
 kgmagvo.cfd
@@ -281844,6 +281856,7 @@ mobil-garrntiibnkkkmpnya.ip-ddns.com
 mobil-geri-aktarim-merkezi-tr.com
 mobil-geri-iade-aidatlari-gov-tr.com
 mobil-get.com.tr
+mobil-giriiss-online.cfd
 mobil-giris-aidatlatedevletgovtr.com
 mobil-giris-garantim.com
 mobil-giris-guvenlisatinal.com
@@ -370313,6 +370326,7 @@ sponsor-icerik.com
 sponsor-market-indirimleri-tr.online
 sponsor-market-indirimleri.online
 sponsor-mobil-360.site
+sponsor-mobil-tr.com
 sponsor-mobil-tr.online
 sponsor-reklami101.nicepage.io
 sponsor.cf
@@ -390609,7 +390623,9 @@ tr-312.guncelsikayetin-2.sbs
 tr-387.gunceltrsikayetler-20.sbs
 tr-418.h-sikayt-6.ru.com
 tr-451.gunceltrsikayetler-26.sbs
+tr-491.guncelsikaytlertr-21.sbs
 tr-491.sikayetinmivar-20.sbs
+tr-53.guncelsikaytlertr-21.sbs
 tr-577.sikayetlervar-1.sbs
 tr-5yilparibu.com
 tr-64.guncelsikaytlertr-21.sbs
@@ -416377,6 +416393,7 @@ vodafonefaturaodeme.net
 vodafonefaturaodeme.xyz
 vodafonefibra.site
 vodafonegypt.com
+vodafonehappy.com
 vodafoneinfinity.sytes.net/190/configurazione/vodafone/srnartphone
 vodafoneinfinity.sytes.net/tim/internet
 vodafonekampanya.xyz
@@ -421527,6 +421544,7 @@ website6617740546465.nicepage.io
 website6618294.nicepage.io
 website6618296.nicepage.io
 website661834211.nicepage.io
+website6618342111.nicepage.io
 website6618874.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
