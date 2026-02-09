@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-09T14:05:13.171471
+# Updated: 2026-02-09T16:05:14.192957
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2117,6 +2117,7 @@
 101-temmuz23.com
 101-temmuz26.com
 101-temmuz26a.com
+101-tr-bugune-ozel.sponsor-mobil-tr.com
 101-tr-mobil-siparis-ver-internete-ozel.com
 101-tv-temmuzindirimlerin.vercel.app
 101-volta-com-tr.click
@@ -6255,6 +6256,7 @@
 141.105.71.126
 141.105.71.17
 141.11.62.222
+141.113.213.192
 141.138.169.205
 141.138.169.237
 141.164.40.239
@@ -11553,6 +11555,7 @@
 192.243.102.56
 192.243.103.52/bins
 192.243.109.187
+192.248.150.57
 192.250.236.170
 192.252.183.116
 192.253.248.5
@@ -12091,6 +12094,7 @@
 194.233.65.92
 194.233.68.6
 194.242.102.188
+194.242.46.22
 194.242.56.116
 194.26.192.120
 194.26.232.180
@@ -12820,6 +12824,8 @@
 198.135.53.41
 198.144.189.80
 198.167.140.168
+198.167.197.163
+198.167.197.194
 198.168.140.62
 198.180.198.6
 198.199.113.246
@@ -25422,7 +25428,9 @@
 51.143.98.93
 51.15.17.89
 51.15.170.192
+51.15.193.80
 51.15.225.63
+51.15.238.160
 51.15.40.233
 51.15.44.6
 51.15.52.168
@@ -27363,6 +27371,7 @@
 62.210.107.220
 62.210.172.157
 62.210.180.229
+62.210.198.127
 62.210.201.223
 62.210.204.131
 62.210.209.201
@@ -59262,6 +59271,7 @@ anindarenduvm.b-cdn.net
 anindarent.com
 anindarezervasyon.online
 anindarezervasyonadrese.online
+anindasatinal.com
 anindasatinalfirsatlarikacirma.com.tr
 anindasatinalfirsatlarikacirma.online
 anindasatinalfirsatlarikacirma.xyz
@@ -68599,6 +68609,7 @@ aydinlikhaber.club
 aydinlikvakfi.com
 aydinlikvakfi.org.tr
 aydinlikzamanlar.com
+aydinogullarilimited.com
 aydinsenturk.com/ozerkaya/connection.php
 aydinturkiye.com
 aydinyarinlar.online
@@ -89533,6 +89544,7 @@ bitti.app
 bittibasladilar.sbs
 bittibitiyornoktacom.chickenkiller.com
 bittibitttiyor101.duckdns.org
+bittiderbanabitmez.org
 bittikyetti.top
 bittingaros74.com
 bittingores71.com
@@ -149017,6 +149029,7 @@ earnsmartinvesting.click
 earourspam.xyz
 earringmostpleas.gtk.cl
 earsivaidat.com
+earsivdosya.org
 eartharc.top
 earthmerge.top
 earthquake-insurance-19585.com
@@ -159545,6 +159558,7 @@ enlimit.shop
 enlimit.site
 enlimit.store
 enlimitin.site
+enlimitt.online
 enlimitt.site
 enlistappraise.top
 enlistbeneficial.top
@@ -162714,6 +162728,7 @@ estimationoverstate.top
 estimationpreoccupy.top
 estimationschool.top
 estimationsmgir.pw
+estirzgarimdeligibi.org
 estivahali.online
 estmongolia.com
 estoniaforall.com
@@ -188098,6 +188113,7 @@ girisler-guncel.com
 girisler-mobil-girisler-mobil-mobil-mobil-mobil.tk
 girisler-mobilde.cfd
 girisler-mobile-acik.cfd
+girisler-mobill-com.cfd
 girisler-onlinrbnnrctr.com
 girisler-tr.com
 girisler-yapikredi.com
@@ -201413,6 +201429,7 @@ halksigortan.com
 halksigortan.com.tr
 halksigortaniz.com
 halksigortaniz.com.tr
+halksigortaonline.com
 halksigortasi.com
 halksigrta.net
 halksikayetediyorinceleme-com.tk
@@ -235908,6 +235925,7 @@ islmvlcrqwt2312ttfff.com
 islob00641.hopto.org
 islov.top
 isltemsakhmeensonuc.net
+isltfmfldlas.com
 isltfmslbasvlrm.com
 isltmfkaskcd.com
 isltnalsalk.com
@@ -237035,6 +237053,7 @@ istanbulok.xyz
 istanbulolmakicindogruyerdesiniz.com
 istanbulolsan.shop
 istanbulolurmsn.click
+istanbulonix.shop
 istanbulonline-jnnatuubwo.amkbilisim.sbs
 istanbulonlnebasvurmanoktasi.com
 istanbulotobusode.net
@@ -254874,6 +254893,7 @@ kgmeer.qpon
 kgmels.click
 kgmetc.qpon
 kgmg-ovtr.bond
+kgmga.top
 kgmgao.cfd
 kgmgc.cc
 kgmgcshizlislemelrdms.duckdns.org
@@ -257931,6 +257951,7 @@ kmpnyaaprmsynnbasvrr.pro
 kmpnyaaprmsynngrntt.info
 kmpnyaaprmsynngrntt.pro
 kmpnyaaprmsynnnbsvrr.art
+kmpnyaaprmsynnnbsvrr.info
 kmpnyaaprmsynnnbsvrrr.art
 kmpnyaaprmsynnnbsvrrr.info
 kmpnyaaprmsynnnbsvrrr.pro
@@ -292812,6 +292833,7 @@ netdekampanya.my-homeip.net
 netden.my-homeip.de
 netdenfirsatlar.my-homeip.de
 netdenkampanya.my-homeip.de
+netdenkampanya.my-homeip.net
 netdestekler.tk
 netdigitalturk.com
 netdizayn.xyz
@@ -324675,6 +324697,7 @@ prmsynnnbsvrrqnb.info
 prmsynnnbsvrrrqnbbb.click
 prmsynnngrnttbsvr.xyz
 prmsynnnkmpnyaaabsvrr.art
+prmsynnnkmpnyaaabsvrr.info
 prmsynnnkmpnyaaabsvrrr.art
 prmsynnnkmpnyaaabsvrrr.info
 prmsynnnkmpnyaaabsvrrr.pro
@@ -328002,6 +328025,7 @@ pttavm.info
 pttavm.info.tr
 pttavm.islemguvence.com.tr
 pttavm.islemleriniz-webinizde.com
+pttavm.islemlerle-tamamla.com
 pttavm.islemlerle-tr.com
 pttavm.kampanya.info.tr
 pttavm.kampanya2024.com
@@ -421503,6 +421527,7 @@ website6617740546465.nicepage.io
 website6618294.nicepage.io
 website6618296.nicepage.io
 website661834211.nicepage.io
+website6618874.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
