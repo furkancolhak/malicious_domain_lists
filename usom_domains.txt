@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-10T15:05:16.793957
+# Updated: 2026-02-10T16:05:17.179447
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1985,6 +1985,7 @@
 101-de-mobile-ozel.mobil-shop-sponsor.com
 101-de-online-ozel-indirimler-tr.mooo.com
 101-de-ozel-firsatlar-bugune-ozel-alisveris-tr.com
+101-de-ozel-firsatlar-bugune-ozel-online-indirimler-tr.mooo.com
 101-de-ozel-mobil.cep-shop-sponsor.com
 101-de-tr-bugune-ozel.cep-shop-sponsor.com
 101-den-firsatlariniz-kacmasin.sbs
@@ -4993,6 +4994,7 @@
 11puyc.duckdns.org
 11saysdysad.dreamhosters.com
 11subataksizlecepte.online
+11subatsokmarketspetim.cfd
 11svzb.duckdns.org
 11trbianse-tr.com.tr
 11trmrr.net
@@ -64508,6 +64510,7 @@ asdfasdfa.ml
 asdfasdfadsfasdfa.store
 asdfasdfasd.net
 asdfasdfasdfkickassdfassdfasdfsfd.com
+asdfasdfcsf.cc.dvrlists.com
 asdfasdfhasjdas.net
 asdfasdfsdf.com
 asdfasdgsw.click
@@ -78579,6 +78582,7 @@ bemzsiparis.online
 ben-trdestegimsorgularim.net
 benaliosman.sa.com
 benalmasambaskasialacalan.shop
+benanlamadimamaniye.uk
 benbabadas.top
 benbabamadoyamadim.net
 benbensenenensadasd.duckdns.org
@@ -79480,6 +79484,7 @@ betparibu482.com
 betparibu483.com
 betparibu484.com
 betparibu485.com
+betparibu486.com
 betparibu489.com
 betparibu52.com
 betparibu55.com
@@ -80083,6 +80088,7 @@ bi5ats.duckdns.org
 bi5mft.duckdns.org
 bi5yukleme.22web.org
 bi5yxl3ez.duckdns.org
+biabantmasali.blog
 biadabrohkuh.duckdns.org
 bialub.com
 biamnncell.com
@@ -204496,6 +204502,7 @@ hazinevemaliyebakanligihizmeti.com
 hazinevemaliyebakanligiiade.com
 hazinevemaliyeiadeaktarim.com
 hazinevemaliyeonlineislemlergovtr.tk
+hazinevemaliyetr.net
 hazir-deniztr.net
 hazir-eklimit.com
 hazir-gelmis-neden-almamazlik-yapasin.com
@@ -254950,6 +254957,7 @@ kgm.otoyollarlz.online
 kgm.otoyollla.online
 kgm.pcksac.cc
 kgm.scdqwl.homes
+kgm.wklxda.homes
 kgm2023plakam.blogspot.com
 kgm2023plakams.blogspot.com
 kgmaa.top
@@ -309035,6 +309043,7 @@ ostimelektronik.shop
 ostitchy21.xyz
 ostlyepel.top
 ostnbllrdanbrdayzbsf.sbs
+ostnbrdansrlrsz.sbs
 ostraciidae.com
 ostraeaceashes.live
 ostriwin.com
@@ -348177,6 +348186,7 @@ sahibinden.satin-alimlar.com.tr
 sahibinden.satin-alimlarimiz.xyz
 sahibinden.satin-alimlarin.click
 sahibinden.satin-alkolay-sat.com.tr
+sahibinden.satinal-aninda.com
 sahibinden.satinal-guvenli.com.tr
 sahibinden.satinal.site
 sahibinden.satinalimlar.com.tr
@@ -373010,6 +373020,7 @@ staywithorchid.com
 staywoke.ddns.net
 stb3jfv.duckdns.org
 stbiqayo.com
+stblrdandansansa.shop
 stcchd.duckdns.org
 stcepdestek.com
 stchkr.rest
