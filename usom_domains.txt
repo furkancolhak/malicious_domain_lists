@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-11T08:05:14.392964
+# Updated: 2026-02-11T09:05:15.901770
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -98265,6 +98265,7 @@ brgn-onlineislemler.com
 brgn-onlineislemler.pro
 brgn-webtrade.pro
 brgnmenkul.com
+brgnmenkulsermaye.com
 brgnyatirim.com
 brgnyatirim.net
 brgylbscrfsonline.cfd
@@ -106300,6 +106301,7 @@ carrefoursa.link
 carrefoursa.ltd
 carrefoursa.online-tr.online
 carrefoursa.onlinemarket-tr.com
+carrefoursaaaa.org
 carrefoursaaavvbvcccxzkampanyaaa345.com
 carrefoursaankara.com
 carrefoursaankara.net
@@ -123411,6 +123413,7 @@ cyberturk.zapto.org
 cybertux354.ddns.net
 cyberwxw.ddns.net
 cyberzak.zapto.org
+cybocraft.click
 cybratech.cfd
 cybridge.xyz
 cybuzbcupm.duckdns.org
@@ -315765,6 +315768,7 @@ paribubonuslari.com
 paribubonuslari.online
 paribubonusu.online
 paribubonusukap.link
+paribuborsa.com
 paribubox-firsathediyeler.com
 paribubox-hediyedunyasi.com
 paribubox-hediyevakti.com
@@ -331695,6 +331699,7 @@ qbitty.ddns.net
 qbj5nqvlctjz.storage.googleapis.com
 qbjz43mbq.duckdns.org
 qbkfewctxz.duckdns.org
+qbknprmsynllarlla.com
 qbl8rk.duckdns.org
 qbl95m.duckdns.org
 qbmuzwyxk.com
@@ -333631,6 +333636,7 @@ qnbmobil.ist
 qnbmobilbayram.ml
 qnbmobildekazan-tr.com
 qnbmobilekran.vercel.app
+qnbmobilekranim.ip-ddns.com
 qnbmobilewebsube.com
 qnbmobilgiris.com
 qnbmobilgirissubesim.com
@@ -349893,6 +349899,7 @@ sakliknt.com
 saklitarif.name.tr
 sakralsdwe.wtf
 sakran.tech
+saksaksakkkk-4be7f085f4a1.herokuapp.com
 saksodanjodo.club
 saksofonga2a4040.xyz
 saksofonga3a4040.xyz
