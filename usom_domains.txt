@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-11T10:05:14.189609
+# Updated: 2026-02-11T11:05:19.007331
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -28011,6 +28011,7 @@
 668asdahsdhashdhashdashdhashd52.click
 66927523.net
 669320432.net
+669sadhashdhashdahshdahsdh82.click
 66b9d82fc3d4.com
 66cn20d8.duckdns.org
 66cst0x.duckdns.org
@@ -160471,6 +160472,7 @@ enucuzaktuel.com.tr
 enucuzaktuel.online
 enucuzaktuel.xyz
 enucuzenkolay.xyz
+enucuzenuygunfirsatlar.cfd
 enucuzevdeinternet.com
 enucuzevinterneti.com
 enucuzfiyategeayokogoa.com
@@ -204503,6 +204505,8 @@ hazinemaliye.org
 hazinemaliyeeiade1.com
 hazinemaliyeodeme.com
 hazinemaliyetc.org
+hazinemaliyetr.com
+hazinemaliyetr.net
 hazinemaliyetr.org
 hazineonline.hdirwanda.org
 hazinetrgirisuktr.com
@@ -204522,6 +204526,7 @@ hazinevemaliyebakanligiiade.com
 hazinevemaliyeiadeaktarim.com
 hazinevemaliyeonlineislemlergovtr.tk
 hazinevemaliyetr.net
+hazinevemaliyetr.org
 hazir-deniztr.net
 hazir-eklimit.com
 hazir-gelmis-neden-almamazlik-yapasin.com
@@ -254976,6 +254981,7 @@ kgm-vvc.top
 kgm.cdbtrq.online
 kgm.govtek.help
 kgm.gzdmxw.help
+kgm.hmksym.homes
 kgm.jbbang.com
 kgm.mdjxja.help
 kgm.otoyolimiss.net
@@ -306697,6 +306703,7 @@ onlineozelsel.blogspot.com
 onlineozelsepet.shop
 onlineozelsinirlikampanyalar.com
 onlineozelsiparis.online
+onlineozelsokmarket.cfd
 onlineozelsupuurgedekampaniiya.online
 onlineozeltemmuzindirimi.com
 onlineozelurunler.info
@@ -351531,6 +351538,7 @@ savraktosbanisrotalesnikarfonaaryasva.net
 savriontes.top
 savrulmazsokak44.com
 savrupa.top
+savunmagelisim.noclick.com
 savunmauniedu.com
 savv5ket.pro
 savvyru.com
