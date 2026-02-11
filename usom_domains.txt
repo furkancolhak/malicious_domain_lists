@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-11T09:05:15.901770
+# Updated: 2026-02-11T10:05:14.189609
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -268144,6 +268144,7 @@ lnkcmg.com
 lnkedin.org
 lnkknskxt.online
 lnknqyheda.duckdns.org
+lnksltmacepstr.strangled.net
 lnksp7vp.duckdns.org
 lnlapuswuvqrbxvyh.net
 lnloggen-app.online
@@ -370450,6 +370451,7 @@ spnsrlukmpnyalariniz.com
 spnsrluvkfreklami.duckdns.org
 spnsrluzironline1.duckdns.org
 spnsrluzirr1online.duckdns.org
+spnsrsbtwsynxkaradayi.shop
 spnstlugndr3.duckdns.org
 spnsurlu-yonlndirme.com
 spnsurluyonlendiriliyorsun-wsynx.cfd
@@ -370904,6 +370906,7 @@ sponsorlureklam-74.online
 sponsorlureklam-75.online
 sponsorlureklam.click
 sponsorlureklam.com.tc
+sponsorlureklam.shop
 sponsorlureklam253.online
 sponsorlureklam257.online
 sponsorlureklam259.shop
