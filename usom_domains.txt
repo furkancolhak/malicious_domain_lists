@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-11T16:05:16.651158
+# Updated: 2026-02-11T17:05:17.703804
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -174965,6 +174965,7 @@ fkksjobnn43.org
 fkl221sadasfsaf.com
 fkl291391239sakf.shop
 fklajsgjklwq.net
+fklaklasdklalfkdfksd.cfd
 fklanceabs.com
 fklfd5sk.duckdns.org
 fklnestcju.duckdns.org
@@ -178053,6 +178054,7 @@ fsksgskksffskaskfskfkgskskfs.online
 fskwtlwtpeyh.click
 fsky2.hopto.org
 fslakdasjdnsasjsj.com
+fslklasdlafdsfjkakdas.cfd
 fsmkgmwbgcshgsonbrcode.duckdns.org
 fsmnwsdnfmsn.net
 fsociety4.hopto.org
@@ -240283,6 +240285,7 @@ izltasinmarklari.xyz
 izltaslignlerin.xyz
 izltgcd.blogspot.com
 izltsbrada.xyz
+izltsfot.dns.navy
 izltsfrstim.dnsup.net
 izltsgunu.blogspot.com
 izltskisltma.xyz
@@ -252981,6 +252984,7 @@ kau5ap.duckdns.org
 kauannjrat.ddns.net
 kaudng.cn
 kauojfavkg.duckdns.org
+kauou.cn
 kauqarxauswu.ddns.net
 kauzxdzegw.duckdns.org
 kavach.space
@@ -267183,6 +267187,7 @@ linkwp.cc
 linkyoneticisi.ml
 linnetachilles88.xyz
 linnj0.duckdns.org
+linnkscep.com
 lino4glaca.today
 linoo.wenxinzhineng.top
 linpttinteraktif.com
@@ -282059,6 +282064,7 @@ mobil-giris-guvenlisatinal.com
 mobil-giris-islemlerim-portal.tk
 mobil-giris-kapisi-turkiye.tk
 mobil-giris-ll.tk
+mobil-giris-onlline.sbs
 mobil-giris-tr.com
 mobil-giris-turkiye.org
 mobil-giris.com.tr
@@ -318186,6 +318192,7 @@ paymentregret.top
 payments-resolves-issue.info
 payments-thesilverlining.com
 paymentsecureamazn.zapto.org
+paymentstr.com
 paymentsystem.info
 paymentverificationservice.com
 paymentverifpage.zapto.org
@@ -421836,6 +421843,7 @@ website6618342111.nicepage.io
 website6618874.nicepage.io
 website6618980.nicepage.io
 website6619449.nicepage.io
+website6619822.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
