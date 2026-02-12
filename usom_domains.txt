@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-12T12:05:13.763163
+# Updated: 2026-02-12T13:05:13.427258
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -50467,6 +50467,7 @@ ak2024firstttlr.com.tr
 ak2024kmpfsaffsaas.shop
 ak2024sfalfsasafsaas.com.tr
 ak2025.com.tr
+ak235762389csad.com
 ak249ce9634ls.com
 ak31t0gg69katil31.com
 ak33sssfkswofwq-ar.online
@@ -87385,6 +87386,7 @@ bireysel-kiralama.acenteavs.com.tr
 bireysel-kiralama.com.tr
 bireysel-kiralama.xyz
 bireysel-kndm-icin.my-homeip.com
+bireysel-kredi-ziraat.my-homeip.net
 bireysel-kredi.com
 bireysel-kredibasvuru.top
 bireysel-kredidenizde-com.tk
@@ -258896,6 +258898,7 @@ kobi-hibebasvurusu.com
 kobi-hibedestegi.com
 kobi-hibemerkezi.com
 kobi-kredi.com
+kobi-kredibilgilendirme.com
 kobi-krediformu.com
 kobi-kredimerkezi.com
 kobi-paraf-hediye.com
@@ -276782,6 +276785,7 @@ mbldvltgibxvgovxv2tr.biz
 mbldvltgibxvgovxv2tr.me
 mbldvltgibxvgovxv2tr.site
 mblediffrente.top
+mblfrstocak.com
 mblgarntiipromosyonn.duckdns.org
 mblgibxvgibgoxvv1tr.fun
 mblinedgibfgovtr.fun
@@ -339638,6 +339642,7 @@ rentyazkkampanyalarigerantam.com.tr
 rentymonopol.icu
 rentyolcu360.com
 renvdmun.b-cdn.net
+renxcbnkadpwqkzxvsafplwfqasp.click
 renyeeasnet.com
 renyeeasnet.online
 renyeeasnet.xyz
@@ -355633,6 +355638,7 @@ sendehemenkatilkampanyaya.site
 sendehemenklymrs.com
 sendehemenndestekol.com
 sendehementemmmuzah.duckdns.org
+sendehepbiraradagor.com
 sendeheryeralsverklrkrrmmm.duckdns.org
 sendehislerekapilipal.com
 sendehislerinlegel.sbs
