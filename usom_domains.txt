@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-12T06:05:14.249911
+# Updated: 2026-02-12T07:05:14.265212
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -87204,6 +87204,7 @@ bireysel-finansbank.com
 bireysel-firsat-kampanyalari.online
 bireysel-firsat-kampanyasi-tr.club
 bireysel-firsat-kampanyasi-tr.space
+bireysel-firstlogin-transactions.my-homeip.net
 bireysel-fnansbnk-hizmetlerimiz.com
 bireysel-form-aidat-ucret-geri-iade.xyz
 bireysel-form-aidat-ucret-geri-iadesi.xyz
@@ -123436,6 +123437,7 @@ cybertux354.ddns.net
 cyberwxw.ddns.net
 cyberzak.zapto.org
 cybocraft.click
+cybotrack.click
 cybratech.cfd
 cybridge.xyz
 cybuzbcupm.duckdns.org
@@ -194426,6 +194428,7 @@ gundemhaberonline.xyz
 gundemhatti.store
 gundemintsube-com.gq
 gundemintsube-com.ml
+gundemisigi.pro
 gundemkazani.name.tr
 gundemneti.com
 gundemodagi.com
@@ -240266,6 +240269,7 @@ izleseneq.com
 izletakipdenetimak.com
 izletas03.dns.army
 izleyeceksinsadece.app
+izlfcbvc.blogspot.com
 izlfdsabah.blogspot.com
 izlfirsatii.duckdns.org
 izlfirstmkuzi.duckdns.org
@@ -254189,6 +254193,7 @@ kenntkkaartt.net
 kenntttkart123asdq.net
 kennynguyen.esy.es
 kennynguyen.esy.es/wp-content/plugins/wp-statistics/vendor/maxmind-db/reader/tests/maxmind/db/test/reader/buildtest.php
+kennys54sx.blogspot.com
 kenoratravels.com
 kenos.tk
 kenosky.ddns.net
@@ -254442,6 +254447,7 @@ kenya3.xyz
 kenyanisconiconfays.top
 kenyouhelpmedada.site
 kenyoumybebe.site
+kenys45.blogspot.com
 kenzivenum.com
 kenzmedical.com/media/z/five/pvqdq929bsx_a_d_m1n_a.php
 kenzo.ddns.net
@@ -266976,6 +266982,7 @@ limtdhak.com
 linahgt.xyz
 linaiopio.online
 linasksl.com
+linavixor.com
 linavo.store
 linb4hsafjh873rhoadg-a984ihf47y89agiw3y.duckdns.org
 linbnkxrckro.xyz
@@ -373172,6 +373179,7 @@ staywithorchid.com
 staywoke.ddns.net
 stb3jfv.duckdns.org
 stbiqayo.com
+stblbrdanbsvryrsz.shop
 stblrdandansansa.shop
 stcchd.duckdns.org
 stcepdestek.com
