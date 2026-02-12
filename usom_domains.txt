@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-12T14:05:15.070935
+# Updated: 2026-02-12T15:05:14.631672
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16510,6 +16510,7 @@
 217.69.11.60
 217.69.3.218
 217.69.8.136
+217.77.10.47
 217.79.179.14
 217.79.243.147
 217.8.117.104
@@ -92796,6 +92797,7 @@ blyaddevletforeducation.vercel.app
 blyatbitch.redirectme.net
 blyzaro.store
 blyzaroapp.store
+blzabo.help
 blzmmlkmglh.com
 blzmuoi.com
 blzzlzmirllylzl.click
@@ -120998,6 +121000,7 @@ crfsadnglpalrsan.com
 crfsafrstlarkmpnya.xyz
 crfsahaftnsnu.com
 crfsahipers.cfd
+crfsahiprskam.cfd
 crfsahp.cfd
 crfsahpr.cfd
 crfsalrdnglaln.shop
@@ -123486,6 +123489,7 @@ cygnisan.com
 cygnora.com
 cygnussforge.com
 cygvka.shop
+cyhanz.homes
 cyhesnohers.com
 cyhire.cechire.com
 cyhqlayswljeyplrjnqwnbhkr.info
@@ -142724,6 +142728,7 @@ dzn9zft57.duckdns.org
 dznjratalger.ddns.net
 dzoneshop.shop
 dzonikvaka.hopto.org
+dzopky.help
 dzpfihdnfajg.com
 dzqonkhfwb.duckdns.org
 dzqrls.com
@@ -146326,6 +146331,7 @@ e-guncelbaglanti.wuaze.com
 e-guncelgiris.ct.ws
 e-guncelsikayet.cf
 e-guncelsorgula.org
+e-guvende-alisverim.com
 e-guvende-alisveris.sa.com
 e-guvende-odeme-tr.sa.com
 e-guvende-odeme.sa.com
@@ -149959,6 +149965,7 @@ ecezabayiode.com
 ecezahukuk.org
 ecezamaliye.org
 ecezaportal.org
+ecezasorgu.org
 ecezasorgula.org
 ecezasorgulama.org
 ecezauzlasma.com
@@ -192032,6 +192039,7 @@ grdigitalgirislemenutr100yil.com
 grdigitalllgirislemenutr100yil.com
 grdis.shop
 gre6gbuf4f.com
+grea-t-sz.xyz
 greadifuelfortwon.buzz
 greagb.top
 greantibvba.com
@@ -193041,6 +193049,7 @@ gsg3g2ra.duckdns.org
 gsgsahhaha-shhaahhs.lol
 gshadshgvsytw.hopto.org
 gshd7777.onrender.com
+gshdna.online
 gshisisigrnisisishshsmnshmsh-iscepslmn.store
 gshkqv.duckdns.org
 gshnfm.top
@@ -194730,6 +194739,7 @@ gununderandevu.net
 gunundeteslimat.com.tr
 gununenafillicuzdani.com
 gununfirsati-carrefoursa.vercel.app
+gununfirsati.cfd
 gununfirsati.net.tr
 gununfirsati.org.tr
 gununfirsati.xyz
@@ -204086,6 +204096,7 @@ hayatbayram.online
 hayatbazenkapindabelirir.com
 hayatbilgin.name.tr
 hayatbim.com
+hayatbimaraton.org
 hayatbimleguzel.com
 hayatbirdahagelmez.com
 hayatbirlik.com
@@ -204467,6 +204478,7 @@ haykovx.es
 haymdmsqw3e32.com
 hayolah.hopto.org
 hayoptical.top
+hayoqp.homes
 hayozalp.duckdns.org
 haypost-gov.top
 hayrabolu.bel.tr//db_template.php
@@ -242899,6 +242911,7 @@ jamis.freemyip.com
 jamm.to
 jammycanonicalupdates.cloud
 jamnesstrateg.click
+jampi-karatas.digitalxpert.sbs
 jampixor.com
 jamshed.pk
 jamsjajsmjaasdasdasdas.world
@@ -258897,12 +258910,14 @@ kobelix.store
 kobetwofour.buzz
 kobguejgfe.duckdns.org
 kobi-bugunfirsatisendekazan1.cloud
+kobi-destekbilgilendirme.com
 kobi-destekmerkezi.com
 kobi-destekmerkezii.com
 kobi-halk-subem.com
 kobi-hibebasvuru.com
 kobi-hibebasvurusu.com
 kobi-hibedestegi.com
+kobi-hibedestekleri.com
 kobi-hibemerkezi.com
 kobi-kredi.com
 kobi-kredibilgilendir.com
@@ -264147,6 +264162,7 @@ kzc8z6.duckdns.org
 kzcdpl.shop
 kzduyihuy.storage.googleapis.com
 kzdvq.in
+kzfayz.homes
 kzfzunrheh.duckdns.org
 kzg203.ddns.net
 kzgmhgxxssleodde.shop
@@ -279691,6 +279707,7 @@ mhulaisbhrajsksa-jyjhlhpaitueqwosgasgfds.duckdns.org
 mhvmsgsdqwrw.com
 mhwhowdw9.duckdns.org
 mhxrsrandevularinizbizle.org
+mhxrsrndvvlarbizle.org
 mhxuqmhcbt.duckdns.org
 mhxxrsrandevlarburda.org
 mhxyhost.ddns.net
@@ -288235,6 +288252,7 @@ mtxvxodemem.org
 mtxvxsaliodemem.gq
 mtxxxvodemem.org
 mtxxxvxodemem.org
+mtybcp.homes
 mtypalo.xyz
 mtyplksserver.online
 mtyplksserver.site
@@ -310077,6 +310095,7 @@ otuzocakkampanya.duckdns.org
 otuzocakkampanyat.duckdns.org
 otuztlbedavabonus.top
 otv-g-rtbv.my-homeip.net
+otv-gl-r-n.myonlineportal.ch
 otv9kckk.duckdns.org
 otvaok.xyz
 otvpxkdbiyfbhvj.com
@@ -316483,6 +316502,7 @@ paribumasrafiadesi.tk
 paribumcekilis.xyz
 paribumdestek.com
 paribumedya.com
+paribumenkulyatirim.com
 paribumetaverse.click
 paribumetaverse.co.vu
 paribumgirils.ml
@@ -320104,6 +320124,7 @@ pgrskiralama.com.tr
 pgrskiralama.site
 pgs.lixiy.net-cre.3oho.net
 pgsarackiiralama.com.tr
+pgsjqx.homes
 pgspe6mix.duckdns.org
 pgsr3str1cac0nt0250.duckdns.org
 pgsscar.com.tr
@@ -411509,6 +411530,7 @@ valjcpdoto.duckdns.org
 valjoc.top
 vallababaneto.net
 vallabenyaptimbaba.online
+vallahakaynak.click
 vallahi2bxilla.site
 vallalifeishard.net
 valldhebronbarcelon.weebly.com
@@ -443963,6 +443985,7 @@ ybwoowgiip.duckdns.org
 ybwpbee.duckdns.org
 ybwwcgr.duckdns.org
 ybwwgjkklbdryy.tw
+ybwzna.help
 ybyxbmfsjo.duckdns.org
 ybzbirdeindirimgunu.click
 ybzbirdeindirimgunu.icu
@@ -447862,6 +447885,7 @@ ymcbky.cyou
 ymcbm85.scjtb.cloud
 ymctelcqsj.duckdns.org
 ymcxjzv.com
+ymdnma.help
 ymekuh.xyz
 ymex.blasters.biz
 ymfk2078.hopto.org
@@ -449250,6 +449274,7 @@ ytdyqonlxt.duckdns.org
 ytelg9.duckdns.org
 ytenieisdwe.xyz
 yteoad.duckdns.org
+ytfzhe.homes
 ytgbw.duckdns.org
 ytgcbve7.duckdns.org
 ytghgscevcodeneislenle.duckdns.org
@@ -451916,6 +451941,7 @@ zh49hl3a9.duckdns.org
 zh5emsa.duckdns.org
 zh7fst9b.duckdns.org
 zhabtdmy.com
+zhajka.help
 zhajthaklsllikolhfji-ijmkyruijnfkdsyhgfw.duckdns.org
 zhakangjuskagf-yhrsujfmndssagdfs.duckdns.org
 zhaksylyk.kz
@@ -455158,6 +455184,7 @@ ztv-g-rn-btv.my-homeip.net
 ztwerfdgdhfjkkl.zapto.org
 ztword.com
 ztwqjiedl.com
+ztwsys.homes
 ztzaf6cc.duckdns.org
 zu17tr5c.duckdns.org
 zu46gnqj.duckdns.org
