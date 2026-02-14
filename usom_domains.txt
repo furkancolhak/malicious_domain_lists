@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-14T06:05:13.626040
+# Updated: 2026-02-14T07:05:14.986435
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -17568,6 +17568,7 @@
 25-subatfirsatlar.shop
 25-tok-elkraln.sbs
 25-yil-acik-deniz.cf
+250-000-11l11.duckdns.org
 250-bintoplukonut.com
 2500-onlinegeriodemenizkartislemlerigovtr.com
 2500edevletaidat.com
@@ -106736,6 +106737,7 @@ cascoil.ddns.net
 casconut.xyz
 casczxcacaca.s3.eu-central-1.amazonaws.com
 casdasfasccz.net
+casdcclocarkelcsakdclas.cfd
 casdfg.xyz
 casdkaseqsd.sbs
 casdsadvt-svdvtt.com
