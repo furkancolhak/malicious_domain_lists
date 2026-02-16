@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-16T11:05:14.076436
+# Updated: 2026-02-16T12:05:12.765327
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -785,6 +785,7 @@
 09-asgfhj-sahdksa-sakashdksdg-sadjas.com
 09001002991029.cloud
 09009502321312.cloud
+0904030403.duckdns.org
 0906.toh.info
 090804725.cloud
 0909-112-1111.cloud
@@ -7391,6 +7392,7 @@
 14subat.sevgililergununeozel.com
 14subat1xo1brda.com
 14subataozel-firsatlarikacirmayin.xyz
+14subatozelkampnya.com
 14subatsevgililerdenizle.online
 14subatsevgililergunu.us
 14subatsiparisleedge.cloud
@@ -9323,6 +9325,7 @@
 176.65.138.152
 176.65.138.3
 176.65.139.7
+176.65.139.8
 176.65.140.132
 176.65.140.160
 176.65.141.165
@@ -22935,6 +22938,7 @@
 45.156.27.235
 45.156.85.140
 45.156.87.115
+45.156.87.130
 45.156.87.198
 45.159.209.228
 45.159.223.177
@@ -23753,7 +23757,6 @@
 46.210.182.252
 46.211.8.144
 46.224.126.208
-46.224.147.166
 46.225.233.149
 46.226.163.67
 46.226.164.8
@@ -87686,6 +87689,7 @@ bireysel-tl-yuk-hizli-bim.com
 bireysel-tr-halkbanka.com
 bireysel-tr-yapi-kredi.com
 bireysel-tr-ziraatbanka.cf
+bireysel-trans-gir.my-homeip.net
 bireysel-trans.my-homeip.net
 bireysel-ucret-geri-iadesi-basvurularimiz.tk
 bireysel-ucret-geri-iadesine-basvurularimiz.tk
@@ -89418,6 +89422,7 @@ bitaxcc.zapto.org
 bitay.one
 bitbimcelltr.com
 bitboltr.com
+bitboxone.com
 bitbuy-ca-com-auth.webflow.io
 bitbyloxginnus.webflow.io
 bitbylugon.webflow.io
@@ -121473,6 +121478,7 @@ crreffrsa.shop
 crreffursa.shop
 crreforsadan-gelenlr.shop
 crreforsadan-gelenlr.store
+crreforsam.com
 crreforsdnyazinguzlligi.com
 crreforsnzdnglckler.com
 crreforsnznbuhftsisizde.com
@@ -136672,6 +136678,7 @@ dijitalmobilgiris-denizacik.com
 dijitalmobilgiris-ziraat.com
 dijitalmobilgiris-ziraatbireysel.com
 dijitalmobilgiris-ziraatbireysel.sbs
+dijitalmobilgiris-ziraatbireyselweb.com
 dijitalmobilgiris-ziraatkampanyaweb.com
 dijitalmobilgirisimdenizbank.co.vu
 dijitalmobilgirisiniz-denizacik.com
@@ -148575,6 +148582,7 @@ e-tuvturkbayi.digital
 e-tuvturkbayilerrii.digital
 e-tuvturkbayilik.digital
 e-tuvturkbayisi.digital
+e-tuvturkileyasam.digital
 e-tuvturkk.digital
 e-tuvturkkbayisii.digital
 e-tuvturkmuayenerandevu.digital
@@ -156852,6 +156860,7 @@ elchavohgsykll.net
 elcheert.live
 elchk.com
 elcid.ddns.net
+elcikorokomokokokok-add6c7f01ae9.herokuapp.com
 elcikosikmokoko-3fc1fc54fdc1.herokuapp.com
 elcikosikomokoko-f4a97fa17f25.herokuapp.com
 elcmyb8.stdq5.ru
@@ -217804,6 +217813,7 @@ honestysnail.top
 honeuyseebadg.live
 honevancantes.com
 honeybal-storing.cfd
+honeydew-jellyfish-204001.hostingersite.com
 honeyfivesix.xyz
 honeymentor.top
 honeymooneject.top
@@ -234168,6 +234178,7 @@ is-frsst2rrr.xyz
 is-gir.my-homeip.com
 is-internet.click
 is-internet.my-homeip.com
+is-internet.my-homeip.net
 is-internetsube-giris.com
 is-internetsubesi.com
 is-is-is-is-issyonldnr.sbs
@@ -237046,6 +237057,7 @@ istanbul-soft.com.tr
 istanbul-ucuz-escort.com
 istanbul-vesnlik.xyz
 istanbul-yapiceponay.vercel.app
+istanbul.hava.ltd
 istanbul.kart.express
 istanbul.kart.ink
 istanbul.kisalink.shop
@@ -251379,6 +251391,7 @@ karacamarketimm.org.tr
 karacamarketlerim.com
 karacamayis.com.tr
 karacamayisaktuel.com.tr
+karacamixer.nicepage.io
 karacamshop.free.site.pro
 karacamshop3.free.site.pro
 karacamutfakhome.xyz
@@ -258440,6 +258453,9 @@ kmmmsorglgumaagovvptt.duckdns.org
 kmmmsrglaaa.click
 kmmnzzs.com
 kmmpmyaaabsvrrr.click
+kmmpnnybsvrrprmsyn.info
+kmmpnnybsvrrprmsyn.live
+kmmpnnybsvrrprmsyn.pro
 kmmsmrgulamapadisahic1948.web.app
 kmmsorggulagov-tr.duckdns.org
 kmmsorggulamahmenburdagovptt.com
@@ -259275,6 +259291,7 @@ kobetwofour.buzz
 kobguejgfe.duckdns.org
 kobi-bugunfirsatisendekazan1.cloud
 kobi-destekbasvuru.com
+kobi-destekbasvurusu.com
 kobi-destekbilgilendirme.com
 kobi-destekhizmetleri.sbs
 kobi-destekmerkezi.com
@@ -274982,6 +274999,7 @@ manulasimkrt.net
 manulaskrt.net
 manumission.cloudnestde.com.de
 manus-preview.space
+manus.space
 manusai.sbs
 manuscriptalleviation.top
 manuscriptcensus.top
@@ -276010,6 +276028,7 @@ masakdosyagovtr.org
 masakdosyasorgu.com
 masakdosyatr.com
 masakdosyatr.org
+masakegm.net
 masakegm.org
 masakgov.com
 masakgovtr.com
@@ -367543,6 +367562,7 @@ sokmarketkapinda9.duckdns.org
 sokmarketler-indirim.online
 sokmarketler-kapida.com
 sokmarketler-kapinda.site
+sokmarketler.cfd
 sokmarketler.net
 sokmarketler.online
 sokmarketler.site
@@ -384215,6 +384235,7 @@ tektiklasepetinde.me
 tektiklasepetindewsynxkaradayi.shop
 tektiklasepetinizde.me
 tektiklasepette.me
+tektiklasepetto.me
 tektiklasiqortayaptir.com.tr
 tektiklayaninda.online
 tektikonlineislem.net
@@ -422675,6 +422696,7 @@ website6618874.nicepage.io
 website6618980.nicepage.io
 website6619449.nicepage.io
 website6619822.nicepage.io
+website6621292.nicepage.io
 website6621307.nicepage.io
 website6621314.nicepage.io
 website6634234234.nicepage.io
