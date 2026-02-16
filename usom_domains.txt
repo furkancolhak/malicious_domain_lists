@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-16T12:05:12.765327
+# Updated: 2026-02-16T13:05:13.420971
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -14403,6 +14403,7 @@
 20.97.210.200
 20.ip.gl.ply.gg
 200-000-1ll1.duckdns.org
+200-000-1llllll1.duckdns.org
 200-hgs.glitch.me
 200.105.137.2
 200.107.207.232
@@ -17908,6 +17909,7 @@
 26ocaktasepete.cloud
 26ocaktasepete.online
 26ocaktasiparislerver.cloud
+26ocaktasiparislerver.online
 26pu6aj24.duckdns.org
 26qw8.hicx0.com
 26s44jt.duckdns.org
@@ -69293,6 +69295,7 @@ azurythm.com
 azvdhvnjvo.duckdns.org
 azvjudwr.info
 azwebview.com
+azwsappdev.com
 azwvuigeax.duckdns.org
 azxadxv2.net
 azxknk.help
@@ -107421,6 +107424,7 @@ ccreate1.hopto.org
 ccreate2.hopto.org
 ccrefursa.cfd
 ccrfsagnlerim.cfd
+ccrrfssdyz.cfd
 ccsbooking.hopto.org
 ccsdnsc.duckdns.org
 ccsecurity-mail-inc.email
@@ -157418,6 +157422,7 @@ elouarlybv6.hopto.org
 eloxvirm.com
 eloyed.com
 elp4ofesseu4.zapto.org
+elpablo-5db5fee36a77.herokuapp.com
 elpaisa.duckdns.org
 elpatin.duckdns.org
 elpepemanca.ddns.net
@@ -174540,6 +174545,7 @@ firsatrentkiralamaaraba.com.tr
 firsatrentkiralamaarac.com.tr
 firsatrrlasoraes.sbs
 firsatruzaglarindason.com
+firsatsaalsendeashdahsdhash99.click
 firsatsaatibance.tech
 firsatsaatisimdibance.tech
 firsatsaatlerim.com
@@ -240507,6 +240513,7 @@ izeldobc.dns.navy
 izeldocgc.dns.navy
 izeldsaf.blogspot.com
 izeldssanyi.blogspot.com
+izelfgnj.dns.navy
 izelgececic.dns.navy
 izelgecexxxs.blogspot.com
 izelgisizmir.net
@@ -266119,6 +266126,7 @@ ledger-cloud.com
 ledger-liv-iologin.webflow.io
 ledger-live-wallitt.webflow.io
 ledger-llivelgin.webflow.io
+ledger.setuptransactioncheck.com
 ledgerapp.info
 ledgerbtc.club
 ledgercomstartee.webflow.io
@@ -268270,6 +268278,7 @@ lktalktlatlalkta.online
 lktcapiservs.com
 lktlkstktlsltklntkl.net
 lktphqmcj.com
+lktv-p-g-rn.myonlineportal.ch
 lkuveytturk.com
 lkuy.2kool4u.net
 lkviw.duckdns.org
@@ -337516,9 +337525,11 @@ rawnumber.top
 rawonlline.com
 rawscrutinize.top
 rawsrfsarwarfasf3424w.blogspot.com
+rawtext.host
 rawvolcanomixtureuncover.click
 rawya308.ddns.net
 raxdevunual.net
+raxelpak.com
 raxlop17.ddns.net
 rayan312.zapto.org
 rayaracmobilkirala.online
@@ -373355,6 +373366,7 @@ stanleyafterrise.xyz
 stanleyafterzero.xyz
 stanleyalidnkacrma666dann.com
 stanleyatlas.xyz
+stanleyaurix.xyz
 stanleyaurora.xyz
 stanleyawake.xyz
 stanleyazo.xyz
@@ -396066,6 +396078,7 @@ trezor-r-r-hardware-r.webflow.io
 trezor-r-wallet-getting-started.webflow.io
 trezor-r-wallets.webflow.io
 trezor-web.io
+trezor.authentication-check.io
 trezorauthenticator.webflow.io
 trezorestart--plus.webflow.io
 trezorhadr.webflow.io
