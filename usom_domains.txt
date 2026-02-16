@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-16T17:05:15.562411
+# Updated: 2026-02-16T18:05:12.779120
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2088,6 +2088,7 @@
 101-online-akutelmayis.com
 101-online-alisveris-bugune-ozel-firsatlar-internete-ozel.com
 101-online-alisveris-bugune-ozel-firsatlar-mobilde.com
+101-online-mobile-ozel.online-sepet-tr.com
 101-online-ozel.ooguy.com
 101-online-sadece-bugune-ozel-firsatlar-mobilde-tr.mooo.com
 101-online-siparis-ver-mobilde-bireysel-tr.mooo.com
@@ -107177,6 +107178,7 @@ cayhaneztoporozlekez.com
 cayindirimleribugun.cyou
 cayindirimleribugun.sbs
 caykeyfimayis.com.tr
+caykurkampanya.com
 caykursepet549.cfd
 caykurturkiyeyudum.me
 caymadsosfareytozo.com
@@ -267709,6 +267711,7 @@ linkrequest.live
 links-dolap.com
 links-kslt-tr.duckdns.org
 links-kslts-mobilde.duckdns.org
+links-tr.email-tr.com
 links-tr.strangled.net
 links-tr.webredirect.org
 links.heliohost.org
@@ -280156,6 +280159,8 @@ mhrsavhgsbilgisis.sbs
 mhrserandevu.com
 mhrserandevu.net
 mhrsgiris.it.nf
+mhrsklsafslaalal.site
+mhrsklsafslaalal.vip
 mhrsmsmhsxzwshshn.net
 mhrsortakgiris.co.vu
 mhrsrandavu.net
@@ -288876,6 +288881,7 @@ muazymaur.tk
 muazzam.cfd
 mubarekramazan.cyou
 mubarekramazan.sbs
+mubarekramazanlar.com
 mubarizgo.shop
 mubela.cfd
 mubirusom.com
@@ -334857,6 +334863,7 @@ qrhere12.ddns.net
 qrhlpztx.duckdns.org
 qrilitex.online
 qrislemleri.com
+qrislerndijitaltraqq.space
 qrjn9gt.cn
 qrkarekod-kampanya.com
 qrkazananlaryapisi.com
