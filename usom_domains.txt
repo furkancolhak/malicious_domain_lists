@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-15T23:05:11.953506
+# Updated: 2026-02-16T00:05:14.235434
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -87747,6 +87747,7 @@ bireysel-ziraat-transcation.my-homeip.net
 bireysel-ziraat.cf
 bireysel-ziraat.com
 bireysel-ziraat.my-homeip.net
+bireysel-ziraat.myonlineportal.de
 bireysel-ziraat.online
 bireysel-ziraat.website
 bireysel-ziraat155.com
@@ -402308,6 +402309,7 @@ tuuvturk.live
 tuv-arac-muane.net
 tuv-muayenerandevusu.com
 tuv-trk.digital
+tuv-turk-islem.digital
 tuv-turk-tr.net
 tuv-turk.net
 tuv-turkmuayene.net
@@ -402726,6 +402728,7 @@ tuwebb.net
 tuwfcynfoqevbjxqf.pw
 tuwihui.com
 tuwturk.com
+tuwturkls.digital
 tuwxxmp.duckdns.org
 tuxgofp.com
 tuxvturkaracmuyanxe.net
