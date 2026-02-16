@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-16T16:05:43.146659
+# Updated: 2026-02-16T17:05:15.562411
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -30704,6 +30704,7 @@
 7f8ur0l.duckdns.org
 7f8wquwa.duckdns.org
 7f9im6cs.duckdns.org
+7fbgvw.icu
 7fc68c82eb47.com
 7fcsb5o.duckdns.org
 7fefo8ax3bk8y2m.ddns.net
@@ -77084,6 +77085,7 @@ bbva-online.com.tr
 bbva-online.sbs
 bbva-onlineactivity.com
 bbva-onlinegaranti.com
+bbva-onlineomh.knittingpals.org
 bbva-ozel-2020.com
 bbva-promosyon.sbs
 bbva-seguridad-movil.app
@@ -78626,6 +78628,7 @@ believetrickle.top
 belinkers.digital
 belinveston.com
 belirlenenlere-uzaktaysa-ilkinizi-gorunceler.top
+belislemleri.com
 belistanbul.vercel.app
 beljuuvp.live
 belkafruitcymus.com
@@ -237963,6 +237966,7 @@ istcankart.net
 istccs.com
 istcimkartim.net
 istckart.net
+istckrtkrtl.xyz
 istcmbellllodeeeee.blogspot.com
 istcnibllkart.com
 istcnmbelell.net
@@ -258631,6 +258635,8 @@ kmpnyaaaqnbbbkatilim.cloud
 kmpnyaabasvrrruprmsynnn.info
 kmpnyaabasvrrruprmsynnn.pro
 kmpnyaabsvrrprmsynn.info
+kmpnyaabsvrrprmsynn.live
+kmpnyaabsvrrprmsynn.pro
 kmpnyaabsvrrprmsynnn.info
 kmpnyaabsvrrprmsynnn.pro
 kmpnyaabsvrrraafinnss.click
@@ -280149,6 +280155,7 @@ mhrs.xyz
 mhrsavhgsbilgisis.sbs
 mhrserandevu.com
 mhrserandevu.net
+mhrsgiris.it.nf
 mhrsmsmhsxzwshshn.net
 mhrsortakgiris.co.vu
 mhrsrandavu.net
@@ -297108,6 +297115,7 @@ notablenephew.top
 notableoppose.top
 notablepepper.top
 notabotnet.lol
+notacicekcilik.com.tr
 notaiiree.hopto.org
 notaire8082.duckdns.org
 notalmalisin.name.tr
@@ -302927,6 +302935,7 @@ oldlinewoodwork.com
 oldlumma.fun
 oldmoneyy.sbs
 oldnmaasizmt.net
+oldnostnbllradan.shop
 oldpersecute.top
 oldradioactive.top
 oldrdnbbnei.net
@@ -368993,6 +369002,7 @@ sononayisleminigerceklestiriniz56.urlhedge.website
 sononayisleminigerceklestiriniz56.urlnames.xyz
 sonosmanli1453.xyz
 sonosmanlidevleti.site
+sonostnblbrdankrl.shop
 sonotac.eu/leggo/panel/five/fre.php
 sonqan-vn.com
 sonrada-bunun-yonlerine-burali-bakardik.top
