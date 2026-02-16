@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-16T18:05:12.779120
+# Updated: 2026-02-16T19:05:13.995551
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -280159,6 +280159,7 @@ mhrsavhgsbilgisis.sbs
 mhrserandevu.com
 mhrserandevu.net
 mhrsgiris.it.nf
+mhrsklsafslaalal.one
 mhrsklsafslaalal.site
 mhrsklsafslaalal.vip
 mhrsmsmhsxzwshshn.net
@@ -282669,6 +282670,7 @@ mobil-girisi.xyz
 mobil-girisleri-aktif.sbs
 mobil-girisleriniz-aktifa.sbs
 mobil-girisonline-portal.tk
+mobil-giriss-bassvur.sbs
 mobil-giriss-tr.com
 mobil-girissa-com.cfd
 mobil-giriswebgov.de
@@ -289824,6 +289826,7 @@ mutluolsana.online
 mutluolurduk.com
 mutlupatiler.xyz
 mutlupersembe.com
+mutluramazanlar.com
 mutlusms.com.tr
 mutlusms.xyz
 mutluson.cfd
