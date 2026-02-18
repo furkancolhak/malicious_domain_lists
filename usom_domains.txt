@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-18T11:05:13.771813
+# Updated: 2026-02-18T13:05:13.391719
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5743,6 +5743,7 @@
 130.33.156.194
 130.61.64.122
 130.61.69.123
+130.94.41.206
 1303798796.corolain.ru
 1305002024.com
 1309463087.corolain.ru
@@ -7049,6 +7050,7 @@
 146.70.40.228
 146.70.40.230
 146.70.41.178
+146.70.41.193
 146.70.71.13
 146.70.71.135
 146.70.79.105
@@ -7396,6 +7398,7 @@
 14subat.sevgililergununeozel.com
 14subat1xo1brda.com
 14subataozel-firsatlarikacirmayin.xyz
+14subatfirsatlari.com
 14subatozelkampnya.com
 14subatsevgililerdenizle.online
 14subatsevgililergunu.us
@@ -10306,6 +10309,7 @@
 185.172.66.203
 185.173.105.107
 185.173.235.134
+185.173.235.232
 185.173.37.67
 185.173.38.57
 185.173.92.141
@@ -11893,6 +11897,7 @@
 193.24.123.68
 193.24.211.233
 193.242.145.138
+193.242.184.234
 193.242.211.131
 193.242.211.141
 193.248.247.59
@@ -12857,6 +12862,7 @@
 198.108.66.252
 198.12.112.204
 198.12.76.214
+198.13.158.58
 198.13.36.87
 198.13.47.158
 198.135.48.191
@@ -16989,6 +16995,7 @@
 23.227.199.53
 23.227.199.69
 23.227.199.77
+23.227.199.80
 23.227.202.242
 23.227.202.244
 23.227.202.253
@@ -19590,6 +19597,7 @@
 31x1jdm.duckdns.org
 31xt6ts5m1jt7nurhyrsq4ql2uvypxf9cd.org
 31yjje-vjodm.duckdns.org
+32-000tl-001l1-1.duckdns.org
 32-1111-21111.cloud
 32-132-89-74.cfd
 32-850-ll-1l1.duckdns.org
@@ -27725,6 +27733,7 @@
 64.52.80.252
 64.52.80.30
 64.52.80.82
+64.7.199.177
 64.71.162.239
 64.71.166.50
 64.72.205.32
@@ -32180,6 +32189,7 @@
 86.106.131.177
 86.106.131.43
 86.106.131.54
+86.106.143.200
 86.106.20.144
 86.106.93.230/~snapponc/
 86.107.100.80
@@ -34069,6 +34079,7 @@
 92vrvk.duckdns.org
 92w3ojszo.duckdns.org
 92w8f3k.duckdns.org
+93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun
 93.104.209.253/bins
 93.105.185.139
 93.113.131.103
@@ -35876,6 +35887,7 @@ a-1-o1.net
 a-10--01dnkmpynlnari-ykala-yniyil.cfd
 a-10--1denhaftnin-yldizlari.cfd
 a-10--1dnynyl-flrsrlari.cfd
+a-10-01ra-mznflrsatico-mtr.sbs
 a-10-01rmzan-com.sbs
 a-10-1-bu-haftada-indrim-var.com
 a-10-1-bu-haftada-indrim-var.comtramrhsrkyt.net
@@ -136735,6 +136747,7 @@ dijitalmobil-ziraatbireysel.sbs
 dijitalmobil-ziraatbireyselgiris.com
 dijitalmobil-ziraatbireyselgiris.vip
 dijitalmobil-ziraatbireyselweb.com
+dijitalmobil-ziraatbireyselweb.sbs
 dijitalmobil-ziraatgiris.com
 dijitalmobil-ziraatkampanya.com
 dijitalmobil-ziraatkampanyagiris.com
@@ -138333,6 +138346,7 @@ dlscord.org
 dlscordcom.top
 dlscvt-scvrt.com
 dlsjhqxlrt.duckdns.org
+dlt-r-ng-kry.my-homeip.de
 dlt34.site
 dlt34.space
 dlt34tennessee.space
@@ -139464,6 +139478,7 @@ doktordansikayetlerimlz.com
 doktordansikayetvar.com
 doktordasaklari.duckdns.org
 doktorkanteyokederr-79e91dcf02fd.herokuapp.com
+doktorkantezipzipziplatir-5e20f259e28e.herokuapp.com
 doktorlardantavsiyeler.club
 doktorlarinonerisi.club
 doktoronlinehizmet.com
@@ -149099,6 +149114,7 @@ e56465sd.nicepage.io
 e57058e562d4.com
 e5719nfb.duckdns.org
 e5955s7o.duckdns.org
+e598292a5fbd.ngrok-free.app
 e59tmhsx.duckdns.org
 e5b57288.com
 e5ce3j.duckdns.org
@@ -199130,6 +199146,7 @@ haftanlnyildizialdlnaldln.com
 haftann-aldin-aldin.com
 haftannniiinn-indirmleerrririiiii.com
 haftaortasikaraca.com
+haftaortasindakrcabra.com
 haftasi-a101-firsat-tum-indirim-hafta-kampanya-boyunca-710.a1o1nlneee.ru.com
 haftasi-a101-indirim-tum-firsat-hafta-boyunca-kampanya-712.a1o1nlneee.ru.com
 haftasi-firsat-kampanya-tum-a101-indirim-hafta-boyunca-121.a1o1nlneee.ru.com
@@ -207627,6 +207644,7 @@ hemenebasvuruuyaps.co.vu
 hemenebels.club
 hemenebels.net
 hemenebels.store
+hemenebels.xyz
 hemenegir1.space
 hemenekim-ayifirsatikampanyasi.tech
 hemenelinde.net
@@ -216007,6 +216025,7 @@ hizmetlerin.online
 hizmetlerin.org
 hizmetlerin.site
 hizmetlerindevleteiadatsorgula-portal.com
+hizmetlerinhizmetlerinhizmetleriniztakendisi.shop
 hizmetleriniz.com.tr
 hizmetleriniz.org
 hizmetleriniz.shop
@@ -220510,6 +220529,7 @@ hx2hchf.duckdns.org
 hx5i4ae0.duckdns.org
 hx7pmx.duckdns.org
 hx8elupi.duckdns.org
+hxa-93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun
 hxae.bnnhs.ru
 hxafxatnxixnxfxixrxsxaxxtlxaxrxi.xyz
 hxal6.sbs
@@ -225684,6 +225704,7 @@ ikelar-eviniz-icin.xyz
 ikengo.top
 ikentkxrtmdehmzeti.net
 ikentkxrtodmehzmet.net
+ikenys543esx.blogspot.com
 iker.zapto.org
 ikev.info
 ikexylyxuq.biz
@@ -240653,11 +240674,13 @@ izelbbs.dns.navy
 izeldasbcvc.blogspot.com
 izeldasknknbr.blogspot.com
 izeldasonlineca.dns.navy
+izeldfsgx.blogspot.com
 izeldobc.dns.navy
 izeldocgc.dns.navy
 izeldsaf.blogspot.com
 izeldssanyi.blogspot.com
 izelfgnj.dns.navy
+izelfixs.dns.navy
 izelgececic.dns.navy
 izelgecexxxs.blogspot.com
 izelgisizmir.net
@@ -251699,6 +251722,7 @@ karar-2021-biresysel-e-aidat-online-basvuru.xyz
 karar-iade-bilgilendirmesi-ve-basvurusu.xyz
 karar.zapto.org
 kararceza.net
+kararceza.org
 kararcumhurbskcim.com
 kararinca.name.tr
 kararlar-evdekaltr-webgiris.com
@@ -254647,6 +254671,7 @@ kellas5745x.dns.navy
 kellas6002x.dns.navy
 kellas71x.dns.navy
 kellas754x.dns.navy
+kellas7881x.dns.navy
 kellas81x.dns.navy
 kellas8665x.dns.navy
 kellas8863x.dns.navy
@@ -279197,6 +279222,7 @@ merkezihekim.one
 merkezihekim.pro
 merkezihekim.sbs
 merkezihekimli.one
+merkezihekimli.sbs
 merkezihekimrandevu.online
 merkezihekimrandevu.org
 merkezihekimrandevu.vip
@@ -343857,6 +343883,7 @@ rthjg.icu
 rticulation.top
 rtiqusqohd.duckdns.org
 rtjvritvrgtv.cloud
+rtkcfsaonlinemrk.cfd
 rtkepz.duckdns.org
 rtkurumsalhuge.cfd
 rtm-mtr-rmtm.store
@@ -352858,6 +352885,7 @@ sbtgncakla.com.tr
 sbtjapans.com
 sbtsbtkaradayiwsynx.shop
 sbtsbtsbtwsyn.shop
+sbtslanswsynxkaradayi.shop
 sbu3d.xyz
 sbufirm.com
 sbuqkl.top
@@ -373701,6 +373729,7 @@ stanleynwstep.xyz
 stanleynwword.xyz
 stanleyorbit.xyz
 stanleyorion.xyz
+stanleyorvex.xyz
 stanleyparlar.com
 stanleypatron.xyz
 stanleyphase.xyz
@@ -377007,6 +377036,7 @@ suezey.com
 sufabrika.org
 sufebul.com
 suff21icientplain.top
+suffered-liz-complement-logos.trycloudflare.com
 sufferimmerse.top
 sufferingauxiliary.top
 sufferingbishop.top
@@ -407737,6 +407767,7 @@ usomvsgulyan.com.tr
 usomyemeyizbiz.net
 usomyetherpazar.tk
 usomyethesali.tk
+usorjp.top
 usowancxenryhlv.su
 usp00uverifses.ddns.net
 usp1.hopto.org
@@ -408421,6 +408452,7 @@ uyapdosyalarsorgu.online
 uyapdosyalarsorgu.org
 uyapdosyam.com
 uyapdosyam.sorgulamabaglanti.com
+uyapdosyaportal.org
 uyapdosyasisorgu.com
 uyapdosyasisorgulama.com
 uyapdosyasisorgulat.com
@@ -414947,6 +414979,7 @@ verificinfoconnect.ddns.net
 verifid-346564.hopto.org
 verified-badge-support-fb.vercel.app
 verified-instagramsupport.ml
+verified-potter-section-present.trycloudflare.com
 verified-server.ddns.net
 verifiedaccess.za.com
 verifiedaccount-usa.com
@@ -452536,6 +452569,7 @@ zeemark.in
 zeereeddqd.duckdns.org
 zeeremis.zapto.org
 zeeshanasghar.website/06yefer
+zeetcckhtudizieudqyck5o4ez16y973h.oast.fun
 zeezee196112.workers.dev
 zeezichtoptiek.nl
 zeferegesewe1.website
