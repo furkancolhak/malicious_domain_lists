@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-18T16:05:13.856206
+# Updated: 2026-02-18T17:05:12.006700
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -57258,6 +57258,7 @@ altaskifer.sbs
 altay48vdhzrn.store
 altayaldinsonradedinkirakvad.online
 altayayertsifrdksndkdz696659nrvd.page
+altaybilim.cyou
 altaydennsfrdksndkz.online
 altaydnertelesifrsksndkzfztmmzayertenay.online
 altayersnrkrbaneve10.online
@@ -80103,6 +80104,7 @@ bgopp8lzf.duckdns.org
 bgpsouthasia.com//db_template.php
 bgpsouthasia.com/tracking/db-config-ini.php
 bgpsouthasia.com/wp-config-ini.php
+bgqhka.online
 bgqyxsjyay.duckdns.org
 bgrcjfvixkqmlif.ru
 bgrgercekolama.online
@@ -95994,6 +95996,7 @@ bnvmghfjdhrg.com
 bnvnmbvnjhggh.click
 bnvnrccnntr-girisonline.com
 bnwebredirectt.store
+bnwhzh.online
 bnwquhd.com
 bnwu.lol
 bnwwhsk-crk7.com
@@ -97380,6 +97383,7 @@ borderlands3.com
 bordflattuo.top
 bordnsnkzistkrtt.mooo.com
 bordpass.com
+bordscan.com
 bore569.xyz
 bored-light.sbs
 boredearth.best
@@ -107602,6 +107606,7 @@ cdaum.pe.hu
 cdaxpropsvc.net
 cdbbwvipdg.duckdns.org
 cdbre0k.duckdns.org
+cdbtrq.online
 cdbwkyq.info
 cdc-coronavirus.com
 cdcache.ru
@@ -110745,6 +110750,7 @@ cgwer.com
 cgxiabmuet.duckdns.org
 cgxu.urzqst.ru
 cgzxb.com
+cgzxhk.online
 ch-aidat-formunuz.ml
 ch-aseupdateserver.hopto.org
 ch-cancelarorderapavpalch0.com
@@ -122031,6 +122037,7 @@ cssjs.co
 cssmagic.shop
 cssvalidator.app
 cssyjj.cn
+cstban.online
 cstest20230108.ddns.net
 cstmsklmnaopstrlmas.com
 cstmsklmnaopstrlmas.net
@@ -163162,6 +163169,7 @@ esss33.zapto.org
 esssllqmssfq.org
 esswfeclcmtkkoiu.com
 esszoqb.cn
+est-r-n-g-l.my-homeip.de
 est.zapto.org
 est111.ddns.net
 est5090.online
@@ -220573,6 +220581,7 @@ hxbabayklemeyapp.net
 hxbczg.com
 hxbdddfdeijn.bid
 hxbscgstektikodeme.tk
+hxbshz.online
 hxbuzcfyg.com
 hxcdsodfemelerzz.net
 hxcfhvbsd.com
@@ -220962,6 +220971,7 @@ hyrl.xyz
 hyrlcmrtislerinle.de
 hyrlgnlernvserx.net
 hyrmdmmknn.net
+hysadi.online
 hysdkrtmeeg.net
 hyshippingcn.com
 hyshjsykleme.net
@@ -221069,6 +221079,7 @@ hzl-islmler-net.b-cdn.net
 hzl-mbl.cfd
 hzl-mbl.sbs
 hzl-mbll.cfd
+hzl-mblll.cfd
 hzl-siprs-olustr.cfd
 hzl-yonsz-bni.store
 hzl72r.duckdns.org
@@ -240713,6 +240724,7 @@ izeldsaf.blogspot.com
 izeldssanyi.blogspot.com
 izelfgnj.dns.navy
 izelfircgh.dns.navy
+izelfirovn.dns.navy
 izelfixs.dns.navy
 izelgececic.dns.navy
 izelgecexxxs.blogspot.com
@@ -245630,6 +245642,7 @@ jsvault.net
 jsvfp07l9.duckdns.org
 jsvhwwcehz.duckdns.org
 jsvv70s45.duckdns.org
+jsydsh.online
 jsyl71.duckdns.org
 jsymewbh.duckdns.org
 jsyvyud-giseotoyoletiket.is-best.net
@@ -254184,6 +254197,7 @@ kbb25.com
 kbbbn.duckdns.org
 kbbpissmqs.conningstone.net
 kbbpissmqs.hbmc.net
+kbcusb.online
 kbd.visiongrupltd.com
 kbd1nn4gf.duckdns.org
 kbditjfsdl.duckdns.org
@@ -267044,6 +267058,7 @@ lgcleaningservicesny.com
 lgcom.online
 lgconfirimed.co.vu
 lgczwlgclm.duckdns.org
+lgdekb.online
 lgdotbvj.acikdenizv2-mobilgirisdijital.com
 lgdunyasi.com
 lgdxt.duckdns.org
@@ -277769,6 +277784,7 @@ mdmxjewuetqdvjs.ru
 mdnn7h.duckdns.org
 mdnsmn.top
 mdnsresponder.com
+mdnxht.online
 mdobg.com
 mdoux.com
 mdown.showprice.xyz
@@ -280352,6 +280368,7 @@ mhrs.fr
 mhrs.iyoz.net
 mhrs.xyz
 mhrsavhgsbilgisis.sbs
+mhrsekonomik.duckdns.org
 mhrserandevu.com
 mhrserandevu.net
 mhrsgiris.it.nf
@@ -290166,6 +290183,7 @@ mvppwb.turnsunchair.top
 mvptcodesupport.com
 mvpyqesw.com
 mvrlqkzntwpe.sa.com
+mvrlvs.online
 mvrmhetqgg.duckdns.org
 mvrmkfmslmm.net
 mvrpczwsyj.duckdns.org
@@ -295213,6 +295231,7 @@ nfsnsenffsn.net
 nfsnzdavrdk.com
 nfsnzdayzdavrdk.com
 nfspeedfor.com
+nfsqyd.online
 nfsrandmszxeds.net
 nfsrasnv.com
 nfsrndvuhizliman.blogspot.com
@@ -303033,6 +303052,7 @@ okuyanlar.site
 okuyorum.fun
 okuyorumvakfi.com
 okuyuncabil.net
+okvr-l-r-v-gn.my-homeip.de
 okvwetbryz.duckdns.org
 okvxkmgz6.duckdns.org
 okwtz.com
@@ -320124,6 +320144,7 @@ pepasg6.duckdns.org
 pepcanocxxslorasetposa.vercel.app
 pepe.synergize.co
 pepe7.duckdns.org
+pepecoin.paribucekilis.biz
 pepekterbang.ddns.net
 pepepeererty.xyz
 pepito1337.hopto.org
@@ -324309,6 +324330,7 @@ poxs62on.xyz
 poxse63dion.xyz
 poyansystem.ir
 poyeruk.shop
+poyhbg.online
 poykoqnl7jkj632.info
 poyolarpo.vercel.app
 poypol.duckdns.org
@@ -336680,6 +336702,7 @@ ramazanaozelfirsat.cloud
 ramazanaozelfirsat.duckdns.org
 ramazanaozelfirsatburada.wiki
 ramazanaozelfirsatkapinda.online
+ramazanaozelfirsatlar.cfd
 ramazanaozelfirsatlarbinance1.duckdns.org
 ramazanaozelfirsatlarbinance2.duckdns.org
 ramazanaozelfirsatlarbinance3.duckdns.org
@@ -379112,6 +379135,7 @@ syber-haber.club
 syber-haber.life
 syberhaber.club
 sybrsatatdiyari.com
+sycdgl.online
 sycingshbo.com
 syctravkgmbilgisis.sbs
 sydenizbank.com
@@ -399829,6 +399853,7 @@ turkairline.azurewebsites.net
 turkairs.buzz
 turkakademiv.net
 turkakademivak.net
+turkakil.icu
 turkakim-12.net
 turkakinci-12.net
 turkarav.com
@@ -400937,6 +400962,7 @@ turkishcarpet.shop
 turkishcitynews.com
 turkishdailynewsr.net
 turkishenergyfund.com
+turkishfunds.com
 turkishfurniture.blog
 turkishgovtr.org
 turkishh.shop
@@ -416083,6 +416109,7 @@ vhrnxg.duckdns.org
 vhrugkbcs.com
 vhs.decospaacloud.in
 vhs.delrosal.net
+vhsgxs.online
 vhskn8.duckdns.org
 vhspvkpjssyhxay.ru
 vhsv29r.duckdns.org
@@ -416095,6 +416122,7 @@ vhuenilodge.co.za/php/db-config-ini.php
 vhuoqy.top
 vhupo-tours.com/wp-includes/db-config-ini.php
 vhusfx.homes
+vhusfx.online
 vhvtrwfvah.duckdns.org
 vhzbtvutde.duckdns.org
 vi.hgsyuklemeyerii.net
@@ -420661,6 +420689,7 @@ wcdqdwte.com
 wcecdhfecd.duckdns.org
 wcephfbnndoxfei.su
 wcfcypdpuoopg.info
+wcgwsh.online
 wchampmuse.pw
 wci0n5n51.duckdns.org
 wcihntajku.duckdns.org
@@ -420674,6 +420703,7 @@ wcmbqxzeuopnvyfmhkstaretfciywdrl.name
 wcnchost.ddns.net
 wcnclvscyi.duckdns.org
 wcndu.com
+wcnhgs.online
 wcnkhdavxu.duckdns.org
 wcnsservice.ddns.net
 wcnv20.cn
@@ -427406,6 +427436,7 @@ wsisavbilgitr.sbs
 wskr4m.duckdns.org
 wslnqb.com
 wsloeoqkwpkudim.su
+wsmaxs.online
 wsmzurlfeh.duckdns.org
 wsnarqphws.in
 wsnjz.duckdns.org
@@ -435396,6 +435427,7 @@ xjam.hk
 xjbmjxbmjxb.net
 xjbmp.com
 xjbmxmjbmjx.net
+xjbsyp.online
 xjbvhzdemw.duckdns.org
 xjc8q5j11.duckdns.org
 xjeasthope.cn
@@ -444535,6 +444567,7 @@ yatirimcimobilacikv2denizbank.com
 yatirimcitop.top
 yatirimdanisman.pro
 yatirimdenizgiris.co.vu
+yatirimderekabet.com
 yatirimdosyasi.info
 yatirimduyurusu.com
 yatirimegitimmerkezi.com
@@ -447649,6 +447682,7 @@ yhbfl.dfuewe.icu
 yhbfl.fhiugcx.icu
 yhbpxeepjolbop.info
 yhbsqx.com
+yhckos.online
 yhcqduobno.duckdns.org
 yhdncj.biz
 yhdncjsitefjr.tk
@@ -447692,6 +447726,7 @@ yhxczrjujz.duckdns.org
 yhyilqqjvp.duckdns.org
 yhytabykoje.klontrek.org
 yhzj72.duckdns.org
+yhzsjg.online
 yi1fa4mr835e9gx2ov.duckdns.org
 yi3i0w0.duckdns.org
 yi4nwah.duckdns.org
@@ -450511,6 +450546,7 @@ yud519hu.duckdns.org
 yuddum45323.dns.navy
 yudefohuko.com
 yudfrhtdl.info
+yudops.online
 yudum-aycicek-yagi-18lt-4adet.online
 yudum-aycicekhemensiparis.eticret.icu
 yudum699lt.me
@@ -452528,6 +452564,7 @@ zd7.top
 zd8fgmer.duckdns.org
 zdabxghyq.com
 zdaibfuldc.duckdns.org
+zdbgdl.online
 zdccjno7d.duckdns.org
 zdcgmw.top
 zdciliktrfk.dev
@@ -452564,6 +452601,7 @@ zdvl-vetret.com
 zdwallcoveing.com
 zdwhml.top
 zdwnigon.duckdns.org
+zdwsca.online
 zdwwmw.top
 zdwyjafms.com
 zdxos.com
@@ -453052,6 +453090,7 @@ zgjipiao.club/starbucks-bx
 zgkarayolkgmwbhgscs.duckdns.org
 zglyxdmjhl.duckdns.org
 zgmdy.club
+zgnhqm.online
 zgocat.hopto.org
 zgpbweqvjy.duckdns.org
 zgqscmkmlr.duckdns.org
@@ -453082,6 +453121,7 @@ zhankai168.com
 zhara-festival.com
 zhcn63e63.chascerse.ru
 zhcxkgbwea.duckdns.org
+zhdbio.online
 zhdenizbank.com
 zhdmxrkhkg.duckdns.org
 zhedacdkef.duckdns.org
@@ -455413,6 +455453,7 @@ zjkso.cn
 zjmzfz.com
 zjrhxe.com
 zjryen.info
+zjsdcs.online
 zjsxqveg.com
 zjtlknge.com
 zjtmcg.com
