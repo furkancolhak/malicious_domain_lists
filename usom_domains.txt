@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-18T17:05:12.006700
+# Updated: 2026-02-18T18:05:14.575026
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -35891,6 +35891,7 @@ a-1-01sendegselals.com
 a-1-01sendeucuz.com
 a-1-01sendeucuzal.com
 a-1-01sendeucuzz.com
+a-1-01snalcomtr.sbs
 a-1-1onlienakutel.com
 a-1-firsatlar-kapida.site
 a-1-o-1-s-p-o-n-s-o-r-l-u-k.net.tr
@@ -56505,6 +56506,7 @@ all2wedding.com/wp-includes/db_template.php
 all2wedding.com/wp-includes/wp-config-ini.php
 all3212131csa.com
 all7ehgdgyhygudjg.hopto.org
+alla-hayo-lendiriyorum.cfd
 alla9pon6tpl.duckdns.org
 allaboutblockchain.net/db_template.php
 allaboutcement.com
@@ -73590,6 +73592,7 @@ basvurma-qnbfinans.com
 basvurma-yapikredi.com
 basvurmagirisi-turkeygovtr.com
 basvurmagirisiledev.net
+basvurmak.net
 basvurmanoktasi.xyz
 basvurmaxipuan.com
 basvurmerkezi.tk
@@ -121313,6 +121316,7 @@ crfsaykkmpan.sbs
 crfsbnzbm.store
 crfsdacfrsyagldnsncrfsa.com
 crfsdaylbasi.cfd
+crfsdenal.cfd
 crfsdnalcknrzolncagln.com
 crfsdnalsmnolrdmeolstebslr.com
 crfsdncrfsfrrssyahm.com
@@ -121626,6 +121630,7 @@ crrgekmgun.cfd
 crrrffrrssa.com
 crrrffrsadncrffsaaya.com
 crrrfsadaaaynihrsybrdaa.com
+crrsdayzbiz.cfd
 crrsdayzbz.cfd
 crsahzrafsvrz.net
 crsasahprskaam.cfd
@@ -141394,6 +141399,7 @@ drk-frsksksmfpwqeasda.xyz
 drk12.duckdns.org
 drkampanyahaberi.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
+drkantepatlatirrrr-33917301e520.herokuapp.com
 drkanteucururr-c1993e66f9db.herokuapp.com
 drkcafrledenizde.website
 drkdangrntibbva.mooo.com
@@ -162368,6 +162374,7 @@ erltmsson.net
 erludkbnkabkbasvur.com
 ermewnhasn.ws
 ermgil.duckdns.org
+ermidyson.com
 ermintrudechamberlain.net
 ermolzek.com
 ermoyak.com
@@ -290042,6 +290049,7 @@ mutluolsana.online
 mutluolurduk.com
 mutlupatiler.xyz
 mutlupersembe.com
+mutluramazangunleri.com
 mutluramazanlar.com
 mutlusms.com.tr
 mutlusms.xyz
@@ -303734,6 +303742,7 @@ onaylamobil.online
 onaylanan-basvurulariniz-kontrol-ediniz.sbs
 onaylanan-ilan.com.tr
 onaylandi-fbbasvuru.vercel.app
+onaylanir-onaylanir.com
 onaylanmis-ilan.com.tr
 onaylanmis-ilanlar.com.tr
 onaylanmis-ilanlarim.com.tr
@@ -367981,6 +367990,7 @@ sokmarketozel.site
 sokmarketpazarindirimleri.com
 sokmarketpersembe.site
 sokmarketr.site
+sokmarketramazankampanyasi.cfd
 sokmarketsanal.b-cdn.net
 sokmarketsanal.online
 sokmarketsanal.site
@@ -405500,6 +405510,7 @@ ulasimkarthediye.pro
 ulasimkrt-yukle.b-cdn.net
 ulasmajogerekli.com
 ulastakarastlamasdabulamadiorta.net
+ulavonrix.com
 uldgdestek.org
 uldminyran.ru
 uldressvisu2.xyz
@@ -423323,6 +423334,7 @@ webtcbmtr773-993tr.com
 webtccbuygulamasi07.com
 webtccrmuygulamasi.com
 webtctrbm8.com
+webte-belbis.com
 webte-finansbank.com
 webte-giris.com
 webte-subecilik.com
