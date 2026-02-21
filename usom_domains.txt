@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-21T12:05:14.340667
+# Updated: 2026-02-21T13:05:13.341039
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -182491,6 +182491,7 @@ garantifirsatlari.hopto.org
 garantifirsatlariherseybasvuru.xyz
 garantifirsatlarimizla.xyz
 garantifirsatlaripromosyon.duckdns.org
+garantifirsatlariyaninda.duckdns.org
 garantifirsatpuanlar.ml
 garantiflash.com
 garantifleet.com
@@ -337080,6 +337081,7 @@ ramazandabasvurr.xyz
 ramazandabirbaska.online
 ramazandaburadanal.com.tr
 ramazandabuurnlerbirbaskaolur.shop
+ramazandacrfsda.cfd
 ramazandacrfsde.cfd
 ramazandadijital.com
 ramazandaevdekal-20gb.com
@@ -360557,6 +360559,7 @@ shinyzealous.top
 shiofk.top
 shionoe.info
 shiory.annebruce.xyz
+ship-beverage-guarantee-keyboard.trycloudflare.com
 ship-expert.gl.at.ply.gg
 ship-fill-value.com
 shipcynical.top
