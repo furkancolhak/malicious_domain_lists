@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-21T07:05:12.368019
+# Updated: 2026-02-21T08:05:14.465728
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -78867,6 +78867,7 @@ beltglacier.top
 beltofcurse.xyz
 beltturkey785.com
 beltweasel.top
+belunqory.com
 belvasports.com//db_template.php
 belvostera.pro
 belyardim.online
@@ -114439,6 +114440,7 @@ clouditzone.com/revolution/assets/db-config-ini.php
 clouditzone.com/revolution/assets/wp-config-ini.php
 cloudjs.live
 cloudkdzym.lat
+cloudlane.host
 cloudlare-lndex.com
 cloudlflares.com
 cloudlive.pub
@@ -146835,6 +146837,7 @@ e-guvendeonline.sa.com
 e-guvendetr.sa.com
 e-guvenleodeme.com
 e-guvenleodeme.com.tr
+e-guvenli-alisverim-burda.com
 e-guvenli-alisveris-tr.sa.com
 e-guvenli-alisveris.com
 e-guvenli-alisveris.sa.com
@@ -164606,6 +164609,7 @@ euroworldcuzdansorgulamasayfasidogrulamabireysel.line.pm
 euroworldebireyonaysizcuzdansorgulamakonlineozel.line.pm
 eurun-onay-hizmetler.shop
 eurun-servis-hizmetim.com
+eurun-servis-hizmetlerin.com
 eurun-servisleri-hizmetler.com
 eurunlerhizmetiniz.com
 eusecrypt.com
@@ -179229,6 +179233,7 @@ futureddospzmvq.shop
 futurefocuspro.online
 futureforbestsky.online
 futureforbeststart.online
+futurefund.capital
 futurehemp.com
 futureintrinsic.top
 futureinvestmant.com
@@ -208666,6 +208671,7 @@ hepiyibulduran.cfd
 hepkazanvemutluol.cfd
 hepkek2.ru
 hepkeyiflialisverisler.com
+hepkrcadaniyihaberler.com
 hepkwtyoucekcamp7.net
 hepmhizmetel.app
 hepmutluol.xyz
@@ -323270,6 +323276,7 @@ polaris-bios-editor.ru
 polarisan.com
 polarispulse.online
 polarisynsc.com
+polariumar.com
 polarnimbus.space
 polarof.koyhelp.top
 polarpeace.top
@@ -375173,6 +375180,7 @@ storeflare.art
 storegoogle.at/angelkelly
 storehepsibirarada.online
 storeindirim.site
+storelinker.art
 storemagento.info
 storemartyrdom.top
 storemonline.net
@@ -407233,6 +407241,7 @@ upsta.club
 upstairssegregation.top
 upstoxcalculator.com
 upstracking-services.duckdns.org
+upstreamy.com
 uptemp.icu
 uptight.su
 uptimisedmc.com
