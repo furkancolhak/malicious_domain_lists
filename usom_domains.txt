@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-22T16:05:14.043359
+# Updated: 2026-02-22T17:05:12.896628
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -20910,6 +20910,7 @@
 37wc0c.duckdns.org
 37zr4kiys.duckdns.org
 38-000-1ll1-0.duckdns.org
+38-0000-101l1.duckdns.org
 38.110.228.165
 38.132.101.38
 38.132.101.45
@@ -121510,6 +121511,7 @@ crfsykrsmtcfrdsyadn.com
 crftsahipr.cfd
 crftseydisehir.cfd
 crfursaabzmolursa.com
+crfursqfirsatlari.duckdns.org
 crfyonlendirme.shop
 crfytsac.cfd
 crgfrsat.cfd
@@ -236905,6 +236907,7 @@ isletmedestegi.click
 isletmedestegi.com
 isletmedestekleri.com
 isletmedestekleri2026.cfd
+isletmedestekmerkezi.com
 isletmehibedestegi.com
 isletmekobidestegi.com
 isletmekredimerkezi.com
@@ -259901,6 +259904,7 @@ kobihibemerkezi.com
 kobiisletmedestegi.com
 kobiisletmemerkezi.com
 kobikredibasvurusu-hemenkatil.cloud
+kobikredibilgilendirme.com
 kobikrediformu.com
 kobikredihizmetleri.com
 kobikredimerkezi.com
@@ -263703,6 +263707,7 @@ kurumsalhesaponaylasahibinden.com
 kurumsalhgsyukleme-com-tr.tk
 kurumsalhizlihizmet-merkezi.com
 kurumsalhizlimerkez-hemengir.com
+kurumsalhizmetler.xyz
 kurumsalhizmetlerdenizbank.com
 kurumsalhsys.ml
 kurumsalhu2.cfd
@@ -283225,6 +283230,7 @@ mobil-giris-islemlerim-portal.tk
 mobil-giris-kapisi-turkiye.tk
 mobil-giris-ll.tk
 mobil-giris-onlline.sbs
+mobil-giris-tcn.sbs
 mobil-giris-tr.com
 mobil-giris-turkiye.org
 mobil-giris.com.tr
@@ -423639,6 +423645,7 @@ website6622005.nicepage.io
 website6622824.nicepage.io
 website6623200.nicepage.io
 website6623257.nicepage.io
+website6623489.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
@@ -451490,6 +451497,7 @@ yuphgss.com
 yuphsa6qwtg5.online
 yupikredi.com
 yupobabanevevidelogda.net
+yuppi.webredirect.org
 yupstocks.com
 yuqagcfk.com
 yuqbvfopicmp.xyz
