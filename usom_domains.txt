@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-23T07:05:14.132233
+# Updated: 2026-02-23T08:05:12.779882
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -69541,6 +69541,7 @@ b-magaza.cf
 b-magaza.ga
 b-magaza.tk
 b-mec-paket-ykle.blogspot.com
+b-menkuldeger.com
 b-menkulyatirim.com
 b-metric.com
 b-name.website
@@ -141580,6 +141581,7 @@ drk12.duckdns.org
 drkampanyahaberi.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
 drkantepatlatirrrr-33917301e520.herokuapp.com
+drkantesizidomdomdomaltir-c01291656e3e.herokuapp.com
 drkantesizikanirtirrrr-678fbacbb8a7.herokuapp.com
 drkantesiziottururr-f5923b74fd47.herokuapp.com
 drkanteucururr-c1993e66f9db.herokuapp.com
@@ -168475,6 +168477,7 @@ f65f4cxxo.duckdns.org
 f662p.emorasp8.com
 f67f7fhvbnvb.fun
 f695rv7.duckdns.org
+f6a7m2k4h9s8n3vxbq.sbs
 f6b04000.consent-verify.pages.dev
 f6d2rd.duckdns.org
 f6e686z.duckdns.org
@@ -192537,6 +192540,7 @@ grapsd.xyz
 grapts.xyz
 graqwer.xyz
 grarntimbasvuuronay-basvur.vercel.app
+gras-nursing-whether-concluded.trycloudflare.com
 grascivhenko.xyz
 graspfusion.top
 grasscall.net
@@ -261759,6 +261763,7 @@ krddddessdtbsvur.online
 krddestek-online.top
 krddoldur.net
 krdeibasvuru.com
+krdentz.xyz
 krdgarntbrdatkla.click
 krdi-aidat-odemesi.com
 krdi-basvru-hmn-annda-hesap-yatsn.online
@@ -265990,6 +265995,7 @@ lasdla-afbask-asfaka.cfd
 lasdla-afbask-asfaka.cyou
 lasdla-afbask-asfaka.sbs
 lasdladasoqoqq.com
+lasdmoaskfd.cfd
 lasenta.net
 laserepic.top
 laserflyers.com
@@ -342464,6 +342470,7 @@ rhinosinusitis.org
 rhiuit.shop
 rhiycva.duckdns.org
 rhizmetservisin-0.com
+rhizmetsrvsler.com
 rhizome.todogalaxyapp.com
 rhkjdvwnhb.duckdns.org
 rhkjhhevut.duckdns.org
@@ -370639,6 +370646,7 @@ sosiska2.hopto.org
 sositehuypidarasi.com
 sositehuypidaresi.com
 sosixiyybludok.com
+sosiyallturkiye.com
 soskitut.ru
 soskmnyyyy.club
 soskonbsv202521.com.xn--tr-2caa
