@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-23T12:05:13.714135
+# Updated: 2026-02-23T13:05:14.813237
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -139696,6 +139696,7 @@ doktordansikayetvar.com
 doktordasaklari.duckdns.org
 doktorkantesiziananizayollar-bfd48fb86609.herokuapp.com
 doktorkantesiziboylekudurtur-a61020ee40d9.herokuapp.com
+doktorkantesizigidiklarr-3c0e2bc61ce9.herokuapp.com
 doktorkanteyokederr-79e91dcf02fd.herokuapp.com
 doktorkantezipzipziplatir-5e20f259e28e.herokuapp.com
 doktorlardantavsiyeler.club
@@ -187558,6 +187559,7 @@ ghdenizbank.com
 ghdfghfgdfdghdfgh.ddns.net
 ghdh623.zapto.org
 ghdi.ddns.net
+ghdku0.icu
 ghdsasync.duckdns.org
 ghe76f7.duckdns.org
 ghefgekil.club
@@ -236065,6 +236067,7 @@ iscmnblell.net
 iscnbmbell.net
 iscp-kampnya.com.tr
 iscp-kmpnya.com
+iscple.cfd
 iscredi.com.tr
 iscrowdstrikedown.com
 iscta-necoali.click
@@ -236400,6 +236403,7 @@ islamhubz.com
 islamic-news-today.com
 islamicbayanat.ddns.net
 island-placid-bromine.glitch.me
+islandaolsa.shop
 islandeject.top
 islandminority.top
 islatures.at
@@ -239203,6 +239207,7 @@ istpazrs2.com
 istpremier.xyz
 istpremium34.blogspot.com
 istprmbe1.com
+istprn.xyz
 istpro-202.tlion.click
 istprow.xyz
 istprsbe.com
@@ -256512,6 +256517,7 @@ khotsonglodge.co.ls/wp-admin/db-config-ini.php
 khoumainis.com
 khpcbznsl.com
 khpeccmemed.net
+khphel.homes
 khpnnccgmemed.net
 khprj.com
 khprycemd.com
@@ -307120,6 +307126,8 @@ onlinegiris-ziraat.site
 onlinegiris.com
 onlinegiris.net
 onlinegiris.website
+onlinegiris2026tr.click
+onlinegiris2026tr.com
 onlinegiris27849234.com
 onlinegirisaktiftr.com
 onlinegirisbn-hediyelerson.com
@@ -334091,6 +334099,7 @@ qnb.click
 qnb.ddns.net
 qnb.faizsizbasvuru.com
 qnb.finans-yilbasinda.com
+qnb.fyi
 qnb.iolbn.com
 qnb.obc-t.com
 qnb.privateinternational.net
@@ -416891,6 +416900,7 @@ vidyefto.com
 viebsdsccscw.com
 viebvbiiwcw.com
 vielwe.com
+viemesge.weebly.com
 vieomkthfz.hhajedste.ru
 viernes9.duckdns.org
 vieswablesgrowesr.com/upload/youngputty2.exe
