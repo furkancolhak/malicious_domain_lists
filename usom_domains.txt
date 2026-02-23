@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-23T16:05:13.715948
+# Updated: 2026-02-23T17:05:14.867441
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -17628,6 +17628,7 @@
 25-subatfirsatlar.shop
 25-tok-elkraln.sbs
 25-yil-acik-deniz.cf
+25.215.204.92.host.secureserver.net
 250-000-111lll1.duckdns.org
 250-000-11l11.duckdns.org
 250-000ll-11-1l.duckdns.org
@@ -59604,6 +59605,7 @@ aniymansngihynenrne.com
 anjanaspernheavily.info
 anjau2.cfd
 anjlicensed.com
+anjsdntyqtqt.cfd
 ank1mo.hopto.org
 ank342543c.com
 anka-token.com
@@ -78788,6 +78790,7 @@ belgedogrulama.sistemiturkiye.org
 belgedogrulamaonay.org
 belgeiadeniz.com
 belgeislemleri.xyz
+belgejet.xyz
 belgekayitet.com
 belgekontrolet.com
 belgekoruma.pro
@@ -157507,6 +157510,7 @@ elephant.zzux.com
 elephantintheroomproductions.net
 eleronixzkt.gq
 elervah.com
+elesandan.shop
 eletiribabapors.xyz
 eletropau.ddns.net
 elettroveneta-it.com
@@ -186572,6 +186576,7 @@ get-ile-odeme-yap-guvenle-alisverisler.buzz
 get-ile-paramguvende.com
 get-ile-satin-al.online
 get-islem.mywire.org
+get-islemler-alisveris.online
 get-islemler.net
 get-license2.com
 get-lifetime-badge-v.vercel.app
@@ -204373,6 +204378,7 @@ hasretindenoleyimmi.com
 hasretlegez.net
 hasretruzgarlari.com
 hasrettimbensanaa.xyz
+hasretykkrrr.sbs
 hasrkaydisorgu.net
 hasrkydsendsrohgla.site
 hasrlakolasay.net
@@ -236968,9 +236974,11 @@ isletme-yardimi.com
 isletmebilgisi.cfd
 isletmedestegi.click
 isletmedestegi.com
+isletmedestekk.com
 isletmedestekleri.com
 isletmedestekleri2026.cfd
 isletmedestekmerkezi.com
+isletmedesteksorgula.com
 isletmehibedestegi.com
 isletmekobidestegi.com
 isletmekredimerkezi.com
@@ -237719,6 +237727,7 @@ istanbuldasin.net
 istanbuldasin.site
 istanbuldasinbizimle.mooo.com
 istanbuldayizknkmla.sa.com
+istanbuldazipla.shop
 istanbulddollmyeri.net
 istanbuldealflow.com
 istanbuldestekk.com
@@ -238927,6 +238936,7 @@ istmfathtermadam.net
 istmhkbcxbn.com
 istmhkfshsdcc.com
 istmhkhmn.com
+istmhkhsdfbcxbb.com
 istmhknbcxbv.com
 istmhkncv.com
 istmhknmc.com
@@ -268378,6 +268388,7 @@ linpttinteraktif.com
 linq.ink
 linshenlubosuxingwenqingsilansixin.top
 linshor.com
+lint-g-r-n-l.my-homeip.de
 lint18.com
 lintant.top
 linteling.com
@@ -301163,6 +301174,7 @@ oaknhetegg.duckdns.org
 oakpelican.top
 oakrussia.ru
 oaksdjhtuenhed.net
+oaksnf9oiaywe.cfd
 oaktua1o1.com
 oam-wellsecure.ddns.net
 oammaqqdqq.duckdns.org
@@ -307222,6 +307234,7 @@ onlinegirisleribnnatr.com
 onlinegirisleribnstr.com
 onlinegirismerkez-hizlibasvurma.com
 onlinegirismerkezi.com
+onlinegirismobile.com
 onlinegirisparimtr.com
 onlinegirisplatform-webgirtr.com
 onlinegirisprb.com
@@ -353907,6 +353920,7 @@ scream879.xyz
 screamcensor.top
 screamwee.top
 screen-security.com
+screen-shot-maker-replitappbasv.replit.app
 screen.kedi.cloud
 screenai.online
 screenicon.top
@@ -444600,6 +444614,7 @@ yar7-yukleme.22web.org
 yaradanasoryaradandanoturu.fit
 yarakanan.my-homeip.com
 yarakilometre.cfd
+yaraksal.cc.dvrlists.com
 yarakus5g6gg.ddns.net
 yaramamerhem.farkxvar.xyz
 yaraminkafasinahosgeldniz.online
