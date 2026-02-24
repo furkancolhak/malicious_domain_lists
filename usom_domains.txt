@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-24T11:05:13.837724
+# Updated: 2026-02-24T12:05:15.438114
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9107,6 +9107,7 @@
 173.254.28.151/~islemonl
 173.254.28.52/~vdairesi
 173.255.216.25
+173.255.241.162
 173.255.248.253
 173.44.141.226
 173.44.141.89
@@ -11928,6 +11929,7 @@
 193.24.123.232
 193.24.123.42
 193.24.123.68
+193.24.208.236
 193.24.211.233
 193.242.145.138
 193.242.184.234
@@ -20965,6 +20967,7 @@
 38.225.206.87
 38.225.206.88
 38.239.98.13
+38.242.130.36
 38.242.149.89
 38.242.197.156
 38.242.212.219
@@ -25271,6 +25274,7 @@
 50.115.168.165
 50.116.3.164
 50.116.54.215
+50.116.9.208
 50.194.160.233
 50.21.181.152
 50.213.208.89
@@ -25336,6 +25340,7 @@
 500bin.yenikonutbasvurulari.cloud
 500binasrinprojesi.com
 500binbasvuruekrani.org
+500binbilet.club
 500binevproje.xyz
 500binevprojesi.xyz
 500bingirisekrani-gov.click
@@ -39961,6 +39966,7 @@ abdesslamgx.ddns.net
 abdestbozanabdesthane2.com
 abdestliabidemsi.com
 abdicevikulasim.ml
+abdiibrahimlifta.info
 abdimnasdlo.vercel.app
 abdirahmanguerra0471.website
 abdnxsijcvwjsp.com
@@ -106445,6 +106451,7 @@ carfourindirim.shop
 carfourindirimligunler.duckdns.org
 carfourkapmanyalar.com
 carfourkapmanyalar.shop
+carfourmdn.online
 carfourrmnzsubat.com.tr
 carfourrrsa.best
 carfourrse.com
@@ -176417,6 +176424,7 @@ flrsatpersembegunlolerindeozel.site
 flrsatpersembetermosslar.store
 flrsatsimdisikisvakti2.top
 flrsatsimdisikisvakti3.top
+flrsatsizlerramazandaozelsok.shop
 flrsatsizolursokhemenkos.store
 flrsatsmdigeldi.shop
 flrsatsokkkpanyalardahemenflrsatals.store
@@ -238983,6 +238991,7 @@ istmhknbcxbv.com
 istmhkncv.com
 istmhknmc.com
 istmhknnvbcv.com
+istmhknvcnbcv.com
 istmhndvcx.com
 istmknbvcbcvc.com
 istmkrgshdfc.com
@@ -273083,6 +273092,7 @@ macapplesystemcloudesecureservercode91storageserversecurities.info
 macarenaluis.hopto.org
 macaristandaegitim.com
 macaronloop.com
+macaronotel.com
 macartevitale-ameli.ddns.net
 macartevitale.hopto.org
 macawiwmaacckuow.xyz
@@ -286803,6 +286813,7 @@ morfanya-merkez-bankasi.ml
 morfeucarder.duckdns.org
 morfo0qi.duckdns.org
 morgan-chase.ddns.net
+morgan-versus-chronic-concentrate.trycloudflare.com
 morgan346.xyz
 morganmorrison634.xyz
 morganserver-update.hopto.org
@@ -408734,6 +408745,7 @@ ususnu.top
 ususuua.top
 usvfskntzk.duckdns.org
 usvmqihozx.duckdns.org
+uswebzoomus.com
 usxpcjahg.com
 usxrza.duckdns.org
 usxylcv.duckdns.org
