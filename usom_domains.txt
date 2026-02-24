@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-24T21:05:15.848665
+# Updated: 2026-02-24T22:05:14.741445
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -72,6 +72,7 @@
 00001111.ddns.net
 00002009.zapto.org
 000022111022222.cloud
+0000404041lk4.duckdns.org
 00004040440.duckdns.org
 000051139707.ddns.net
 000051139708.ddns.net
@@ -80285,6 +80286,7 @@ bgpsouthasia.com/tracking/db-config-ini.php
 bgpsouthasia.com/wp-config-ini.php
 bgqhka.online
 bgqyxsjyay.duckdns.org
+bgr.24b.mytemp.website
 bgrcjfvixkqmlif.ru
 bgrgercekolama.online
 bgrkj.com
@@ -106472,6 +106474,7 @@ carfourrrsa.best
 carfourrse.com
 carfoursa.site
 carfoursa10koli.com
+carfoursrmddn.online
 carfoussa.shop
 carfoussa.xyz
 carfrdasirada.cfd
@@ -183444,6 +183447,7 @@ garantl-bbva.online
 garantl-mobil.com
 garantl-web-subesi.jumpingcrab.com
 garantl.com
+garantl.otzo.com
 garantlbbva.com
 garantlbbva.mefound.com
 garantlbbva.misecure.com
@@ -253023,6 +253027,7 @@ kartalilereklamvakti.com
 kartalilesahuradogru.com
 kartalisreklam.duckdns.org
 kartalkgm.com
+kartalkkk.bounceme.net
 kartallafirsatlarbitmez.com
 kartallafirsatlarimbitmez.duckdns.org
 kartalonlines277.duckdns.org
