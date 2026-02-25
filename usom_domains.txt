@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-25T16:05:13.469396
+# Updated: 2026-02-25T17:05:14.985271
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7732,6 +7732,7 @@
 1548965550.xyz
 15498595985295808880.xyz
 15498595985295808886.xyz
+154katilim234535.duckdns.org
 154yil-ziraatbank.com
 154yildaziraat.com
 154yildirsizinle-ziraat.net
@@ -18796,6 +18797,7 @@
 2lf4ppme7.duckdns.org
 2liveanddieinla.com
 2lkakxservicessorgusystem.com
+2lkasdskalcdasacsa.sbs
 2ln6t46b8.duckdns.org
 2lnuv3.duckdns.org
 2lqrk4wmg.duckdns.org
@@ -21122,6 +21124,7 @@
 3906a26dc22de86ca040c13b251c663b.com
 3916520-7610987.com
 3917jsgr.duckdns.org
+3918182212.duckdns.org
 392178843u27615q77.fun
 392207622.corolain.ru
 39231f5e.sieujnx.cloud
@@ -74357,6 +74360,7 @@ basvuru-portalcimer.com
 basvuru-qnbfinans.com
 basvuru-qnbfinansbank.com
 basvuru-qnbfinansci.com
+basvuru-qp.cfd
 basvuru-ramazanayidestek2021.com
 basvuru-reklam-merkezixc2.xyz
 basvuru-reklam-merkezixc3.xyz
@@ -92936,6 +92940,7 @@ blogger-peaa3-k-edds1290.blogspot.com
 blogger-peak-pakeds12.blogspot.com
 blogger-peqaak-edler-91.blogspot.com
 blogger-ppakedslerpak-ed.blogspot.com
+bloggers-connectivity-dennis-exhaust.trycloudflare.com
 bloggersglobbers.top
 bloggertemplates4u.com
 bloggertemplates4u.com/db-config-ini.php
@@ -107243,6 +107248,7 @@ casinowoo88.weebly.com
 casla-abd-aldin-aldin.cfd
 casla-abd-aldin-aldin.icu
 casla-abd-aldin-aldin.sbs
+casmdkackscdacjkadscsad.sbs
 casnop.com
 casotaa.info
 casper-market-le-aktuel-urunlerim.site
@@ -192614,6 +192620,7 @@ granti.con.tc
 granti.vercel.app
 granti0nlinemsubesizislemler.net
 granti12aileumrecekilis2025.duckdns.org
+grantibaabva.duckdns.org
 grantibank.com
 grantibankasi-sube.ga
 grantibasvur-kredi.online
@@ -285078,6 +285085,7 @@ mobilgarantim.tk
 mobilgarntigirisekim.cfd
 mobilgarntigirisekim2025.cfd
 mobilgarntigirissubat2026.cfd
+mobilgarntigirisubat2026.cfd
 mobilgarrantiibnksubegiriss.line.pm
 mobilgeranti.click
 mobilgib.com
@@ -337781,6 +337789,7 @@ ramazankredisi.xyz
 ramazankredisicebinde.online
 ramazanktelofteklkatalogs.store
 ramazankutluolsn1.com.tr
+ramazanlardanfaydalan.com
 ramazanm.com
 ramazanmart.cfd
 ramazann-a1o1dee-dysonfirsatlarii.shop
@@ -391042,6 +391051,7 @@ toki500yedek.com
 toki600konutbasvuru.sbs
 toki7.lightchord.cfd
 toki700konutbasvuru.sbs
+tokiabasvuru.org
 tokial500binprojebasvuruekrani.com
 tokiasrinprojesi.click
 tokibasladi.com.tr
