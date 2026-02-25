@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-25T19:05:13.926285
+# Updated: 2026-02-25T20:05:13.909166
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2043,6 +2043,7 @@
 101-kacmazfirsatlaroglen.com
 101-kacmazfirsatsabah.com
 101-kampanya-firsat.ddns-ip.net
+101-kampanya-indirimlerigeldi.cfd
 101-kampanya-zamani.com.tr
 101-kampanya.online-internet-alisverisi.com.tr
 101-kampanyalar-online.duckdns.org
@@ -39417,6 +39418,7 @@ a7b5evocy.duckdns.org
 a7ca1952e6fc829ee.bf5368c7936.ru
 a7d7eyhkkw.com
 a7e9zw5q.duckdns.org
+a7k3s9f2n6q8h4bmxv.cfd
 a7laaoffcial.ddns.net
 a7laaofficial.ddns.net
 a7med.zapto.org
@@ -74365,6 +74367,7 @@ basvuru-platformu-i-aidat-ucreti-basvurulari.xyz
 basvuru-platformu-i-aidat-ucreti-basvurusu.xyz
 basvuru-portal-in.online
 basvuru-portalcimer.com
+basvuru-ps.cfd
 basvuru-qnbfinans.com
 basvuru-qnbfinansbank.com
 basvuru-qnbfinansci.com
@@ -78900,6 +78903,7 @@ belgetunceli.net
 belgeyonetim.xyz
 belgimislem.xyz
 belgimislemlerin.xyz
+belgimkurumsal.com
 belgimonayin.xyz
 belgium-myservice.ddns.net
 belgom.duckdns.org
@@ -86623,6 +86627,7 @@ binancetr-iade.com
 binancetr-mail.com
 binancetr-ramazancekilis.online
 binancetr.cfd
+binancetr.help
 binancetr.mywire.org
 binancetr.sbs
 binancetr1.duckdns.org
@@ -99189,6 +99194,7 @@ browsercheckjson.azurewebsites.net
 browserdeduce.top
 browserextensio.com
 browsermeta-fb.cfd
+browsermeta-fb2026.cfd
 browsermetaurl-fb.cfd
 browsersecurityupdates.com
 browserupdate.download
@@ -156536,6 +156542,7 @@ ekb4yqa.duckdns.org
 ekbasvuru500konutprojem.vercel.app
 ekbmrjd.com
 ekboshop.co.uk
+ekbsvrbsladi.org.tr
 ekbtil.com
 ekcqpuutwg.duckdns.org
 ekdestekleri-edevletgovtr.epizy.com
@@ -195693,6 +195700,7 @@ gunun-indirim-qnbfinansbank.com
 gunun-indirimi-turkcell.com
 gunun-indirimleri-20gb-turkcell.com
 gunun-indirimleri-turkcell.com
+gunun-indirimleri11xx.cfd
 gunun-neseli-firsatlari.sbs
 gunun-ozel-kampnyasi-parlb.com
 gunun-tarifesi-turkcell.com
@@ -213563,6 +213571,7 @@ hhh23r1edsa21dwscafsdv-sd.sbs
 hhh2kndio.duckdns.org
 hhh3.ddns.net
 hhh594234fsa12safd.sbs
+hhh6566555.duckdns.org
 hhhaaa.zapto.org
 hhhazinemaliyebak1.com
 hhhazinemaliyebak2.com
@@ -226131,6 +226140,7 @@ iistanbllbakiye.net
 iistanbllkartbasvr.org
 iistanbulasdkqw.net
 iisteriinaniisteriinanma.buzz
+iisthmnkcxb.com
 iistiinfirsati.net
 iistinfirsati.net
 iistinfirsatii.net
@@ -236326,6 +236336,7 @@ iscnbmbell.net
 iscp-kampnya.com.tr
 iscp-kmpnya.com
 iscple.cfd
+iscprhbr.cfd
 iscredi.com.tr
 iscrowdstrikedown.com
 iscta-necoali.click
@@ -237209,6 +237220,7 @@ isletmedesteksorgula.com
 isletmehibedestegi.com
 isletmekobidestegi.com
 isletmekredimerkezi.com
+isletmeleredestek.com
 isletmesidev.com
 isllemhizlisonuc.com
 isllemlerogren.app
@@ -247681,6 +247693,7 @@ kacirilimayacaikindirimle.shop
 kacirilmasayacakindirim.shop
 kacirilmayacak-crfer-kampanyalari.sbs
 kacirilmayacak-firsatlar.lol
+kacirilmayacak-firsatlariniz-buekranda.sbs
 kacirilmayacak-firsatlarr.site
 kacirilmayacak-sene-basi-kampanya.shop
 kacirilmayacak-senesonu-firsatlari.shop
@@ -257085,6 +257098,7 @@ kilometrem.web.app
 kilometremizhasarimiz.shop
 kilometremp.web.app
 kilometremuayene.cfd
+kilometrenibul.sa.com
 kilometrenisorglaa.sa.com
 kilometrenisorgula.fun
 kilometrenisorgulagulyan.shop
@@ -258344,6 +258358,7 @@ kjkszpjkjkszpj.click
 kjktetwe.net
 kjktf.com
 kjlerpbafmx.info
+kjll5.blogspot.com
 kjlvo.ningeona.com
 kjmdynohgsmobil.duckdns.org
 kjmhwyx.com
@@ -260740,6 +260755,7 @@ kolombickmolonick12.site
 kolopattamka.xyz
 kolos.ddns.net
 kolosso.ddns.net
+kolpacockk.org
 kolpalmer.site
 kols.html-5.me
 kolslepleode.net
@@ -308723,6 +308739,7 @@ onlinesorgusistemi.com
 onlinesorgusistemlerim.com
 onlinesorguveodeme.com
 onlinesorguyap.xyz
+onlinesozlesmepolicesi.com
 onlinespace.club
 onlinespice.top
 onlinesrguhizmeti.my
@@ -309466,6 +309483,7 @@ oo000oo.me
 oo00mika84.website
 oo21038821377o2130213.click
 oo4fqeyhx.duckdns.org
+oo9747372-3222.duckdns.org
 oo99v.coqqwx.ru
 ooaosdkqwenqw.net
 ooasfkgsdkhalsf.click
@@ -364150,6 +364168,7 @@ simdiaviskiralama.online
 simdiaviskiralama724.online
 simdiaviskiralama724.site
 simdibaskadir.com
+simdibasliyoruz.sbs
 simdibassvur.net
 simdibasvur-katilkazankampanyasi.tech
 simdibasvur-turkeygov.com
@@ -368379,6 +368398,7 @@ sok-market-alburada.cfd
 sok-market-aninda.cfd
 sok-market-anindagel.cfd
 sok-market-bul.cfd
+sok-market-com-22abbbdsok-mar-ket.cfd
 sok-market-com-tr.top
 sok-market-firsatlar.cfd
 sok-market-gor.cfd
@@ -368529,6 +368549,7 @@ sokfamilia.org.tr
 sokfiirsatlar-temmuzda.com
 sokfirsaatlar.com
 sokfirsat-kapinda.com
+sokfirsat-larburada-aabb0.cfd
 sokfirsat-yag.com.tr
 sokfirsat-yag.info.tr
 sokfirsat.com.tr
@@ -368696,6 +368717,7 @@ soklasenhemen.com
 sokleacs.net
 soklesada.net
 soklrlkcmkzxmyklamaa.org
+sokma-rketcom-aadd22.cfd
 sokmaarketceptefirsat.com
 sokmaarketlerceptefirsat.com
 sokmagazalari.com.tr
@@ -369078,6 +369100,7 @@ sokvamencm.s0k.workers.dev
 sokvamsm.s0k.workers.dev
 sokweb.net.tr
 sokweb.org.tr
+sokxmarket-com11aabb.cfd
 sokyagfrsatbslze.com
 sokyagfrsatnbzlcle.com
 sokyaglarindirimdehanim.o000x1x11.workers.dev
@@ -371481,10 +371504,12 @@ sosyalkonutlariniz.my-homeip.de
 sosyalkonutlartoki.sa.com
 sosyalkonutoki.xyz
 sosyalkonutonline.sbs
+sosyalkonutproje.hizlibasvuruolusturmlsin.webredirect.org
 sosyalkonutproje.net
 sosyalkonutproje.xyz
 sosyalkonutprojebasvuru.online
 sosyalkonutprojeilkevimm.blogspot.com
+sosyalkonutprojeleri.hizlibasvuruolusturmlsin.webredirect.org
 sosyalkonutprojesi.basvuruicinsongun365.cloud
 sosyalkonutprojesi.basvurularicinsongunlerde.cloud
 sosyalkonutprojesi.basvurularsonbuldu.cloud
@@ -455211,6 +455236,7 @@ ziraatbankasi-webtr.com
 ziraatbankasi-yenilenencepsube.com
 ziraatbankasi-yeniyil.com
 ziraatbankasi-yilbasi.com
+ziraatbankasi.app
 ziraatbankasi.club
 ziraatbankasi.gq
 ziraatbankasi.host
