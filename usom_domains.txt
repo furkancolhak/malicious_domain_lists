@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-25T09:05:13.930918
+# Updated: 2026-02-25T10:05:13.895167
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7104,6 +7104,7 @@
 1469607677.corolain.ru
 147.124.197.138
 147.124.197.149
+147.124.202.208
 147.124.212.146
 147.124.212.89
 147.124.213.11
@@ -8407,6 +8408,7 @@
 163.172.223.87
 163.172.25.118
 163.227.14.68
+163.245.194.216
 163.44.197.0
 163.5.149.152
 163.5.169.142
@@ -28080,6 +28082,7 @@
 66.214.59.180
 66.230.104.103
 66.232.192.175
+66.235.168.136
 66.235.168.222
 66.235.168.232
 66.235.175.109
@@ -35893,6 +35896,7 @@ a--10-1den-kmpyanlar.sbs
 a--10-1den-ynliyliaozei.sbs
 a--10-1snal-mrklet-com.sbs
 a--101-comtr.cfd
+a--101-comtr.duckdns.org
 a--101-firsatlarri.online
 a--101.online
 a--haber-govtrr.org
@@ -60631,6 +60635,7 @@ api-resource.youzicheng.net
 api-rssocks.youzicheng.net
 api-service.co
 api-telecommunication.com
+api-web3-auth.vercel.app
 api-whatsapp-grup67789.duckdns.org
 api.177954coinbase.com
 api.2nd-weibo.com
@@ -119750,6 +119755,7 @@ corebitlab.com
 corects.shop
 corecuttingmasters.com
 coredale-pg.cloud
+coredeal2.vercel.app
 coreductase.com
 coreeevalue.com
 corefwdgroup.tk
@@ -234063,7 +234069,14 @@ iovoti.ml
 iovqsb.duckdns.org
 ip-15-235-90.net
 ip-check-api.vercel.app
+ip-check-notification-03.vercel.app
+ip-check-notification-firebase.vercel.app
+ip-check-notification-firebase03.vercel.app
+ip-check-notification-rkb.vercel.app
 ip-check-server.vercel.app
+ip-check-wh.vercel.app
+ip-checking-notification-firebase111.vercel.app
+ip-checking-notification-kgm.vercel.app
 ip-dynamic.org
 ip-identification.com
 ip-kapiida-firsat-1-0-1.shop
@@ -286574,6 +286587,7 @@ monneyvector.com
 monnuge.duckdns.org
 monoalbow.info
 monobrayan.duckdns.org
+monobyte-code.vercel.app
 monocell08.duckdns.org
 monodofus.hopto.org
 monodosoco.com
@@ -309933,6 +309947,7 @@ ora.blindsidefantasy.com
 ora.carlaarrabitoarchitetto.com
 ora.studiolegalebasili.com
 oracle-java.cf
+oracle-v1-beta.vercel.app
 oracle.zzhreceive.top
 oraclegamer.com
 oracleix.com
@@ -326186,6 +326201,7 @@ pributeknoloji.click
 pributeknoloji.com
 pribuylayasa.online
 price-car-slot.ru
+price-oracle-v2.vercel.app
 priceintically.top
 priceless-chebyshev.20-199-66-103.plesk.page
 pricelesslucrative.top
@@ -339016,6 +339032,7 @@ read-hanmail.net
 read-naver.com
 read.tongilmoney.com
 read34677.xyz
+readadsuite.com
 readapt-mijnalerts.duckdns.org
 readdatainform.com
 readdook.selfip.com
@@ -419659,6 +419676,7 @@ vsbed.duckdns.org
 vsbgiky.shop
 vsch2pic.duckdns.org
 vscode.digital
+vscodesettingtask.vercel.app
 vscodeupdater.azurewebsites.net
 vscofull.ddns.net
 vscojcfeio.duckdns.org
@@ -447485,6 +447503,7 @@ yenisigortalatma.site
 yenisigortam.net
 yenisigortamhizli.com.tr
 yenisiparis.click
+yenisiparislerin21subat.cloud
 yenisiqorta.com.tr
 yenisiqorta.xyz
 yenisira-2c7f6ea6b546.herokuapp.com
