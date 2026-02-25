@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-24T23:05:14.116140
+# Updated: 2026-02-25T00:05:13.681434
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -74301,6 +74301,7 @@ basvuru-onlines.cfd
 basvuru-onlinne.sbs
 basvuru-osym.com
 basvuru-osym.online
+basvuru-ox.cfd
 basvuru-ozel-aidat-geri-iade.com
 basvuru-paariibuhediyeteknolojisi-com.tk
 basvuru-paribuhediye1teknolojisi-com.tk
@@ -156897,6 +156898,7 @@ ekonomihatti.online
 ekonomihub.net
 ekonomihub.online
 ekonomik-20gb-turkcell.com
+ekonomik-hikayeler.info
 ekonomik-internet-turkcell.com
 ekonomik-paket-20gb-turkcell.com
 ekonomik-paket20-turkcell.com
@@ -168114,6 +168116,7 @@ ez0a1s5dz.storage.googleapis.com
 ez2convertapp.com
 ez2x57n1.duckdns.org
 ez6jt5.duckdns.org
+eza.22web.org
 ezasi0od0.duckdns.org
 ezaxgjrqi.com
 ezaypq.info
@@ -234950,6 +234953,7 @@ isaidatiadebsvuru-tr.com
 isak.desdek-basvuru-kampanyalari-ozel.xyz
 isaktifbasvurular.b-cdn.net
 isallanhanmhanmhanmbnanamamnanmahamhnamn.xyz
+isan.22web.org
 isanbulklkn.net
 isandrix.net
 isantander.hopto.org
@@ -240932,6 +240936,7 @@ iybwilvl.info
 iyddqoapepjlrjo.su
 iydnvhyt.online
 iydtr.duckdns.org
+iyea.22web.org
 iyedess.ddns.net
 iyefkpqrjnee.space
 iyegov.dev
@@ -249306,6 +249311,7 @@ kampanya10gbbasvuru.com
 kampanya10gbkatilim.com
 kampanya10gbkatilimformu.com
 kampanya10gbramazaniserif.com
+kampanya1101.com
 kampanya2020-basvurum-denizbank.com
 kampanya2024.com
 kampanya20gb-hayatevesigar.com
@@ -259124,6 +259130,7 @@ kmkmmmsorgulamayphmnkoc.web.app
 kmkmmsorgulamagovpttyapyrnboz.duckdns.org
 kmkmmsorgulamayapgovpttknte.duckdns.org
 kmkmmsoruglamagovvpttypibo.web.app
+kmkmmsrogulamayapislemgov.duckdns.org
 kmkmsorgggulamagovpttavmhmen.duckdns.org
 kmkmsorgulahemen-gov-tr.duckdns.org
 kmkmsorgulamagovpttnarin.web.app
@@ -453708,6 +453715,7 @@ zerenprofessional.com/us/clients/102018
 zerenprofessional.com/zgo2j
 zerfano.com
 zerfatna.zapto.org
+zergim.xyz
 zerhgsz.com
 zeriio.com
 zerit.top
