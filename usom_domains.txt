@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-26T13:05:14.247270
+# Updated: 2026-02-26T14:05:14.391252
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -71925,6 +71925,7 @@ balhome.win
 bali7kuvani.b-cdn.net
 balibo.info
 balicans.space
+balijo.pro
 balikci-barbaros.net
 balikcihasan.org
 balikcilardernegi.duckdns.org
@@ -98666,6 +98667,7 @@ breakfastturbulence.top
 breaking-extranews.online
 breaking-news.co
 breakingboundariesininnovation.online
+breakingfox.com
 breakinglearners.com
 breakingnewsasia.com
 breakingturk.live
@@ -102446,6 +102448,7 @@ burobusraa.com
 burodmelerinizhhgs.com
 burodosya.com
 burogecitavodesi.xyz
+burohaber.com
 burohapopld.com
 buromdesiz.html-5.me
 buroyaulas.com
@@ -120223,6 +120226,7 @@ coucou.zapto.org
 coudzoom.ru
 couelconser.top
 coughpreorder.com
+couimp.com
 couinbaixetnion.webflow.io
 couinbasextinsion.webflow.io
 couits.org
@@ -121248,6 +121252,7 @@ craftlymc.com
 craftmania.sa.com
 craftminepe.zapto.org
 craftname.hopto.org
+craftpopshop.com
 craftscapes.info
 craftsurvival.zapto.org
 craftyouownworld.com
@@ -126838,6 +126843,7 @@ deepgraphics.co.za/db-config-ini.php
 deepgraphics.co.za/db_template.php
 deepgraphics.co.za/wp-config-ini.php
 deephq.store
+deepinspectionsystem.online
 deepislem.22web.org
 deepl-fanyi.com
 deeplearng-deep.com
@@ -136684,6 +136690,7 @@ dijitalbasvuru-ziraatbireyselgiris.vip
 dijitalbasvuru-ziraatkampanyamobil.com
 dijitalbasvuru-ziraatmobilbireysel.sbs
 dijitalbasvuru-ziraatmobilkampanya.com
+dijitalbasvuru-ziraatwebmobil.sbs
 dijitalbasvuru.com
 dijitalbasvuru.sbs
 dijitalbasvuru.ziraatmobilweb.com
@@ -139943,6 +139950,7 @@ doktordansikayetvar.com
 doktordasaklari.duckdns.org
 doktorkantesiziananizayollar-bfd48fb86609.herokuapp.com
 doktorkantesiziboylekudurtur-a61020ee40d9.herokuapp.com
+doktorkantesizidomaltirrrrrr-5ece93beb416.herokuapp.com
 doktorkantesizigidiklarr-3c0e2bc61ce9.herokuapp.com
 doktorkantesizimucuklarmuahh-5bebd162ee2e.herokuapp.com
 doktorkantesiziparmaklarr-17b937ad88dc.herokuapp.com
@@ -157055,6 +157063,7 @@ ekonomianaliz.online
 ekonomianaliz.org
 ekonomianaliz.pro
 ekonomiarena.world
+ekonomidalgasi.info
 ekonomidenizi.online
 ekonomidergisi.org
 ekonomidestekhibesi.com
@@ -175516,6 +175525,7 @@ firsteverhost124.ddns.net
 firstfastlink.io
 firstfinancial800.ddns.net
 firstfromsep.online
+firstgest.digital
 firstglossary.top
 firsthotelgroup.com
 firstieragency.com
@@ -190801,6 +190811,7 @@ gncxdlfzl-onllinemrfkktxfirsllryla.xyz
 gndeliikcrfsmrkt.cfd
 gndelikcfsamrket.cfd
 gndelikcfsmrkettt.cfd
+gndelikcrafersa.cfd
 gndelikcrfsmarket.click
 gndelkcarfsmrkt.cfd
 gndkjaebya.duckdns.org
@@ -197251,6 +197262,7 @@ guvenmud.net
 guvennde.com.tr
 guvenndee.com.tr
 guvennlibakis.com
+guvennlimerkez.com
 guvennliodeme.online
 guvenodeguvenleteslimal.com.tr
 guvenodeinfo.com
@@ -215954,6 +215966,7 @@ hizlipratik.com.tr
 hizlipratikgise.xyz
 hizlipratikvezne.xyz
 hizlipremium.xyz
+hizlipro.pro
 hizlipttlkmsonuc.com
 hizlipx.com
 hizlirandevmles.online
@@ -230936,6 +230949,7 @@ infolanmam.online
 infolanmam.tech
 infolanmam.xyz
 infoldium.com
+infoledger.info
 infollnes-r-us.co.uk
 infologinvalidate.ddns.net
 infologswall.store
@@ -256447,6 +256461,7 @@ kgm-govtr.me
 kgm-govtr.qpon
 kgm-govtr.sbs
 kgm-govtr.top
+kgm-govtrr.bond
 kgm-govtrr.cfd
 kgm-govv.help
 kgm-govv.icu
@@ -272074,6 +272089,7 @@ luxuriousreputable.top
 luxuryfitnesslabs.com
 luxurystitch.top
 luxurystyleshop.store
+luxwear.bond
 luymjrgt.com
 luyorwateanf.com
 luyxix8.cn
@@ -286311,6 +286327,7 @@ modamsaat.site
 modanisa-shopping-cart.me
 modanisoldes.com
 modasepeti.online
+modastyle.bond
 modasum.com
 modavesanatdunyasindakiyeniliklervesanat.xyz
 modaxpress.online
@@ -288360,6 +288377,7 @@ msvenom.ddns.net
 msvhost.com
 msvvdlt-cvt.com
 mswinhostsvc.net
+mswinsoftupdload.design
 mswordupdate15.com
 mswordupdate16.com
 mswordupdate17.com
@@ -291151,6 +291169,7 @@ mvpdrivkuxtuhretc.net
 mvpjyx.duckdns.org
 mvploom.com
 mvppwb.turnsunchair.top
+mvproute.com
 mvptcodesupport.com
 mvpyqesw.com
 mvrlqkzntwpe.sa.com
@@ -295223,6 +295242,7 @@ neukoo.top
 neumavuxpr.duckdns.org
 neumeistermcntrade.ddns.net
 neupro.click
+neuralfacts.com
 neuralshit.net
 neuralstorm.online
 neuritis33.xyz
@@ -295822,6 +295842,7 @@ newspk.ddns.net
 newsplaing.digital
 newspointview.com
 newspttgov.click
+newspulse.site
 newsr.duckdns.org
 newsrepel.top
 newsrtzd.net
@@ -295969,6 +295990,7 @@ next-bbva.vercel.app
 next-dinamik-webtr.my-homeip.com
 next-firsat-webtr.my-homeip.com
 next-kamp-trweb.my-homeip.com
+next-sosyal.life
 next-sosyal.world
 next.my-homeip.com
 next2.my-homeip.com
@@ -299200,6 +299222,7 @@ nualgipromo.com
 nuamfua.net
 nuance215.xyz
 nuancesmgir.pw
+nuankn.top
 nuasdacifs.net
 nuasdina1.net
 nuasdkgbvi.cfd
@@ -305875,6 +305898,7 @@ online-edevlet-aidat-iade-basvuru.com
 online-edevlet-aidat-iade-basvuru.net
 online-edevlet-iadeler4805.ga
 online-edevlet-portal.tk
+online-edevlet.pages.dev
 online-edevletaidatlargiriswebgov.com
 online-edevletgirisgovtr-portal.tk
 online-edevletgovtr-com.tk
@@ -319299,6 +319323,7 @@ parteners-girteka.com
 parteners-girteka.top
 parthait.com
 parti100olasifirsatislemenu.com
+partialemi.com
 partialintermittent.top
 partiallyplace.top
 partialobstruction.top
@@ -319895,6 +319920,7 @@ pavicontech.com
 pavilion.futbol
 pavlatos-studios.gr
 pavnnfcqhs.zapto.org
+pavorimex.com
 pavorinel.com
 pavpaladmin9917.ddns.net
 pavsdwesd.co
@@ -323895,6 +323921,7 @@ pns.ddns.net
 pnsd4jmh7.duckdns.org
 pntrodulist.pro
 pntyfcmuousekly.cn
+pnuisckmhwagzvdyjrlbeft.software
 pnumwwdljpmzg.ddns.net
 pnwthrive.com
 pnxlhow.duckdns.org
@@ -338975,6 +339002,7 @@ ravitucker5325.xyz
 ravonel.com
 ravtonic.com
 ravumo.com
+ravunixel.com
 ravzagroup.online
 raw.coinbase-com.info
 rawad.zapto.org
@@ -388431,6 +388459,7 @@ theirtechbuzz.top
 theirvogue.top
 theislem.22web.org
 theisnonamelikethis29123.com
+theissuebook.com
 theitbugreportbeta.com
 theitchjasmine.online
 thejeaxy.online
@@ -403543,6 +403572,7 @@ turkiyesigortafirmasi.site
 turkiyesigortam.com
 turkiyesislemmerkezi.com
 turkiyesohbettekiler.com
+turkiyesonhaberlere.com
 turkiyesosyal-vllergicim.net
 turkiyetarimkoopmarket.online
 turkiyetasitlar.com
@@ -416890,6 +416920,7 @@ verigfopengo.com
 verigisnizimmi.net
 verigizilerinmiizima.com
 verigodemelerin.net
+verigucu.digital
 verihesabi.com
 veriificatiiionhelpus.duckdns.org
 veriificatiion.info
@@ -424328,6 +424359,7 @@ webregistghla.ddns.net
 webreopen.top
 webresources.live
 webrndbvhzietmbrs.com
+webrndbvhzietmbrs.net
 webroom-zoom.us
 webrootrsa.com
 webrootupdate.com
@@ -445846,6 +445878,7 @@ yasasincumhuriyetimiz.lol
 yasatalim.online
 yasayanfirsatadersim.com.tr
 yasayanfirsatadersim.xyz
+yasayanhaber.com
 yasayanlar.name.tr
 yasec.ru
 yaseminaysubeleri.com.tr
@@ -454747,6 +454780,7 @@ zimiroe.com
 zimmerman867.xyz
 zimnii-teatr.ru
 zimnii-ticket.ru
+zimoravul.com
 zimorodoktv.online
 zimvopk.duckdns.org
 zina-sookrah.zapto.org
