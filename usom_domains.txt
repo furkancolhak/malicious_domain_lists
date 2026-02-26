@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-26T10:05:13.389153
+# Updated: 2026-02-26T11:05:14.229310
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9641,6 +9641,7 @@
 178.73.215.171
 178.79.134.207
 178.79.147.66
+178.79.188.181
 1781293660.cloud
 17823920-coinbase.com
 178253-coinbase.com
@@ -21021,6 +21022,7 @@
 38.54.50.182
 38.54.50.212
 38.54.59.96
+38.54.82.69
 38.54.88.203
 38.54.94.13
 38.54.95.226
@@ -21039,6 +21041,7 @@
 38.60.212.97
 38.60.214.5
 38.60.220.133
+38.60.224.25
 38.61.218.113
 38.65.142.12
 38.69.12.158
@@ -23564,6 +23567,7 @@
 45.90.185.107
 45.90.185.109
 45.90.185.115
+45.90.59.129
 45.91.133.254
 45.91.169.135
 45.91.169.180
@@ -80281,6 +80285,7 @@ bgetscqoad.duckdns.org
 bgffgaxhcell.com
 bgfgffgfg323232.duckdns.org
 bgghco.top
+bggs.giize.com
 bggxmceexllllllll.net
 bggybvv.info
 bghhost.ddns.net
@@ -87186,6 +87191,7 @@ biotechnologycurfew.top
 biotechreview.net//db_template.php
 biotechtoday.co.uk/wp/wp-admin/wp-config-ini.php
 biotecstudio.mx
+bioth.giize.com
 biotoki.site
 biototec.co
 bioverfym8t.ddns.net
@@ -108385,6 +108391,7 @@ cdnscr.thruhere.net
 cdnstatics.net
 cdntor.ru
 cdnupdate.net
+cdnvmtools.theworkpc.com
 cdnwml.top
 cdonbz.com
 cdpgmt.top
@@ -114975,6 +114982,7 @@ cmv8rrp.duckdns.org
 cmvloxwej.com
 cmwlvgxen.com
 cmwlxhepbl.duckdns.org
+cmwwoods1.theworkpc.com
 cmwwxlhejt.duckdns.org
 cmxmiijalw.duckdns.org
 cmyggnf.xdk8ax.cn
@@ -121487,6 +121495,7 @@ crepoher09.duckdns.org
 cresoulsmarketing.com/wp-includes/wp-config-ini.php
 crespo1920.zapto.org
 cressivora.com
+cressmiss.ooguy.com
 crest.inchlef.ru
 crestapalacecelerina.world
 crestavino.pro
@@ -123827,6 +123836,7 @@ cvndfjgsryt.ddns.net
 cvnedecasde.blog
 cvnedecasde.site
 cvnmodezv.click
+cvnoc01da1cjmnftsd.accesscam.org
 cvnvcncmdcv.net
 cvoirt.org
 cvosfn.top
@@ -139343,6 +139353,7 @@ doberabokaseno.top
 dobetrix.ru
 dobki-mobki.cfd
 dobloyaozelbuzdolabi.cfd
+doboudix1024.mywire.org
 dobra.in
 dobulunoktafirsatlari.com.tr
 dobulunoktafirsatlari.online
@@ -165895,6 +165906,7 @@ evil-jordan.online
 evila.ddns.net
 evilcheck.online
 evilelasticity.top
+evilginx2.loseyourip.com
 evilhoodie.ddns.net
 evilhost777.zapto.org
 evilitio.com
@@ -179087,6 +179099,7 @@ ftporientbest.sx233.80data.net
 ftpplayer12.hopto.org
 ftps4.us.freehostia.com
 ftpserver.winconnection.net
+ftpzpak.kozow.com
 ftqqpnjgut.duckdns.org
 ftrafhogkksode.net
 ftralarnzhzlskldedeme.net
@@ -180389,6 +180402,7 @@ galatasubesinde.com.tr
 galatasubesinde.xyz
 galatico.zapto.org
 galatsaray.zapto.org
+galavexi.com
 galaxex.com.tr
 galaxi.com.tr
 galaxideniz.xyz
@@ -191670,6 +191684,7 @@ googlehosst.ddns.net
 googlehost.ddns.net
 googleildne.ddns.net
 googleinfo.name
+googlel.gleeze.com
 googlelogin.duckdns.org
 googlem.ml
 googlemailsignin.online
@@ -194184,6 +194199,7 @@ gtaivfour.com
 gtakip.xyz
 gtakkiwicagasd85.shop
 gtakkiwicasak1254.shop
+gtaldps31c.ddnsfree.com
 gtantilia.info
 gtasanadress.xyz
 gtasanandres.tk
@@ -218568,6 +218584,7 @@ honeysuckle-mousy-fernleaf.glitch.me
 hongkongvips.ddns.net
 hongsamlinhchi.vn
 hongsi.com
+honidoo.loseyourip.com
 honj40.duckdns.org
 honjester.com
 honlina.sbs
@@ -236923,6 +236940,7 @@ isleminmerkezi.net
 isleminsizlerle.com
 isleminternetacikdenizv2denizbank.co.vu
 isleminyonlendir.app
+islemistek.com
 islemistlnasknana.net
 islemitamamla.com
 islemkampanyalari.com
@@ -238031,6 +238049,7 @@ istanbulhaber.club
 istanbulhaber.online
 istanbulhaber.site
 istanbulhakkinda.shop
+istanbulhamsi.shop
 istanbulharikasinya.online
 istanbulharikax.net
 istanbulhepimizin.com
@@ -259561,6 +259580,7 @@ kmpnyaaemekkliiprmsnyn.pro
 kmpnyaakdayaz.name.tr
 kmpnyaaprmsynnbasvrr.info
 kmpnyaaprmsynnbasvrr.pro
+kmpnyaaprmsynnbsvrrr.online
 kmpnyaaprmsynnbsvrrrr.art
 kmpnyaaprmsynnbsvrrrr.info
 kmpnyaaprmsynnbsvrrrr.live
@@ -263517,6 +263537,7 @@ ksuursuzfirsatlarinyeri.cfd
 ksuuruzrzindiirmler.cfd
 ksuuruzrzindiirmler.sbs
 ksuvsdeine.net
+ksv01sokudwongsj.theworkpc.com
 kswebkaraylgcsonlebl.duckdns.org
 kswkgxlhgi.duckdns.org
 ksx27mh79.duckdns.org
@@ -266844,6 +266865,7 @@ lcs-valideren.online
 lcs3lri.duckdns.org
 lcsdscrlstmdmrsr.mooo.com
 lcsdubbelveilig.ddns.net
+lcskiecs.ddnsfree.com
 lcsntrvergltd.net
 lctsyoajam.duckdns.org
 lcvbyjcwbrsvkex.cn
@@ -282812,6 +282834,7 @@ mkzr3kogy.duckdns.org
 ml.warzonedns.com
 ml13fyq5dchdm.zapto.org
 ml22krz.com
+ml3.freeddns.org
 mlabgp.top
 mlanlmanmla.net
 mlasanna.net
@@ -283003,6 +283026,7 @@ mmmamsasdda.blogspot.com
 mmmbwd.click
 mmme4abx32b.ru
 mmmepc.ddns.net
+mmmfaco2025.mywire.org
 mmmfsafasf.com
 mmmgoodfood.com
 mmmj93rnfk.ru
@@ -286270,6 +286294,7 @@ modetemperament.top
 modexl.xyz
 modgez.net
 modgon.com
+modgood.gleeze.com
 modgovindia.com
 modhgsz.com
 modhotels.store
@@ -287229,6 +287254,7 @@ moskvarium-tickets.ru
 moskvarium.com.ru
 mosmerrized.zapto.org
 mososih.duckdns.org
+mosplosaq.accesscam.org
 mosquitoablebehindrate.com
 mosquitocloth.top
 mosquitomelt.top
@@ -296673,6 +296699,7 @@ nirvanasubesindeler.xyz
 nisa-askim19.b-cdn.net
 nisaaana-ozll.com
 nisakurumlari.com
+nisaldwoa.theworkpc.com
 nisan-aidatformu.com
 nisan-aldin-ucuz.online
 nisan-ayi-iadesi.com
@@ -301248,6 +301275,8 @@ o-bbwamenugirislemonlinemiz.com
 o-bilet-biletsatinal.net
 o-bilet.com
 o-bilet.online
+o-bilet.site
+o-bilet.store
 o-bjlet.xyz
 o-demeler-geri-aidati.net
 o-facebook.com
@@ -302877,6 +302906,7 @@ odinnazsuhanazraaksel.com
 odinoturumusun.xyz
 odintech.sbs
 odinwikdkska.wiki
+odionam.sbs
 odiqmjk3.duckdns.org
 odjdnhsaj.com
 odjhnbvb.wcnv20.cn/instagram-me
@@ -303997,6 +304027,7 @@ old9.ddns.net
 oldape.25u.com
 oldape.4dq.com
 oldassertion.top
+oldatain1.ddnsgeek.com
 oldbzxvsqg.duckdns.org
 oldendroff.com
 older-listings-rebate-chose.trycloudflare.com
@@ -312134,6 +312165,7 @@ ovleoasvn.net
 ovloeizdbk.duckdns.org
 ovlsu.com
 ovmdw913.duckdns.org
+ovmmiuy.mywire.org
 ovnlinxrncvunvl.net
 ovoclothingshop.com
 ovomltzgrp.duckdns.org
@@ -314139,6 +314171,7 @@ palamasan.net
 palamasan.xyz
 palamesan.net
 palamesaneri.app
+palamolscueajfvc.gleeze.com
 palanasan.net
 palandok.com
 palanka.net
@@ -319732,6 +319765,7 @@ pavpaladmin9917.ddns.net
 pavsdwesd.co
 pavyon.duckdns.org
 paw5vgu4.duckdns.org
+pawanp.kozow.com
 pawanub.xyz
 pawciosrawcio.ddns.net
 pawsthemomentpetphotography.com
@@ -320511,6 +320545,7 @@ pctftp.otzo.com
 pctw.eu
 pcujxgi.com
 pcvcf.xyz
+pcvmts3.kozow.com
 pcvvf.xyz
 pcwkwn0r.duckdns.org
 pcxrl.com
@@ -320817,6 +320852,7 @@ pehledinekam.com
 peifs.com
 peinadorafael778.duckdns.org
 peindikescort.mobi
+peisuesacae.loseyourip.com
 peivenui.com
 peixess.duckdns.org
 peixhitdns.ddns.net
@@ -321701,6 +321737,7 @@ pevm5onyp.duckdns.org
 pevoqiyo.com
 pew.durtop.top
 pewasslare.com
+pewsus.freeddns.org
 pexlewstspaessd.net
 pexohoucaw.ddns.net
 peyamisafavakfi.com
@@ -323276,6 +323313,7 @@ plazaventilate.top
 plazzasecretballeronline.onedumb.com
 plbaq.duckdns.org
 plclever.weebly.com
+plcoaweniva.ddnsgeek.com
 pldecj.duckdns.org
 pldepldepldeple.net
 pldfkdfkdgnde.net
@@ -323972,6 +324010,7 @@ policevert.net
 policy-update.zapto.org
 policy.mail163cn.info
 policy.video
+policyagent.theworkpc.com
 policyagreement.hopto.org
 policyextension.info
 policykingcardiff.com
@@ -326135,6 +326174,7 @@ prenherninal6v.gruposenhordobonfim.com
 prensesanka.xyz
 prensessesesssss.info
 preoccupydivert.top
+prepaid127.freeddns.org
 prepaid48processing.ddns.net
 prepaideddvsateu.hopto.org
 prepaideddwebip.ddns.net
@@ -367654,6 +367694,7 @@ sn-stk-ylbasi.online
 sn-stklardan-kalanlryni.online
 sn-ytrk-sv.shop
 sn0kif.duckdns.org
+sn0son4t31bbsvopou.camdvr.org
 sn0vd0lumhgs.com
 sn1db0gnl1glax.com
 sn1gls0alg1snmd.com
@@ -370556,6 +370597,7 @@ soosj4n.duckdns.org
 soossyalknttbasvrr.online
 sootheendorse.top
 soothesubsidize.top
+soovuy.gleeze.com
 sopbsvururcr.shop
 sopefodkn.click
 sopefshn.click
@@ -380527,6 +380569,7 @@ systemspaid.ddns.net
 systemsupdated.duckdns.org
 systemsupports.net
 systemsveryifclous.com
+systemsz.kozow.com
 systemten.org
 systemuae.ddns.net
 systemunification.top
@@ -380971,6 +381014,8 @@ t2wentyh2cker.ddns.net
 t2wn9j8u8.duckdns.org
 t3-tr4m2rs-h2.com
 t31.xyz
+t31c0mopmiuewklg.webredirect.org
+t31c0mopocuveop.accesscam.org
 t333rfbtg-yedkanlk.com
 t33ci6o.boyacentury.cn
 t33rbbbncds-cxxsdi.com
@@ -389353,6 +389398,8 @@ timodz2013.zapto.org
 timofeytop.hopto.org
 timonocomo.top
 timpaltalk.zapto.org
+timpe.kozow.com
+timpe.webredirect.org
 timremcos.ddns.net
 timschwefel.zapto.org
 timtid.com
@@ -390085,6 +390132,7 @@ tltlflglyn.shop
 tltllffglyn.shop
 tltllfglyn.shop
 tltlllglyn.shop
+tltlsktelko.ddnsfree.com
 tlttlfglyn.shop
 tltuklemeonlline.net
 tluuplfxekp.online
@@ -396347,6 +396395,7 @@ transplantlateral.top
 transplantnominal.top
 transplugin.io
 transpo.hopto.org
+transport.dynuddns.net
 transport.machangikanalda.org/wp-includes/db_template.php
 transportableness.com
 transportascertain.top
@@ -401776,6 +401825,7 @@ turkey-w-p-t-t-a-v-m.shop
 turkey-web-entry-girif-trade.net
 turkey-web-entry-trade.net
 turkey-web-global-hizmet.net
+turkey.gov.nancycarsauw.com
 turkey.xn--bnance-cdn-global-ewb.ml
 turkeyacc-solvedverified.net
 turkeyaidat.duckdns.org
@@ -407563,6 +407613,7 @@ updash.info
 updata.dsqurey.com
 updata.hopto.org
 updatacloudz.com
+updatasuccess.ddnsgeek.com
 update-1025404000025465887869210025.duckdns.org
 update-accounttactivity.com
 update-acct55419.ddns.net
@@ -408696,6 +408747,7 @@ usbtec.ddns.net
 usc1.contabostorage.com
 uscbrgtkpspq.com
 uscoidea.com
+uscplxsecjs.ddnsgeek.com
 uscryptorelief.com
 usczwf7g.duckdns.org
 usd.gall-tarquin.com
@@ -421884,6 +421936,7 @@ wdj1uu.duckdns.org
 wdjc0yg1.duckdns.org
 wdkqssxkrlhf.info
 wdkxwvkl5r1jm2k4ihk.ddns.net
+wdlcamaakc.ooguy.com
 wdmfon3ds2u2qh3.ddns.net
 wdmlmw.top
 wdofcxixaw.duckdns.org
@@ -426344,6 +426397,7 @@ wineryesthetic.top
 winerywork.top
 winfeedback.net
 winflighttickets.co
+winfoss1.kozow.com
 wingaffordnasty.com
 wingbankcomb.wixsite.com
 wingcherry.top
