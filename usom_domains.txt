@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-27T21:05:14.229600
+# Updated: 2026-02-27T22:05:14.841106
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2219,6 +2219,7 @@
 101.magazalarii.com
 101.marketuygunu.com
 101.martaozelbuayherseykapinda.com.tr
+101.mubarekler.shop
 101.nisanaozelsonfirsatlar.com
 101.nisandetaylari.org
 101.nisanfirsatlari.org
@@ -80442,6 +80443,7 @@ bgrcjfvixkqmlif.ru
 bgrgercekolama.online
 bgrkj.com
 bgrudagyiz.bizimle1o1len.com
+bgsacrshipermrksa.cfd
 bgsaqg.help
 bgscrfrsnline.cfd
 bgscrfsadacarfsa.cfd
@@ -126390,6 +126392,7 @@ ddb450cf.duckdns.org
 ddbqms.top
 ddbrrolhec.duckdns.org
 ddchzii20.duckdns.org
+ddclaskcklasjasjcas.online
 ddcms.nl
 ddcsmj.top
 ddd.dddgata789.com
@@ -290249,6 +290252,7 @@ muayynerndvu.com
 muayynerndvu.xyz
 muazymaur.tk
 muazzam.cfd
+mubarekler.shop
 mubarekramazan.cyou
 mubarekramazan.sbs
 mubarekramazanlar.com
@@ -367433,6 +367437,7 @@ sliggywag.zapto.org
 slightcosmopolitan.top
 slightlybouquet.top
 slim-fast.net
+slim-og-r-n-l-o.myonlineportal.ch
 slim-world.xyz
 slimcannn.top
 slimeegg.ddns.net
@@ -375265,6 +375270,7 @@ stanleykyron.xyz
 stanleylabs.xyz
 stanleylegendaryfirsatlarlaaa.techsolve.cfd
 stanleylegendaryfirsatlarlaaa.techsolve.sbs
+stanleylorvex.xyz
 stanleylucent.xyz
 stanleylumen.xyz
 stanleymarket.biz.tr
@@ -415150,6 +415156,7 @@ vc.jjfdfe.icu
 vc.myobtain.com
 vc0038oti94ikr954.ml
 vc0jx7okg.duckdns.org
+vc231mmm343.duckdns.org
 vc6epqu.duckdns.org
 vc6fn2yrj.duckdns.org
 vca8iode2c.com
@@ -442991,6 +442998,7 @@ y85fqvq4c8e2khi.ddns.net
 y88410n.duckdns.org
 y887drossetorling.info
 y88yii.duckdns.org
+y89458343cxcvx.duckdns.org
 y8ai8g4b.duckdns.org
 y8azgpgk.duckdns.org
 y8b4g3.duckdns.org
