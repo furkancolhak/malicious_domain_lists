@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-02-28T09:05:14.163448
+# Updated: 2026-02-28T10:05:14.667500
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -75930,6 +75930,7 @@ basvurutaleplerin.com
 basvurutamamla.life
 basvurutamamla.xyz
 basvurutamamlahemen.com
+basvurutamamlakredi.com
 basvurutamamlama.pics
 basvurutamamlama.pro
 basvurutamamlama.xyz
@@ -156599,6 +156600,7 @@ eji8s6br.duckdns.org
 ejimmss.ddns.net
 ejixurnili.duckdns.org
 ejkeldkrlskr.net
+ejkfrl.homes
 ejkp1x.duckdns.org
 ejnrsqeook.duckdns.org
 ejobaba.beget.tech
@@ -183726,6 +183728,7 @@ garantiwebtr-subesitr.com
 garantiwebtr.com
 garantiwebtrsubesi.com
 garantiwebtrsubesionline.com
+garantiweves.click
 garantixbbva.hopto.org
 garantiy.com
 garantiyaninda.com
@@ -253463,6 +253466,7 @@ kartal-915.com
 kartal-flexhome129.cloud
 kartal-yapsovunubugun.site
 kartal.gridwander.cfd
+kartalanadoluilan.site
 kartalbasvurular.com
 kartalbasvurular33.duckdns.org
 kartalbasvurularx.xyz
@@ -269541,6 +269545,7 @@ ljyx44d6.duckdns.org
 lk2kwx.duckdns.org
 lk6r2ma.duckdns.org
 lk8pda1.duckdns.org
+lkacslkakcldaskldccjdajdasc.online
 lkagrq.com
 lkahhjeuakawrta.org
 lkakdcaskldklklfsd.cfd
