@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-02T18:05:13.801079
+# Updated: 2026-03-02T20:05:13.740195
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3026,6 +3026,7 @@
 101vmobilsubekampanya.app
 101voltakampanyasi.online
 101voltamotor.xyz
+101vvmcc3210234.duckdns.org
 101web.21insubat.click
 101web.buhemenalin.click
 101web.com
@@ -9544,6 +9545,7 @@
 178.128.60.22
 178.128.60.34
 178.128.64.37/bins/
+178.128.69.245
 178.128.76.186/lmaowtf
 178.128.83.165
 178.128.84.187
@@ -11580,6 +11582,7 @@
 192.154.224.126
 192.155.85.122/bins
 192.158.232.67
+192.159.99.83
 192.159.99.95
 192.161.167.144
 192.161.48.43
@@ -11621,6 +11624,7 @@
 192.227.190.11
 192.227.211.219
 192.227.211.220
+192.227.211.41
 192.227.217.230
 192.227.228.106
 192.227.228.31
@@ -14719,6 +14723,7 @@
 202.145.6.130
 202.155.8.56
 202.155.8.73
+202.161.50.59
 202.162.108.48
 202.162.33.243
 202.169.234.5
@@ -34876,6 +34881,7 @@
 95.85.38.103
 95.85.93.196
 95.9.249.185
+95.92.242.30
 95019015.site
 950333185.corolain.ru
 9503inf.duckdns.org
@@ -34955,6 +34961,7 @@
 96.9.125.82
 96.9.211.157
 96.9.211.27
+96.92.242.30
 96.94.189.130
 96062299.zapto.org
 961115694.xyz
@@ -45746,6 +45753,7 @@ adobe-up-ver.download
 adobe-updater.net
 adobe-upgrades.com
 adobe-us-updatefiles.digital
+adobe.caladzy.com
 adobe.cloudcreative.digital
 adobe.myactivedirectory.com
 adobe.pdf-downlod.com
@@ -46415,6 +46423,7 @@ aerithiacheck.online
 aerivoxpartners.com
 aermgaermgam.fit
 aeroarrows.io
+aerobickarlaurbanovas.top
 aerobicsfit.com
 aeroclinicit.azurewebsites.net
 aeroclubofindia.co.in
@@ -58390,6 +58399,7 @@ amesatarragona.com
 amesoulcoaching.com/db_template.php
 amesoulcoaching.com/wp-admin/db_template.php
 amesoulcoaching.com/wp-admin/wp-config-ini.php
+ametax.net
 ametek-servicedesk.net
 ametek-servicenow.net
 ametiseclinic.com
@@ -60818,6 +60828,7 @@ api.eatrgrise.com
 api.eazymount.com
 api.emazemedia.com
 api.erfedfvgf.com
+api.extensionanalyticspro.top
 api.extensionplay.com
 api.farstream.org
 api.fbconnect.net
@@ -65097,6 +65108,7 @@ asdkksdfs.click
 asdklkjasjfa.com
 asdkmasdkvsadsz.com
 asdkoasdasfaqwrqwr.click
+asdkogkjfdmksdks.cfd
 asdkrldmznx.net
 asdkrt4543.com
 asdkskkjajkskjda.duckdns.org
@@ -87413,6 +87425,7 @@ birbaskadir.icu
 birbest.blogspot.com
 birbgxkyppqhtxhch.org
 birbile-bilsen.net.tr
+birbilebilsen.sbs
 birbira.xyz
 birbirgercekoldular.click
 birbirimiziseviyoruz.biz
@@ -121892,6 +121905,7 @@ crfsgnleri.cfd
 crfshiperkampgnbugn.sbs
 crfshipermrk.cfd
 crfshipers.cfd
+crfshponlnemarkt.cfd
 crfskfrsata.cfd
 crfskfrsata.sbs
 crfsmhmnal.shop
@@ -207464,6 +207478,7 @@ hediyemyapikredi.com
 hediyen-senlevar.com
 hediyen20gb-evdekaltr.com
 hediyenbizde.tk
+hediyenburada.cfd
 hediyendenizlegeldi.com
 hediyenet.tk
 hediyenhalktan.com
@@ -222159,6 +222174,7 @@ hzlllcayklemelerllstannnbll.giize.com
 hzlllcayklemelferllstannnbll.com
 hzllltyry.great-site.net
 hzllptltkmsrgla.com
+hzlmbldji.cfd
 hzlmgcssf.org
 hzlodmadrsbrshrzmn.net
 hzlrandvnnunall.net
@@ -238460,6 +238476,7 @@ istanbulf-kart.blogspot.com
 istanbulfans.net
 istanbulfast.net
 istanbulfestivalcity.com
+istanbulfizikselkim.shop
 istanbulfllllow.com
 istanbulfns.net
 istanbulfnx.net
@@ -280234,6 +280251,7 @@ memosigla.su/flexdeonblake
 memotech.cf
 memoxviporjcheck.alwaysdata.net
 memphhapar.in
+memphiswawu.com
 memrlar.net
 memrular.net
 memsendenhak.site
@@ -295695,6 +295713,7 @@ networkramp.top
 networkscanip.com
 networkschecker.net
 networkselfhelp.com
+networkservice.cyou
 networksynthesis.top
 networktopologymaps.com
 networktrim.top
@@ -353110,6 +353129,7 @@ salvationannex.top
 salvationcocktail.top
 salvatorepark435.xyz
 salversionaodm.net
+salvia.yasuapanitanaik.cfd
 salvkdvt-vdt.com
 salvoch.cloud
 salvoveergiodeme.net
@@ -368075,6 +368095,7 @@ smallfoxy.com
 smallhole.club
 smallindulgence.top
 smalllumi2.ddns.net
+smallmartdirectintense.com
 smallmonster.net
 smallnet.ddns.net
 smallrabbitcrossing.site
@@ -376038,6 +376059,7 @@ statementinvs.vercel.app
 statementpaysundrreviewdfg.vercel.app
 statementreservas.quest
 statementreservations.quest
+statementstview.online
 statementsysteminformationcenter.duckdns.org
 statemetsemailcustomer.duckdns.org
 statemob.yachts
@@ -376379,6 +376401,7 @@ stewardesscatastrophic.top
 stewardesseccentric.top
 stewardessshorthand.top
 stewartthomas1234.xyz
+stewise.top
 steycools.pw
 steye-gtmek-icn-tkla-hemn.cfd
 stf.zapto.org
@@ -388175,6 +388198,7 @@ terrrerrre.xyz
 terry-training-springer-engagement.trycloudflare.com
 terry.mydiscussion.net
 terrythomson75.xyz
+tersbrksancrrmzozl.cfd
 tersgranitslemenum.com
 tersinedonuyoruz.surf
 tersir.store
@@ -400555,6 +400579,7 @@ trustboost.es
 trustcdncloud.buzz
 trustcdncloud.click
 trustcdncloud.shop
+trustconnectsoftware.com
 trustcore.space
 trustd.biz
 trustedcarehub360.azurewebsites.net
@@ -421152,6 +421177,7 @@ vurstaksv1.online
 vurstaksv2.online
 vurstaksv3.online
 vurucuyuz.app
+vurul.click
 vurularaparkatiamansizz.com
 vuruldukbea.xyz
 vururumokucukkafana.cfd
@@ -428441,6 +428467,7 @@ worldsube-yapikredi.tk
 worldsubesi-yapikredi.com
 worldsyapikredi.com
 worldvide-onayactivasyon-sorgu.duckdns.org
+worldwide-www19.pages.dev
 worldwideaesthetics.top
 worldwidetaboo.top
 worldyaapikredi.com
@@ -454060,6 +454087,7 @@ z79wrq2.duckdns.org
 z7azbit7zvqeyayz7z.biz
 z7brlu.duckdns.org
 z7elljx.cn
+z7k4x9m2q6b8fht3na.cfd
 z7kh8k2cm.duckdns.org
 z7qj3htylsop4.click
 z7ra1t.cfd
@@ -458808,6 +458836,7 @@ zxcnjratxxx.ddns.net
 zxcrfrsgnnde.cfd
 zxcsaffhj.wiki
 zxcvbnm.hopto.org
+zxcvbnmasdf.sbs
 zxcvbnmasdfghjkl.xyz
 zxcvfr.com
 zxcxffyttygbbgfgf12121bot.duckdns.org
