@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-02T15:05:14.191861
+# Updated: 2026-03-02T16:05:15.945828
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3092,6 +3092,7 @@
 103.105.59.47
 103.106.105.135
 103.106.202.174
+103.106.67.63
 103.107.104.37
 103.107.104.38
 103.107.36.56
@@ -9852,12 +9853,14 @@
 181.141.4.153
 181.143.101.194
 181.174.164.107
+181.174.164.111
 181.174.164.116
 181.174.164.117
 181.174.164.12
 181.174.164.140
 181.174.164.161
 181.174.164.180
+181.174.164.193
 181.174.164.2
 181.174.164.201
 181.174.164.238
@@ -9866,6 +9869,7 @@
 181.174.164.41
 181.174.164.47
 181.174.164.49
+181.174.164.55
 181.174.165.142
 181.174.165.177
 181.176.231.77
@@ -11458,6 +11462,8 @@
 190.138.174.85
 190.138.41.31
 190.14.37.10
+190.14.37.113
+190.14.37.114
 190.14.37.139
 190.14.37.210
 190.14.37.50
@@ -12069,6 +12075,7 @@
 193.56.28.103
 193.56.29.123
 193.57.138.22
+193.57.138.41
 193.57.40.38
 193.63.58.83
 193.8.131.223
@@ -13438,6 +13445,7 @@
 1e5pn5aw.duckdns.org
 1e6ytp.duckdns.org
 1e7d9n6qz.duckdns.org
+1e81ea2a059f.ngrok-free.app
 1e9k1rkt.duckdns.org
 1e9m7ary.duckdns.org
 1e9s0bdzw.duckdns.org
@@ -66428,6 +66436,8 @@ atlascicekevi.org
 atlasdecarqo.com
 atlasgroupkibris.com.tr
 atlasmomentous.top
+atlasnode-app204.vercel.app
+atlasnode-ext957.vercel.app
 atlast.ddns.net
 atlaswebportal.zapto.org
 atledicrv.com
@@ -99027,6 +99037,8 @@ brightenwharf.top
 brightexciting.click
 brightform.cfd
 brightlatitude.top
+brightlaunch-app615.vercel.app
+brightlaunch-ext742.vercel.app
 brightle.ddns.net
 brightlink.site
 brightnano1.ddns.net
@@ -99942,6 +99954,7 @@ bsvrrkmpnyaprmsynnn.info
 bsvrrkmpnyaprmsynnn.live
 bsvrrkmpnyaprmsynnn.pro
 bsvrrkmpnyaprsmynnnn.live
+bsvrrkmpnyaprsmynnnn.pro
 bsvrrkmponyaaagrnt.live
 bsvrrkmponyaaagrnt.pro
 bsvrrkmpyaaaprmsyonnn.info
@@ -114334,6 +114347,8 @@ cleverlayer.top
 cleverlinked608.weebly.com
 cleversalsa709.weebly.com
 cleversrus897.weebly.com
+cleverstack-app998.vercel.app
+cleverstack-ext301.vercel.app
 clevertrade.top
 cleverwedge.cn
 clfejanpry.duckdns.org
@@ -114827,6 +114842,8 @@ cloudglbalfirsatcampanyabuguneozel.com
 cloudguardins.ru.com
 cloudguardveirfy.com
 cloudharambe.xyz
+cloudharbor-app239.vercel.app
+cloudharbor-ext664.vercel.app
 cloudhostdesign.com//db_template.php
 cloudhostdesign.com/db_template.php
 cloudhub.co.ls/modules/db-config-ini.php
@@ -139232,12 +139249,14 @@ dns-verify-me.pro
 dns.artstrailreviews.com
 dns.clearsystemwo.net
 dns.cyberium.cc
+dns.freiesasien.com
 dns.g8z.net
 dns.gift4animals.com
 dns.investsystemus.net
 dns.jmrmfitym.com
 dns.kingspy.info
 dns.lioncity.top
+dns.microbwt.team
 dns.realeinvestment.net
 dns.satunusa.org
 dns.seekvibega.com
@@ -142413,6 +142432,7 @@ dsmart.internet-kampanyasi.org
 dsmezkalkmazallah.za.com
 dsmuvbphbowmflk.ru
 dsn.k4dr.xyz
+dsn.mamurigovaf.site
 dsndwners.com
 dsni33ffonline.top
 dsnprocess1.online
@@ -167688,6 +167708,7 @@ express1solutions.com
 expressalan.xyz
 expresschiatto.freeddns.org
 expressdeliverypttgov-tr.top
+expressed-presentation-manager-sounds.trycloudflare.com
 expressfatura.com
 expressfirsat.biz.tr
 expressfirsat.com.tr
@@ -167748,6 +167769,7 @@ exsnidnrmxdlrmbunlrx.ru.com
 exsnidnrmxdlrmbunlrx.za.com
 exsscbrr.org
 exstrrafrstllrionln-mrktteyni.net
+ext-checkdin.vercel.app
 ext.browserdog.com
 ext.browserdoghouse.com
 ext.businessforai.com
@@ -179790,6 +179812,8 @@ fusion71050500-40756.portmap.io
 fusion71050500.ddns.net
 fusioncore.online
 fusioncore32023.hopto.org
+fusionlayer-app463.vercel.app
+fusionlayer-ext807.vercel.app
 fusionpulse.sbs
 fusionweary.top
 fusom.net
@@ -190312,6 +190336,7 @@ glbalharryglblgiftdaysonlinetodays.cloud
 glbasvur.com
 glbbll-evtt-kmpnya-hmn-katil.net
 glbdijital.com
+glbgrt31451cvd.duckdns.org
 glbimgum.net
 glblbinnceeiadesi.net
 glblbnanbak-iyehediye.net
@@ -270659,6 +270684,8 @@ loggin-membershipamazon43ek6iv.duckdns.org
 loggsofice.xyz
 logicalhypocritical.top
 logicallad.top
+logicfield-app681.vercel.app
+logicfield-ext432.vercel.app
 logicgamee.top
 logiclogicnest.com
 logicnode.digital
@@ -276477,6 +276504,7 @@ manifestt.cfd
 manigiajabae32.com
 manigiajabae35.com
 manijethizlihaber.store
+manikandan83.mysynology.net
 manimot.ca
 maninderbutt.com
 manioscinetools.ga
@@ -295678,6 +295706,8 @@ neukoo.top
 neumavuxpr.duckdns.org
 neumeistermcntrade.ddns.net
 neupro.click
+neuraldock-app734.vercel.app
+neuraldock-ext126.vercel.app
 neuralfacts.com
 neuralshit.net
 neuralstorm.online
@@ -310365,6 +310395,8 @@ openlibrary.ignorelist.com
 openlyintellect.top
 openlymgir.pw
 openlypled.top
+openmatrix-app882.vercel.app
+openmatrix-ext539.vercel.app
 openmd5.com
 openmindway.online
 openmixg.store
@@ -310862,6 +310894,8 @@ orbitintrinsically.top
 orbitisan.com
 orbitont.com
 orbitpettystudio.fun
+orbitstack-app318.vercel.app
+orbitstack-ext592.vercel.app
 orbivana.com
 orblemperg.xyz
 orbugicfib.duckdns.org
@@ -327155,6 +327189,8 @@ primesource.site
 primesourcehomes.com
 primetanitimi.net
 primetimeessentials.com
+primevector-app920.vercel.app
+primevector-ext483.vercel.app
 primeverificationamz.duckdns.org
 primeviref.com
 primex67servr.duckdns.org
@@ -336936,6 +336972,8 @@ quanggop.at
 quanta-bumex-9000.com
 quantaflux.store
 quantaglitch.live
+quantapath-app914.vercel.app
+quantapath-ext275.vercel.app
 quantari.sbs
 quantariq6.sbs
 quantavibe.online
@@ -359731,6 +359769,7 @@ server-walletscb.ddns.net
 server.b92dt.com
 server.bovine-mena.com
 server.freedom-market.com
+server.fsocmicrsoft.com
 server.joepanel.best
 server.joepanel.ru.com
 server.microsoftassistant.com
@@ -362877,6 +362916,8 @@ signal-protect.host
 signal-security.online
 signal-security.site
 signal.ct.ws
+signalbase-app845.vercel.app
+signalbase-ext369.vercel.app
 signalgroup.site
 signalhesitate.com
 signalnest.online
@@ -368434,6 +368475,7 @@ sn-stk-ylbasi.online
 sn-stklardan-kalanlryni.online
 sn-ytrk-sv.shop
 sn0kif.duckdns.org
+sn0klsdmr.click
 sn0son4t31bbsvopou.camdvr.org
 sn0son4t31opc.freeddns.org
 sn0vd0lumhgs.com
@@ -372967,6 +373009,8 @@ sparkasseonline.info
 sparkboardz.com
 sparkdoor.buzz
 sparked.ddns.net
+sparkforge-app790.vercel.app
+sparkforge-ext518.vercel.app
 sparkinject.ddns.net
 sparkiob.digital
 sparkjoy.cc
@@ -418920,6 +418964,8 @@ visionclinic.co.ls/includes/db-config-ini.php
 visionclinic.co.ls/visionclinic/db_template.php
 visionclinic.co.ls/visionclinic/wp-config-ini.php
 visiondepo.tk
+visiondock-app157.vercel.app
+visiondock-ext648.vercel.app
 visionfivem.online
 visiongroups.co.in
 visiongta.online
@@ -454924,6 +454970,8 @@ zenithchase.com
 zenithchisel.com
 zenithdelcom.com
 zenithfllow.com
+zenithflow-app877.vercel.app
+zenithflow-ext156.vercel.app
 zenithmono.cfd
 zenithotel.world
 zenithploumex.pro
