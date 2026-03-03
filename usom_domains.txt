@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-03T19:05:14.446935
+# Updated: 2026-03-03T20:05:13.778211
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -765,6 +765,7 @@
 08913bhi0.duckdns.org
 08952321800560725.online
 08952321800560725.xyz
+089809978.online
 089futlwi.duckdns.org
 089l928.duckdns.org
 08agustos-sizlere.art
@@ -25573,6 +25574,7 @@
 500konutprojesi.locker
 500konutprojesi.lol
 500konutprojesi.sbs
+500konuttokibasvurma.xyz
 500konutyatirimbasvuru.click
 500prbhediye.taplink.ws
 500tl-pandemi-destek.com
@@ -71783,6 +71785,7 @@ bakarac.net
 bakarak-gectiginiz.com
 bakayokocpa.com/wp-includes/wp-config-ini.php
 bakazone.ddns.net
+bakbakalimnevar.sbs
 bakbasvuri.com
 bakbasvurtakipak.com
 bakbibul.com//db_template.php
@@ -72225,6 +72228,7 @@ banabakiyetanimlaa.net
 banabakkafamdasinhep.com
 banabakmadeinturkey.xyz
 banabanabana.com
+banabenigeriver.dns.navy
 banadamilolo-12.site
 banadouraa.zapto.org
 banage.live
@@ -89467,6 +89471,7 @@ birmilyonmilturkishairlines.com
 birmirok.site
 birn.xyz
 birngthemhomenow.co.il
+birniluferferverdim.blogspot.com
 biroalsiaktu.com
 birosanfkgv.site
 biroulementres.zapto.org
@@ -122222,7 +122227,9 @@ crrfrlindrmmlrnzrrs.xyz
 crrfrrsddnalbildklrnz.com
 crrfrsaadnaldikklariniz.shop
 crrfrsafirrstlari.com
+crrfrsagibionl.cfd
 crrfrsagibionlin.cfd
+crrfrsagibionln.cfd
 crrfrsdn-alablrsnz.shop
 crrfrsdngldilr.shop
 crrfrsdngldislzrle.shop
@@ -157511,6 +157518,7 @@ ekraninizdan-kontrol-ve-sorgu-saglayin.sbs
 ekranlar-try.online
 ekranlar-web-tr.shop
 ekranlarbasvurusu.blogdns.org
+ekranlarimiz-sizlerin-hizmetinizde.sbs
 ekranmerkez-tr-web.space
 ekranodem.sg-host.com
 ekranonayidenizde.duckdns.org
@@ -309590,6 +309598,7 @@ onlinesube-garant.ru.com
 onlinesube-garant.sa.com
 onlinesube-garant.za.com
 onlinesube-garanti.cfd
+onlinesube-garanti.click
 onlinesube-garanti.com
 onlinesube-garanti.sbs
 onlinesube-garantibankasi.com
@@ -369458,7 +369467,9 @@ sok-zamanlari.com
 sok.haftaninyenifirsatlari.shop
 sok.hizlial-com-tr.top
 sok.super-hafta.top
+sok1-firsat2lar-com11adcx.cfd
 sok2firsatlarinizla.space
+soka-gela2l-kacirma1aadd34.cfd
 sokaciklamalar-12-05.o-oo.vip
 sokaginmeselesi.pro
 sokakdadostlar.com
@@ -403544,6 +403555,7 @@ turkiye-kartiade.com
 turkiye-kredi-karti-iadesi-2020govv.com
 turkiye-krediaidatgeriodeme.com
 turkiye-kredikartiaidatgeriodeme-govtr.net
+turkiye-kupasi.web.app
 turkiye-magazin-ifsalari.com
 turkiye-magazinifsalari.com
 turkiye-market-indirimleri-ve-brosur-listesi.cfd
@@ -411472,6 +411484,8 @@ uzufl8qvn.duckdns.org
 uzulmesevdicegim.com
 uzultecekfirsatlar.online
 uzulursunbirclickle-32b04bbe57d9.herokuapp.com
+uzum-market-online.cfd
+uzum-market-online.top
 uzun-adamm.cf
 uzun-mehmet-oylamak.dnsuser.de
 uzun-zamandir-burada-bitti-bitiyor-almadan-gitme-burada.online
@@ -414974,6 +414988,7 @@ vaporizer.duckdns.org
 vaporspectacle.top
 vapotrust.com
 vapourdwarf.top
+vapurlaradalaraa.org
 var-tr.net
 var-tr.net.tr
 var-tr.sa.com
@@ -418641,6 +418656,7 @@ vijehuiyjj.duckdns.org
 vijhantegamedforsea.ddns.net
 vikaa.duckdns.org
 vikaneleneer.shop
+vikendipmobil.duckdns.org
 vikgwtf.duckdns.org
 viki77.zapto.org
 viki777.zapto.org
