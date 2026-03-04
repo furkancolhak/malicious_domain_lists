@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-04T13:05:12.005935
+# Updated: 2026-03-04T14:05:16.121784
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2916,6 +2916,7 @@
 101redmikampanyasi.click
 101redmikampanyasi.sbs
 101rmarketuygun.com
+101rmzn.webredirect.org
 101ruxmarket.com
 101sabah-cuma.com
 101sabahcuma.com
@@ -7578,6 +7579,7 @@
 152.42.177.158
 152.42.197.32
 152.42.202.137
+152.42.217.251
 152.42.230.191
 152.42.251.163
 152.44.44.68
@@ -8495,6 +8497,7 @@
 164.92.251.25
 164.92.91.46
 1641177891.dfgqdsd.ru
+164151111211l1.duckdns.org
 164364363295239.shop
 16442580-coinbase.com
 16450107-coinbase.com
@@ -28176,6 +28179,7 @@
 65s4a16das98ds61a.site
 65s4a65dsa64sa6d1fs6522.site
 65u6fi.duckdns.org
+65vc321235t645.duckdns.org
 65yilozelfirsatlar.kisalink.cc
 65z0uql.duckdns.org
 66.102.253.30
@@ -80608,6 +80612,7 @@ bgvt.trplatork.com
 bgw8cr0.duckdns.org
 bgwf0v8e.duckdns.org
 bgwvldjmk.com
+bgwxbl.homes
 bgwzs1o.duckdns.org
 bgxfgpuskk.duckdns.org
 bgxmxcell.com
@@ -187051,6 +187056,7 @@ geriyednuksorguveaktar.my
 geriyedonk-islemlerinizi-ogrenme-ekrani.sbs
 geriyedonkaktarimynlendrirme.site
 geriyedonktransfer.cfd
+geriyedonuk-islemlerinizz.sbs
 geriyedonukaktarim.club
 geriyedonukaktarimlar.click
 geriyedonukaktarimlar.cyou
@@ -194050,6 +194056,7 @@ grntibonus-meta2026.cfd
 grntibonus-metafb.cfd
 grntibonusfirsati.com
 grntibonusmeta-fb.cfd
+grntibonusmeta.cfd
 grntibonusmetafb.cfd
 grntibonusmetainsgrtam.cfd
 grntibonusmetainsgrtam354566.cfd
@@ -238630,6 +238637,7 @@ istanbulgngkartel.net
 istanbulgulum.net
 istanbulgunaydin.net
 istanbulguncel.net
+istanbulguvenhalis.shop
 istanbulguzelim.com
 istanbulguzellik.me
 istanbulhaber.club
@@ -262238,6 +262246,7 @@ kosgebhibebasvuru.cfd
 kosgebhibebasvuru.com
 kosgebhibebasvurusu.cfd
 kosgebhibebasvurusu.com
+kosgebhibedestegi.com
 kosgebhibehizmetleri.com
 kosgebhibemerkezi.com
 kosgebhibeonline.com
@@ -393570,6 +393579,7 @@ toplukonutbasvur.online
 toplukonutbasvuru.cfd
 toplukonutbasvuru.online
 toplukonutbasvuru.sbs
+toplukonutbasvuru12419.com
 toplukonutbasvuru1piv8em48.vercel.app
 toplukonutbasvuru23677.onrender.com
 toplukonutbasvuru4vjnrovjs82.vercel.app
@@ -452300,6 +452310,7 @@ yonlendirmesfsadsssfa.xyz
 yonlendirmeveaktarimservisi.my
 yonlendirmveaktarimekrani.lat
 yonlendlrmeadresleklm.duckdns.org
+yonlendrci.webredirect.org
 yonlendrici-guvenli.sbs
 yonlendrici-stiye-aktar.sbs
 yonlendriciye-aktarliyorsunuz.sbs
@@ -455958,6 +455969,7 @@ ziraat-bank-kredim.github.io
 ziraat-bank.hizli-giriss-tr.com
 ziraat-bank.katilma.vip
 ziraat-bank.meinkontowechsel.de
+ziraat-bank.one
 ziraat-bank.online
 ziraat-bank.sbs
 ziraat-banka.com
