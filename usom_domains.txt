@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-04T12:05:14.532572
+# Updated: 2026-03-04T13:05:12.005935
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5319,6 +5319,7 @@
 1234346423523415.com
 12343545435.cloud
 12345.zapto.org
+123451l11o1.duckdns.org
 123456780.tk
 123456789-1.com
 12345678910xxali.ddns.net
@@ -135599,6 +135600,7 @@ dfg4gf23r.duckdns.org
 dfgdfgdfgdfg.great-site.net
 dfgdfgweqnasn.com
 dfgdfmgdmfgmdf.xyz
+dfgdgdfgdgdhghg.sbs
 dfgdhjashsasdf.net
 dfgdt.ddns.net
 dfgerta.com
@@ -240852,6 +240854,8 @@ itoken-apk.com
 itopiya.xyz
 itorqdtqwgfb.org
 itotr.org
+itoy2724.online
+itoy2724.store
 itp.coinbase-com.info
 itpanel.cfd
 itpanel.cloud
@@ -289323,6 +289327,7 @@ mtftheatre.com
 mtg3sslaut.zapto.org
 mtgk.site
 mtgqzt.top
+mth.tc
 mthvhwkknv.duckdns.org
 mtietw.xyz
 mtigjwwtuvpgfio.su
@@ -289339,6 +289344,7 @@ mtkoytnvfastren.net
 mtl-ayrl-brdn-vakit-bitti.top
 mtlaisntla.com
 mtloginc.ddns.net
+mtlskasr.com
 mtmdcfi63n5hihm83l7.ddns.net
 mtmdj33s0.ru
 mtmkd14ka.duckdns.org
@@ -315095,6 +315101,7 @@ palmfunplay.cn
 palmgo.at
 palmgorohive.myddns.me
 palmisultan.com
+palmiyesultan.business
 palmon-law.co.il/wp-includes/widgets/connection.php
 palmpredominant.top
 palmsgalsr.bio
@@ -324207,6 +324214,7 @@ pleaenoy.top
 pleaneiges.com
 pleantera-norman.dnc.su
 pleapenguin.top
+pleasantc.digital
 please-verify.ddns.net
 pleasechecjthis4122.instanthq.com/antytime
 pleasedcfrown.biz
@@ -331206,6 +331214,7 @@ pttavm.siparisfirsati.com.tr
 pttavm.siparisguvencesi.com.tr
 pttavm.siparisiim.com.tr
 pttavm.siparislerim-onayli-127452.com
+pttavm.siparisodeme.com
 pttavm.sistemini-tamamla.com
 pttavm.sonfirsati.com.tr
 pttavm.store
@@ -331378,6 +331387,7 @@ pttavmshop-online.com
 pttavmshop.com
 pttavmshop.shop
 pttavmshoptr.com
+pttavmsiparis.com
 pttavmsiparisim.com
 pttavmsiparisler.net
 pttavmsiparisleri.com
@@ -417514,6 +417524,7 @@ verify-idevice-icloud.com
 verify-info.zapto.org
 verify-instagrann.ga
 verify-internetbanking-online.com
+verify-lastpass.com
 verify-mybecu.hopto.org
 verify-office-outlook.com
 verify-page-2508.help
