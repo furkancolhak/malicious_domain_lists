@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-04T15:05:25.362155
+# Updated: 2026-03-04T16:05:27.267706
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -61662,6 +61662,7 @@ applyzxcksdia.shop
 appmacintosh.com
 appmacosx.com
 appmobildenizbnkislem.xyz
+appmobiledigitalereklarn.space
 appmobilize.top
 appmono.duckdns.org
 appmx2021.com
@@ -231192,6 +231193,7 @@ infantrybison.zapto.org
 infaxil-ru.xyz
 infaz1.zapto.org
 infazegm.net
+infazmaliye.org
 infcjal.cn
 infcloudnet.com
 infdroidasian.duckdns.org
@@ -249464,6 +249466,7 @@ kaldirac2024-page.xyz
 kaldirimbilisimden12.com
 kaldiyemedim.online
 kaldlasppsiaa.com
+kaldrt2dsk.click
 kaledeonnumarada.xyz
 kaledernegi.com
 kaledo0nfrsnl.shop
@@ -355663,6 +355666,7 @@ sdfsdfsdfsdfcsfsd.cfd
 sdfsdfsdfsdfsdf.online
 sdfsdfsdfsdvxcvxcvqwdasdfsdf.online
 sdfsdfsdfsdvxcvxcvqwdasdfsdf.shop
+sdfsdfsdhfghfgdgfdf.sbs
 sdfsdfsfdf.click
 sdfsdfsfdfds.xyz
 sdfsdfsvlfds.xyz
@@ -409616,6 +409620,7 @@ urun-hizmetlerim.com.tr
 urun-ilan.com
 urun-ilan.com.tr
 urun-ilanim.shop
+urun-ilanlar.com.tr
 urun-ilanlari.shop
 urun-ilanlarim.shop
 urun-ilansatis.com.tr
