@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-05T20:05:14.109295
+# Updated: 2026-03-05T21:05:15.111278
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6741,6 +6741,7 @@
 144.91.91.236
 144.91.97.46
 144.96.103.245
+14411l114l15415.duckdns.org
 14414412332232.cloud
 1442512544112555590.xyz
 1443243243432.cloud
@@ -8562,6 +8563,7 @@
 165415651565261945654899.xyz
 165423508873246.com
 1654377445.cloud
+1654544ll147147.duckdns.org
 16546689498.com
 165548975684.com
 16556166114.xyz
@@ -96059,6 +96061,7 @@ bnredirextt.com
 bnreklamno4929153135535432.com
 bnreklamno4929153135535432.fit
 bnreklamno4929153135535432.xyz
+bnresmibasvuru.click
 bnresmigiristr.com
 bnrgiris-trkmpanyalar.com
 bnrgirisbasvuru.com
@@ -238628,6 +238631,7 @@ istanbulbelediye1453.net
 istanbulbelediyebuyuksehir.com
 istanbulbelediyesidolum.net
 istanbulbenle.shop
+istanbulberrakhalis.shop
 istanbulbezlss.net
 istanbulbilgihaberdiyari.xyz
 istanbulbilgilendirme.click
@@ -238855,6 +238859,7 @@ istanbulkartbakkiye.com
 istanbulkartbasvur.com
 istanbulkartbasvur.web.app
 istanbulkartbasvuru.com
+istanbulkartbasvuru.ngrok.pro
 istanbulkartbasvuru.org
 istanbulkartbasvuru2025.giize.com
 istanbulkartbasvuruaninda.web.app
@@ -282107,6 +282112,7 @@ mhrsrandevum.net
 mhrsrandevunuz.net
 mhrsrndvislmlerin.online
 mhrsrndvr.blogspot.com
+mhrsrsrs.cfd
 mhrss.hccsrrnxav.net
 mhrsserandvu.com
 mhrssrandevun.net
