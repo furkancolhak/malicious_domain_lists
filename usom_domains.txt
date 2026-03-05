@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-05T07:05:13.436559
+# Updated: 2026-03-05T08:05:13.968517
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -57458,6 +57458,7 @@ alphaxiom.com
 alphazero1-endscape.cc
 alphssleep.hopto.org
 alpineai.uk
+alpinelab.shop
 alpinreisan1.com
 alplog.net
 alpracticetery.top
@@ -57865,6 +57866,7 @@ alvarokey.ddns.net
 alvenissiz-harika.duckdns.org
 alverdur.com.tr
 alverhazir.xyz
+alverin.mom
 alverisfirsatin.net
 alverskolay.click
 alverzo.xyz
@@ -92487,6 +92489,7 @@ blackwealth001.duckdns.org
 blackwell.tekstar.us
 blackwhitcher.ddns.net
 blackwolfco.com/wp-config-ini.php
+blackztitle.cfd
 bladebone.top
 bladeconsiderablea.top
 bladehypocrisy.top
@@ -102409,6 +102412,7 @@ burasi.2kool4u.net
 burasibenim.xyz
 burasibimcelll.com
 burasidrkanteyeaitunutun-a3009fd535fd.herokuapp.com
+burasidrkanteyeaituuttr-aa38756b189b.herokuapp.com
 burasigibi-olana-kadar-gecirdik-bilinenleri.top
 burasiguncel-com.xyz
 burasiguncel.xyz
@@ -120783,6 +120787,7 @@ coyrty.buzz
 coyujgw.duckdns.org
 coz0zqd7.duckdns.org
 cozemezsinn.net
+cozhorizon.com
 cozicozi1.duckdns.org
 cozum-odakli-hizmetler-senin-icin.top
 cozumbursu.com
@@ -127579,6 +127584,7 @@ delidivaneolmusumfirsatlari.cfd
 delidolu.b-cdn.net
 delight-business-online.site
 delight.mv
+delightbox.gifts
 delightcaf.xyz
 delightclock.top
 delightfringe.top
@@ -165500,6 +165506,7 @@ evavillam.com
 evbasvuru.online
 evbasvuru.xyz
 evbasvuru1.duckdns.org
+evbasvuru2.duckdns.org
 evbasvurugovtr.cyou
 evbasvurugovtr.sbs
 evbasvurukurra.com
@@ -188582,6 +188589,7 @@ giftcampaignyousellerbride.cloud
 giftcardamazon.cf
 giftcardmall.beauty
 giftcardmall.today
+giftcenter.gifts
 giftcoinbase.com
 giftdays-simdikatil22.duckdns.org
 giftdaysbasvurusu.cloud
@@ -188592,6 +188600,7 @@ gifted-sammet.93-177-103-39.plesk.page
 gifteddetriment.top
 giftedperch.top
 giftemali.click
+giftgallery.gifts
 giftiosaqe.site
 giftloom.website
 giftmall.homes
@@ -207070,6 +207079,7 @@ headinginauguration.top
 headislem.22web.org
 headlinegenerator.app
 headlineurine.top
+headlineza.online
 headmasterillicit.top
 headmistressmindset.top
 headntale.com
@@ -227212,6 +227222,7 @@ ilan-odemelerim.com
 ilan-odemem.com
 ilan-odemesi-778667.com
 ilan-odemesi-778669.com
+ilan-onay-bilgi.online
 ilan-onay.com.tr
 ilan-onay.online
 ilan-online.net
@@ -246522,6 +246533,7 @@ jorimthk.xyz
 jorissnlo.com
 jorlixen.com
 jormdantwilio22.duckdns.org
+jornalis.sbs
 jornalismonobrasilem2017.com
 jornathic.shop
 jornelis.net
@@ -246611,6 +246623,7 @@ joycebyers.club
 joyclasses.eu
 joyddll.westooo.com
 joydphp.westooo.com
+joyfactory.gifts
 joyform.online
 joyfulblunder.top
 joyfullday.shop
@@ -274621,6 +274634,7 @@ magichere.icu
 magichniy-svit.com
 magicindignation.top
 magiclight05.top
+magicmoment.gifts
 magicofis.com
 magicoptic.net
 magicoptik.life
@@ -323635,6 +323649,7 @@ pixelia.shop
 pixelka.fun
 pixelkidhacks.hopto.org
 pixella.shop
+pixelmarrow.com
 pixelmator.pics
 pixelmator.us
 pixelnestr.store
@@ -367844,6 +367859,7 @@ sktrutx.com
 sktsltsksktsltklm.net
 skttxrdwucbw.conningstone.net
 skttxrdwucbw.hbmc.net
+skudarevon.com
 skulbntr.online
 skull247.cf
 skullisland.ml
@@ -398384,6 +398400,7 @@ trendbolster.top
 trendburasigelal.online
 trendcallcenter.com
 trendcosse.pw
+trendcurrent.online
 trenddofficial.com.co
 trenddyol.net
 trendeniz-cekilis.click
@@ -398403,6 +398420,7 @@ trendingnewsnow.online
 trendinmall.top
 trendinmall.xyz
 trendiwedfjatrndyolwiodawsk.ct.ws
+trendkiln.com
 trendkolik.site
 trendlerce.name.tr
 trendleriniz.club
@@ -409411,6 +409429,7 @@ urbansferret.com
 urbanstanderd.com
 urbantenniscontest.zapto.org
 urbantrailblaze.store
+urbanwear.sbs
 urbhhktprkdlbhp.cn
 urbhnpuaoo.duckdns.org
 urbulentpresumabl.top
@@ -436681,6 +436700,7 @@ wynnechecker.space
 wynqhguukhpo.space
 wynstrasa.online
 wynstrasas.su
+wynthira.asia
 wynthira.com
 wyodq.com
 wyoeapj.com
@@ -437453,6 +437473,7 @@ xeluvorin.com
 xelvadorgas.xyz
 xelvira.space
 xelvono.sbs
+xelvoren.asia
 xelycui.com
 xelzads.cyou
 xelzyskurum.cfd
