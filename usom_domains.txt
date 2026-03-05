@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-05T09:05:14.955712
+# Updated: 2026-03-05T10:05:15.393424
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -11836,6 +11836,7 @@
 193.142.59.105
 193.142.59.152
 193.142.59.169
+193.143.1.104
 193.143.1.139
 193.143.1.14
 193.143.1.153
@@ -11919,8 +11920,10 @@
 193.218.118.182
 193.218.118.85
 193.218.201.104
+193.221.200.222
 193.221.200.233
 193.221.200.93
+193.221.201.170
 193.222.96.10
 193.222.96.163
 193.228.53.0
@@ -23006,6 +23009,7 @@
 45.148.164.105
 45.148.244.5
 45.148.30.122
+45.149.145.160
 45.15.143.170
 45.15.143.189
 45.15.156.113
@@ -23655,7 +23659,10 @@
 45.91.24.73
 45.91.82.127
 45.92.163.138
+45.93.20.195
+45.93.20.198
 45.93.20.28
+45.93.20.61
 45.93.20.64
 45.93.201.114
 45.93.9.133
@@ -27614,6 +27621,7 @@
 62.149.210.9
 62.16.55.170
 62.162.58.40
+62.164.177.35
 62.164.177.48
 62.169.29.174
 62.171.152.105
@@ -33942,6 +33950,7 @@
 91.215.224.97
 91.215.40.30
 91.215.40.xn--22-2ca
+91.215.85.121
 91.215.85.183
 91.215.85.188
 91.217.137.37
@@ -98207,6 +98216,7 @@ bots.configbinbots.info
 bots.gxz.me
 botsc.autoupdate.xyz
 botscriptshop.com
+botshield.vu
 botslabturkiye.com
 botslabturkiye.online
 botsunuz.cfd
@@ -126626,6 +126636,7 @@ ddb450cf.duckdns.org
 ddbqms.top
 ddbrrolhec.duckdns.org
 ddchzii20.duckdns.org
+ddcklsadcdklcskdlascdas.cfd
 ddclaskcklasjasjcas.online
 ddcms.nl
 ddcsmj.top
@@ -142180,6 +142191,7 @@ drkantesizibacakomuzayapti-bf086f0c91d5.herokuapp.com
 drkantesiziciddenaglatir-c8ee3cf1dc51.herokuapp.com
 drkantesiziciddenaglatirrr-b203f9395d71.herokuapp.com
 drkantesiziciddeninletirrrrr-a62421a3b1b8.herokuapp.com
+drkantesiziciddeninnnletirrr-857fd06a7c45.herokuapp.com
 drkantesiziciddenseveramafena-cea43606495a.herokuapp.com
 drkantesiziciddenseverrrr-cb2e021fdc5b.herokuapp.com
 drkantesizicokseverrr-72a3e0083d69.herokuapp.com
@@ -267694,6 +267706,7 @@ ldgrlvewallat.webflow.io
 ldhqi4.fun
 ldipwmsiagjz.pw
 ldka.info
+ldkacsldkacdsdcacdsa.sbs
 ldkhmr.top
 ldkkerjhv.shop
 ldkkerwjhv.shop
@@ -276513,6 +276526,7 @@ malzemedolabi.com
 mam121.duckdns.org
 mama12544.zapto.org
 mamahona.zapto.org
+mamakbel.unaux.com
 mamakliyik.xyz
 mamamailer.top
 mamarita10005.ddns.net
