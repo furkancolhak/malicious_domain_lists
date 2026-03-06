@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-06T09:05:18.195154
+# Updated: 2026-03-06T10:05:19.967868
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -23778,6 +23778,7 @@
 4545544m.com
 45464564.site
 454645756734568743563456.blogspot.com
+45484548854548715.duckdns.org
 454863a547431.cloud
 454d71ry.duckdns.org
 454q79.duckdns.org
@@ -163042,6 +163043,7 @@ erceg.hopto.org
 erchgsm.com
 erchgsn.com
 ercole.zapto.org
+ercpnkryebl.com
 ercuc.com
 erczht.vewegyyttt1.website
 erd0.gdn
@@ -188618,6 +188620,7 @@ gideonitesprojects.com//db_template.php
 gideonitesprojects.com/db-config-ini.php
 gideonitesprojects.com/db_template.php
 gideonitesprojects.com/wp-config-ini.php
+giderekguzellesmesiadina.sbs
 giderken-yanina-urunu-alsana-buradan.com
 gideroadtr.com
 gidin-aldiniz-buradas-hep.store
@@ -287574,6 +287577,7 @@ mommyidiot.top
 mommyscramble.top
 mommyscrape.top
 momo5050.ddns.net
+momoail.weebly.com
 momoc.ddns.net
 momokmhizli.sbs
 momokmler.cfd
@@ -358005,6 +358009,7 @@ seeminglypredominant.top
 seeminglyrevengeful.top
 seeminglyvalve.top
 seemingradiant.top
+seemnail.weebly.com
 seemruush.com
 seemsynthesise.top
 seemtimid.top
@@ -404009,6 +404014,7 @@ turkiye.govtr.aidat-iade-birimi.ga
 turkiye.govtr.aidat-iade-birimi.gq
 turkiye.govtr.aidat-iade-birimi.ml
 turkiye.govtr.aidat-iade-birimi.tk
+turkiye.govtr.hrgebaeudereinigung.com
 turkiye.kyegov.dev
 turkiye.myvnc.com
 turkiye.pe.hu
