@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-06T13:05:19.684662
+# Updated: 2026-03-06T14:05:43.369307
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -36362,6 +36362,7 @@ a-101.yetisen-aliyor.com.tr
 a-101aldinaldin.shop
 a-101aldinaldingdf.com
 a-101birfirsatlari.me
+a-101co-mtr.cfd
 a-101cumartesix.com
 a-101dehemenindirim.net
 a-101deonlinemagaza.com
@@ -79236,6 +79237,7 @@ belgimonay.com
 belgimonay.net
 belgimonayi.com
 belgimonayin.xyz
+belgimonayis.net
 belgimportal.com
 belgimpratik.com
 belgium-myservice.ddns.net
@@ -193586,6 +193588,7 @@ grattis-indirimler.myvnc.com
 grattis-tr.ddnsguru.com
 grattis-tr.dynuddns.com
 grattis-turkiye.dynuddns.com
+grattis.7s.com.tr
 grattis.ddnsguru.com
 grattis.dyndns-at-work.com
 grattis.dynuddns.com
@@ -194286,6 +194289,7 @@ grntmobilpromosyn.bounceme.net
 grntnfisfrstlri.com
 grntprmsnynkmpnyaa.info
 grntprmsnynkmpnyaa.pro
+grntprmsynkmpnyaaa.info
 grntprmsynnnbsvrr.xyz
 grntprmsynnnkampanyasi.info
 grntprmsynnnkampanyasi.pro
@@ -262457,6 +262461,7 @@ kosgebkrediformu.com
 kosgebkredimerkezi.click
 kosgebkredinhazir.click
 kosgeble.mobi
+kosgebmerkezi.click
 kosgebprogramdestek.cfd
 kosgebyardim.com
 kosgebyenidestek.com
@@ -448963,7 +448968,6 @@ yenigunesvakfi.com
 yenihaafgaxftaninyildizlarri.site
 yenihaaftayamutlubasla.site
 yenihaber.giize.com
-yenihaberajansi.com
 yenihaberler.club
 yenihaberler.website
 yenihaberler25.com
