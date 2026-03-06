@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-06T12:05:15.201631
+# Updated: 2026-03-06T13:05:19.684662
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5112,6 +5112,7 @@
 121-psychic-reading.co.uk
 121.101.191.150
 121.122.68.243
+121.127.33.212
 121.14.17.168
 121.156.203.3
 121.160.102.68
@@ -6712,7 +6713,12 @@
 144.217.138.155
 144.217.174.57
 144.217.92.197
+144.31.123.157
+144.31.139.201
+144.31.139.203
 144.31.2.198
+144.31.204.136
+144.31.204.145
 144.31.221.179
 144.31.221.197
 144.48.241.167
@@ -7163,6 +7169,7 @@
 147.189.138.33
 147.189.161.184
 147.189.168.238
+147.45.197.92
 147.45.199.16
 147.45.199.38
 147.45.218.66
@@ -10502,6 +10509,7 @@
 185.196.9.76
 185.196.9.8
 185.196.9.89
+185.196.9.98
 185.197.248.131
 185.198.56.191
 185.198.69.36
@@ -11945,6 +11953,7 @@
 193.228.91.123
 193.23.181.151/help-desk/remote-assistant-service/postid.php
 193.23.181.151/ministerstvo-energetiki/seminars/2019/06/seminar.rtf
+193.23.211.29
 193.23.3.28
 193.232.228.7
 193.233.113.45
@@ -12254,6 +12263,7 @@
 194.26.232.180
 194.26.29.217
 194.26.29.44
+194.28.225.230
 194.31.55.131
 194.31.98.119
 194.31.98.124
@@ -15789,6 +15799,7 @@
 206.238.221.244
 206.238.221.25
 206.238.221.60
+206.245.157.177
 206.53.55.8
 206.71.148.78
 206.71.149.179
@@ -30351,6 +30362,8 @@
 77.236.130.107
 77.238.241.203
 77.238.245.11
+77.239.120.249
+77.239.121.3
 77.243.181.10
 77.243.181.238
 77.246.101.135
@@ -32155,6 +32168,7 @@
 84.200.80.252
 84.200.80.8
 84.200.81.239
+84.201.4.120
 84.209.52.11
 84.21.170.43
 84.21.189.20
@@ -34436,6 +34450,7 @@
 93.179.69.168
 93.183.106.94
 93.185.159.253
+93.185.159.90
 93.185.167.249
 93.188.163.62/.y
 93.188.163.62/snwrite
@@ -34718,6 +34733,7 @@
 94.199.173.6
 94.200.181.154
 94.224.82.40
+94.228.161.88
 94.228.166.22
 94.228.168.60
 94.228.169.123
@@ -79218,6 +79234,7 @@ belgimkurumsal.com
 belgimkurumsal.net
 belgimonay.com
 belgimonay.net
+belgimonayi.com
 belgimonayin.xyz
 belgimportal.com
 belgimpratik.com
@@ -141409,6 +141426,7 @@ dosyadenetim.org
 dosyaedevlet.com
 dosyaesorgu.com
 dosyaform.com
+dosyagoruntuleme.org
 dosyahakkindabilgi.com
 dosyahukuk.com
 dosyahukuku.com
@@ -190020,6 +190038,7 @@ giristrbnnrcnguncel.online
 giristrbnnronline.com
 giristrbnsrrbasvuru.com
 giristrbonus.cfd
+giristrbonus05032026.cfd
 giristrnbnncteknoloji.online
 giristronlineduyuru.com
 giristronlineduyuru.online
@@ -260256,6 +260275,7 @@ kmmethsrx.net
 kmmfgdjnmkfgdv.shop
 kmmgwgnety.duckdns.org
 kmmhasrraraba.com
+kmmkmsorgulamagobptthulya2.web.app
 kmmksorgulamafvemuzu.web.app
 kmmksorgulamagovpttyapomo.duckdns.org
 kmmksorgulamakremyattikkaya.duckdns.org
@@ -260770,6 +260790,7 @@ kmsorguzsyapalimburadancem.web.app
 kmsorguzuyaphtmngoszz.web.app
 kmsorlzsu.com
 kmsorptt-3591f3201846.herokuapp.com
+kmsoruglamayapanlardan.web.app
 kmsorugsaduas.online
 kmsorugszksyapvdf.vercel.app
 kmsoruguyaphemngovpttefpak.web.app
@@ -289551,6 +289572,7 @@ mtmtb0.duckdns.org
 mtmtbm.ddns.net
 mtmvodemegunu.com
 mtngucluasansor.com
+mtnsknaslmr.com
 mtoaksp.com
 mtodhlvkuj.duckdns.org
 mtodmevrod.net
@@ -315312,6 +315334,7 @@ palmfunplay.cn
 palmgo.at
 palmgorohive.myddns.me
 palmisultan.com
+palmiyesultan.best
 palmiyesultan.business
 palmon-law.co.il/wp-includes/widgets/connection.php
 palmpredominant.top
@@ -376271,6 +376294,7 @@ stanleytyrion.xyz
 stanleyultry.xyz
 stanleyupgraded.xyz
 stanleyuplift.xyz
+stanleyvaleron.xyz
 stanleyvarion.xyz
 stanleyvault.xyz
 stanleyvector.xyz
