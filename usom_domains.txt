@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-06T19:05:15.536230
+# Updated: 2026-03-06T20:05:16.089793
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -80452,6 +80452,7 @@ beyazitli.click
 beyazkirmizi.xyz
 beyazkoc.store
 beyazkoc.xyz
+beyazkoyunlar.cfd
 beyazlar.name.tr
 beyazsayfa.name.tr
 beyazsigorta.site
@@ -163310,6 +163311,7 @@ erkengelenyilbasisurprizleri2019.info
 erkengelenyilbasisurprizleri2019.net
 erkengelenyilbasisurprizleri2019.org
 erkengeleralirfirsatlari.online
+erkenmartflrsatlariyla.com
 erkenrezervasyonyapinizbize.net
 erkenyilbasikatilimkazanckampanyasifirsatindasimdi.cloud
 erkenyukle.blogspot.com
@@ -178128,6 +178130,7 @@ forst.loveslife.biz
 forstalk.com
 forstalk.org
 forstalk.web.tr
+forsun.yasuapanitanaik.cfd
 fortas.su
 fortatarres.com
 fortcarfilo.com
@@ -229267,6 +229270,7 @@ inat-tvi.sbs
 inatbox-guncelyayininiz.com
 inatbox-tv.store
 inatboxguncell.dev
+inatboxindirapk.com
 inatboxsupport.online
 inatbx-2.com
 inatlaboxx.com
@@ -259863,6 +259867,7 @@ klmetredeyizogreninbilginizi.cfd
 klmetrekmrlm.com
 klmhgsm.com
 klmhgss.com
+klmhlgmlfklfl.sbs
 klmltmrcm.net
 klmmsc.com
 klmnnilmahlkcje.top
@@ -454441,6 +454446,8 @@ yyibozbcrt.duckdns.org
 yyklegezz.net
 yyknppgkof.duckdns.org
 yykyhdsyav.duckdns.org
+yylcskdlcasldksacdcad.cfd
+yylcskdlcasldksacdcad.sbs
 yym92wa.duckdns.org
 yymajtfcnhohgcm.cn
 yymmtdyzeh.duckdns.org
