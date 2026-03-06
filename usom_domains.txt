@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-06T10:05:19.967868
+# Updated: 2026-03-06T11:05:25.594259
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3887,6 +3887,7 @@
 107.170.198.33
 107.170.215.53
 107.170.35.225
+107.170.8.12
 107.172.0.161
 107.172.13.149
 107.172.165.149
@@ -6473,6 +6474,7 @@
 142.93.233.195
 142.93.24.154
 142.93.24.154/vb
+142.93.249.52
 142.93.252.188
 142.93.50.216
 142.93.50.9/bins
@@ -7653,6 +7655,7 @@
 154.204.27.181
 154.204.42.103
 154.205.139.223
+154.205.154.82
 154.206.236.9
 154.209.145.200
 154.211.14.66
@@ -10479,6 +10482,8 @@
 185.195.236.230
 185.196.10.116
 185.196.10.19
+185.196.10.247
+185.196.10.38
 185.196.11.124
 185.196.11.153
 185.196.11.177
@@ -15798,6 +15803,8 @@
 207.148.100.49
 207.148.110.212
 207.148.118.221
+207.148.120.52
+207.148.121.95
 207.148.248.145
 207.148.69.74
 207.148.70.25
@@ -16298,6 +16305,7 @@
 212.103.208.182
 212.103.58.53
 212.103.61.74
+212.11.64.105
 212.11.64.215
 212.11.64.250
 212.113.106.118
@@ -23227,6 +23235,7 @@
 45.251.241.12
 45.32.101.191
 45.32.101.7
+45.32.106.94
 45.32.108.54
 45.32.110.28
 45.32.112.68
@@ -23464,6 +23473,7 @@
 45.77.28.124
 45.77.31.97
 45.77.36.243
+45.77.41.141
 45.77.41.49
 45.77.5.196
 45.77.53.160
@@ -93367,6 +93377,7 @@ bloomprerequisite.top
 bloomridge.site
 bloomwarden.com
 bloomwpp.info
+bloopencil.net
 blooper.today
 bloorco.com/vendor/jquery/connection.php
 blopsadmvdrl.com
@@ -102462,6 +102473,7 @@ burasdims.cfd
 burasi.2kool4u.net
 burasibenim.xyz
 burasibimcelll.com
+burasidrkanteyeaitunutdedimm-f2af853431eb.herokuapp.com
 burasidrkanteyeaitunutun-a3009fd535fd.herokuapp.com
 burasidrkanteyeaituuttr-aa38756b189b.herokuapp.com
 burasigibi-olana-kadar-gecirdik-bilinenleri.top
@@ -187167,6 +187179,7 @@ geriyedonukislem.com
 geriyedonukislemler.com
 geriyedonuksorgulamahizmeti.cfd
 geriyedonukyonlendirmeaktarimiletisim.site
+geriyeveeskiyedonuk-sorupogren.sbs
 geriynlendirmeekranionline.site
 geriyonlendirmeveaktarim.site
 german-banks.net
@@ -197798,6 +197811,7 @@ guvenndee.com.tr
 guvennlibakis.com
 guvennlimerkez.com
 guvennliodeme.online
+guvennliplatform.com
 guvenodeguvenleteslimal.com.tr
 guvenodeinfo.com
 guvenodeme.com
@@ -216194,6 +216208,7 @@ hizlihizlibilgiler.com
 hizlihizligec.sg-host.com
 hizlihizlim.sg-host.com
 hizlihizliyuklemeler.sg-host.com
+hizlihizmet.online
 hizlihizmetekrani.site
 hizlihizmetgirisi-basvurmamerkezi.com
 hizlihizmetin.app
@@ -370364,6 +370379,7 @@ soksanalmarket.site
 soksanalmarketindirim.site
 soksanalmarkets.com
 sokseherbur.o000x1x11.workers.dev
+soksepet.com
 soksepet.xyz
 sokseviyoruz.online
 soksokdaucuz.biz.tr
@@ -403387,6 +403403,7 @@ turkiiyekapisi.com
 turkiletisim.org
 turkindustrials.com
 turkinv.site
+turkipayfeesgov.hosted.phplist.com
 turkisb.com
 turkisbank-yapikred.com
 turkisbank.com
@@ -437428,6 +437445,7 @@ xchodiv.com
 xchomelesgoerg.xyz
 xchwqtktsi.duckdns.org
 xciahessea.info
+xcit76.com
 xciy.net
 xcjbzyoub.com
 xcjidjssr.duckdns.org
@@ -443051,6 +443069,7 @@ xtgglfx.duckdns.org
 xth5erx.duckdns.org
 xthjwscwtu.duckdns.org
 xthome.ddns.net
+xtibh.com
 xtjgebwtpd.duckdns.org
 xtlljy.duckdns.org
 xtlyuklemex.com
