@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-07T13:05:14.278160
+# Updated: 2026-03-07T14:05:13.702297
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -106935,6 +106935,7 @@ carefursadanszlere.com
 carefursamarketinde.cfd
 carefursamarketnde.cfd
 carefursanda.cfd
+carefursandna.cfd
 caregiverskunbilof.zapto.org
 careglmz.2kool4u.net
 caregroup.co.za//db_template.php
@@ -229299,6 +229300,7 @@ inatbox-guncelyayininiz.com
 inatbox-tv.store
 inatboxguncell.dev
 inatboxindirapk.com
+inatboxindirapkk.com
 inatboxsupport.online
 inatbx-2.com
 inatlaboxx.com
@@ -252414,6 +252416,7 @@ kapida-hafta-siparis.com.tr
 kapida-haftalikx.com.tr
 kapida-haftax.com
 kapida-haftax.com.tr
+kapida-helloix.cyou
 kapida-k9q2x7mw.sbs
 kapida-link.com.tr
 kapida-linkora.bond
@@ -306393,6 +306396,7 @@ onlie-aktarma-veyonlendir.qpon
 onlieaidatsstemi.xyz
 onlieaktarimekranin.site
 onliekiralikarac.com
+onliekstaynida.online
 onlieyonsorgu.cfd
 onliine-firssatlar-yenni.online
 onliine-islem.net
@@ -326488,6 +326492,7 @@ pp-transaktion-de.info
 pp-transaktion.info
 pp-werbu.com
 pp.fcloudshare.xyz
+pp112-224xsdsed.duckdns.org
 pp11j0w6vrslvqofhrzguk.com
 pp1a9jmo.duckdns.org
 pp5w0uye.duckdns.org
@@ -423733,6 +423738,7 @@ web-bbva-tr-sa.click
 web-bbva.my-homeip.net
 web-bedavainternetbasvuru.com
 web-belbis.com
+web-belbiss.com
 web-bella.com
 web-bilgilerimiadeler-edevlet.com
 web-binance.net
