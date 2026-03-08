@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-08T14:05:14.915778
+# Updated: 2026-03-08T15:05:15.175689
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -19905,6 +19905,7 @@
 32563362322515556.com
 32563362322515756.com
 325656253234.click
+325723fdsbnke.com
 3257358311345.com
 3257593257.cloud
 32583362322515756.com
@@ -252443,6 +252444,7 @@ kapida-astryn.cfd
 kapida-bindly.bond
 kapida-bondify.bond
 kapida-byrm-eksstraa.com
+kapida-bysidea.sbs
 kapida-ca3bn4-inds3ml4r.cfd
 kapida-closeby.sbs
 kapida-connecta.cyou
@@ -252514,6 +252516,7 @@ kapida-x9q72mka.cfd
 kapida-xn.com.tr
 kapida-youtrix.cyou
 kapida-youvia.cyou
+kapida-zenlora.cfd
 kapida-zenorix.cfd
 kapida.mobi
 kapida1-0-1.store
@@ -261345,6 +261348,7 @@ kobiler-paraf-halk.com
 kobilerdestekplatformu.cfd
 kobilerekredi.com
 kobileremujde.com
+kobimerkez.com
 kobimerkezformu.click
 kobimerkezi.click
 kobinet.my-homeip.com
@@ -293985,6 +293989,7 @@ naktak-frsst.net.tr
 naktak-seninle.xyz
 naktimakdabukis.xyz
 naktiucretdestek2021.xyz
+naktklnaklalkmama.online
 naktl-gund.gen.tr
 naktnaksdlnaltasfa.net
 naktro-aidt.net
@@ -369368,6 +369373,7 @@ snkzbrdnglqwe.bond
 snkzbrdsznlehk.shop
 snkzbrygldkbd.bond
 snkzbryrgldkbd.bond
+snkzlerdensenk.org
 snkzordanlrdasns.bond
 snkzvrolrazdasdas.club
 snldbrdnaldsndalbnc.mooo.com
@@ -389190,6 +389196,7 @@ testmanagementapi1.azurewebsites.net
 testmanagementapis.azurewebsites.net
 testmanagementapisjson.azurewebsites.net
 testmeu.hopto.org
+testmytemper.com
 testnanocore.ddns.net
 testnetwork123.ddns.net
 testoata.net
@@ -426206,6 +426213,7 @@ webte-belbis.com
 webte-finansbank.com
 webte-giris.com
 webte-subecilik.com
+webte-yukle.org
 webteb-2019basvurutr.com
 webteb-basvurtr.com
 webteb-basvurutr.com
@@ -446529,6 +446537,7 @@ yapilkredim2021.com
 yapim-2025basvurularibasladiaktif.vercel.app
 yapim-cepteonaylibasvurularim.vercel.app
 yapim-duyuru-tr.com
+yapimarket.sbs
 yapimbireyselsubem.com
 yapimbl.com.tr
 yapimdavar.duckdns.org
