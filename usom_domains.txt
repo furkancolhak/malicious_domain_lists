@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-09T21:05:15.360085
+# Updated: 2026-03-09T22:05:14.519946
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1975,6 +1975,7 @@
 101-bugun-firsatkapinda.com
 101-bugun.shop-mobil-tr.com
 101-bugune-ozel-mobil-tr.online-shop-tr.com
+101-bugune-ozel-ramazan-firsatlari-tr.mooo.com
 101-bugune-ozel-ramazan-indirimleri-tr.mooo.com
 101-cadir26temmuz.com
 101-cepte.com.tr
@@ -68286,6 +68287,7 @@ aviscarrent.bireysel-kiralama.xyz
 aviscarrent.com.tr
 aviscarrent.kiralamaonlinee.com.tr
 aviscarskiralama.com
+avischauffeur.optilian.net
 aviscomtr.com
 avisde.com.tr
 avisdekampanya.com
@@ -76286,6 +76288,7 @@ basvuruugrnnkampanyaaa.pro
 basvuruugrntttkmonya.art
 basvuruugrntttkmonya.info
 basvuruugrntttkmpnnya.art
+basvuruugrntttkmpnnya.info
 basvuruugrntttkmpnnya.pro
 basvuruugrntttkmpnnya.xyz
 basvuruuilktokevim.art
@@ -260074,6 +260077,7 @@ klmsader-balmsask-asklmsad.cfd
 klmsader-balmsask-asklmsad.cyou
 klmsader-balmsask-asklmsad.icu
 klmsader-balmsask-asklmsad.sbs
+klmsgkrlgksmdl.sbs
 klmsorf-b0334e29039e.herokuapp.com
 klmsorglymaayapalimpttgsgv.com
 klmsorguala.duckdns.org
@@ -324832,6 +324836,7 @@ pljfftutpo.duckdns.org
 pljgdcrnkj.duckdns.org
 pljgedrnkg.duckdns.org
 pljhdaxmif.duckdns.org
+pljszjkiw.cfd
 pljvwxdgdl.duckdns.org
 plkbskowxoxy.xyz
 plkes-secure.site
@@ -337185,6 +337190,7 @@ qnbpromosynlarla.vercel.app
 qnbpromosyon25.click
 qnbpromosyonburda.biz
 qnbpromosyonburda.click
+qnbpromosyonburda.club
 qnbpromosyonislemleri.xyz
 qnbpromosyonn.vercel.app
 qnbpromosyonnm.vercel.app
@@ -339157,6 +339163,7 @@ ramazanaozel.com
 ramazanaozel.my-homeip.net
 ramazanaozel.online
 ramazanaozel.tk
+ramazanaozela101.duckdns.org
 ramazanaozela1o1indirimleri.online
 ramazanaozelbasvur.com.tr
 ramazanaozelbasvur.online
@@ -362032,6 +362039,7 @@ sfcyurnkyy.duckdns.org
 sfd.mabpex.shop
 sfdadsl03.ddns.net
 sfdcgjahdfjadfjgsdfkmghadfjsd.com
+sfdfsafdasdasdadsad.sbs
 sfdgfdgdsfgs.click
 sfdgfhjgdet.duckdns.org
 sfdghs925rns.org
@@ -369429,6 +369437,7 @@ snde-hemenbasvurbizekatilkmpanyasi.com
 snde-hemenbasvurkmpanyasiburada.com
 snde-hmnbasvrkmpnyasinagl.com
 snde-kznmakistiyorsanhmnkatil.com
+sndebrdabnuymlsn.mooo.com
 sndebsvur.site
 sndebuguneozelkatilhemen.tech
 sndefirsatkazankatil-buayaozel.cloud
@@ -376531,6 +376540,7 @@ stanleyizeltas1749.me
 stanleykafayiasti.xyz
 stanleykampanyam.store
 stanleykrty.xyz
+stanleykrylex.xyz
 stanleykyron.xyz
 stanleylabs.xyz
 stanleylegendaryfirsatlarlaaa.techsolve.cfd
@@ -378160,6 +378170,7 @@ style.ptbagasps.co.id
 style1.co.kr/main/view.asp
 style80.zapto.org
 stylebarberly.com
+stylebourg.com
 styleco.me
 stylehibernation.top
 styleinjection.top
@@ -428440,6 +428451,7 @@ wiperehabilitation.top
 wiphqhflzb.duckdns.org
 wipikedia.xyz
 wipresolutions.com
+wiqkowwq.cfd
 wiqp.xyz
 wiqrj494.com
 wiqrt82.tictra.pw
