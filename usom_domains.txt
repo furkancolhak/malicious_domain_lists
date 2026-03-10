@@ -1,5 +1,5 @@
 # USOM Blacklist
-# Updated: 2026-03-10T11:05:14.329427
+# Updated: 2026-03-10T12:05:14.494938
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -40908,6 +40908,7 @@ accesso-ai-media.fly.storage.tigris.dev
 accesso-mps.com
 accessonlinemobile.ddns.net
 accessopendocuments.hopto.org
+accessor.fud2026.com
 accessor.pages.dev
 accesspage.ddns.net
 accessprojectfile.zapto.org
@@ -62071,6 +62072,8 @@ apt-apt.cfd
 apt-g-r-n-l-r.myonlineportal.ch
 apt40.ddns.net
 apt5-secure3-state.com
+aptabase.fud2026.com
+aptabase.khwdji319.xyz
 aptalikyapmadostummm.site
 aptalsdwsadsc.net
 aptappendix.top
@@ -79431,6 +79434,7 @@ bemifktxbqqp.bid
 bemsad.blogspot.com
 bemuzzeki.sbs
 bemzsiparis.online
+ben-garipbir-avareyim-care-bulan-siseden.com
 ben-trdestegimsorgularim.net
 benaliosman.sa.com
 benalmasambaskasialacalan.shop
@@ -100406,6 +100410,7 @@ bszotsjovih.com
 bszrxlgfw.duckdns.org
 bt-cll.com
 bt-kassa.com
+bt-mob.net
 bt-tickets.com
 bt12cv7l4.duckdns.org
 bt2-sorgulama.blogspot.com
@@ -100804,6 +100809,7 @@ btmeyennsrguuu.blogspot.com
 btmi.blogspot.com
 btmkussai.net
 btmmcelpersembe.com
+btmob.xyz
 btnnce.nl
 btntmyyk.duckdns.org
 btnuulfvovpl.org
@@ -102587,6 +102593,7 @@ burasibimcelll.com
 burasidrkanteyeaitunutdedimm-f2af853431eb.herokuapp.com
 burasidrkanteyeaitunutun-a3009fd535fd.herokuapp.com
 burasidrkanteyeaituuttr-aa38756b189b.herokuapp.com
+burasidrkanteyeaituzadedim-e63d0d05b368.herokuapp.com
 burasidrkanteyeaituzayin-d26b874ac3bb.herokuapp.com
 burasigibi-olana-kadar-gecirdik-bilinenleri.top
 burasiguncel-com.xyz
@@ -124028,6 +124035,7 @@ cupfaser.site
 cupiditate-dignissimos.com
 cupidon.zapto.org
 cupofhockey.com
+cupomgratisfood.shop
 cupomkinghost.com.br
 cuponomia.com.br
 cuponos.com
@@ -224534,6 +224542,7 @@ iancullen.co.za/db-config-ini.php
 iancullen.co.za/db_template.php
 ianmaclaod.com
 iaoh1h4p.duckdns.org
+iaopqoopapaa.blogspot.com
 iappleblog.com
 iappleblog.net
 iaqa.life
@@ -239441,6 +239450,7 @@ istanbulotomat.org
 istanbulout.net
 istanbulpadisahi.net
 istanbulpangoo.net
+istanbulparcaes.shop
 istanbulparlakhalis.shop
 istanbulpazargunu.net
 istanbulpazartesiye.site
@@ -313753,6 +313763,7 @@ oxigyz.ddns.net
 oximpetus.top
 oxj3tq4.duckdns.org
 oxjfssrzpx.duckdns.org
+oxkasl.help
 oxlixnexalsxvrs-nxbludk-pmhqe-xyt.click
 oxlop.com
 oxmrkib.com
@@ -325708,8 +325719,10 @@ poodwdw.click
 poohead2.ddns.net
 pook.mywire.org
 pook.zapto.org
+pool-proxy.fud2026.com
 pool.bmwebm.org
 pool.breakfastidentity.ru
+pool.fud2026.com
 pool.rawdot.net
 pooldiaz14.duckdns.org
 pooleandpheasant.com
